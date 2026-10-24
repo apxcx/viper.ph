@@ -8,4 +8,4 @@
 - [x] Provide accessible navigation, a mobile menu toggle, a newsletter callout, and meaningful footer links without claiming a real submission backend.
 - [x] Serve a synchronized `/manus-routes.json` route manifest and include crawler-visible page content and metadata.
 - [x] Verify diagnostics, production build, route manifest, and responsive preview rendering.
-- [x] Push the completed project to the requested `viper.ph` GitHub repository through the managed GitHub connection workflow.
+- [x] Push the completed project to the requested `apxcx/viper.ph` GitHub repository through the authenticated GitHub connection.
