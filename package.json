@@ -16,5 +16,9 @@
     "astro": "5.18.2",
     "tailwindcss": "latest",
     "typescript": "6.0.3"
+  },
+  "devDependencies": {
+    "@astrojs/cloudflare": "12.6.13",
+    "wrangler": "4.59.2"
   }
 }
