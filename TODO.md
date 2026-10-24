@@ -1,0 +1,11 @@
+# Viper — Journal implementation
+
+- [ ] Build a simple dark-mode blog landing page titled “Viper — Journal” using Astro and Tailwind CSS.
+  - The page presents a clear journal header and introductory branding.
+  - The visual treatment is cohesive, dark, editorial, restrained, and responsive.
+  - The page is usable on both mobile and desktop screens.
+- [ ] Include three dummy article previews with titles, excerpts, categories, dates, reading times, and clear reading actions.
+- [ ] Provide accessible navigation, a mobile menu toggle, a newsletter callout, and meaningful footer links without claiming a real submission backend.
+- [ ] Serve a synchronized `/manus-routes.json` route manifest and include crawler-visible page content and metadata.
+- [ ] Verify diagnostics, production build, route manifest, and responsive preview rendering.
+- [ ] Push the completed project to the requested `viper.ph` GitHub repository through the managed GitHub connection workflow.

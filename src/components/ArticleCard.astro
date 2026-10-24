@@ -1,0 +1,29 @@
+---
+import type { Article } from '../data/articles';
+
+interface Props {
+  article: Article;
+}
+
+const { article } = Astro.props;
+---
+
+<article class="article-card reveal">
+  <a class="article-card__visual" href="#article-details" aria-label={`Read ${article.title}`}>
+    <div class={`article-card__art bg-gradient-to-br ${article.accent} ${article.texture}`} aria-hidden="true">
+      <span class="article-card__index">{article.index}</span>
+      <span class="article-card__orb"></span>
+      <span class="article-card__line"></span>
+    </div>
+    <span class="article-card__arrow" aria-hidden="true">↗</span>
+  </a>
+  <div class="article-card__body">
+    <div class="article-card__meta">
+      <span>{article.category}</span>
+      <span>{article.readTime}</span>
+    </div>
+    <h3><a href="#article-details">{article.title}</a></h3>
+    <p>{article.excerpt}</p>
+    <div class="article-card__date">{article.date}</div>
+  </div>
+</article>
