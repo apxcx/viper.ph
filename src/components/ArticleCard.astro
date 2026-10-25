@@ -20,7 +20,6 @@ const { article, featured = false, compact = false } = Astro.props;
       <span>{article.date}</span><span>{article.time}</span>
     </div>
     <h2><a href={article.href}>{article.title}</a></h2>
-    {!compact && <p>{article.excerpt}</p>}
     <a class="news-card__category" href={`#${article.category.toLowerCase().replaceAll(' ', '-')}`}>{article.category}</a>
   </div>
 </article>

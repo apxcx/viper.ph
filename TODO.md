@@ -15,3 +15,4 @@
 - [x] Add a horizontal first-name and email newsletter form directly below the header.
   - Form submissions post to the server-side `/api/subscribe` route without exposing MailerLite credentials in the browser.
 - [ ] Add `MAILERLITE_API_TOKEN` and `MAILERLITE_GROUP_ID` to the Cloudflare Worker environment so production subscriptions are delivered to MailerLite.
+- [x] Set the site background to `#14171c`, use `#0000ff` for buttons and highlights, give every article title an accent-color background, remove article excerpts, and change the H1 to “The Daily Pulse of Philippine Tech”.
