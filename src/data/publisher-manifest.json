@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-10-26/06:00",
+      "idempotency_key": "2026-10-26/06:00",
+      "day": "2026-10-26",
+      "slot": "06:00",
+      "slug": "philsa-warns-long-march-8a-debris",
+      "title": "PhilSA Warns After Long March 8A Launch",
+      "status": "ready",
+      "managed": true,
+      "categories": [
+        "PH Tech"
+      ],
+      "source_count": 3,
+      "body_image_count": 4,
+      "content_sha256": "36736745bd6100e86dabec0aa93524e5385f69d53a27df0d83b4516b8578c33c"
+    },
+    {
       "slot_key": "2026-10-25/10:00",
       "idempotency_key": "2026-10-25/10:00",
       "day": "2026-10-25",
@@ -3471,6 +3487,13 @@
     }
   ],
   "days": {
+    "2026-10-26": {
+      "2026-10-26/06:00": {
+        "slug": "philsa-warns-long-march-8a-debris",
+        "status": "ready",
+        "managed": true
+      }
+    },
     "2026-10-25": {
       "2026-10-25/10:00": {
         "slug": "uk-commits-800-million-ai-security",

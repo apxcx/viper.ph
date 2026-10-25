@@ -1,5 +1,31 @@
 [
   {
+    "slug": "philsa-warns-long-march-8a-debris",
+    "title": "PhilSA Warns After Long March 8A Launch",
+    "date": "2026-10-26T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper.ph Editorial",
+    "categories": [
+      "PH Tech"
+    ],
+    "tags": [
+      "Philippine Space Agency",
+      "space technology",
+      "rocket debris",
+      "Long March 8A"
+    ],
+    "imageKey": "articles/2026/10/philsa-warns-long-march-8a-debris/featured.jpg",
+    "image": "https://viper.ph/api/media/articles/2026/10/philsa-warns-long-march-8a-debris/featured.jpg",
+    "imageAlt": "Philippine Space Agency advisory graphic about the Long March 8A rocket launch and debris drop zones",
+    "imageWidth": 1200,
+    "imageHeight": 675,
+    "sourceUrl": "https://viper.ph/philsa-warns-long-march-8a-debris/",
+    "description": "PhilSA says China’s Long March 8A launch created debris zones in Philippine waters, prompting safety warnings for ships, aircraft, and coastal communities.",
+    "bodySha256": "36736745bd6100e86dabec0aa93524e5385f69d53a27df0d83b4516b8578c33c",
+    "publisherStatus": "ready",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "uk-commits-800-million-ai-security",
     "title": "UK Commits $800M to AI Security",
     "date": "2026-10-25T10:00:00",

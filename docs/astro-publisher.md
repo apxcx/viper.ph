@@ -76,16 +76,18 @@ pnpm publisher:manifest
 pnpm publisher:routes
 ```
 
-Validate every ready article, source link, R2 URL, rights-cleared image record, paragraph word count, image order, and approximately 16:9 dimensions. `--network` fetches every ready image and verifies the returned bytes and dimensions:
+Validate every ready article, source link, R2 URL, rights-cleared image record, paragraph word count, image order, and approximately 16:9 dimensions. The default check is local and runs before a commit. `publisher:check:network` fetches every ready image through the public Worker endpoint after the matching deployment is live:
 
 ```bash
 pnpm publisher:check
+pnpm publisher:check:network # after the Cloudflare deployment is serving the new index
 ```
 
-Install a ready Markdown file idempotently by slug and slot. The command also rebuilds the index and manifest and performs network image validation:
+Install a ready Markdown file idempotently by slug and slot. The command also rebuilds the index and manifest and performs the local contract check. Use `--network` only when the public Worker already serves the new R2 allowlist:
 
 ```bash
 pnpm publisher:publish -- /absolute/path/to/article.md
+pnpm publisher:publish -- --network /absolute/path/to/article.md
 # Same slug, intentionally revised body:
 pnpm publisher:publish -- --replace /absolute/path/to/article.md
 ```

@@ -20,6 +20,7 @@ FRONTMATTER = re.compile(r'\A---\r?\n(.*?)\r?\n---\r?\n(.*)\Z', re.S)
 parser = argparse.ArgumentParser()
 parser.add_argument('article', type=Path)
 parser.add_argument('--replace', action='store_true', help='Replace the same slug only when its slot remains unchanged')
+parser.add_argument('--network', action='store_true', help='Also fetch public viper.ph image URLs after the local contract check')
 args = parser.parse_args()
 
 source = args.article.resolve()
@@ -58,5 +59,8 @@ if destination.exists():
 shutil.copyfile(source, destination)
 for script in ('build-publisher-index.py', 'generate-publisher-manifest.py', 'refresh-public-routes.py'):
     subprocess.run([sys.executable, str(PROJECT / 'scripts' / script)], check=True)
-subprocess.run([sys.executable, str(PROJECT / 'scripts' / 'validate-astro-publisher.py'), '--only', slug, '--network'], check=True)
+validation = [sys.executable, str(PROJECT / 'scripts' / 'validate-astro-publisher.py'), '--only', slug]
+if args.network:
+    validation.append('--network')
+subprocess.run(validation, check=True)
 print(f'Installed {slug} at {destination.relative_to(PROJECT)} with idempotency key {slot_key}.')

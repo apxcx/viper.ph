@@ -67,3 +67,4 @@
   - Require exactly four 80–110-word paragraphs, each immediately followed by one relevant rights-cleared image, with source links and deterministic R2-backed public URLs.
 - [x] Add deterministic publisher indexing, duplicate/slot checks, idempotent slug/slot writes, R2 image validation, and the Astro check/build/push command documentation.
   - Preserve the existing 216 migrated articles as legacy provenance and do not force them through the new four-paragraph contract.
+- [x] Complete the 2026-10-26 06:00 Asia/Manila controlled Astro publisher run with one distinct PH Tech story, deterministic R2 assets, a daily slot manifest entry, local content validation, Astro build, and Cloudflare dry-run.

@@ -12,7 +12,8 @@
     "publisher:index": "python3 scripts/build-publisher-index.py",
     "publisher:manifest": "python3 scripts/generate-publisher-manifest.py",
     "publisher:routes": "python3 scripts/refresh-public-routes.py",
-    "publisher:check": "python3 scripts/validate-astro-publisher.py --network",
+    "publisher:check": "python3 scripts/validate-astro-publisher.py",
+    "publisher:check:network": "python3 scripts/validate-astro-publisher.py --network",
     "publisher:prepare": "pnpm publisher:index && pnpm publisher:manifest && pnpm publisher:routes && pnpm publisher:check",
     "publisher:publish": "python3 scripts/publish-astro-article.py"
   },
