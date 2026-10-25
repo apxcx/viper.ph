@@ -29,3 +29,6 @@
 - [x] Create separate category pages for Tech News, AI, Electric Vehicles, and Fintech and Banking Tech, link them from the header navigation, and give each page a three-story latest-news hero in the homepage layout.
   - Render the remaining articles as a horizontal thumbnail/title/date list matching the supplied category reference.
   - Place the first migrated batch under Tech News with preserved slugs and featured-image references.
+- [x] Import every currently published article in AI, Electric Vehicles, and Fintech and Banking Tech.
+  - Preserve original slugs, article content, available SEO metadata, category assignments, and featured-image relationships.
+  - Exclude inline content images from this batch and upload each featured image to the media R2 bucket.
