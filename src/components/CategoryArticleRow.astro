@@ -1,11 +1,12 @@
 ---
 import type { Article } from '../data/articles';
+import { migratedStory } from '../data/posts';
 
 interface Props {
   article: Article;
 }
 
-const { article } = Astro.props;
+const article = migratedStory(Astro.props.article);
 ---
 
 <article class="category-row">

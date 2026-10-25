@@ -4,26 +4,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import BriefingSidebar from '../components/BriefingSidebar.astro';
 import ArticleCard from '../components/ArticleCard.astro';
-import { leadStories, latestStories } from '../data/articles';
-
-interface ArticleFrontmatter {
-  title: string;
-  slug: string;
-  date: string;
-  modified?: string;
-  author?: string;
-  categories?: string[];
-  seo_title?: string;
-  seo_description?: string;
-  seo_robots?: string;
-  og_title?: string;
-  og_description?: string;
-  canonical_url?: string;
-  featured_image_preview: string;
-  featured_image_alt?: string;
-  featured_image_width?: number;
-  featured_image_height?: number;
-}
+import { manilaDate, relatedPosts, postsBySlug, type ArticleFrontmatter } from '../data/posts';
 
 interface Props {
   frontmatter: ArticleFrontmatter;
@@ -36,13 +17,23 @@ const categorySlugs: Record<string, string> = {
   'Electric Vehicles': 'electric-vehicles',
   AI: 'ai',
   'Fintech and Banking Tech': 'fintech-banking-tech',
+  Products: 'products',
+  'E-Commerce': 'e-commerce',
+  'Telcos and Internet': 'telcos-and-internet',
+  Auto: 'auto',
 };
 const categoryHref = `/category/${categorySlugs[category] ?? 'tech-news'}/`;
 const canonical = frontmatter.canonical_url ?? `https://viper.ph/${frontmatter.slug}/`;
-const socialImage = new URL(frontmatter.featured_image_preview, 'https://viper.ph').href;
-const published = new Date(`${frontmatter.date}+08:00`);
+const image = `/api/media/${frontmatter.featured_image_key}`;
+const imageAlt = frontmatter.featured_image_alt?.trim() || frontmatter.title;
+const socialImage = new URL(image, 'https://viper.ph').href;
+const importedPost = postsBySlug.get(frontmatter.slug);
+const validSeoText = (value?: string) => value && !/^(one moment|just a moment|attention required|checking your browser)/i.test(value) ? value : undefined;
+const seoTitle = validSeoText(frontmatter.seo_title) ?? `${frontmatter.title} | Viper.ph`;
+const description = validSeoText(frontmatter.seo_description) ?? importedPost?.description;
+const published = manilaDate(frontmatter.date);
 const publishedAt = published.toISOString();
-const modifiedAt = frontmatter.modified ? new Date(`${frontmatter.modified}+08:00`).toISOString() : undefined;
+const modifiedAt = frontmatter.modified ? manilaDate(frontmatter.modified).toISOString() : undefined;
 const displayDate = new Intl.DateTimeFormat('en-PH', {
   day: 'numeric',
   month: 'long',
@@ -55,18 +46,18 @@ const displayTime = new Intl.DateTimeFormat('en-PH', {
   hour12: true,
   timeZone: 'Asia/Manila',
 }).format(published);
-const relatedStories = [leadStories[1], latestStories[0], leadStories[2]];
+const relatedStories = relatedPosts(frontmatter.slug);
 ---
 
 <BaseLayout
-  title={frontmatter.seo_title ?? frontmatter.title}
-  description={frontmatter.seo_description}
+  title={seoTitle}
+  description={description}
   canonical={canonical}
   ogType="article"
-  ogTitle={frontmatter.og_title ?? frontmatter.seo_title ?? frontmatter.title}
-  ogDescription={frontmatter.og_description ?? frontmatter.seo_description}
+  ogTitle={validSeoText(frontmatter.og_title) ?? seoTitle}
+  ogDescription={validSeoText(frontmatter.og_description) ?? description}
   ogImage={socialImage}
-  ogImageAlt={frontmatter.featured_image_alt ?? frontmatter.title}
+  ogImageAlt={imageAlt}
   author={frontmatter.author}
   robots={frontmatter.seo_robots}
   publishedTime={publishedAt}
@@ -85,7 +76,7 @@ const relatedStories = [leadStories[1], latestStories[0], leadStories[2]];
       <header class="article-header section-frame">
         <div class="article-header__category"><a href={categoryHref}>{category}</a><span aria-hidden="true"> / FEATURE</span></div>
         <h1>{frontmatter.title}</h1>
-        {frontmatter.seo_description && <p class="article-header__dek">{frontmatter.seo_description}</p>}
+        {description && <p class="article-header__dek">{description}</p>}
         <div class="article-header__meta">
           <span>By {frontmatter.author ?? 'Viper Editorial Team'}</span>
           <time datetime={publishedAt}>{displayDate}</time>
@@ -97,8 +88,8 @@ const relatedStories = [leadStories[1], latestStories[0], leadStories[2]];
         <div class="article-main-column">
           <figure class="article-cover">
             <img
-              src={frontmatter.featured_image_preview}
-              alt={frontmatter.featured_image_alt ?? frontmatter.title}
+              src={image}
+              alt={imageAlt}
               width={frontmatter.featured_image_width}
               height={frontmatter.featured_image_height}
               loading="eager"

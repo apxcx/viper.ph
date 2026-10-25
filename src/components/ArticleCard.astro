@@ -1,5 +1,6 @@
 ---
 import type { Article } from '../data/articles';
+import { migratedStory } from '../data/posts';
 
 interface Props {
   article: Article;
@@ -7,12 +8,17 @@ interface Props {
   compact?: boolean;
 }
 
-const { article, featured = false, compact = false } = Astro.props;
+const { featured = false, compact = false } = Astro.props;
+const article = migratedStory(Astro.props.article);
 const categoryPaths: Record<string, string> = {
   'Tech News': 'tech-news',
   'Electric Vehicles': 'electric-vehicles',
   AI: 'ai',
   'Fintech and Banking Tech': 'fintech-banking-tech',
+  Products: 'products',
+  'E-Commerce': 'e-commerce',
+  'Telcos and Internet': 'telcos-and-internet',
+  Auto: 'auto',
 };
 const categoryHref = `/category/${categoryPaths[article.category] ?? 'tech-news'}/`;
 ---

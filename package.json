@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "@astrojs/cloudflare": "12.6.13",
+    "@types/node": "22.19.15",
     "wrangler": "4.59.2"
   }
 }

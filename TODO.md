@@ -47,4 +47,10 @@
 - [x] Match category-archive post titles and their date/time typography to the compact hero-card title and metadata scale.
 - [x] Draft one dedicated article page as a review example before applying the layout to other posts.
   - Use the migrated Xiaomi POP Run article at its preserved slug; retain its four original body paragraphs, featured image reference, publication details, category, and SEO metadata.
-  - Include the shared sidebar beside the article and a related-post section below it; route only this example article locally until the page design is approved.
+  - Include the shared sidebar beside the article and a related-post section below it; use this approved example as the layout for all 216 migrated articles.
+- [x] Apply the approved individual article layout to all 216 published articles in the verified migration batches (10 oldest, 48 AI/EV/Fintech, and 158 remaining).
+  - Preserve every article's original slug, body text and non-title Markdown headings, publication and modified timestamps, author, category/tag assignments, canonical URL, SEO title/description/robots values, and Open Graph metadata; display the first export H1 once as the shared page title.
+  - Each article page uses its featured image, the shared “Useful context. Less noise.” sidebar beside the article, and three related posts selected from the same category where available.
+- [x] Configure all 216 featured images to be served from the existing Cloudflare R2 `media` bucket using each article's existing `featured_image_key`; do not duplicate image binaries in the site repository.
+  - The read-only endpoint and `MEDIA` binding passed isolated behavior checks and Cloudflare dry-run packaging. The additional remote Wrangler download check timed out; live production delivery has not been reverified during this rollout.
+- [x] Point internal homepage, category, and related-story article links to the generated local slug routes; list all 216 article routes in `public/manus-routes.json` and return a real 404 for unknown article slugs.

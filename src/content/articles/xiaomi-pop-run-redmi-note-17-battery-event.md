@@ -1,5 +1,4 @@
 ---
-layout: ../layouts/ArticleLayout.astro
 title: "Xiaomi POP Run Puts Redmi Battery to Test"
 slug: "xiaomi-pop-run-redmi-note-17-battery-event"
 date: "2026-10-25T08:00:00"
@@ -8,13 +7,13 @@ status: "publish"
 author: "Viper Editorial Team"
 categories:
   - "Tech News"
-tags: []
+tags:
+  []
 featured_media_id: 3253
 featured_image_bucket: "media"
 featured_image_key: "articles/2026/10/xiaomi-pop-run-redmi-note-17-battery-event/featured.jpg"
 featured_image: "r2://media/articles/2026/10/xiaomi-pop-run-redmi-note-17-battery-event/featured.jpg"
 featured_image_source: "https://viper.ph/wp-content/uploads/2026/10/images-68.jpg"
-featured_image_preview: "/media/xiaomi-pop-run.jpg"
 featured_image_alt: "Xiaomi POP Run Puts Redmi Battery to Test"
 featured_image_width: 495
 featured_image_height: 619

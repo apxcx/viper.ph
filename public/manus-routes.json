@@ -1,14 +1,920 @@
 {
   "routes": [
-    { "path": "/", "title": "Viper.ph | Philippine Tech News" },
-    { "path": "/category/tech-news/", "title": "Tech News | Viper.ph" },
-    { "path": "/category/ai/", "title": "AI | Viper.ph" },
-    { "path": "/category/electric-vehicles/", "title": "Electric Vehicles | Viper.ph" },
-    { "path": "/category/fintech-banking-tech/", "title": "Fintech and Banking Tech | Viper.ph" },
-    { "path": "/xiaomi-pop-run-redmi-note-17-battery-event/", "title": "Xiaomi POP Run 2026 | Viper" },
-    { "path": "/privacy-policy/", "title": "Privacy Policy | Viper.ph" },
-    { "path": "/terms-conditions/", "title": "Terms & Conditions | Viper.ph" },
-    { "path": "/contact-us/", "title": "Contact Us | Viper.ph" },
-    { "path": "/partnerships/", "title": "Partnerships & Collaborations | Viper.ph" }
+    {
+      "path": "/",
+      "title": "Viper.ph | Philippine Tech News"
+    },
+    {
+      "path": "/category/tech-news/",
+      "title": "Tech News | Viper.ph"
+    },
+    {
+      "path": "/category/ai/",
+      "title": "AI | Viper.ph"
+    },
+    {
+      "path": "/category/electric-vehicles/",
+      "title": "Electric Vehicles | Viper.ph"
+    },
+    {
+      "path": "/category/fintech-banking-tech/",
+      "title": "Fintech and Banking Tech | Viper.ph"
+    },
+    {
+      "path": "/privacy-policy/",
+      "title": "Privacy Policy | Viper.ph"
+    },
+    {
+      "path": "/terms-conditions/",
+      "title": "Terms & Conditions | Viper.ph"
+    },
+    {
+      "path": "/contact-us/",
+      "title": "Contact Us | Viper.ph"
+    },
+    {
+      "path": "/partnerships/",
+      "title": "Partnerships & Collaborations | Viper.ph"
+    },
+    {
+      "path": "/category/products/",
+      "title": "Products | Viper.ph"
+    },
+    {
+      "path": "/category/e-commerce/",
+      "title": "E-Commerce | Viper.ph"
+    },
+    {
+      "path": "/category/telcos-and-internet/",
+      "title": "Telcos and Internet | Viper.ph"
+    },
+    {
+      "path": "/category/auto/",
+      "title": "Auto | Viper.ph"
+    },
+    {
+      "path": "/uk-commits-800-million-ai-security/",
+      "title": "UK Commits $800M to AI Security | Viper.ph"
+    },
+    {
+      "path": "/xiaomi-pop-run-redmi-note-17-battery-event/",
+      "title": "Xiaomi POP Run Puts Redmi Battery to Test | Viper.ph"
+    },
+    {
+      "path": "/deepal-s07-ev-launches-philippines/",
+      "title": "Deepal S07 EV Launches in Philippines | Viper.ph"
+    },
+    {
+      "path": "/ai-finds-more-software-bugs-shrinking-patch-time/",
+      "title": "AI Finds More Bugs, Shrinking Patch Time | Viper.ph"
+    },
+    {
+      "path": "/converge-studios-ai-health-tools/",
+      "title": "Converge Studios Unveils AI Health Tools | Viper.ph"
+    },
+    {
+      "path": "/philippine-spaceport-plan-rocket-test/",
+      "title": "Philippine Spaceport Plan Gains Rocket Test | Viper.ph"
+    },
+    {
+      "path": "/byd-acmobility-philippine-ev-summit-2026/",
+      "title": "BYD Brings EV Experience to Philippine Summit | Viper.ph"
+    },
+    {
+      "path": "/php-flaws-put-government-websites-offline/",
+      "title": "PHP Flaws Put Government Websites Offline | Viper.ph"
+    },
+    {
+      "path": "/gcash-expands-gcrypto-wallet-transfers/",
+      "title": "GCash Expands GCrypto Wallet Transfers | Viper.ph"
+    },
+    {
+      "path": "/eu-eases-2035-car-emissions-target/",
+      "title": "EU Eases 2035 Car Emissions Target | Viper.ph"
+    },
+    {
+      "path": "/nvidia-openshell-safe-ai-agent-infrastructure/",
+      "title": "NVIDIA Builds Safety Into AI Agent Infrastructure | Viper.ph"
+    },
+    {
+      "path": "/ram-shortage-philippine-ai-adoption/",
+      "title": "RAM Shortage Threatens Philippine AI Adoption | Viper.ph"
+    },
+    {
+      "path": "/volkswagen-xpeng-ev-bet-china/",
+      "title": "Volkswagen’s Xpeng EV bet struggles in China | Viper.ph"
+    },
+    {
+      "path": "/nvidia-modal-vera-processors/",
+      "title": "NVIDIA wins Modal processor business for AI agents | Viper.ph"
+    },
+    {
+      "path": "/philippine-ai-summit-production/",
+      "title": "Philippine AI summit shifts from pilots to production | Viper.ph"
+    },
+    {
+      "path": "/europe-ev-sales-jump-september-2026/",
+      "title": "Europe’s EV sales jump 70% in September | Viper.ph"
+    },
+    {
+      "path": "/nvidia-104-qubit-quantum-simulation/",
+      "title": "NVIDIA simulates 104-qubit quantum system | Viper.ph"
+    },
+    {
+      "path": "/philippines-online-notarization-service/",
+      "title": "Philippines launches online notarization service | Viper.ph"
+    },
+    {
+      "path": "/byd-zero-tariff-ev-policy-2040/",
+      "title": "BYD backs longer zero-tariff EV policy | Viper.ph"
+    },
+    {
+      "path": "/anthropic-public-benefit-fund-shares/",
+      "title": "Anthropic commits shares to public-benefit fund | Viper.ph"
+    },
+    {
+      "path": "/pcg-psa-digital-civil-record-checks/",
+      "title": "PCG, PSA digitize civil-record checks | Viper.ph"
+    },
+    {
+      "path": "/philippine-ev-summit-2026-october-22-24/",
+      "title": "Philippine EV Summit set for October 22–24 | Viper.ph"
+    },
+    {
+      "path": "/microsoft-windows-hybrid-intelligence-local-ai/",
+      "title": "Microsoft brings hybrid AI closer to Windows PCs | Viper.ph"
+    },
+    {
+      "path": "/converge-p500-prepaid-fiber-pilot/",
+      "title": "Converge tests a P500 prepaid fiber plan | Viper.ph"
+    },
+    {
+      "path": "/global-ev-sales-fall-september-2026/",
+      "title": "Global EV sales dip as regions diverge | Viper.ph"
+    },
+    {
+      "path": "/iphone-18-pro-philippines-launch/",
+      "title": "iPhone 18 Pro launches across Philippine stores | Viper.ph"
+    },
+    {
+      "path": "/philippines-fifth-china-cyber-targeting/",
+      "title": "Philippines ranks fifth in China cyber targeting | Viper.ph"
+    },
+    {
+      "path": "/global-ev-fleet-transition-varies-by-region/",
+      "title": "EV fleets are growing, but the global shift varies | Viper.ph"
+    },
+    {
+      "path": "/filipinos-top-viber-ai-users/",
+      "title": "Filipinos rank among Viber’s top AI users | Viper.ph"
+    },
+    {
+      "path": "/smart-zero-dropped-calls-ntc-tests/",
+      "title": "Smart posts zero dropped calls in NTC tests | Viper.ph"
+    },
+    {
+      "path": "/apple-tv-4k-ph-price-a19-chip/",
+      "title": "Apple TV 4K heads to PH at P21,990 with A19 chip | Viper.ph"
+    },
+    {
+      "path": "/readylinks-pitches-lower-disruption-resort-network-upgrades/",
+      "title": "ReadyLinks pitches lower-disruption resort network upgrades | Viper.ph"
+    },
+    {
+      "path": "/dost-studies-carabao-mango-space-food/",
+      "title": "DOST studies Carabao mango as food for space missions | Viper.ph"
+    },
+    {
+      "path": "/microsoft-scales-maia-ai-chip-plan/",
+      "title": "Microsoft Scales Its Maia AI Chip Plan | Viper.ph"
+    },
+    {
+      "path": "/microsoft-details-safer-ai-agent-controls/",
+      "title": "Microsoft Details Safer AI Agent Controls | Viper.ph"
+    },
+    {
+      "path": "/aerospace-parts-maker-expands-batangas/",
+      "title": "Aerospace Parts Maker Expands in Batangas | Viper.ph"
+    },
+    {
+      "path": "/chinese-hybrids-face-new-eu-trade-limits/",
+      "title": "Chinese Hybrids Face New EU Trade Limits | Viper.ph"
+    },
+    {
+      "path": "/faster-technology-adoption-philippine-business-edge/",
+      "title": "Faster Tech Adoption Becomes Philippine Edge | Viper.ph"
+    },
+    {
+      "path": "/philippines-nuclear-power-ai-data-centers/",
+      "title": "PH Eyes Nuclear Power for AI Data Centers | Viper.ph"
+    },
+    {
+      "path": "/batang-ligtas-act-platform-safety-rules/",
+      "title": "Batang Ligtas Act Would Tighten Platform Safety Rules | Viper.ph"
+    },
+    {
+      "path": "/globe-cybersecurity-chief-leaves-2027/",
+      "title": "Globe Cybersecurity Chief to Leave in 2027 | Viper.ph"
+    },
+    {
+      "path": "/acer-predator-league-2027-ph-qualifier/",
+      "title": "Acer Sets ₱1M Predator League PH Qualifier | Viper.ph"
+    },
+    {
+      "path": "/europe-outpaces-us-ev-adoption-2026/",
+      "title": "Europe Outpaces US in 2026 EV Adoption | Viper.ph"
+    },
+    {
+      "path": "/digital-wallets-lead-philippine-scam-payments/",
+      "title": "Digital Wallets Lead Philippine Scam Payments | Viper.ph"
+    },
+    {
+      "path": "/peza-pipeline-semiconductors-data-centers/",
+      "title": "PEZA Pipeline Targets Semiconductors and Data Centers | Viper.ph"
+    },
+    {
+      "path": "/ai-biology-race-data-bottleneck/",
+      "title": "AI Biology Race Faces a Data Bottleneck | Viper.ph"
+    },
+    {
+      "path": "/get-targets-more-electric-buses-philippines/",
+      "title": "GET Targets More Electric Buses in Philippines | Viper.ph"
+    },
+    {
+      "path": "/dti-trustmark-helps-online-buyers/",
+      "title": "DTI Trustmark Helps Filipino Online Buyers | Viper.ph"
+    },
+    {
+      "path": "/oppo-find-x10-global-launch-october-21/",
+      "title": "OPPO Find X10 Global Launch Set for Oct. 21 | Viper.ph"
+    },
+    {
+      "path": "/tonik-adds-load-game-credits/",
+      "title": "Tonik Adds Load and Game Credits | Viper.ph"
+    },
+    {
+      "path": "/globe-network-hits-2026-high-august/",
+      "title": "Globe Network Hits 2026 High in August | Viper.ph"
+    },
+    {
+      "path": "/philippine-schools-structure-ai-use/",
+      "title": "Philippine Schools Urged to Structure AI Use | Viper.ph"
+    },
+    {
+      "path": "/philippines-records-31-ransomware-claims/",
+      "title": "Philippines Records 31 Ransomware Claims | Viper.ph"
+    },
+    {
+      "path": "/bdo-upgrades-philippine-payments-system/",
+      "title": "BDO Upgrades Philippine Payments System | Viper.ph"
+    },
+    {
+      "path": "/byd-opens-first-southeast-asia-ev-plant/",
+      "title": "BYD Opens First Southeast Asia EV Plant | Viper.ph"
+    },
+    {
+      "path": "/revolut-eyes-philippine-digital-bank-entry/",
+      "title": "Revolut Eyes Philippine Digital Bank Entry | Viper.ph"
+    },
+    {
+      "path": "/peza-approvals-near-p300b-2026/",
+      "title": "PEZA Approvals Near ₱300B for 2026 | Viper.ph"
+    },
+    {
+      "path": "/globe-seeks-role-pax-silica-hub/",
+      "title": "Globe Seeks Role in Pax Silica Hub | Viper.ph"
+    },
+    {
+      "path": "/philippines-innovation-ranking-slips-52nd-2026/",
+      "title": "PH Innovation Ranking Slips to 52nd | Viper.ph"
+    },
+    {
+      "path": "/gcash-ipo-opens-public-today/",
+      "title": "GCash IPO Opens to Public Today | Viper.ph"
+    },
+    {
+      "path": "/google-begins-gemini-skills-workspace-rollout/",
+      "title": "Google Begins Gemini Skills Workspace Rollout | Viper.ph"
+    },
+    {
+      "path": "/sec-seeks-p120m-broker-dealer-capital-floor/",
+      "title": "SEC Seeks ₱120M Broker-Dealer Capital Floor | Viper.ph"
+    },
+    {
+      "path": "/globe-expands-starlink-roaming-japan-kddi/",
+      "title": "Globe Expands Starlink Roaming to Japan | Viper.ph"
+    },
+    {
+      "path": "/apple-plans-stricter-mac-ai-access-controls/",
+      "title": "Apple Plans Stricter Mac AI Access Controls | Viper.ph"
+    },
+    {
+      "path": "/converge-tiktok-shop-launch-sellerplus/",
+      "title": "Converge, TikTok Shop Launch SellerPlus | Viper.ph"
+    },
+    {
+      "path": "/ntc-defends-p100000-daily-telco-fines/",
+      "title": "NTC Defends ₱100,000 Daily Telco Fines | Viper.ph"
+    },
+    {
+      "path": "/microsoft-five-windows-11-preview-builds/",
+      "title": "Microsoft Ships Five Windows 11 Preview Builds | Viper.ph"
+    },
+    {
+      "path": "/mynt-sets-gcash-ipo-price-p660/",
+      "title": "Mynt Sets GCash IPO Price at ₱6.60 | Viper.ph"
+    },
+    {
+      "path": "/dict-probes-philippine-submarine-cable-disruption/",
+      "title": "DICT Probes Philippine Submarine-Cable Disruption | Viper.ph"
+    },
+    {
+      "path": "/ibm-bob-self-hosted-ai-coding-agent/",
+      "title": "IBM Bob Moves AI Coding On-Premises | Viper.ph"
+    },
+    {
+      "path": "/gcash-overnight-payments-maintenance-october-2/",
+      "title": "GCash Schedules Overnight Payments Maintenance | Viper.ph"
+    },
+    {
+      "path": "/ntc-draft-refurbished-phone-sellers/",
+      "title": "NTC Draft Targets Refurbished Phone Sellers | Viper.ph"
+    },
+    {
+      "path": "/america-gov-ai-us-government-services/",
+      "title": "America.gov Brings AI to U.S. Services | Viper.ph"
+    },
+    {
+      "path": "/maybank-ph-drops-dragonpay-option/",
+      "title": "Maybank PH Drops Dragonpay Option | Viper.ph"
+    },
+    {
+      "path": "/filipinos-want-guaranteed-5g-ericsson-study/",
+      "title": "Filipinos Want Guaranteed 5G, Ericsson Finds | Viper.ph"
+    },
+    {
+      "path": "/evgo-750kw-fast-charging-system-2027-preview/",
+      "title": "EVgo Previews 750-kW Charging for 2027 | Viper.ph"
+    },
+    {
+      "path": "/gcash-us-bank-ewallet-international-transfers/",
+      "title": "GCash Adds U.S. Bank Transfers | Viper.ph"
+    },
+    {
+      "path": "/globe-grab-gfiber-prepaid-wifi-grabmart-expansion/",
+      "title": "Globe, Grab Expand App-Ordered WiFi | Viper.ph"
+    },
+    {
+      "path": "/nvidia-open-agent-safety-platform/",
+      "title": "NVIDIA Opens New Safety Stack for AI Agents | Viper.ph"
+    },
+    {
+      "path": "/amlc-banks-ai-financial-crime-controls/",
+      "title": "AMLC Raises the Bar for Banking AI | Viper.ph"
+    },
+    {
+      "path": "/ph-data-center-race-power-permits-subsea-links/",
+      "title": "PH Data-Center Race Hits Power and Permit Test | Viper.ph"
+    },
+    {
+      "path": "/starship-flight-14-first-orbital-test-philippines/",
+      "title": "Starship Flight 14 First Orbital Test | Viper.ph"
+    },
+    {
+      "path": "/al-amanah-plans-lgu-financing-2027/",
+      "title": "Al-Amanah LGU Financing 2027 | Viper.ph"
+    },
+    {
+      "path": "/globe-stronger-august-network-performance/",
+      "title": "Globe Stronger August Network Performance | Viper.ph"
+    },
+    {
+      "path": "/philsa-trains-2027-rocket-test-cagayan/",
+      "title": "PhilSA Trains for 2027 Rocket Test in Cagayan | Viper.ph"
+    },
+    {
+      "path": "/bir-dec-31-e-invoicing-deadline-e-commerce/",
+      "title": "BIR Sets Dec. 31 E-Invoicing Deadline for E-Commerce | Viper.ph"
+    },
+    {
+      "path": "/ntc-fines-dito-globe-smart-poor-ncr-data/",
+      "title": "NTC Fines DITO, Globe and Smart for Poor NCR Data | Viper.ph"
+    },
+    {
+      "path": "/kia-ev3-philippines-launch/",
+      "title": "Kia EV3 Officially Launches in PH | Viper.ph"
+    },
+    {
+      "path": "/landbank-india-payment-links/",
+      "title": "LANDBANK Eyes India Payment Links | Viper.ph"
+    },
+    {
+      "path": "/dict-probes-possible-dtap-data-exposure/",
+      "title": "DICT Probes Possible D-TAP Data Exposure | Viper.ph"
+    },
+    {
+      "path": "/xpeng-philippine-launch-x9-l03-september-25/",
+      "title": "XPeng Brings X9, L03 to Philippine Debut | Viper.ph"
+    },
+    {
+      "path": "/gcash-ipo-20-plus-cornerstone-investors/",
+      "title": "GCash IPO Draws 20+ Cornerstone Investors | Viper.ph"
+    },
+    {
+      "path": "/pnp-cybersecurity-2026-asean-summit/",
+      "title": "PNP Boosts Cybersecurity for ASEAN Summit | Viper.ph"
+    },
+    {
+      "path": "/ai-leaders-warn-un-runaway-risks/",
+      "title": "AI Leaders Warn UN of Runaway Risks | Viper.ph"
+    },
+    {
+      "path": "/bsp-circular-1240-digital-centric-bank-capital-floor/",
+      "title": "BSP Sets ₱1B Floor for Digital-Centric Banks | Viper.ph"
+    },
+    {
+      "path": "/western-visayas-phased-digital-tv-shift/",
+      "title": "Western Visayas Eyes Phased Digital TV Shift | Viper.ph"
+    },
+    {
+      "path": "/cicc-reddit-discord-philippines-ultimatum/",
+      "title": "CICC Warns Reddit, Discord of Possible PH Ban | Viper.ph"
+    },
+    {
+      "path": "/denr-launches-pinoy-biotech-hub/",
+      "title": "DENR Launches Pinoy Biotech Hub | Viper.ph"
+    },
+    {
+      "path": "/ched-ai-rules-philippine-colleges/",
+      "title": "CHED Sets AI Rules for Philippine Colleges | Viper.ph"
+    },
+    {
+      "path": "/googlebook-preorders-899-android-gemini/",
+      "title": "Googlebook Preorders Open at $899 | Viper.ph"
+    },
+    {
+      "path": "/ltfrb-less-offline-security-breach/",
+      "title": "LTFRB Takes LESS Offline After Breach | Viper.ph"
+    },
+    {
+      "path": "/egovph-ai-assistant-kuya-a/",
+      "title": "eGovPH Adds AI Assistant Kuya A | Viper.ph"
+    },
+    {
+      "path": "/ai-firms-lawsuit-alleged-slowdown-deal/",
+      "title": "AI Firms Face Lawsuit Over Alleged Slowdown Deal | Viper.ph"
+    },
+    {
+      "path": "/cicc-dark-web-explained-philippines/",
+      "title": "What Is the Dark Web? CICC Explains | Viper.ph"
+    },
+    {
+      "path": "/pax-silica-hub-aeta-land-questions/",
+      "title": "Pax Silica Hub Puts Aeta Land in Limbo | Viper.ph"
+    },
+    {
+      "path": "/worldskills-shanghai-app-guide/",
+      "title": "WorldSkills Shanghai App Guide Goes Live | Viper.ph"
+    },
+    {
+      "path": "/green-sm-six-seat-ev-taxi-indonesia/",
+      "title": "Green SM Launches Six-Seat EV Taxi in Indonesia | Viper.ph"
+    },
+    {
+      "path": "/dost-philippine-disaster-technology/",
+      "title": "DOST Expands Philippine Disaster Tech | Viper.ph"
+    },
+    {
+      "path": "/honor-magicos-11-china-launch/",
+      "title": "HONOR Unveils MagicOS 11 in China | Viper.ph"
+    },
+    {
+      "path": "/bsp-ai-readiness-ph-capital-markets/",
+      "title": "BSP Warns PH Capital Markets Need AI Readiness | Viper.ph"
+    },
+    {
+      "path": "/asean-shared-ai-digital-trade-rules/",
+      "title": "ASEAN Eyes Shared AI and Digital Trade Rules | Viper.ph"
+    },
+    {
+      "path": "/israel-ph-cybersecurity-ai-cooperation/",
+      "title": "Israel Offers PH Cybersecurity and AI Expertise | Viper.ph"
+    },
+    {
+      "path": "/bcremit-billion-remittances-sme-payments/",
+      "title": "BCRemit Eyes SME Payments After $1B Milestone | Viper.ph"
+    },
+    {
+      "path": "/taiwan-expo-2026-philippines-tech-firms/",
+      "title": "Taiwan Expo Brings 125 Firms to PH | Viper.ph"
+    },
+    {
+      "path": "/smart-home-wifi-sim-99-philippines/",
+      "title": "Smart Home WiFi SIM 99 Offers 2GB for ₱99 | Viper.ph"
+    },
+    {
+      "path": "/redmi-note-17-philippines/",
+      "title": "Redmi Note 17 Series Launches in PH | Viper.ph"
+    },
+    {
+      "path": "/hitpay-virtual-accounts-philippines/",
+      "title": "HitPay Brings Virtual Accounts to PH SMEs | Viper.ph"
+    },
+    {
+      "path": "/hp-zbook-ultra-g3a-local-ai/",
+      "title": "HP Unveils ZBook Ultra G3a for Local AI | Viper.ph"
+    },
+    {
+      "path": "/dost-showcase-tech-solutions-2026-nstw/",
+      "title": "DOST to Showcase Tech Solutions at 2026 NSTW | Viper.ph"
+    },
+    {
+      "path": "/indian-tech-firms-eye-ph-expansion/",
+      "title": "Indian Tech Firms Eye PH Expansion | Viper.ph"
+    },
+    {
+      "path": "/anthropic-ai-misuse-report-september-2026/",
+      "title": "Anthropic Details Growing AI Misuse Threats | Viper.ph"
+    },
+    {
+      "path": "/philippines-ai-infrastructure-masterplan-2026/",
+      "title": "PH Launches AI Infrastructure Masterplan | Viper.ph"
+    },
+    {
+      "path": "/us-defense-tech-startup-ph-production/",
+      "title": "US Defense Tech Startup Expands PH Production | Viper.ph"
+    },
+    {
+      "path": "/lto-ends-stradcom-computer-fees/",
+      "title": "LTO Ends Stradcom Computer Fees | Viper.ph"
+    },
+    {
+      "path": "/globe-gday-promo-gfiber-500-off/",
+      "title": "Globe GDay Promo Offers ₱500 Off GFiber | Viper.ph"
+    },
+    {
+      "path": "/indian-firms-expand-ph-digital-infrastructure/",
+      "title": "Indian Firms Expand PH Digital Infrastructure | Viper.ph"
+    },
+    {
+      "path": "/tp-philippines-expands-ai-training-job-applicants/",
+      "title": "TP Philippines Expands AI Training for Jobs | Viper.ph"
+    },
+    {
+      "path": "/philippines-40000-free-public-internet-sites-2027/",
+      "title": "PH Targets 40,000 Free Internet Sites in 2027 | Viper.ph"
+    },
+    {
+      "path": "/marcos-india-expertise-ph-railway-space-tech/",
+      "title": "Marcos Seeks India Expertise for PH Tech | Viper.ph"
+    },
+    {
+      "path": "/nvidia-skild-ai-physical-ai-robot-tasks-video/",
+      "title": "NVIDIA Teaches Robots New Tasks From One Video | Viper.ph"
+    },
+    {
+      "path": "/eu-spain-join-luzon-economic-corridor/",
+      "title": "EU, Spain Join Luzon Economic Corridor | Viper.ph"
+    },
+    {
+      "path": "/james-dyson-award-philippines-winner-september-16/",
+      "title": "James Dyson Award to Name PH Winner Sept. 16 | Viper.ph"
+    },
+    {
+      "path": "/apple-watch-series-12-health-sensing-system/",
+      "title": "Apple Watch Series 12 Adds Health Sensing | Viper.ph"
+    },
+    {
+      "path": "/capcut-660-million-users-capcut-world-2026/",
+      "title": "CapCut Passes 660 Million Users | Viper.ph"
+    },
+    {
+      "path": "/pleased-com-philippine-headquarters-bgc/",
+      "title": "Pleased.com Opens Philippine Headquarters | Viper.ph"
+    },
+    {
+      "path": "/whoscall-anti-scam-business-alliance-philippines/",
+      "title": "Whoscall Builds Anti-Scam Business Alliance | Viper.ph"
+    },
+    {
+      "path": "/tm-25th-anniversary-rewards-promos/",
+      "title": "TM Marks 25 Years With New Rewards | Viper.ph"
+    },
+    {
+      "path": "/apple-iphone-duo-foldable-smartphone/",
+      "title": "Apple Unveils Foldable iPhone Duo | Viper.ph"
+    },
+    {
+      "path": "/philippines-ai-masterplan-34-4-billion-investment/",
+      "title": "PH AI Plan Targets $34.4B Investment | Viper.ph"
+    },
+    {
+      "path": "/dict-social-media-regulation-bill-philippines/",
+      "title": "DICT Backs Stricter Social Media Rules | Viper.ph"
+    },
+    {
+      "path": "/philippines-broadband-costs-escap-2026/",
+      "title": "PH Broadband Costs Draw ESCAP Concern | Viper.ph"
+    },
+    {
+      "path": "/lenovo-legion-quiccs-collectible-promo-philippines/",
+      "title": "Lenovo Legion, Quiccs Reveal PH Collectible | Viper.ph"
+    },
+    {
+      "path": "/asus-rog-laptops-free-google-ai-plans-philippines/",
+      "title": "ASUS, ROG Laptops Get Free Google AI Plans | Viper.ph"
+    },
+    {
+      "path": "/infinix-xpad-30-pro-philippines-launch/",
+      "title": "Infinix XPAD 30 Pro Launches in PH | Viper.ph"
+    },
+    {
+      "path": "/xiaomi-18-fold-launch-china-september-7/",
+      "title": "Xiaomi 18 Fold Launches With Compact Outer Screen | Viper.ph"
+    },
+    {
+      "path": "/gcash-digital-tax-refund-16-countries/",
+      "title": "GCash Brings Digital Tax Refunds to Travelers | Viper.ph"
+    },
+    {
+      "path": "/honor-magic-v6-sale-philippines/",
+      "title": "HONOR Magic V6 Now on Sale in the Philippines | Viper.ph"
+    },
+    {
+      "path": "/google-ai-plus-free-philippine-students/",
+      "title": "Google Gives PH Students Free AI Plus for a Year | Viper.ph"
+    },
+    {
+      "path": "/gcash-gsukli-digital-change-bench-philippines/",
+      "title": "GCash GSukli Turns Loose Change Digital | Viper.ph"
+    },
+    {
+      "path": "/smart-5g-max-home-wifi-p2995-promo/",
+      "title": "Smart 5G Max Home WiFi Drops to P2,995 | Viper.ph"
+    },
+    {
+      "path": "/acer-epaper-monitor-5g-devices-ifa-2026/",
+      "title": "Acer Unveils ePaper Monitor and 5G Devices | Viper.ph"
+    },
+    {
+      "path": "/xppen-magic-pro-13-ifa-2026/",
+      "title": "XPPen Magic Pro 13 Goes Official at IFA | Viper.ph"
+    },
+    {
+      "path": "/ph-semiconductor-roadmap-investor-facilitation/",
+      "title": "PH Launches New Semiconductor Roadmap | Viper.ph"
+    },
+    {
+      "path": "/paymongo-skyro-digital-payments-credit-philippines/",
+      "title": "PayMongo, Skyro Link Credit to Digital Payments | Viper.ph"
+    },
+    {
+      "path": "/dict-asean-big-tech-accountability-philippines/",
+      "title": "DICT Pushes ASEAN Big Tech Accountability | Viper.ph"
+    },
+    {
+      "path": "/cmf-clip-pro-philippines-price/",
+      "title": "CMF Clip Pro Arrives in PH for PHP 5,990 | Viper.ph"
+    },
+    {
+      "path": "/dlsu-gcash-fintech-engineering-elective/",
+      "title": "DLSU, GCash Launch Fintech Engineering Elective | Viper.ph"
+    },
+    {
+      "path": "/samsung-portable-ssd-p7-4000-mbps/",
+      "title": "Samsung Portable SSD P7 Hits 4,000 MB/s | Viper.ph"
+    },
+    {
+      "path": "/redmi-note-17-series-philippines-september-15/",
+      "title": "REDMI Note 17 Series Coming to PH Sept. 15 | Viper.ph"
+    },
+    {
+      "path": "/qr-ph-alipay-plus-cross-border-payments/",
+      "title": "QR Ph Opens Payments to Alipay+ Users | Viper.ph"
+    },
+    {
+      "path": "/tp-link-wifi-8-archer-deco-philippines/",
+      "title": "TP-Link Unveils Wi-Fi 8 Router Lineup | Viper.ph"
+    },
+    {
+      "path": "/poco-f9-series-launches-philippines/",
+      "title": "POCO F9 Series Launches in the Philippines | Viper.ph"
+    },
+    {
+      "path": "/lenovo-legion-y700-ai-tablet-philippines/",
+      "title": "Lenovo Legion Y700 AI Packs 165Hz OLED | Viper.ph"
+    },
+    {
+      "path": "/meta-roblox-philippines-child-safety-measures/",
+      "title": "Meta, Roblox Agree to Protect PH Minors | Viper.ph"
+    },
+    {
+      "path": "/meta-philippine-office-online-safety/",
+      "title": "Meta Plans Philippine Office for Faster Action | Viper.ph"
+    },
+    {
+      "path": "/xiaomi-smart-privacy-display-hyperos/",
+      "title": "Xiaomi Tests Smart Privacy Display | Viper.ph"
+    },
+    {
+      "path": "/deped-microsoft-copilot-one-million-teachers/",
+      "title": "DepEd Gives Copilot to 1M Teachers | Viper.ph"
+    },
+    {
+      "path": "/whatsapp-scam-alert-on-device-philippines/",
+      "title": "WhatsApp Tests On-Device Scam Alerts | Viper.ph"
+    },
+    {
+      "path": "/gcash-tap-to-pay-iphone-ios-philippines/",
+      "title": "GCash Tap-to-Pay Reaches iPhone Users | Viper.ph"
+    },
+    {
+      "path": "/apple-ternus-era-iphone-event-september-2026/",
+      "title": "Apple Sets First Ternus-Era iPhone Event | Viper.ph"
+    },
+    {
+      "path": "/garmin-fenix-9-philippines-september-16/",
+      "title": "Garmin Fenix 9 Launches in PH on Sept. 16 | Viper.ph"
+    },
+    {
+      "path": "/samsung-galaxy-s26-fe-philippines-price/",
+      "title": "Samsung Galaxy S26 FE Now Official in PH | Viper.ph"
+    },
+    {
+      "path": "/viber-in-app-esim-philippines/",
+      "title": "Viber Launches In-App eSIM in the Philippines | Viper.ph"
+    },
+    {
+      "path": "/converge-angeles-data-center-green-lane/",
+      "title": "Converge Gets Green Lane for Angeles Data Center | Viper.ph"
+    },
+    {
+      "path": "/samsung-galaxy-event-august-27-2026/",
+      "title": "Samsung Sets Galaxy Event for Tonight | Viper.ph"
+    },
+    {
+      "path": "/philippines-agentic-ai-businesses-production/",
+      "title": "PH Firms Move Agentic AI Into Production | Viper.ph"
+    },
+    {
+      "path": "/pax-silica-philippines-technology-transfer/",
+      "title": "Pax Silica Deal Faces Tech Transfer Call | Viper.ph"
+    },
+    {
+      "path": "/grabcoins-philippines-rides-food-payments/",
+      "title": "GrabCoins Expand Across Rides, Food, and Pay | Viper.ph"
+    },
+    {
+      "path": "/gcash-ignite-2026-ai-cybersecurity-philippines/",
+      "title": "GCash iGnite Puts AI and Cybersecurity First | Viper.ph"
+    },
+    {
+      "path": "/dost-300m-ai-data-centers-philippines/",
+      "title": "DOST Earmarks PHP 300M for AI Data Centers | Viper.ph"
+    },
+    {
+      "path": "/sony-xperia-10-viii-launch-august-25/",
+      "title": "Sony Xperia 10 VIII Launches Today | Viper.ph"
+    },
+    {
+      "path": "/gcash-face-verification-gloan-scam-insurance/",
+      "title": "GCash Adds Face Verification for GLoan | Viper.ph"
+    },
+    {
+      "path": "/bsp-rural-banks-cloud-banking-upgrade/",
+      "title": "BSP to Help Rural Banks Upgrade Systems | Viper.ph"
+    },
+    {
+      "path": "/samsung-stretchable-oled-display-20-inch/",
+      "title": "Samsung Shows Off Stretchable OLED Displays | Viper.ph"
+    },
+    {
+      "path": "/digital-banking-philippines-resilience-trust-credit/",
+      "title": "Digital Banking Faces Its Next PH Test | Viper.ph"
+    },
+    {
+      "path": "/techlife-pad-mini-philippines-launch/",
+      "title": "TechLife Pad Mini Launches in the Philippines | Viper.ph"
+    },
+    {
+      "path": "/phlpost-warns-smishing-scam-philippines/",
+      "title": "PHLPost Warns Public About Smishing Scams | Viper.ph"
+    },
+    {
+      "path": "/ust-ecloudvalley-enterprise-ai-philippines/",
+      "title": "UST, eCloudvalley Push Enterprise AI in PH | Viper.ph"
+    },
+    {
+      "path": "/nothing-os-5-0-august-25-philippines/",
+      "title": "Nothing OS 5.0 Arrives on August 25 | Viper.ph"
+    },
+    {
+      "path": "/huawei-pura-90s-series-philippines-price-availability-2/",
+      "title": "HUAWEI Pura 90s Series Now Available in the Philippines | Viper.ph"
+    },
+    {
+      "path": "/samsung-galaxy-watch-ultra2-watch9-philippines-price-2/",
+      "title": "Samsung Unveils Galaxy Watch Ultra2 & Watch9 in PH | Viper.ph"
+    },
+    {
+      "path": "/honor-magic-v6-philippines-launch-date-2/",
+      "title": "HONOR Magic V6 Set to Launch in PH on August 24 | Viper.ph"
+    },
+    {
+      "path": "/philippines-us-ai-semiconductor-partnership-2026/",
+      "title": "PH Joins U.S.-led AI & Semiconductor Push | Viper.ph"
+    },
+    {
+      "path": "/samsung-galaxy-early-bird-promo-philippines-2026/",
+      "title": "Samsung PH Launches Galaxy Early-Bird Promo | Viper.ph"
+    },
+    {
+      "path": "/oppo-reno16-5g-philippines-price-availability/",
+      "title": "OPPO Reno16 5G Series Now Available in PH | Viper.ph"
+    },
+    {
+      "path": "/ph-digital-payments/",
+      "title": "PH Digital Payments Hit 64.7% Milestone | Viper.ph"
+    },
+    {
+      "path": "/bpi-gogolook-partnership-digital-scam-protection/",
+      "title": "BPI and Gogolook Partner to Fight Digital Fraud | Viper.ph"
+    },
+    {
+      "path": "/digital-walker-20th-anniversary-event-glorietta/",
+      "title": "Digital Walker Celebrates 20 Years at Glorietta | Viper.ph"
+    },
+    {
+      "path": "/mass-credential-breach-philippines-2026/",
+      "title": "Mass Credential Breach Hits 19.2M Filipinos | Viper.ph"
+    },
+    {
+      "path": "/dji-store-sm-city-sta-mesa-opening/",
+      "title": "DJI Opens New Authorised Store at SM City Sta. Mesa | Viper.ph"
+    },
+    {
+      "path": "/samsung-galaxy-z-fold8-review-philippines/",
+      "title": "Samsung Galaxy Z Fold8 Review: The Ultimate Foldable? | Viper.ph"
+    },
+    {
+      "path": "/gcash-card-filipino-travelers-benefits/",
+      "title": "Why the GCash Card is a Travel Essential for Pinoys | Viper.ph"
+    },
+    {
+      "path": "/tcl-c7l-sqd-mini-led-tv-philippines-launch/",
+      "title": "TCL Unveils C7L SQD Mini LED TV in PH | Viper.ph"
+    },
+    {
+      "path": "/realme-16t-philippines-launch-teaser/",
+      "title": "Realme 16T to Launch Soon in the Philippines | Viper.ph"
+    },
+    {
+      "path": "/samsung-activision-call-of-duty-modern-warfare-4/",
+      "title": "Samsung Partners with Activision for Call of Duty MW4 | Viper.ph"
+    },
+    {
+      "path": "/abs-cbn-h1-2026-revenue-report/",
+      "title": "ABS-CBN Reports P6.88B Revenue for H1 2026 | Viper.ph"
+    },
+    {
+      "path": "/concentrix-ai-solutions-philippines-launch/",
+      "title": "Concentrix Rolls Out AI Solutions in PH | Viper.ph"
+    },
+    {
+      "path": "/huawei-pura-90s-pro-max-smart-preorder-philippines/",
+      "title": "Smart Opens HUAWEI Pura 90s Pro Pre-Orders in PH | Viper.ph"
+    },
+    {
+      "path": "/lenovo-legion-go-gen-2-philippines-price/",
+      "title": "Lenovo Legion Go Gen 2 Hits PH: Price & Specs | Viper.ph"
+    },
+    {
+      "path": "/gcash-wins-apac-tambuli-awards-2026/",
+      "title": "GCash Wins Big at APAC Tambuli Awards | Viper.ph"
+    },
+    {
+      "path": "/philippines-pax-silica-ai-hub-frederick-go/",
+      "title": "Go Denies Pax Silica Fake News; AI Hub Hopes | Viper.ph"
+    },
+    {
+      "path": "/malacanang-dict-officials-terminated-reshuffle/",
+      "title": "Malacañang Confirms DICT Officials’ Termination | Viper.ph"
+    },
+    {
+      "path": "/gcash-launches-zero-forex-fee-international-withdrawals/",
+      "title": "GCash 0% Forex Fee for Visa Withdrawals | Viper.ph"
+    },
+    {
+      "path": "/fintech-alliance-philippines-national-id-verification/",
+      "title": "FinTech Alliance Backs National ID for Faster KYC | Viper.ph"
+    },
+    {
+      "path": "/philippines-national-cybersecurity-act-house-approval/",
+      "title": "House Approves National Cybersecurity Act | Viper.ph"
+    },
+    {
+      "path": "/house-bill-free-wifi-college-students-philippines/",
+      "title": "House Passes Free Wi-Fi for College Students in PH | Viper.ph"
+    }
   ]
 }
