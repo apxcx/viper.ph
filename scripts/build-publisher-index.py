@@ -37,6 +37,12 @@ def read_article(path: Path):
     if len(fallback) > 160:
         fallback = fallback[:157].rsplit(' ', 1)[0] + '…'
     key = metadata['featured_image_key']
+    image_keys = []
+    media_marker = 'https://viper.ph/api/media/'
+    for image in metadata.get('images') or []:
+        image_url = str(image.get('url', ''))
+        if image_url.startswith(media_marker):
+            image_keys.append(image_url.removeprefix(media_marker))
     entry = {
         'slug': metadata['slug'],
         'title': metadata['title'],
@@ -46,6 +52,7 @@ def read_article(path: Path):
         'categories': metadata.get('categories') or [],
         'tags': metadata.get('tags') or [],
         'imageKey': key,
+        'imageKeys': image_keys,
         'image': metadata.get('featured_image_url') or '/api/media/' + key,
         'imageAlt': metadata.get('featured_image_alt') or metadata['title'],
         'imageWidth': metadata.get('featured_image_width'),

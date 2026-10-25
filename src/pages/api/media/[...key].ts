@@ -2,7 +2,8 @@ import type { APIRoute } from 'astro';
 import posts from '../../../data/post-index.json' with { type: 'json' };
 
 export const prerender = false;
-const allowedKeys = new Set(posts.map((post) => post.imageKey));
+type IndexedPost = { imageKey: string; imageKeys?: string[] };
+const allowedKeys = new Set((posts as IndexedPost[]).flatMap((post) => [post.imageKey, ...(post.imageKeys ?? [])]));
 
 interface R2Image {
   body: ReadableStream<Uint8Array>;
