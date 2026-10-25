@@ -4,6 +4,8 @@
     { "path": "/category/tech-news/", "title": "Tech News | Viper.ph" },
     { "path": "/category/ai/", "title": "AI | Viper.ph" },
     { "path": "/category/electric-vehicles/", "title": "Electric Vehicles | Viper.ph" },
-    { "path": "/category/fintech-banking-tech/", "title": "Fintech and Banking Tech | Viper.ph" }
+    { "path": "/category/fintech-banking-tech/", "title": "Fintech and Banking Tech | Viper.ph" },
+    { "path": "/privacy-policy/", "title": "Privacy Policy | Viper.ph" },
+    { "path": "/terms-conditions/", "title": "Terms & Conditions | Viper.ph" }
   ]
 }
