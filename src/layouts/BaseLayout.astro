@@ -4,13 +4,14 @@ import '../styles/global.css';
 interface Props {
   title?: string;
   description?: string;
+  canonical?: string;
 }
 
 const {
   title = 'Viper.ph | Philippine Tech News',
   description = 'Viper.ph is the Philippines’ leading tech news and discovery platform, covering the stories, products, and ideas shaping what comes next.',
+  canonical = 'https://viper.ph/',
 } = Astro.props;
-const canonical = 'https://viper.ph/';
 ---
 
 <!doctype html>

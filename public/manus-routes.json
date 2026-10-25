@@ -1,5 +1,9 @@
 {
   "routes": [
-    { "path": "/", "title": "Viper.ph | Philippine Tech News" }
+    { "path": "/", "title": "Viper.ph | Philippine Tech News" },
+    { "path": "/category/tech-news/", "title": "Tech News | Viper.ph" },
+    { "path": "/category/ai/", "title": "AI | Viper.ph" },
+    { "path": "/category/electric-vehicles/", "title": "Electric Vehicles | Viper.ph" },
+    { "path": "/category/fintech-banking-tech/", "title": "Fintech and Banking Tech | Viper.ph" }
   ]
 }

@@ -1,11 +1,14 @@
 export type Article = {
   category: string;
+  categorySlug?: string;
   date: string;
   time: string;
+  publishedAt?: string;
   title: string;
   excerpt: string;
   image: string;
   href: string;
+  migrated?: boolean;
 };
 
 export const leadStories: Article[] = [

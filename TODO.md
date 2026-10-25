@@ -22,3 +22,10 @@
   - Include the published Viper.ph description, `hi@viper.ph`, the Quezon City address, category links, social links, and available utility links such as Events, Partnerships, Privacy Policy, and Terms and Conditions.
 - [x] Match the two-column news articles below the hero to the hero-card title/date scale, using the date and time at the top of a blue title panel as shown in the user reference.
 - [x] Apply the same blue date-and-title panel style to the first, larger featured article in the hero section.
+- [x] Migrate the first batch of 10 oldest published WordPress articles, ordered oldest to newest.
+  - Preserve each original slug and featured-image relationship.
+  - Exclude inline content images from this first batch.
+  - Inspect and retain available SEO metadata without changing the live WordPress site.
+- [x] Create separate category pages for Tech News, AI, Electric Vehicles, and Fintech and Banking Tech, link them from the header navigation, and give each page a three-story latest-news hero in the homepage layout.
+  - Render the remaining articles as a horizontal thumbnail/title/date list matching the supplied category reference.
+  - Place the first migrated batch under Tech News with preserved slugs and featured-image references.

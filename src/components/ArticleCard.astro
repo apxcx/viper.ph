@@ -12,8 +12,9 @@ const categoryPaths: Record<string, string> = {
   'Tech News': 'tech-news',
   'Electric Vehicles': 'electric-vehicles',
   AI: 'ai',
+  'Fintech and Banking Tech': 'fintech-banking-tech',
 };
-const categoryHref = `https://viper.ph/category/${categoryPaths[article.category] ?? 'tech-news'}/`;
+const categoryHref = `/category/${categoryPaths[article.category] ?? 'tech-news'}/`;
 ---
 
 <article class:list={['news-card', { 'news-card--featured': featured, 'news-card--compact': compact }]}>

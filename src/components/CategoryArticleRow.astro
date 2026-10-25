@@ -1,0 +1,24 @@
+---
+import type { Article } from '../data/articles';
+
+interface Props {
+  article: Article;
+}
+
+const { article } = Astro.props;
+---
+
+<article class="category-row">
+  <a class="category-row__image-link" href={article.href} aria-label={`Read ${article.title}`}>
+    <img class="category-row__image" src={article.image} alt="" loading="lazy" />
+    <span class="category-row__arrow" aria-hidden="true">↗</span>
+  </a>
+  <div class="category-row__content">
+    <h2><a href={article.href}>{article.title}</a></h2>
+    <div class="category-row__meta">
+      <time datetime={article.publishedAt}>{article.date}</time>
+      <span aria-hidden="true">•</span>
+      <span>{article.time}</span>
+    </div>
+  </div>
+</article>
