@@ -71,17 +71,32 @@ index.write_text(json.dumps(posts, ensure_ascii=False, indent=2) + '\n', encodin
 (project / '.r2-preview-map.json').write_text(json.dumps(preview_map, indent=2) + '\n', encoding='utf-8')
 manifest_file = project / 'public/manus-routes.json'
 manifest = json.loads(manifest_file.read_text())
-category_definitions = [('Tech News', 'tech-news'), ('AI', 'ai'), ('Electric Vehicles', 'electric-vehicles'), ('Fintech and Banking Tech', 'fintech-banking-tech'), ('Products', 'products'), ('E-Commerce', 'e-commerce'), ('Telcos and Internet', 'telcos-and-internet'), ('Auto', 'auto')]
-category_roots = [f'/category/{slug}/' for _, slug in category_definitions]
+category_definitions = [
+    ('PH Tech', 'ph-tech', ['PH Tech', 'Tech News']),
+    ('Telcos and Internet', 'telcos-and-internet', ['Telcos and Internet']),
+    ('Fintech and Banking Tech', 'fintech-banking-tech', ['Fintech and Banking Tech']),
+    ('Gadgets', 'gadgets', ['Gadgets', 'Products']),
+    ('E-commerce', 'e-commerce', ['E-commerce', 'E-Commerce']),
+    ('Apps and Software', 'apps-and-software', ['Apps and Software']),
+    ('AI', 'ai', ['AI']),
+    ('International Tech', 'international-tech', ['International Tech']),
+    ('Tech Events', 'tech-events', ['Tech Events']),
+    ('Electric Vehicles', 'electric-vehicles', ['Electric Vehicles']),
+    ('Tech News', 'tech-news', ['Tech News']),
+    ('Products', 'products', ['Products']),
+    ('E-Commerce', 'e-commerce-legacy', ['E-Commerce']),
+    ('Auto', 'auto', ['Auto']),
+]
+category_roots = [f'/category/{slug}/' for _, slug, _ in category_definitions]
 manifest['routes'] = [
     route for route in manifest['routes']
     if route['path'].strip('/') not in seen
     and not any(route['path'] == root or route['path'].startswith(root + 'page/') for root in category_roots)
 ]
-for label, slug in category_definitions:
+for label, slug, matches in category_definitions:
     root = f'/category/{slug}/'
     manifest['routes'].append({'path': root, 'title': label + ' | Viper.ph'})
-    count = sum(label in post['categories'] for post in posts)
+    count = sum(any(match in post['categories'] for match in matches) for post in posts)
     total_pages = max(1, (max(0, count - 3) + 9) // 10)
     manifest['routes'].extend(
         {'path': f'{root}page/{number}/', 'title': f'{label} — Page {number} | Viper.ph'}

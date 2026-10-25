@@ -2,8 +2,8 @@
 title: "Terms & Conditions"
 description: "Terms & Conditions Effective Date: August 6, 2026 Website: https://viper.ph Welcome to Viper (\"us\", \"we\", or \"our\"). These Terms and Conditions outline…"
 canonical: "https://viper.ph/terms-conditions/"
-wordpressId: 72
-wordpressModified: "2026-09-09T14:17:20"
+sourceRecordId: 72
+sourceModified: "2026-09-09T14:17:20"
 sourceUrl: "https://viper.ph/terms-conditions/"
 layout: ../layouts/PolicyLayout.astro
 ---

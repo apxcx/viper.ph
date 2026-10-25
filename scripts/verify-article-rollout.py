@@ -12,7 +12,7 @@ by_slug = {post['slug']: post for post in posts}
 assert len(posts) == len(by_slug) == 216
 manifest = json.loads((project / 'public/manus-routes.json').read_text())
 routes = {route['path']: route for route in manifest['routes']}
-assert len(routes) == len(manifest['routes']) == 245
+assert len(routes) == len(manifest['routes']) == 264
 
 for post in posts:
     slug = post['slug']
@@ -45,13 +45,24 @@ for post in posts:
     assert actual_same == expected_same, (slug, actual_same, expected_same)
 
 category_definitions = [
-    ('Tech News', 'tech-news'), ('AI', 'ai'), ('Electric Vehicles', 'electric-vehicles'),
-    ('Fintech and Banking Tech', 'fintech-banking-tech'), ('Products', 'products'),
-    ('E-Commerce', 'e-commerce'), ('Telcos and Internet', 'telcos-and-internet'), ('Auto', 'auto'),
+    ('PH Tech', 'ph-tech', ['PH Tech', 'Tech News']),
+    ('Telcos and Internet', 'telcos-and-internet', ['Telcos and Internet']),
+    ('Fintech and Banking Tech', 'fintech-banking-tech', ['Fintech and Banking Tech']),
+    ('Gadgets', 'gadgets', ['Gadgets', 'Products']),
+    ('E-commerce', 'e-commerce', ['E-commerce', 'E-Commerce']),
+    ('Apps and Software', 'apps-and-software', ['Apps and Software']),
+    ('AI', 'ai', ['AI']),
+    ('International Tech', 'international-tech', ['International Tech']),
+    ('Tech Events', 'tech-events', ['Tech Events']),
+    ('Electric Vehicles', 'electric-vehicles', ['Electric Vehicles']),
+    ('Tech News', 'tech-news', ['Tech News']),
+    ('Products', 'products', ['Products']),
+    ('E-Commerce', 'e-commerce-legacy', ['E-Commerce']),
+    ('Auto', 'auto', ['Auto']),
 ]
 category_route_count = 0
-for label, slug in category_definitions:
-    category_posts = [post for post in posts if label in post['categories']]
+for label, slug, matches in category_definitions:
+    category_posts = [post for post in posts if any(match in post['categories'] for match in matches)]
     archive_count = max(0, len(category_posts) - 3)
     page_count = max(1, (archive_count + 9) // 10)
     seen_rows = []
@@ -62,7 +73,7 @@ for label, slug in category_definitions:
         page = project / 'dist' / path.strip('/') / 'index.html'
         assert page.is_file(), path
         soup = BeautifulSoup(page.read_text(encoding='utf-8'), 'html.parser')
-        assert len(soup.select('.top-stories .news-card')) == 3, path
+        assert len(soup.select('.top-stories .news-card')) == min(3, len(category_posts)), path
         assert soup.select_one('.category-archive__layout > .briefing'), path
         assert soup.select_one('link[rel="canonical"]')['href'] == 'https://viper.ph' + path, path
         rows = soup.select('.category-archive__list .category-row')
@@ -70,7 +81,7 @@ for label, slug in category_definitions:
         assert len(rows) == expected_rows, (path, len(rows), expected_rows)
         row_slugs = [row.select_one('.category-row__content h2 a')['href'].strip('/') for row in rows]
         assert all(row_slug in by_slug for row_slug in row_slugs), path
-        assert all(label in by_slug[row_slug]['categories'] for row_slug in row_slugs), path
+        assert all(any(match in by_slug[row_slug]['categories'] for match in matches) for row_slug in row_slugs), path
         seen_rows.extend(row_slugs)
         if page_count > 1:
             nav = soup.select_one('.category-pagination')
@@ -84,7 +95,7 @@ for label, slug in category_definitions:
             if current < page_count:
                 assert nav.select_one('a[rel="next"]')['href'] == f'/category/{slug}/page/{current + 1}/', path
     assert len(seen_rows) == archive_count and len(set(seen_rows)) == archive_count, (label, len(seen_rows), archive_count)
-assert category_route_count == 24
+assert category_route_count == 43
 for path in routes:
     assert (project / 'dist' / path.strip('/') / 'index.html').is_file(), path
-print('Verified: 216 article pages; preserved body hashes; one H1; R2 paths; sidebars and 3 valid related links; 8 categories with unique archive rows paginated at 10/page; page-specific canonicals and navigation; 245 declared routes.')
+print('Verified: 216 article pages; preserved body hashes; one H1; R2 paths; sidebars and 3 valid related links; 10 canonical categories plus 4 legacy aliases with unique archive rows paginated at 10/page; page-specific canonicals and navigation; 264 declared routes.')

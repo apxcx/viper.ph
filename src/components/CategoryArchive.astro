@@ -48,12 +48,16 @@ const description = `The latest ${page.label.toLowerCase()} news from Viper.ph, 
           <h2 class="eyebrow" id="top-stories-title">01 / Top stories</h2>
           <span class="section-kicker__date">Latest in {page.label}</span>
         </div>
-        <div class="top-stories__grid">
-          <ArticleCard article={page.topStories[0]} featured />
-          <div class="top-stories__side">
-            {page.topStories.slice(1, 3).map((article) => <ArticleCard article={article} compact />)}
+        {page.topStories.length ? (
+          <div class="top-stories__grid">
+            <ArticleCard article={page.topStories[0]} featured />
+            <div class="top-stories__side">
+              {page.topStories.slice(1, 3).map((article) => <ArticleCard article={article} compact />)}
+            </div>
           </div>
-        </div>
+        ) : (
+          <p class="category-archive__empty">No published stories are assigned to this category yet.</p>
+        )}
       </section>
 
       <section class="category-archive section-frame" id="archive" aria-labelledby="archive-title">

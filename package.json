@@ -8,7 +8,13 @@
     "dev": "astro dev --host 0.0.0.0 --port 3000",
     "build": "astro build",
     "preview": "astro preview --host 0.0.0.0",
-    "check": "astro check"
+    "check": "astro check",
+    "publisher:index": "python3 scripts/build-publisher-index.py",
+    "publisher:manifest": "python3 scripts/generate-publisher-manifest.py",
+    "publisher:routes": "python3 scripts/refresh-public-routes.py",
+    "publisher:check": "python3 scripts/validate-astro-publisher.py --network",
+    "publisher:prepare": "pnpm publisher:index && pnpm publisher:manifest && pnpm publisher:routes && pnpm publisher:check",
+    "publisher:publish": "python3 scripts/publish-astro-article.py"
   },
   "dependencies": {
     "@astrojs/check": "latest",

@@ -1,0 +1,4701 @@
+{
+  "schema": "viper.astro.publisher/v1",
+  "timezone": "Asia/Manila",
+  "slots": [
+    "06:00",
+    "08:00",
+    "10:00"
+  ],
+  "entries": [
+    {
+      "slot_key": "2026-10-25/10:00",
+      "idempotency_key": "2026-10-25/10:00",
+      "day": "2026-10-25",
+      "slot": "10:00",
+      "slug": "uk-commits-800-million-ai-security",
+      "title": "UK Commits $800M to AI Security",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "8b2d0f76566927fb1dd8134dbde5b9265611130ce7ee51f377c2566938b12ef4"
+    },
+    {
+      "slot_key": "2026-10-25/08:00",
+      "idempotency_key": "2026-10-25/08:00",
+      "day": "2026-10-25",
+      "slot": "08:00",
+      "slug": "xiaomi-pop-run-redmi-note-17-battery-event",
+      "title": "Xiaomi POP Run Puts Redmi Battery to Test",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "0bbcd93c572e90bfe25f18faa7e59c3a59def034b6d655982c9b4892f64aa3d2"
+    },
+    {
+      "slot_key": "2026-10-25/06:00",
+      "idempotency_key": "2026-10-25/06:00",
+      "day": "2026-10-25",
+      "slot": "06:00",
+      "slug": "deepal-s07-ev-launches-philippines",
+      "title": "Deepal S07 EV Launches in Philippines",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Electric Vehicles"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "69dc324632170a9e176849b8deba27e2e5c667e9facd8189b2b9c35c8d23e44e"
+    },
+    {
+      "slot_key": "2026-10-24/10:00",
+      "idempotency_key": "2026-10-24/10:00",
+      "day": "2026-10-24",
+      "slot": "10:00",
+      "slug": "ai-finds-more-software-bugs-shrinking-patch-time",
+      "title": "AI Finds More Bugs, Shrinking Patch Time",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "d96e9b87757601fffe74a66fa52db015171befb2690449f476daef19e8973d42"
+    },
+    {
+      "slot_key": "2026-10-24/08:00",
+      "idempotency_key": "2026-10-24/08:00",
+      "day": "2026-10-24",
+      "slot": "08:00",
+      "slug": "converge-studios-ai-health-tools",
+      "title": "Converge Studios Unveils AI Health Tools",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "f7184cae4d86aef1eac3ab9ea2f768e9ff5cf2bec1b70d371f49d5d506862050"
+    },
+    {
+      "slot_key": "2026-10-24/06:00",
+      "idempotency_key": "2026-10-24/06:00",
+      "day": "2026-10-24",
+      "slot": "06:00",
+      "slug": "philippine-spaceport-plan-rocket-test",
+      "title": "Philippine Spaceport Plan Gains Rocket Test",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "6d0217ebd3c3a4b28911788db5636194ff665efa8d371f2ce98e03e7ddb86ba1"
+    },
+    {
+      "slot_key": "2026-10-23/10:00",
+      "idempotency_key": "2026-10-23/10:00",
+      "day": "2026-10-23",
+      "slot": "10:00",
+      "slug": "byd-acmobility-philippine-ev-summit-2026",
+      "title": "BYD Brings EV Experience to Philippine Summit",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Electric Vehicles"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "90f3c764f18a994788d7cae338f373ced271198871287147c1d74a4e54ff3066"
+    },
+    {
+      "slot_key": "2026-10-23/08:00",
+      "idempotency_key": "2026-10-23/08:00",
+      "day": "2026-10-23",
+      "slot": "08:00",
+      "slug": "php-flaws-put-government-websites-offline",
+      "title": "PHP Flaws Put Government Websites Offline",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "67a3273e38c073830429764c8fd4b0425d392480b580ece211c1f262c25a1258"
+    },
+    {
+      "slot_key": "2026-10-23/06:00",
+      "idempotency_key": "2026-10-23/06:00",
+      "day": "2026-10-23",
+      "slot": "06:00",
+      "slug": "gcash-expands-gcrypto-wallet-transfers",
+      "title": "GCash Expands GCrypto Wallet Transfers",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Fintech and Banking Tech"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "fd60c0ccc021581f5f57620ca7c09bcf2123576a947ee12617113811e487a6f0"
+    },
+    {
+      "slot_key": "2026-10-22/10:00",
+      "idempotency_key": "2026-10-22/10:00",
+      "day": "2026-10-22",
+      "slot": "10:00",
+      "slug": "eu-eases-2035-car-emissions-target",
+      "title": "EU Eases 2035 Car Emissions Target",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Electric Vehicles"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "32572db09b1c3ec206c1d98a52ab54fd42636be9f7d67840d475154a19a790f7"
+    },
+    {
+      "slot_key": "2026-10-22/08:00",
+      "idempotency_key": "2026-10-22/08:00",
+      "day": "2026-10-22",
+      "slot": "08:00",
+      "slug": "nvidia-openshell-safe-ai-agent-infrastructure",
+      "title": "NVIDIA Builds Safety Into AI Agent Infrastructure",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "56923b14c96a1d38f47557b7fd5242e0eaf9f0ed8dc29f456f5f12b3c12cea37"
+    },
+    {
+      "slot_key": "2026-10-22/06:00",
+      "idempotency_key": "2026-10-22/06:00",
+      "day": "2026-10-22",
+      "slot": "06:00",
+      "slug": "ram-shortage-philippine-ai-adoption",
+      "title": "RAM Shortage Threatens Philippine AI Adoption",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "2ca1fb5a39a763f6f8e48eb195eaa245c56ecdacf8784f3057e83b7f94699ae7"
+    },
+    {
+      "slot_key": "2026-10-21/10:00",
+      "idempotency_key": "2026-10-21/10:00",
+      "day": "2026-10-21",
+      "slot": "10:00",
+      "slug": "volkswagen-xpeng-ev-bet-china",
+      "title": "Volkswagen’s Xpeng EV bet struggles in China",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Electric Vehicles"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "46edcb5b018188aa0e58c81b6c1222e5efaffe9e998e121e848719b4d685daaf"
+    },
+    {
+      "slot_key": "2026-10-21/08:00",
+      "idempotency_key": "2026-10-21/08:00",
+      "day": "2026-10-21",
+      "slot": "08:00",
+      "slug": "nvidia-modal-vera-processors",
+      "title": "NVIDIA wins Modal processor business for AI agents",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "eae44f6bbc3ce911753bb51418bde0db502d4270b6517ec47240e4231431cef5"
+    },
+    {
+      "slot_key": "2026-10-21/06:00",
+      "idempotency_key": "2026-10-21/06:00",
+      "day": "2026-10-21",
+      "slot": "06:00",
+      "slug": "philippine-ai-summit-production",
+      "title": "Philippine AI summit shifts from pilots to production",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "4ab7b7ed41f24d040795f947919928928f4d23cdaeb58417a9a98907b27a6d3a"
+    },
+    {
+      "slot_key": "2026-10-20/10:00",
+      "idempotency_key": "2026-10-20/10:00",
+      "day": "2026-10-20",
+      "slot": "10:00",
+      "slug": "europe-ev-sales-jump-september-2026",
+      "title": "Europe’s EV sales jump 70% in September",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Electric Vehicles"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "16d711e9cd0af53e53e47017ff4d9a7d9dbf0a52b596dec9455d2b5ec70c4d94"
+    },
+    {
+      "slot_key": "2026-10-20/08:00",
+      "idempotency_key": "2026-10-20/08:00",
+      "day": "2026-10-20",
+      "slot": "08:00",
+      "slug": "nvidia-104-qubit-quantum-simulation",
+      "title": "NVIDIA simulates 104-qubit quantum system",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "511566dc664ccbdb1addb585a62a4895898ed15d98a11e9b0aec3b7227b53cb7"
+    },
+    {
+      "slot_key": "2026-10-20/06:00",
+      "idempotency_key": "2026-10-20/06:00",
+      "day": "2026-10-20",
+      "slot": "06:00",
+      "slug": "philippines-online-notarization-service",
+      "title": "Philippines launches online notarization service",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "10096c4ae3f1c84cc2fed9ce26173110c63aaf691b9236db6ff28a38ddc9229f"
+    },
+    {
+      "slot_key": "2026-10-19/10:00",
+      "idempotency_key": "2026-10-19/10:00",
+      "day": "2026-10-19",
+      "slot": "10:00",
+      "slug": "byd-zero-tariff-ev-policy-2040",
+      "title": "BYD backs longer zero-tariff EV policy",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Electric Vehicles"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "2caa457ae08ec5fb95c70288ce91b2ef360740e61bb38f428fbd34667c113770"
+    },
+    {
+      "slot_key": "2026-10-19/08:00",
+      "idempotency_key": "2026-10-19/08:00",
+      "day": "2026-10-19",
+      "slot": "08:00",
+      "slug": "anthropic-public-benefit-fund-shares",
+      "title": "Anthropic commits shares to public-benefit fund",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "3ad4d0720199868a8f8858a55a32b07e327cea5e53406ea42781a8e8cc1d54d5"
+    },
+    {
+      "slot_key": "2026-10-19/06:00",
+      "idempotency_key": "2026-10-19/06:00",
+      "day": "2026-10-19",
+      "slot": "06:00",
+      "slug": "pcg-psa-digital-civil-record-checks",
+      "title": "PCG, PSA digitize civil-record checks",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "a5a5fff5b45a5bb8d66ed88b00e1497f0d2cafb296caa0775495c52a442a2702"
+    },
+    {
+      "slot_key": "2026-10-18/10:00",
+      "idempotency_key": "2026-10-18/10:00",
+      "day": "2026-10-18",
+      "slot": "10:00",
+      "slug": "philippine-ev-summit-2026-october-22-24",
+      "title": "Philippine EV Summit set for October 22–24",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Electric Vehicles"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "b7d17c58f3ae6282c88263aecb14fa1f6ef3ca7898cf7736ee3c342289a22533"
+    },
+    {
+      "slot_key": "2026-10-18/08:00",
+      "idempotency_key": "2026-10-18/08:00",
+      "day": "2026-10-18",
+      "slot": "08:00",
+      "slug": "microsoft-windows-hybrid-intelligence-local-ai",
+      "title": "Microsoft brings hybrid AI closer to Windows PCs",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "84555d09737977d5b51d5d17ed12a1072a2420e58acaa219cd5136785afbca81"
+    },
+    {
+      "slot_key": "2026-10-18/06:00",
+      "idempotency_key": "2026-10-18/06:00",
+      "day": "2026-10-18",
+      "slot": "06:00",
+      "slug": "converge-p500-prepaid-fiber-pilot",
+      "title": "Converge tests a P500 prepaid fiber plan",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Telcos and Internet"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "04e77bec4ccfc987bd690cf0e1f52d44a8c8ab9bed74192c707934481b0b8343"
+    },
+    {
+      "slot_key": "2026-10-17/10:00",
+      "idempotency_key": "2026-10-17/10:00",
+      "day": "2026-10-17",
+      "slot": "10:00",
+      "slug": "global-ev-sales-fall-september-2026",
+      "title": "Global EV sales dip as regions diverge",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Electric Vehicles"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "1ad478adf218e82f8d8af54c9b14ee5b1b88e6e91924564174485d2835a2e9d4"
+    },
+    {
+      "slot_key": "2026-10-17/08:00",
+      "idempotency_key": "2026-10-17/08:00",
+      "day": "2026-10-17",
+      "slot": "08:00",
+      "slug": "iphone-18-pro-philippines-launch",
+      "title": "iPhone 18 Pro launches across Philippine stores",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Products"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "92fea86b7051023df80cda325e3213928c218d5ad67fe910246daee10700dd6f"
+    },
+    {
+      "slot_key": "2026-10-17/06:00",
+      "idempotency_key": "2026-10-17/06:00",
+      "day": "2026-10-17",
+      "slot": "06:00",
+      "slug": "philippines-fifth-china-cyber-targeting",
+      "title": "Philippines ranks fifth in China cyber targeting",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "ae2424afad16f859236cdb35e6f5e29975931ee502f77a39478f0e9caad7d0dd"
+    },
+    {
+      "slot_key": "2026-10-16/10:00",
+      "idempotency_key": "2026-10-16/10:00",
+      "day": "2026-10-16",
+      "slot": "10:00",
+      "slug": "global-ev-fleet-transition-varies-by-region",
+      "title": "EV fleets are growing, but the global shift varies",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Electric Vehicles"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "fbdb2cd4497795d241f55866913d160d902e89f330864a99cdf60757bbfc9b0c"
+    },
+    {
+      "slot_key": "2026-10-16/08:00",
+      "idempotency_key": "2026-10-16/08:00",
+      "day": "2026-10-16",
+      "slot": "08:00",
+      "slug": "filipinos-top-viber-ai-users",
+      "title": "Filipinos rank among Viber’s top AI users",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "c5eedb9c21961f681d6132a1eb18764938c68e9e169b3ef2243f9027fdc9cae7"
+    },
+    {
+      "slot_key": "2026-10-16/06:00",
+      "idempotency_key": "2026-10-16/06:00",
+      "day": "2026-10-16",
+      "slot": "06:00",
+      "slug": "smart-zero-dropped-calls-ntc-tests",
+      "title": "Smart posts zero dropped calls in NTC tests",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Telcos and Internet"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "f5fa42d01b352fe936e5f3d7174361ef69dbb11ca1aad2b9fa5579cc6efc43f6"
+    },
+    {
+      "slot_key": "2026-10-15/10:00",
+      "idempotency_key": "2026-10-15/10:00",
+      "day": "2026-10-15",
+      "slot": "10:00",
+      "slug": "apple-tv-4k-ph-price-a19-chip",
+      "title": "Apple TV 4K heads to PH at P21,990 with A19 chip",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "4e7c5c8d53e1e160a74dd1ce795aad4c6a66353dc57d6b3eab0e914bb67a3789"
+    },
+    {
+      "slot_key": "2026-10-15/08:00",
+      "idempotency_key": "2026-10-15/08:00",
+      "day": "2026-10-15",
+      "slot": "08:00",
+      "slug": "readylinks-pitches-lower-disruption-resort-network-upgrades",
+      "title": "ReadyLinks pitches lower-disruption resort network upgrades",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Telcos and Internet"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "5843cb109d458da30b8a09f5cbb1c617bdf0f6e1c93d997b9df87ddb55ec89d3"
+    },
+    {
+      "slot_key": "2026-10-15/06:00",
+      "idempotency_key": "2026-10-15/06:00",
+      "day": "2026-10-15",
+      "slot": "06:00",
+      "slug": "dost-studies-carabao-mango-space-food",
+      "title": "DOST studies Carabao mango as food for space missions",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "94efdb4a9907d6a1baf991d99a020a15e0b3166b79a57dfac54986b0fce80808"
+    },
+    {
+      "slot_key": "2026-10-14/10:00",
+      "idempotency_key": "2026-10-14/10:00",
+      "day": "2026-10-14",
+      "slot": "10:00",
+      "slug": "microsoft-scales-maia-ai-chip-plan",
+      "title": "Microsoft Scales Its Maia AI Chip Plan",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "7562298ec5b3c3a62c38ca687abd217bc2e901e7a73c48fed3615bb237223b01"
+    },
+    {
+      "slot_key": "2026-10-14/08:00",
+      "idempotency_key": "2026-10-14/08:00",
+      "day": "2026-10-14",
+      "slot": "08:00",
+      "slug": "microsoft-details-safer-ai-agent-controls",
+      "title": "Microsoft Details Safer AI Agent Controls",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "44bb5b399dafd9614a9c37f224a7420b188f253fe29f64842a8c0306d0d02a27"
+    },
+    {
+      "slot_key": "2026-10-14/06:00",
+      "idempotency_key": "2026-10-14/06:00",
+      "day": "2026-10-14",
+      "slot": "06:00",
+      "slug": "aerospace-parts-maker-expands-batangas",
+      "title": "Aerospace Parts Maker Expands in Batangas",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "f2ad191b361b4d0d7c460bbe189d59982561aa62d1701762e79d24fdf2c2ad85"
+    },
+    {
+      "slot_key": "2026-10-13/10:00",
+      "idempotency_key": "2026-10-13/10:00",
+      "day": "2026-10-13",
+      "slot": "10:00",
+      "slug": "chinese-hybrids-face-new-eu-trade-limits",
+      "title": "Chinese Hybrids Face New EU Trade Limits",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Electric Vehicles"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "352bb622405d6c7e7fa6fecff5e5266c08eb572dfda5167020c345c23de72092"
+    },
+    {
+      "slot_key": "2026-10-13/08:00",
+      "idempotency_key": "2026-10-13/08:00",
+      "day": "2026-10-13",
+      "slot": "08:00",
+      "slug": "faster-technology-adoption-philippine-business-edge",
+      "title": "Faster Tech Adoption Becomes Philippine Edge",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "21a4608807a4a7f620775c1ee54fd1b935cd236c1a271e6b14997257c115e021"
+    },
+    {
+      "slot_key": "2026-10-13/06:00",
+      "idempotency_key": "2026-10-13/06:00",
+      "day": "2026-10-13",
+      "slot": "06:00",
+      "slug": "philippines-nuclear-power-ai-data-centers",
+      "title": "PH Eyes Nuclear Power for AI Data Centers",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "d04504ba75916ab8d31d90a892a0f9a6ce6cd8b0076ce47b40db0c97b2e29469"
+    },
+    {
+      "slot_key": "2026-10-12/10:00",
+      "idempotency_key": "2026-10-12/10:00",
+      "day": "2026-10-12",
+      "slot": "10:00",
+      "slug": "batang-ligtas-act-platform-safety-rules",
+      "title": "Batang Ligtas Act Would Tighten Platform Safety Rules",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "5a1d8462e4ca4572692ce79786d950fd42ae272e4e2eeb23168d24d2d723582a"
+    },
+    {
+      "slot_key": "2026-10-12/08:00",
+      "idempotency_key": "2026-10-12/08:00",
+      "day": "2026-10-12",
+      "slot": "08:00",
+      "slug": "globe-cybersecurity-chief-leaves-2027",
+      "title": "Globe Cybersecurity Chief to Leave in 2027",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Telcos and Internet"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "be90d9b0bfe4a2bd8e8eb2a8ea22818ffb08244053e545a003beebc12c91d603"
+    },
+    {
+      "slot_key": "2026-10-12/06:00",
+      "idempotency_key": "2026-10-12/06:00",
+      "day": "2026-10-12",
+      "slot": "06:00",
+      "slug": "acer-predator-league-2027-ph-qualifier",
+      "title": "Acer Sets ₱1M Predator League PH Qualifier",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "83da9f45e494026517bee8cbe4b8b0ff9c9da662a9cd8b5b4be2a480763c09ab"
+    },
+    {
+      "slot_key": "2026-10-11/10:00",
+      "idempotency_key": "2026-10-11/10:00",
+      "day": "2026-10-11",
+      "slot": "10:00",
+      "slug": "europe-outpaces-us-ev-adoption-2026",
+      "title": "Europe Outpaces US in 2026 EV Adoption",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Electric Vehicles"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "f6e1549e022298ed4207b0d1b0845d9f4b2e4efa8f62ad6b0208faf44087d5d0"
+    },
+    {
+      "slot_key": "2026-10-11/08:00",
+      "idempotency_key": "2026-10-11/08:00",
+      "day": "2026-10-11",
+      "slot": "08:00",
+      "slug": "digital-wallets-lead-philippine-scam-payments",
+      "title": "Digital Wallets Lead Philippine Scam Payments",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Fintech and Banking Tech"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "88c65412204d3beaeae0d2f5b3e8cec9c2bd3a64f79f2518639e24ddd04955c8"
+    },
+    {
+      "slot_key": "2026-10-11/06:00",
+      "idempotency_key": "2026-10-11/06:00",
+      "day": "2026-10-11",
+      "slot": "06:00",
+      "slug": "peza-pipeline-semiconductors-data-centers",
+      "title": "PEZA Pipeline Targets Semiconductors and Data Centers",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "59fc89ce05e3159ce8ed99bd667bf82c1ee15cfb786fc97871b918702ad353c3"
+    },
+    {
+      "slot_key": "2026-10-10/10:00",
+      "idempotency_key": "2026-10-10/10:00",
+      "day": "2026-10-10",
+      "slot": "10:00",
+      "slug": "ai-biology-race-data-bottleneck",
+      "title": "AI Biology Race Faces a Data Bottleneck",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "90870a81908488c735766a72af34f4eaaba724ac9828e101708853ad0e15d2ae"
+    },
+    {
+      "slot_key": "2026-10-10/08:00",
+      "idempotency_key": "2026-10-10/08:00",
+      "day": "2026-10-10",
+      "slot": "08:00",
+      "slug": "get-targets-more-electric-buses-philippines",
+      "title": "GET Targets More Electric Buses in Philippines",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Electric Vehicles"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "aba5362b2e23d48a278a6a13878410f74f1a7e61bbd717fd31b47950012d8509"
+    },
+    {
+      "slot_key": "2026-10-10/06:00",
+      "idempotency_key": "2026-10-10/06:00",
+      "day": "2026-10-10",
+      "slot": "06:00",
+      "slug": "dti-trustmark-helps-online-buyers",
+      "title": "DTI Trustmark Helps Filipino Online Buyers",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "E-Commerce"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "647579114a9f60eb99192e02f947c7ffda0bdfb7fd6a4852063ab46deb10f9a4"
+    },
+    {
+      "slot_key": "2026-10-09/10:00",
+      "idempotency_key": "2026-10-09/10:00",
+      "day": "2026-10-09",
+      "slot": "10:00",
+      "slug": "oppo-find-x10-global-launch-october-21",
+      "title": "OPPO Find X10 Global Launch Set for Oct. 21",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Products"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "0f245eea23769e702f17980fba927db6d14d09cc9d54e68e52efafb0a2bd5e36"
+    },
+    {
+      "slot_key": "2026-10-09/08:00",
+      "idempotency_key": "2026-10-09/08:00",
+      "day": "2026-10-09",
+      "slot": "08:00",
+      "slug": "tonik-adds-load-game-credits",
+      "title": "Tonik Adds Load and Game Credits",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Fintech and Banking Tech"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "43edbfe4884b7129e61d4383a019cc37698e2d03b942652f4d1cf4f3d038412a"
+    },
+    {
+      "slot_key": "2026-10-09/06:00",
+      "idempotency_key": "2026-10-09/06:00",
+      "day": "2026-10-09",
+      "slot": "06:00",
+      "slug": "globe-network-hits-2026-high-august",
+      "title": "Globe Network Hits 2026 High in August",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Telcos and Internet"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "5ae191b92704406872d22cc1e046828456cf5c8562f6b8bee1bacd69f961c765"
+    },
+    {
+      "slot_key": "2026-10-08/10:00",
+      "idempotency_key": "2026-10-08/10:00",
+      "day": "2026-10-08",
+      "slot": "10:00",
+      "slug": "philippine-schools-structure-ai-use",
+      "title": "Philippine Schools Urged to Structure AI Use",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "6028c17cdc2efb7b5c477a7f11f8930b24f6d8342b562cb1efd98fa7fcd3c785"
+    },
+    {
+      "slot_key": "2026-10-08/08:00",
+      "idempotency_key": "2026-10-08/08:00",
+      "day": "2026-10-08",
+      "slot": "08:00",
+      "slug": "philippines-records-31-ransomware-claims",
+      "title": "Philippines Records 31 Ransomware Claims",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "d7c675b208170bebf493ac55744509c53588a53aa9edaede407a90bb56e94e5e"
+    },
+    {
+      "slot_key": "2026-10-08/06:00",
+      "idempotency_key": "2026-10-08/06:00",
+      "day": "2026-10-08",
+      "slot": "06:00",
+      "slug": "bdo-upgrades-philippine-payments-system",
+      "title": "BDO Upgrades Philippine Payments System",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Fintech and Banking Tech"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "eeda0faed118bfd1a12ea96712e55c600df4f5d7521cb54c98a0bc63de0967c8"
+    },
+    {
+      "slot_key": "2026-10-07/10:00",
+      "idempotency_key": "2026-10-07/10:00",
+      "day": "2026-10-07",
+      "slot": "10:00",
+      "slug": "byd-opens-first-southeast-asia-ev-plant",
+      "title": "BYD Opens First Southeast Asia EV Plant",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Electric Vehicles"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "254d544d5df391f24c8b013a5085fa9a8afa217fe8bfee740b829e83b0ddb9bf"
+    },
+    {
+      "slot_key": "2026-10-07/08:00",
+      "idempotency_key": "2026-10-07/08:00",
+      "day": "2026-10-07",
+      "slot": "08:00",
+      "slug": "revolut-eyes-philippine-digital-bank-entry",
+      "title": "Revolut Eyes Philippine Digital Bank Entry",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Fintech and Banking Tech"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "348c83c51bb52254873bf9a1af2a4c850d9da91cd2370895e4618e064fe490e2"
+    },
+    {
+      "slot_key": "2026-10-07/06:00",
+      "idempotency_key": "2026-10-07/06:00",
+      "day": "2026-10-07",
+      "slot": "06:00",
+      "slug": "peza-approvals-near-p300b-2026",
+      "title": "PEZA Approvals Near ₱300B for 2026",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "8eb0be77b08176027c707d90fb8c10be0bb3ffdc298b20242675c9c0205195d4"
+    },
+    {
+      "slot_key": "2026-10-06/10:00",
+      "idempotency_key": "2026-10-06/10:00",
+      "day": "2026-10-06",
+      "slot": "10:00",
+      "slug": "globe-seeks-role-pax-silica-hub",
+      "title": "Globe Seeks Role in Pax Silica Hub",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "d09444782c9efab398ccf69661a74d0d177d008502e3726b1a37cb1dae44730c"
+    },
+    {
+      "slot_key": "2026-10-06/08:00",
+      "idempotency_key": "2026-10-06/08:00",
+      "day": "2026-10-06",
+      "slot": "08:00",
+      "slug": "philippines-innovation-ranking-slips-52nd-2026",
+      "title": "PH Innovation Ranking Slips to 52nd",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "8eb696f1efd36febd748daaedad5995a297d221ec7d0fa00d841e7e0056b1335"
+    },
+    {
+      "slot_key": "2026-10-06/06:00",
+      "idempotency_key": "2026-10-06/06:00",
+      "day": "2026-10-06",
+      "slot": "06:00",
+      "slug": "gcash-ipo-opens-public-today",
+      "title": "GCash IPO Opens to Public Today",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Fintech and Banking Tech"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "36f8c8be729f591da0952b446d8a6926ea19306875a9eaab0888f533f4a9bc9e"
+    },
+    {
+      "slot_key": "2026-10-05/10:00",
+      "idempotency_key": "2026-10-05/10:00",
+      "day": "2026-10-05",
+      "slot": "10:00",
+      "slug": "google-begins-gemini-skills-workspace-rollout",
+      "title": "Google Begins Gemini Skills Workspace Rollout",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "9cc1c8d62c38dd0d50a494c18cb97200460714d1ed6a3af24db9a0122b4ca425"
+    },
+    {
+      "slot_key": "2026-10-05/08:00",
+      "idempotency_key": "2026-10-05/08:00",
+      "day": "2026-10-05",
+      "slot": "08:00",
+      "slug": "sec-seeks-p120m-broker-dealer-capital-floor",
+      "title": "SEC Seeks ₱120M Broker-Dealer Capital Floor",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Fintech and Banking Tech"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "7c9d8781e6d29491527029e28d9d9ef45c7943cc4d337a5e56afdbc581e3d0b5"
+    },
+    {
+      "slot_key": "2026-10-05/06:00",
+      "idempotency_key": "2026-10-05/06:00",
+      "day": "2026-10-05",
+      "slot": "06:00",
+      "slug": "globe-expands-starlink-roaming-japan-kddi",
+      "title": "Globe Expands Starlink Roaming to Japan",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Telcos and Internet"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "5bf358621cb96a9f05f6f9725a62d510f555fbc99f1a346ef6ffdc6cfa523156"
+    },
+    {
+      "slot_key": "2026-10-04/10:00",
+      "idempotency_key": "2026-10-04/10:00",
+      "day": "2026-10-04",
+      "slot": "10:00",
+      "slug": "apple-plans-stricter-mac-ai-access-controls",
+      "title": "Apple Plans Stricter Mac AI Access Controls",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "efee5acf4199bf7fb46a22806ccf826384e12c512600fca90853681f6d541f51"
+    },
+    {
+      "slot_key": "2026-10-04/08:00",
+      "idempotency_key": "2026-10-04/08:00",
+      "day": "2026-10-04",
+      "slot": "08:00",
+      "slug": "converge-tiktok-shop-launch-sellerplus",
+      "title": "Converge, TikTok Shop Launch SellerPlus",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "E-Commerce"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "a290257827e7144b4d18b61eab0ad2bc0fd9ef433027b5929b059e1795516b47"
+    },
+    {
+      "slot_key": "2026-10-04/06:00",
+      "idempotency_key": "2026-10-04/06:00",
+      "day": "2026-10-04",
+      "slot": "06:00",
+      "slug": "ntc-defends-p100000-daily-telco-fines",
+      "title": "NTC Defends ₱100,000 Daily Telco Fines",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Telcos and Internet"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "934ae0757aec7d3ccf92872bdbeb7bec732e0a76404d0127b64e1554d5a28672"
+    },
+    {
+      "slot_key": "2026-10-03/10:00",
+      "idempotency_key": "2026-10-03/10:00",
+      "day": "2026-10-03",
+      "slot": "10:00",
+      "slug": "microsoft-five-windows-11-preview-builds",
+      "title": "Microsoft Ships Five Windows 11 Preview Builds",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "8f94692c3acc4f88b31606182dd96eda1e18ca6b39be124697355eceb9a44159"
+    },
+    {
+      "slot_key": "2026-10-03/08:00",
+      "idempotency_key": "2026-10-03/08:00",
+      "day": "2026-10-03",
+      "slot": "08:00",
+      "slug": "mynt-sets-gcash-ipo-price-p660",
+      "title": "Mynt Sets GCash IPO Price at ₱6.60",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Fintech and Banking Tech"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "a0382257390b88da038b2a3d882b29aa4b42ea0ec1d1f672fc9f91bda05d111c"
+    },
+    {
+      "slot_key": "2026-10-03/06:00",
+      "idempotency_key": "2026-10-03/06:00",
+      "day": "2026-10-03",
+      "slot": "06:00",
+      "slug": "dict-probes-philippine-submarine-cable-disruption",
+      "title": "DICT Probes Philippine Submarine-Cable Disruption",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Telcos and Internet"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "87bbd53f6cd21ad1464e5b37b9b6b8ed0630646026c7bb24c5b68349319dfd2c"
+    },
+    {
+      "slot_key": "2026-10-02/10:00",
+      "idempotency_key": "2026-10-02/10:00",
+      "day": "2026-10-02",
+      "slot": "10:00",
+      "slug": "ibm-bob-self-hosted-ai-coding-agent",
+      "title": "IBM Bob Moves AI Coding On-Premises",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "b5cebd594c3e929b632fc2489c77b17393bd17ad9f61f71743337ea0a664f367"
+    },
+    {
+      "slot_key": "2026-10-02/08:00",
+      "idempotency_key": "2026-10-02/08:00",
+      "day": "2026-10-02",
+      "slot": "08:00",
+      "slug": "gcash-overnight-payments-maintenance-october-2",
+      "title": "GCash Schedules Overnight Payments Maintenance",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Fintech and Banking Tech"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "4b79658806d8df56d4adcd03fc5dd7cc05e8d3283e117eec59830927703e5db3"
+    },
+    {
+      "slot_key": "2026-10-02/06:00",
+      "idempotency_key": "2026-10-02/06:00",
+      "day": "2026-10-02",
+      "slot": "06:00",
+      "slug": "ntc-draft-refurbished-phone-sellers",
+      "title": "NTC Draft Targets Refurbished Phone Sellers",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Telcos and Internet"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "541370599aec6ac83f5c8f56c2f6ca5b0e620dbf1e2a9e65dedb3bbe67a01260"
+    },
+    {
+      "slot_key": "2026-10-01/10:00",
+      "idempotency_key": "2026-10-01/10:00",
+      "day": "2026-10-01",
+      "slot": "10:00",
+      "slug": "america-gov-ai-us-government-services",
+      "title": "America.gov Brings AI to U.S. Services",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "06f7e3bdc367c9d0e5a7adc199101d468d3f0c934757d3704c96142f1dcde986"
+    },
+    {
+      "slot_key": "2026-10-01/08:00",
+      "idempotency_key": "2026-10-01/08:00",
+      "day": "2026-10-01",
+      "slot": "08:00",
+      "slug": "maybank-ph-drops-dragonpay-option",
+      "title": "Maybank PH Drops Dragonpay Option",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Fintech and Banking Tech"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "eef8ce03c1c0bfb1f0e1c4a3024c4ab440544e5444997c396f07274c3d984b0a"
+    },
+    {
+      "slot_key": "2026-10-01/06:00",
+      "idempotency_key": "2026-10-01/06:00",
+      "day": "2026-10-01",
+      "slot": "06:00",
+      "slug": "filipinos-want-guaranteed-5g-ericsson-study",
+      "title": "Filipinos Want Guaranteed 5G, Ericsson Finds",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Telcos and Internet"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "60106d7bdd4822bef1e1335ea7599b3530e19b50234bb7ca3558357e1a55189d"
+    },
+    {
+      "slot_key": "2026-09-30/10:00",
+      "idempotency_key": "2026-09-30/10:00",
+      "day": "2026-09-30",
+      "slot": "10:00",
+      "slug": "evgo-750kw-fast-charging-system-2027-preview",
+      "title": "EVgo Previews 750-kW Charging for 2027",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Electric Vehicles"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "0440c24a136ba84f29112647990b723a6c6c1697a514226f76ceec3a31180950"
+    },
+    {
+      "slot_key": "2026-09-30/08:00",
+      "idempotency_key": "2026-09-30/08:00",
+      "day": "2026-09-30",
+      "slot": "08:00",
+      "slug": "gcash-us-bank-ewallet-international-transfers",
+      "title": "GCash Adds U.S. Bank Transfers",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "30831683b7ae7dbe6f9c9be2133c4ff5c1a6288337ab3bc4386b2f82cc801af3"
+    },
+    {
+      "slot_key": "2026-09-30/06:00",
+      "idempotency_key": "2026-09-30/06:00",
+      "day": "2026-09-30",
+      "slot": "06:00",
+      "slug": "globe-grab-gfiber-prepaid-wifi-grabmart-expansion",
+      "title": "Globe, Grab Expand App-Ordered WiFi",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "b86e21fa9203e1d7a21d0ecb15f9061366523126fab66d6cce8f1c45972c583e"
+    },
+    {
+      "slot_key": "2026-09-29/10:00",
+      "idempotency_key": "2026-09-29/10:00",
+      "day": "2026-09-29",
+      "slot": "10:00",
+      "slug": "nvidia-open-agent-safety-platform",
+      "title": "NVIDIA Opens New Safety Stack for AI Agents",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "62a6db4872fe2eb2d89b59a7157b907af436c86914f9b929f8d3fc90c9fab4ee"
+    },
+    {
+      "slot_key": "2026-09-29/08:00",
+      "idempotency_key": "2026-09-29/08:00",
+      "day": "2026-09-29",
+      "slot": "08:00",
+      "slug": "amlc-banks-ai-financial-crime-controls",
+      "title": "AMLC Raises the Bar for Banking AI",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "d01da93095220bf1ecb6da246feb33eabefa5c2d1e3f4358dd42cf5397ed80f7"
+    },
+    {
+      "slot_key": "2026-09-29/06:00",
+      "idempotency_key": "2026-09-29/06:00",
+      "day": "2026-09-29",
+      "slot": "06:00",
+      "slug": "ph-data-center-race-power-permits-subsea-links",
+      "title": "PH Data-Center Race Hits Power and Permit Test",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "a298b685236b83e297c8261a06b89e1fdf0674d5ae640f1b687394c77d6e0eba"
+    },
+    {
+      "slot_key": "2026-09-28/10:00",
+      "idempotency_key": "2026-09-28/10:00",
+      "day": "2026-09-28",
+      "slot": "10:00",
+      "slug": "starship-flight-14-first-orbital-test-philippines",
+      "title": "Starship Flight 14 First Orbital Test",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "0a10e40a64315dac37efbde35762756bafa48e2b7fa827448a4bf488ff52598c"
+    },
+    {
+      "slot_key": "2026-09-28/08:00",
+      "idempotency_key": "2026-09-28/08:00",
+      "day": "2026-09-28",
+      "slot": "08:00",
+      "slug": "al-amanah-plans-lgu-financing-2027",
+      "title": "Al-Amanah LGU Financing 2027",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "f7cb26031baeb127fcf6958dc343a066f3833e41af8274f698b560a0585df2b4"
+    },
+    {
+      "slot_key": "2026-09-28/06:00",
+      "idempotency_key": "2026-09-28/06:00",
+      "day": "2026-09-28",
+      "slot": "06:00",
+      "slug": "globe-stronger-august-network-performance",
+      "title": "Globe Stronger August Network Performance",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "9c167ce72bba65810782d96f327742acde86d864ccd98e554be638d22de1e058"
+    },
+    {
+      "slot_key": "2026-09-27/10:00",
+      "idempotency_key": "2026-09-27/10:00",
+      "day": "2026-09-27",
+      "slot": "10:00",
+      "slug": "philsa-trains-2027-rocket-test-cagayan",
+      "title": "PhilSA Trains for 2027 Rocket Test in Cagayan",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "cebcbaa3b32ba0248f2a25955e841c6d6b53a2a579041a9190bb58dfbc195672"
+    },
+    {
+      "slot_key": "2026-09-27/08:00",
+      "idempotency_key": "2026-09-27/08:00",
+      "day": "2026-09-27",
+      "slot": "08:00",
+      "slug": "bir-dec-31-e-invoicing-deadline-e-commerce",
+      "title": "BIR Sets Dec. 31 E-Invoicing Deadline for E-Commerce",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "E-Commerce"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "61887cc2afe3f9acca1d5c33127e7ec93d60c2f72844322b5f9dd070786ac182"
+    },
+    {
+      "slot_key": "2026-09-27/06:00",
+      "idempotency_key": "2026-09-27/06:00",
+      "day": "2026-09-27",
+      "slot": "06:00",
+      "slug": "ntc-fines-dito-globe-smart-poor-ncr-data",
+      "title": "NTC Fines DITO, Globe and Smart for Poor NCR Data",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "2928015a3e838e31937034aa5bd7ca6776bd3cac03efc2c86188b4c37413007b"
+    },
+    {
+      "slot_key": "2026-09-26/10:00",
+      "idempotency_key": "2026-09-26/10:00",
+      "day": "2026-09-26",
+      "slot": "10:00",
+      "slug": "kia-ev3-philippines-launch",
+      "title": "Kia EV3 Officially Launches in PH",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Auto"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "13d3064a1cd4f70545eedf30f16f335b451d0b9ecd54d49c8ed500b6881f213a"
+    },
+    {
+      "slot_key": "2026-09-26/08:00",
+      "idempotency_key": "2026-09-26/08:00",
+      "day": "2026-09-26",
+      "slot": "08:00",
+      "slug": "landbank-india-payment-links",
+      "title": "LANDBANK Eyes India Payment Links",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "f46c52b3a89b5d20d5e81767fce350daa01408e7b7f9fc9028e428a117260d9f"
+    },
+    {
+      "slot_key": "2026-09-26/06:00",
+      "idempotency_key": "2026-09-26/06:00",
+      "day": "2026-09-26",
+      "slot": "06:00",
+      "slug": "dict-probes-possible-dtap-data-exposure",
+      "title": "DICT Probes Possible D-TAP Data Exposure",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "918a0e3529e84a20cfb8836a0e299d8c20f947a402d4731927bc9f3d2d82dfa8"
+    },
+    {
+      "slot_key": "2026-09-25/10:00",
+      "idempotency_key": "2026-09-25/10:00",
+      "day": "2026-09-25",
+      "slot": "10:00",
+      "slug": "xpeng-philippine-launch-x9-l03-september-25",
+      "title": "XPeng Brings X9, L03 to Philippine Debut",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Auto"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "4caea00d813cfdea195da2717e5c19d8f3cf78da42b0f704783979fd809482bb"
+    },
+    {
+      "slot_key": "2026-09-25/08:00",
+      "idempotency_key": "2026-09-25/08:00",
+      "day": "2026-09-25",
+      "slot": "08:00",
+      "slug": "gcash-ipo-20-plus-cornerstone-investors",
+      "title": "GCash IPO Draws 20+ Cornerstone Investors",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "195faf561d89b1ad9618787e419287ed112181abf982afa1fdfa860202721df9"
+    },
+    {
+      "slot_key": "2026-09-25/06:00",
+      "idempotency_key": "2026-09-25/06:00",
+      "day": "2026-09-25",
+      "slot": "06:00",
+      "slug": "pnp-cybersecurity-2026-asean-summit",
+      "title": "PNP Boosts Cybersecurity for ASEAN Summit",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "a08cec3df3ec9296fc4f3571153c7ae0c5760977085a7cd00e3ebfdb360a8cb1"
+    },
+    {
+      "slot_key": "2026-09-24/10:00",
+      "idempotency_key": "2026-09-24/10:00",
+      "day": "2026-09-24",
+      "slot": "10:00",
+      "slug": "ai-leaders-warn-un-runaway-risks",
+      "title": "AI Leaders Warn UN of Runaway Risks",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "7104c76a4461b338a8f49c09466bea4801739822f80a6542ab5738c62b4b12e7"
+    },
+    {
+      "slot_key": "2026-09-24/08:00",
+      "idempotency_key": "2026-09-24/08:00",
+      "day": "2026-09-24",
+      "slot": "08:00",
+      "slug": "bsp-circular-1240-digital-centric-bank-capital-floor",
+      "title": "BSP Sets ₱1B Floor for Digital-Centric Banks",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "f5e83658907d38cbdc3e82c6962d7aeb913de57c35731a8e6e544ec535cdfb5b"
+    },
+    {
+      "slot_key": "2026-09-24/06:00",
+      "idempotency_key": "2026-09-24/06:00",
+      "day": "2026-09-24",
+      "slot": "06:00",
+      "slug": "western-visayas-phased-digital-tv-shift",
+      "title": "Western Visayas Eyes Phased Digital TV Shift",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "01d1e149834f20959f8decf1a0dc50b38fcbdabeff9200a7b8eb209565b3f358"
+    },
+    {
+      "slot_key": "2026-09-23/10:00",
+      "idempotency_key": "2026-09-23/10:00",
+      "day": "2026-09-23",
+      "slot": "10:00",
+      "slug": "cicc-reddit-discord-philippines-ultimatum",
+      "title": "CICC Warns Reddit, Discord of Possible PH Ban",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "ca180564b94d35ab37dd92dd492587734670d191b20f45b873d07834ef81fa5b"
+    },
+    {
+      "slot_key": "2026-09-23/08:00",
+      "idempotency_key": "2026-09-23/08:00",
+      "day": "2026-09-23",
+      "slot": "08:00",
+      "slug": "denr-launches-pinoy-biotech-hub",
+      "title": "DENR Launches Pinoy Biotech Hub",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "10a8b3b72e50df399ec03c0d6927b7d6870fb607f522cab01ded4f3186f064b8"
+    },
+    {
+      "slot_key": "2026-09-23/06:00",
+      "idempotency_key": "2026-09-23/06:00",
+      "day": "2026-09-23",
+      "slot": "06:00",
+      "slug": "ched-ai-rules-philippine-colleges",
+      "title": "CHED Sets AI Rules for Philippine Colleges",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "9166ce12e0d746fd12a50113e2b333efb364ea715bcd4d526cc813614c5bbaf5"
+    },
+    {
+      "slot_key": "2026-09-22/10:00",
+      "idempotency_key": "2026-09-22/10:00",
+      "day": "2026-09-22",
+      "slot": "10:00",
+      "slug": "googlebook-preorders-899-android-gemini",
+      "title": "Googlebook Preorders Open at $899",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Products"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "76e91fefa1f3a4d4a412a74e579ac29248149d9d45dfccf8f0e4fc66169e7e7c"
+    },
+    {
+      "slot_key": "2026-09-22/08:00",
+      "idempotency_key": "2026-09-22/08:00",
+      "day": "2026-09-22",
+      "slot": "08:00",
+      "slug": "ltfrb-less-offline-security-breach",
+      "title": "LTFRB Takes LESS Offline After Breach",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "1b31fdc7264bb426f848678a9b3d3151edeba112093c27c1e4ec78c9560e779d"
+    },
+    {
+      "slot_key": "2026-09-22/06:00",
+      "idempotency_key": "2026-09-22/06:00",
+      "day": "2026-09-22",
+      "slot": "06:00",
+      "slug": "egovph-ai-assistant-kuya-a",
+      "title": "eGovPH Adds AI Assistant Kuya A",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "8385989ce89334be5173788d244e9542a7a36bc12a8a281257c5349a90ee53be"
+    },
+    {
+      "slot_key": "2026-09-21/10:00",
+      "idempotency_key": "2026-09-21/10:00",
+      "day": "2026-09-21",
+      "slot": "10:00",
+      "slug": "ai-firms-lawsuit-alleged-slowdown-deal",
+      "title": "AI Firms Face Lawsuit Over Alleged Slowdown Deal",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "13a07983bf3a68166ca77d3b27659c27c87230486357e02c3e10880e8e7fbfca"
+    },
+    {
+      "slot_key": "2026-09-21/08:00",
+      "idempotency_key": "2026-09-21/08:00",
+      "day": "2026-09-21",
+      "slot": "08:00",
+      "slug": "cicc-dark-web-explained-philippines",
+      "title": "What Is the Dark Web? CICC Explains",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "1a47cf782c32b1a5a0cf1cb16a86ecc15fb58c403f006bec2ac70c3d02ff60d6"
+    },
+    {
+      "slot_key": "2026-09-21/06:00",
+      "idempotency_key": "2026-09-21/06:00",
+      "day": "2026-09-21",
+      "slot": "06:00",
+      "slug": "pax-silica-hub-aeta-land-questions",
+      "title": "Pax Silica Hub Puts Aeta Land in Limbo",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "288c035b43a2dee583dc00346189da5b5fbc2d63a62b1de10161f506eef49466"
+    },
+    {
+      "slot_key": "2026-09-20/10:00",
+      "idempotency_key": "2026-09-20/10:00",
+      "day": "2026-09-20",
+      "slot": "10:00",
+      "slug": "worldskills-shanghai-app-guide",
+      "title": "WorldSkills Shanghai App Guide Goes Live",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "40ff54f01787aa7ec86f4ab89d9f118741586d83c73c7d0bca59c3b1e65e5444"
+    },
+    {
+      "slot_key": "2026-09-20/08:00",
+      "idempotency_key": "2026-09-20/08:00",
+      "day": "2026-09-20",
+      "slot": "08:00",
+      "slug": "green-sm-six-seat-ev-taxi-indonesia",
+      "title": "Green SM Launches Six-Seat EV Taxi in Indonesia",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Auto"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "cc2f01edfcdb309c148959ddeb1cd097594e4590034e7751161a3df331bc91e4"
+    },
+    {
+      "slot_key": "2026-09-20/06:00",
+      "idempotency_key": "2026-09-20/06:00",
+      "day": "2026-09-20",
+      "slot": "06:00",
+      "slug": "dost-philippine-disaster-technology",
+      "title": "DOST Expands Philippine Disaster Tech",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "d6e6948e3e5045994eb9120769364639f2506dea09ba4f96a79408cf542ebd38"
+    },
+    {
+      "slot_key": "2026-09-19/10:00",
+      "idempotency_key": "2026-09-19/10:00",
+      "day": "2026-09-19",
+      "slot": "10:00",
+      "slug": "honor-magicos-11-china-launch",
+      "title": "HONOR Unveils MagicOS 11 in China",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Products"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "a051b3507b6c8422d6561e7073e195736b9057a0e5ff9e051062da28bce9099e"
+    },
+    {
+      "slot_key": "2026-09-19/08:00",
+      "idempotency_key": "2026-09-19/08:00",
+      "day": "2026-09-19",
+      "slot": "08:00",
+      "slug": "bsp-ai-readiness-ph-capital-markets",
+      "title": "BSP Warns PH Capital Markets Need AI Readiness",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "236be68b1d4e5e49ed7bdf626b6cac3fe09b516a0d6834c48a61c4ed796bc6b3"
+    },
+    {
+      "slot_key": "2026-09-19/06:00",
+      "idempotency_key": "2026-09-19/06:00",
+      "day": "2026-09-19",
+      "slot": "06:00",
+      "slug": "asean-shared-ai-digital-trade-rules",
+      "title": "ASEAN Eyes Shared AI and Digital Trade Rules",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "7cd12926a8057a5bbb2ca6dc7255ba7c8a01482994e8e011939474db68941fc0"
+    },
+    {
+      "slot_key": "2026-09-18/10:00",
+      "idempotency_key": "2026-09-18/10:00",
+      "day": "2026-09-18",
+      "slot": "10:00",
+      "slug": "israel-ph-cybersecurity-ai-cooperation",
+      "title": "Israel Offers PH Cybersecurity and AI Expertise",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "48774e9b820aaab5502426f96c816e2bdb5076dcf998ae589c13a62266d2b10f"
+    },
+    {
+      "slot_key": "2026-09-18/08:00",
+      "idempotency_key": "2026-09-18/08:00",
+      "day": "2026-09-18",
+      "slot": "08:00",
+      "slug": "bcremit-billion-remittances-sme-payments",
+      "title": "BCRemit Eyes SME Payments After $1B Milestone",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "e63b4b2fcfa5aad8cfdf3e089816f89a7626bb59a77b77bf6207f9fe4aa7a91a"
+    },
+    {
+      "slot_key": "2026-09-18/06:00",
+      "idempotency_key": "2026-09-18/06:00",
+      "day": "2026-09-18",
+      "slot": "06:00",
+      "slug": "taiwan-expo-2026-philippines-tech-firms",
+      "title": "Taiwan Expo Brings 125 Firms to PH",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "645372bc77d3ce521e9a8c1e3a6a226b8d19dff1213d53e6cfcdc651a11ed738"
+    },
+    {
+      "slot_key": "2026-09-17/10:00",
+      "idempotency_key": "2026-09-17/10:00",
+      "day": "2026-09-17",
+      "slot": "10:00",
+      "slug": "smart-home-wifi-sim-99-philippines",
+      "title": "Smart Home WiFi SIM 99 Offers 2GB for ₱99",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "41ab7d80cab754947894941e5df8b43bf99e156ce5d75621178251ba0043ddaa"
+    },
+    {
+      "slot_key": "2026-09-17/08:00",
+      "idempotency_key": "2026-09-17/08:00",
+      "day": "2026-09-17",
+      "slot": "08:00",
+      "slug": "redmi-note-17-philippines",
+      "title": "Redmi Note 17 Series Launches in PH",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Products"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "446a57dad26f79d6f56771f9cb39cc429d9701544760799c5b496510ca21bbcc"
+    },
+    {
+      "slot_key": "2026-09-17/06:00",
+      "idempotency_key": "2026-09-17/06:00",
+      "day": "2026-09-17",
+      "slot": "06:00",
+      "slug": "hitpay-virtual-accounts-philippines",
+      "title": "HitPay Brings Virtual Accounts to PH SMEs",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "174540524083547b16f618dee99ca0d2445a056ab7b7d9a024d7a6692c0f7935"
+    },
+    {
+      "slot_key": "2026-09-16/10:00",
+      "idempotency_key": "2026-09-16/10:00",
+      "day": "2026-09-16",
+      "slot": "10:00",
+      "slug": "hp-zbook-ultra-g3a-local-ai",
+      "title": "HP Unveils ZBook Ultra G3a for Local AI",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Products"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "fd9ebb8811047181e455f6affa374b9e666f63827ad6769999478d77f73a6d3e"
+    },
+    {
+      "slot_key": "2026-09-16/08:00",
+      "idempotency_key": "2026-09-16/08:00",
+      "day": "2026-09-16",
+      "slot": "08:00",
+      "slug": "dost-showcase-tech-solutions-2026-nstw",
+      "title": "DOST to Showcase Tech Solutions at 2026 NSTW",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "4850ace35a7c913eb2b18511f8734c85a26a1f92ad804b0c42b655d4327cbbd1"
+    },
+    {
+      "slot_key": "2026-09-16/06:00",
+      "idempotency_key": "2026-09-16/06:00",
+      "day": "2026-09-16",
+      "slot": "06:00",
+      "slug": "indian-tech-firms-eye-ph-expansion",
+      "title": "Indian Tech Firms Eye PH Expansion",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "5463f535dd13f46ce81aea77e517a921ea95d135bd50ef73dd9c447c8f696d82"
+    },
+    {
+      "slot_key": "2026-09-15/10:00",
+      "idempotency_key": "2026-09-15/10:00",
+      "day": "2026-09-15",
+      "slot": "10:00",
+      "slug": "anthropic-ai-misuse-report-september-2026",
+      "title": "Anthropic Details Growing AI Misuse Threats",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "77b8e3674d8599e44bf6ecb5b9684a191ecc6b49dfa1ad9f77ec16b1973b6bd7"
+    },
+    {
+      "slot_key": "2026-09-15/08:00",
+      "idempotency_key": "2026-09-15/08:00",
+      "day": "2026-09-15",
+      "slot": "08:00",
+      "slug": "philippines-ai-infrastructure-masterplan-2026",
+      "title": "PH Launches AI Infrastructure Masterplan",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "092069094866003b5e680305e277c0e4837755d1ee57199752d0e7ae1efe8c6e"
+    },
+    {
+      "slot_key": "2026-09-15/06:00",
+      "idempotency_key": "2026-09-15/06:00",
+      "day": "2026-09-15",
+      "slot": "06:00",
+      "slug": "us-defense-tech-startup-ph-production",
+      "title": "US Defense Tech Startup Expands PH Production",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "97114c45ed7b8c7cdebbd7c92b2e66dccddfb2ec302dac68f887be5ea76ec4f5"
+    },
+    {
+      "slot_key": "2026-09-14/10:00",
+      "idempotency_key": "2026-09-14/10:00",
+      "day": "2026-09-14",
+      "slot": "10:00",
+      "slug": "lto-ends-stradcom-computer-fees",
+      "title": "LTO Ends Stradcom Computer Fees",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "787006aabbc498fecdb285b6c5429dfb7e9e1e912b197345b07d2e52b65b88aa"
+    },
+    {
+      "slot_key": "2026-09-14/08:00",
+      "idempotency_key": "2026-09-14/08:00",
+      "day": "2026-09-14",
+      "slot": "08:00",
+      "slug": "globe-gday-promo-gfiber-500-off",
+      "title": "Globe GDay Promo Offers ₱500 Off GFiber",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "cca7bad4b49e985010a80e658ad8015d2087a037eae2f1d3a3f776bae7d06718"
+    },
+    {
+      "slot_key": "2026-09-14/06:00",
+      "idempotency_key": "2026-09-14/06:00",
+      "day": "2026-09-14",
+      "slot": "06:00",
+      "slug": "indian-firms-expand-ph-digital-infrastructure",
+      "title": "Indian Firms Expand PH Digital Infrastructure",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "595b3127cd8bf23edfc81017acbfa8a2e0dd8c96cc9fb4e79e93a12f43c0d157"
+    },
+    {
+      "slot_key": "2026-09-13/10:00",
+      "idempotency_key": "2026-09-13/10:00",
+      "day": "2026-09-13",
+      "slot": "10:00",
+      "slug": "tp-philippines-expands-ai-training-job-applicants",
+      "title": "TP Philippines Expands AI Training for Jobs",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "7ede595264f6b491781ee27d105c4d98905f6b528d6f1de0b71a731c7b3bba31"
+    },
+    {
+      "slot_key": "2026-09-13/08:00",
+      "idempotency_key": "2026-09-13/08:00",
+      "day": "2026-09-13",
+      "slot": "08:00",
+      "slug": "philippines-40000-free-public-internet-sites-2027",
+      "title": "PH Targets 40,000 Free Internet Sites in 2027",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "7ec73a63183b086770e79046b45e63e365ac0c21976f21a557faf315f41f0e9f"
+    },
+    {
+      "slot_key": "2026-09-13/06:00",
+      "idempotency_key": "2026-09-13/06:00",
+      "day": "2026-09-13",
+      "slot": "06:00",
+      "slug": "marcos-india-expertise-ph-railway-space-tech",
+      "title": "Marcos Seeks India Expertise for PH Tech",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "90aac8b57e61b9cd0279da3a27f3909def4aac5a236ce86346b36b887fd17cca"
+    },
+    {
+      "slot_key": "2026-09-12/10:00",
+      "idempotency_key": "2026-09-12/10:00",
+      "day": "2026-09-12",
+      "slot": "10:00",
+      "slug": "nvidia-skild-ai-physical-ai-robot-tasks-video",
+      "title": "NVIDIA Teaches Robots New Tasks From One Video",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "0a95b4b8a01e2b6ec79eaa131265a4e6866e99a82c05b10f582c57bfdc068eb4"
+    },
+    {
+      "slot_key": "2026-09-12/08:00",
+      "idempotency_key": "2026-09-12/08:00",
+      "day": "2026-09-12",
+      "slot": "08:00",
+      "slug": "eu-spain-join-luzon-economic-corridor",
+      "title": "EU, Spain Join Luzon Economic Corridor",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "ad860c044d6ed992aa0e5cc2dbfb6fc9d52c27e6fb6439f88daacc2c61d8465f"
+    },
+    {
+      "slot_key": "2026-09-12/06:00",
+      "idempotency_key": "2026-09-12/06:00",
+      "day": "2026-09-12",
+      "slot": "06:00",
+      "slug": "james-dyson-award-philippines-winner-september-16",
+      "title": "James Dyson Award to Name PH Winner Sept. 16",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "af66303fc9bbd7198f82f7f1bee585dd8105a7b265cb760a795ae809f089ac00"
+    },
+    {
+      "slot_key": "2026-09-11/10:00",
+      "idempotency_key": "2026-09-11/10:00",
+      "day": "2026-09-11",
+      "slot": "10:00",
+      "slug": "apple-watch-series-12-health-sensing-system",
+      "title": "Apple Watch Series 12 Adds Health Sensing",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "c30f6fbbe8fda63a390db802c43bc4ba36c14fa348a4a5378f6505b06c7c8583"
+    },
+    {
+      "slot_key": "2026-09-11/08:00",
+      "idempotency_key": "2026-09-11/08:00",
+      "day": "2026-09-11",
+      "slot": "08:00",
+      "slug": "capcut-660-million-users-capcut-world-2026",
+      "title": "CapCut Passes 660 Million Users",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "4009d6b773a48be7b7a0eb3794d233891d8adcdd827a88780357ccfd01432fbd"
+    },
+    {
+      "slot_key": "2026-09-11/06:00",
+      "idempotency_key": "2026-09-11/06:00",
+      "day": "2026-09-11",
+      "slot": "06:00",
+      "slug": "pleased-com-philippine-headquarters-bgc",
+      "title": "Pleased.com Opens Philippine Headquarters",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "f331367dd87bb8cb70884add26821bdac6bfcf43a2d1185f8725f9c15b5b094f"
+    },
+    {
+      "slot_key": "2026-09-10/10:00",
+      "idempotency_key": "2026-09-10/10:00",
+      "day": "2026-09-10",
+      "slot": "10:00",
+      "slug": "whoscall-anti-scam-business-alliance-philippines",
+      "title": "Whoscall Builds Anti-Scam Business Alliance",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "fcd5099e755bd41db78cc024dd7614d5d0b70ca39b0984d378f7e0657fda5af8"
+    },
+    {
+      "slot_key": "2026-09-10/08:00",
+      "idempotency_key": "2026-09-10/08:00",
+      "day": "2026-09-10",
+      "slot": "08:00",
+      "slug": "tm-25th-anniversary-rewards-promos",
+      "title": "TM Marks 25 Years With New Rewards",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "5dc7c56aa2dc976a3a30a743e07c8aef129b6cc1e8591852c2a0d90d509f4ffb"
+    },
+    {
+      "slot_key": "2026-09-10/06:00",
+      "idempotency_key": "2026-09-10/06:00",
+      "day": "2026-09-10",
+      "slot": "06:00",
+      "slug": "apple-iphone-duo-foldable-smartphone",
+      "title": "Apple Unveils Foldable iPhone Duo",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "8c8afa1b078f10e6e69204bf9eafe64e4363e6a294f9905191ac836d1cd5f487"
+    },
+    {
+      "slot_key": "2026-09-09/10:00",
+      "idempotency_key": "2026-09-09/10:00",
+      "day": "2026-09-09",
+      "slot": "10:00",
+      "slug": "philippines-ai-masterplan-34-4-billion-investment",
+      "title": "PH AI Plan Targets $34.4B Investment",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "be422d55e1d477fcf1de5d450e620e774059e56bc290c3754d83cdabfab7642a"
+    },
+    {
+      "slot_key": "2026-09-09/08:00",
+      "idempotency_key": "2026-09-09/08:00",
+      "day": "2026-09-09",
+      "slot": "08:00",
+      "slug": "dict-social-media-regulation-bill-philippines",
+      "title": "DICT Backs Stricter Social Media Rules",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "b6b0bb7337e23953eb24c6fe0d32b27344ac9d50dff35b8825512732f8cad4ed"
+    },
+    {
+      "slot_key": "2026-09-09/06:00",
+      "idempotency_key": "2026-09-09/06:00",
+      "day": "2026-09-09",
+      "slot": "06:00",
+      "slug": "philippines-broadband-costs-escap-2026",
+      "title": "PH Broadband Costs Draw ESCAP Concern",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "7efe12714a26ccaf0df679d31208edc529b863c2192fb4f3b0d55cb2b3582bb2"
+    },
+    {
+      "slot_key": "2026-09-08/10:00",
+      "idempotency_key": "2026-09-08/10:00",
+      "day": "2026-09-08",
+      "slot": "10:00",
+      "slug": "lenovo-legion-quiccs-collectible-promo-philippines",
+      "title": "Lenovo Legion, Quiccs Reveal PH Collectible",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "061d7fadbc05f8db2154401e5ef6d33f0f612947fedc15503e394f316c2a1441"
+    },
+    {
+      "slot_key": "2026-09-08/08:00",
+      "idempotency_key": "2026-09-08/08:00",
+      "day": "2026-09-08",
+      "slot": "08:00",
+      "slug": "asus-rog-laptops-free-google-ai-plans-philippines",
+      "title": "ASUS, ROG Laptops Get Free Google AI Plans",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "04a2b8aa620adc24a5ab51809b4df325c1f129f9c615dbbfcd1d68d1504db220"
+    },
+    {
+      "slot_key": "2026-09-08/06:00",
+      "idempotency_key": "2026-09-08/06:00",
+      "day": "2026-09-08",
+      "slot": "06:00",
+      "slug": "infinix-xpad-30-pro-philippines-launch",
+      "title": "Infinix XPAD 30 Pro Launches in PH",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "5fc00dafc67a7ec2e2f9b6ad92ec975b0150aae86a88af4ecbc065c3484ab97c"
+    },
+    {
+      "slot_key": "legacy/2026-09-07/gcash-digital-tax-refund-16-countries",
+      "idempotency_key": "legacy/2026-09-07/gcash-digital-tax-refund-16-countries",
+      "day": "2026-09-07",
+      "slot": "legacy",
+      "slug": "gcash-digital-tax-refund-16-countries",
+      "title": "GCash Brings Digital Tax Refunds to Travelers",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "E-Commerce"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "8ed3e75de699f4075311aeb8e74a73f67afad051941b033d730e079c211a9c61"
+    },
+    {
+      "slot_key": "2026-09-07/10:00",
+      "idempotency_key": "2026-09-07/10:00",
+      "day": "2026-09-07",
+      "slot": "10:00",
+      "slug": "xiaomi-18-fold-launch-china-september-7",
+      "title": "Xiaomi 18 Fold Launches With Compact Outer Screen",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "a76d8cd6f87995f23d4a62029d83c441f8337e371ef48e393676a83cf8735935"
+    },
+    {
+      "slot_key": "2026-09-07/06:00",
+      "idempotency_key": "2026-09-07/06:00",
+      "day": "2026-09-07",
+      "slot": "06:00",
+      "slug": "honor-magic-v6-sale-philippines",
+      "title": "HONOR Magic V6 Now on Sale in the Philippines",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "E-Commerce",
+        "Products"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "55b56333c36cf214b31a977b16c882eaafb4148bc18737516162b679091b4b6b"
+    },
+    {
+      "slot_key": "2026-09-06/10:00",
+      "idempotency_key": "2026-09-06/10:00",
+      "day": "2026-09-06",
+      "slot": "10:00",
+      "slug": "google-ai-plus-free-philippine-students",
+      "title": "Google Gives PH Students Free AI Plus for a Year",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "eb59c5f7fd4f4039bbb13922f4d79fbc5a9a77afda3c6822f469e201237a5cd8"
+    },
+    {
+      "slot_key": "2026-09-06/08:00",
+      "idempotency_key": "2026-09-06/08:00",
+      "day": "2026-09-06",
+      "slot": "08:00",
+      "slug": "gcash-gsukli-digital-change-bench-philippines",
+      "title": "GCash GSukli Turns Loose Change Digital",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "E-Commerce",
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "66a69da8dc8087525940768f0df641c89a1fda44c689c66d9862d9ed07d183cc"
+    },
+    {
+      "slot_key": "2026-09-06/06:00",
+      "idempotency_key": "2026-09-06/06:00",
+      "day": "2026-09-06",
+      "slot": "06:00",
+      "slug": "smart-5g-max-home-wifi-p2995-promo",
+      "title": "Smart 5G Max Home WiFi Drops to P2,995",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "E-Commerce",
+        "Products"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "081dcba93cb7e39c1ddb747f5954f4984706911a459f5c7d6b94a02247dfe457"
+    },
+    {
+      "slot_key": "2026-09-05/10:00",
+      "idempotency_key": "2026-09-05/10:00",
+      "day": "2026-09-05",
+      "slot": "10:00",
+      "slug": "acer-epaper-monitor-5g-devices-ifa-2026",
+      "title": "Acer Unveils ePaper Monitor and 5G Devices",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "E-Commerce",
+        "Products"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "12479bc419645954882c2fad8c173f0b6380e193f65c843d52924cdb0e40bbde"
+    },
+    {
+      "slot_key": "2026-09-05/08:00",
+      "idempotency_key": "2026-09-05/08:00",
+      "day": "2026-09-05",
+      "slot": "08:00",
+      "slug": "xppen-magic-pro-13-ifa-2026",
+      "title": "XPPen Magic Pro 13 Goes Official at IFA",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "E-Commerce",
+        "Products"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "c9cdf580e534a897b73f6c5c1ee0a6ccb5077b9c694bddd2f168d8df3a1adba1"
+    },
+    {
+      "slot_key": "2026-09-05/06:00",
+      "idempotency_key": "2026-09-05/06:00",
+      "day": "2026-09-05",
+      "slot": "06:00",
+      "slug": "ph-semiconductor-roadmap-investor-facilitation",
+      "title": "PH Launches New Semiconductor Roadmap",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "c0e8e5b16471bc4d020575eb4dadb97c1c1eea6c911f50f68b7fee374af76edd"
+    },
+    {
+      "slot_key": "2026-09-04/10:00",
+      "idempotency_key": "2026-09-04/10:00",
+      "day": "2026-09-04",
+      "slot": "10:00",
+      "slug": "paymongo-skyro-digital-payments-credit-philippines",
+      "title": "PayMongo, Skyro Link Credit to Digital Payments",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "E-Commerce"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "451e09166f21e9a9b27f61052b59b90d8bc21507996027a9ad09d350c977ae97"
+    },
+    {
+      "slot_key": "2026-09-04/08:00",
+      "idempotency_key": "2026-09-04/08:00",
+      "day": "2026-09-04",
+      "slot": "08:00",
+      "slug": "dict-asean-big-tech-accountability-philippines",
+      "title": "DICT Pushes ASEAN Big Tech Accountability",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "514451f7463887eb425d2dddf39e30cdb6a1c84e5b63a7a0e76b1ec6f1ce97b1"
+    },
+    {
+      "slot_key": "2026-09-04/06:00",
+      "idempotency_key": "2026-09-04/06:00",
+      "day": "2026-09-04",
+      "slot": "06:00",
+      "slug": "cmf-clip-pro-philippines-price",
+      "title": "CMF Clip Pro Arrives in PH for PHP 5,990",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "E-Commerce",
+        "Products"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "a8d523118e44adc1a0c60a40f2a8fdc23bc6094978f4b5cfddee461b1bf9c79e"
+    },
+    {
+      "slot_key": "2026-09-03/10:00",
+      "idempotency_key": "2026-09-03/10:00",
+      "day": "2026-09-03",
+      "slot": "10:00",
+      "slug": "dlsu-gcash-fintech-engineering-elective",
+      "title": "DLSU, GCash Launch Fintech Engineering Elective",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "c82d1b06864299be40aa51c11982842421f37b14ea4e7aa2ed4ea27f502a83c7"
+    },
+    {
+      "slot_key": "2026-09-03/08:00",
+      "idempotency_key": "2026-09-03/08:00",
+      "day": "2026-09-03",
+      "slot": "08:00",
+      "slug": "samsung-portable-ssd-p7-4000-mbps",
+      "title": "Samsung Portable SSD P7 Hits 4,000 MB/s",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "c86e0fa68318a03085821b70c01dad6ae509292377281dcf491403423613832c"
+    },
+    {
+      "slot_key": "2026-09-03/06:00",
+      "idempotency_key": "2026-09-03/06:00",
+      "day": "2026-09-03",
+      "slot": "06:00",
+      "slug": "redmi-note-17-series-philippines-september-15",
+      "title": "REDMI Note 17 Series Coming to PH Sept. 15",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "1706a542541890ea8158bb7cb33fd5a1997e709b4e3c4b41fff7d0dea6984587"
+    },
+    {
+      "slot_key": "2026-09-02/10:00",
+      "idempotency_key": "2026-09-02/10:00",
+      "day": "2026-09-02",
+      "slot": "10:00",
+      "slug": "qr-ph-alipay-plus-cross-border-payments",
+      "title": "QR Ph Opens Payments to Alipay+ Users",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "bff7bf61e04310050a1f99862af163db338450f3f065d1f7b512309785cf6ebf"
+    },
+    {
+      "slot_key": "2026-09-02/08:00",
+      "idempotency_key": "2026-09-02/08:00",
+      "day": "2026-09-02",
+      "slot": "08:00",
+      "slug": "tp-link-wifi-8-archer-deco-philippines",
+      "title": "TP-Link Unveils Wi-Fi 8 Router Lineup",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "74cb6f9baa95bb08cf29ca5099176a6650ed31bf4ee02521964eee46d94c95a5"
+    },
+    {
+      "slot_key": "2026-09-02/06:00",
+      "idempotency_key": "2026-09-02/06:00",
+      "day": "2026-09-02",
+      "slot": "06:00",
+      "slug": "poco-f9-series-launches-philippines",
+      "title": "POCO F9 Series Launches in the Philippines",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "ed44c25037d884de4abdd1819a359052f30fd72621c515d9c9836d1f877ed4f5"
+    },
+    {
+      "slot_key": "2026-09-01/10:00",
+      "idempotency_key": "2026-09-01/10:00",
+      "day": "2026-09-01",
+      "slot": "10:00",
+      "slug": "lenovo-legion-y700-ai-tablet-philippines",
+      "title": "Lenovo Legion Y700 AI Packs 165Hz OLED",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "c4a9dc1cd26ab927530dae62fc8dfca6f3984e0503ef8cd22875b3f81e6e9f55"
+    },
+    {
+      "slot_key": "2026-09-01/08:00",
+      "idempotency_key": "2026-09-01/08:00",
+      "day": "2026-09-01",
+      "slot": "08:00",
+      "slug": "meta-roblox-philippines-child-safety-measures",
+      "title": "Meta, Roblox Agree to Protect PH Minors",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "3767054de2d461aadbe8c5091e56280266f9b715a2494736f4d44ee5a321181f"
+    },
+    {
+      "slot_key": "2026-09-01/06:00",
+      "idempotency_key": "2026-09-01/06:00",
+      "day": "2026-09-01",
+      "slot": "06:00",
+      "slug": "meta-philippine-office-online-safety",
+      "title": "Meta Plans Philippine Office for Faster Action",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "4952a8d4d83471688964eff44bb0eb9bdaf907c7b8164861fa97b2e502bb65e4"
+    },
+    {
+      "slot_key": "2026-08-31/10:00",
+      "idempotency_key": "2026-08-31/10:00",
+      "day": "2026-08-31",
+      "slot": "10:00",
+      "slug": "xiaomi-smart-privacy-display-hyperos",
+      "title": "Xiaomi Tests Smart Privacy Display",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "fd4c61497e32a6b034ebff88d8ee1b493351ae3f54041b846759e90e77f73de3"
+    },
+    {
+      "slot_key": "2026-08-31/08:00",
+      "idempotency_key": "2026-08-31/08:00",
+      "day": "2026-08-31",
+      "slot": "08:00",
+      "slug": "deped-microsoft-copilot-one-million-teachers",
+      "title": "DepEd Gives Copilot to 1M Teachers",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "e1f506eb2606ab514d8d353dae5c09757c3a6ed768937db6ae8b478c9cb26a53"
+    },
+    {
+      "slot_key": "2026-08-31/06:00",
+      "idempotency_key": "2026-08-31/06:00",
+      "day": "2026-08-31",
+      "slot": "06:00",
+      "slug": "whatsapp-scam-alert-on-device-philippines",
+      "title": "WhatsApp Tests On-Device Scam Alerts",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "09c4c39298b031cf15a975e6f7e7e093beb52d3cc6899ca3240cf898f4f1b1d1"
+    },
+    {
+      "slot_key": "2026-08-29/10:00",
+      "idempotency_key": "2026-08-29/10:00",
+      "day": "2026-08-29",
+      "slot": "10:00",
+      "slug": "gcash-tap-to-pay-iphone-ios-philippines",
+      "title": "GCash Tap-to-Pay Reaches iPhone Users",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "eba66b619c765830533cb106218e87c638ed02e039e7bc9377e35c3160ec261b"
+    },
+    {
+      "slot_key": "2026-08-29/08:00",
+      "idempotency_key": "2026-08-29/08:00",
+      "day": "2026-08-29",
+      "slot": "08:00",
+      "slug": "apple-ternus-era-iphone-event-september-2026",
+      "title": "Apple Sets First Ternus-Era iPhone Event",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "12aace2f0d2e3bc9ade383f627b65a82bc50048522c86efa2d4713e09e9c23b7"
+    },
+    {
+      "slot_key": "2026-08-29/06:00",
+      "idempotency_key": "2026-08-29/06:00",
+      "day": "2026-08-29",
+      "slot": "06:00",
+      "slug": "garmin-fenix-9-philippines-september-16",
+      "title": "Garmin Fenix 9 Launches in PH on Sept. 16",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "825d9c895f7f3b8bbeec3a0dc0bcbb8f3af2391ead64e2ba573b69c82f46d313"
+    },
+    {
+      "slot_key": "2026-08-28/10:00",
+      "idempotency_key": "2026-08-28/10:00",
+      "day": "2026-08-28",
+      "slot": "10:00",
+      "slug": "samsung-galaxy-s26-fe-philippines-price",
+      "title": "Samsung Galaxy S26 FE Now Official in PH",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "161d8d5545d00e1cdf5c4cf58abf61289389702289402e8d06c5f06dcbcdca2a"
+    },
+    {
+      "slot_key": "2026-08-28/08:00",
+      "idempotency_key": "2026-08-28/08:00",
+      "day": "2026-08-28",
+      "slot": "08:00",
+      "slug": "viber-in-app-esim-philippines",
+      "title": "Viber Launches In-App eSIM in the Philippines",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "643bee58cb91e16def5b966763bce49ce9049220d5132bd9b254fb21303759b4"
+    },
+    {
+      "slot_key": "2026-08-28/06:00",
+      "idempotency_key": "2026-08-28/06:00",
+      "day": "2026-08-28",
+      "slot": "06:00",
+      "slug": "converge-angeles-data-center-green-lane",
+      "title": "Converge Gets Green Lane for Angeles Data Center",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "842e3320f03fe4d7750d05bbc21f18c642f8b0d4658518c3f64c5a862ddc3051"
+    },
+    {
+      "slot_key": "2026-08-27/10:00",
+      "idempotency_key": "2026-08-27/10:00",
+      "day": "2026-08-27",
+      "slot": "10:00",
+      "slug": "samsung-galaxy-event-august-27-2026",
+      "title": "Samsung Sets Galaxy Event for Tonight",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "b3038675961a56f8dfc2fdfa7cd25707de8cc4be25c6dba4ab3edc13bd62494a"
+    },
+    {
+      "slot_key": "2026-08-27/08:00",
+      "idempotency_key": "2026-08-27/08:00",
+      "day": "2026-08-27",
+      "slot": "08:00",
+      "slug": "philippines-agentic-ai-businesses-production",
+      "title": "PH Firms Move Agentic AI Into Production",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "f0d231f363b7409faaf0b2a0d6e81923d8736a8191c550fed0d37452eb759194"
+    },
+    {
+      "slot_key": "2026-08-27/06:00",
+      "idempotency_key": "2026-08-27/06:00",
+      "day": "2026-08-27",
+      "slot": "06:00",
+      "slug": "pax-silica-philippines-technology-transfer",
+      "title": "Pax Silica Deal Faces Tech Transfer Call",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "e7b806dc450d6c8404ae3936cdcda5d681249dfeb02cc7137e9dbc739f33b832"
+    },
+    {
+      "slot_key": "2026-08-26/10:00",
+      "idempotency_key": "2026-08-26/10:00",
+      "day": "2026-08-26",
+      "slot": "10:00",
+      "slug": "grabcoins-philippines-rides-food-payments",
+      "title": "GrabCoins Expand Across Rides, Food, and Pay",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "c7a2d28b8db1455b4db9a5eaf78abec0f9a8c7e95370fed081903d61de145e09"
+    },
+    {
+      "slot_key": "2026-08-26/08:00",
+      "idempotency_key": "2026-08-26/08:00",
+      "day": "2026-08-26",
+      "slot": "08:00",
+      "slug": "gcash-ignite-2026-ai-cybersecurity-philippines",
+      "title": "GCash iGnite Puts AI and Cybersecurity First",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "a85e9e61ea895ff0c915e44ec25e0451eb69ec008a3ad136a018d1d4970c01c2"
+    },
+    {
+      "slot_key": "2026-08-26/06:00",
+      "idempotency_key": "2026-08-26/06:00",
+      "day": "2026-08-26",
+      "slot": "06:00",
+      "slug": "dost-300m-ai-data-centers-philippines",
+      "title": "DOST Earmarks PHP 300M for AI Data Centers",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "8b247f5698dfc4b60aae98c2453735c35286ef36dea932d61d011e961604cc3c"
+    },
+    {
+      "slot_key": "2026-08-25/10:00",
+      "idempotency_key": "2026-08-25/10:00",
+      "day": "2026-08-25",
+      "slot": "10:00",
+      "slug": "sony-xperia-10-viii-launch-august-25",
+      "title": "Sony Xperia 10 VIII Launches Today",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "f30fb2bb6a1b34c74962187bb856f6b726d9f72b8f8e6aaebfe16af2da26e054"
+    },
+    {
+      "slot_key": "2026-08-25/08:00",
+      "idempotency_key": "2026-08-25/08:00",
+      "day": "2026-08-25",
+      "slot": "08:00",
+      "slug": "gcash-face-verification-gloan-scam-insurance",
+      "title": "GCash Adds Face Verification for GLoan",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "8a6a50571c0b9feb50c6e0903d4b3152ca9736390b1f1708e0f9c743e1a109da"
+    },
+    {
+      "slot_key": "2026-08-25/06:00",
+      "idempotency_key": "2026-08-25/06:00",
+      "day": "2026-08-25",
+      "slot": "06:00",
+      "slug": "bsp-rural-banks-cloud-banking-upgrade",
+      "title": "BSP to Help Rural Banks Upgrade Systems",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "ed678d10dea083862283311eed395198deb6595d8f75a2991b31118c87845dea"
+    },
+    {
+      "slot_key": "2026-08-24/10:00",
+      "idempotency_key": "2026-08-24/10:00",
+      "day": "2026-08-24",
+      "slot": "10:00",
+      "slug": "samsung-stretchable-oled-display-20-inch",
+      "title": "Samsung Shows Off Stretchable OLED Displays",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "410b75e8892c1d26d8dba92e6f37c10e0aba01ee47bf1d656777fe5a97e9e90d"
+    },
+    {
+      "slot_key": "2026-08-24/08:00",
+      "idempotency_key": "2026-08-24/08:00",
+      "day": "2026-08-24",
+      "slot": "08:00",
+      "slug": "digital-banking-philippines-resilience-trust-credit",
+      "title": "Digital Banking Faces Its Next PH Test",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "54aab304883a9ac19a50b07f5e75894133fc8b7f9a5bbd6310e5522888a9887a"
+    },
+    {
+      "slot_key": "2026-08-24/06:00",
+      "idempotency_key": "2026-08-24/06:00",
+      "day": "2026-08-24",
+      "slot": "06:00",
+      "slug": "techlife-pad-mini-philippines-launch",
+      "title": "TechLife Pad Mini Launches in the Philippines",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "668471c535e32008e89b27e2af51304ca8404ef287054121b28afb06f1aead70"
+    },
+    {
+      "slot_key": "2026-08-23/10:00",
+      "idempotency_key": "2026-08-23/10:00",
+      "day": "2026-08-23",
+      "slot": "10:00",
+      "slug": "phlpost-warns-smishing-scam-philippines",
+      "title": "PHLPost Warns Public About Smishing Scams",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "7e237ff7eb56cc27871eafde7e29df83d6cfa98b4a4190edc7eb29ce4594d74e"
+    },
+    {
+      "slot_key": "2026-08-23/08:00",
+      "idempotency_key": "2026-08-23/08:00",
+      "day": "2026-08-23",
+      "slot": "08:00",
+      "slug": "ust-ecloudvalley-enterprise-ai-philippines",
+      "title": "UST, eCloudvalley Push Enterprise AI in PH",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "74dd15a08dbbfba501dc59ab0fac3e11ccb8899f6561da12763a57d74beaf22e"
+    },
+    {
+      "slot_key": "2026-08-23/06:00",
+      "idempotency_key": "2026-08-23/06:00",
+      "day": "2026-08-23",
+      "slot": "06:00",
+      "slug": "nothing-os-5-0-august-25-philippines",
+      "title": "Nothing OS 5.0 Arrives on August 25",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "533e209b63c95656185530b04aa1b2f3e6cbdb9ab24b615ad44d28f59813b99f"
+    },
+    {
+      "slot_key": "2026-08-22/10:00",
+      "idempotency_key": "2026-08-22/10:00",
+      "day": "2026-08-22",
+      "slot": "10:00",
+      "slug": "huawei-pura-90s-series-philippines-price-availability-2",
+      "title": "HUAWEI Pura 90s Series Now Available in the Philippines",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "f9359b6d1ce599a7e240d4e0c2669b678731c4976ffbc490f3acb57904e7a74a"
+    },
+    {
+      "slot_key": "2026-08-22/08:00",
+      "idempotency_key": "2026-08-22/08:00",
+      "day": "2026-08-22",
+      "slot": "08:00",
+      "slug": "samsung-galaxy-watch-ultra2-watch9-philippines-price-2",
+      "title": "Samsung Unveils Galaxy Watch Ultra2 & Watch9 in PH",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "a316983c9bbce5b80af5854c4940e49c1f0ce71bab2e6a8b687d14c17d6c4ae7"
+    },
+    {
+      "slot_key": "2026-08-22/06:00",
+      "idempotency_key": "2026-08-22/06:00",
+      "day": "2026-08-22",
+      "slot": "06:00",
+      "slug": "honor-magic-v6-philippines-launch-date-2",
+      "title": "HONOR Magic V6 Set to Launch in PH on August 24",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "a607d2660e5940c8145c00b270b6268f7e06df04b4718a66bf1b35178c444e1c"
+    },
+    {
+      "slot_key": "2026-08-21/10:00",
+      "idempotency_key": "2026-08-21/10:00",
+      "day": "2026-08-21",
+      "slot": "10:00",
+      "slug": "philippines-us-ai-semiconductor-partnership-2026",
+      "title": "PH Joins U.S.-led AI & Semiconductor Push",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "002018b4dcdf7bfbe034a16f3ff3f47575fe70deda46b89af534cd84ac997613"
+    },
+    {
+      "slot_key": "2026-08-21/08:00",
+      "idempotency_key": "2026-08-21/08:00",
+      "day": "2026-08-21",
+      "slot": "08:00",
+      "slug": "samsung-galaxy-early-bird-promo-philippines-2026",
+      "title": "Samsung PH Launches Galaxy Early-Bird Promo",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "3fecc9c803f6c4c47b273c250fc255600717fddb5b9dc0723debcf687a7ac111"
+    },
+    {
+      "slot_key": "2026-08-21/06:00",
+      "idempotency_key": "2026-08-21/06:00",
+      "day": "2026-08-21",
+      "slot": "06:00",
+      "slug": "oppo-reno16-5g-philippines-price-availability",
+      "title": "OPPO Reno16 5G Series Now Available in PH",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "d67478d694e765c1ddfa4d4079fe19b8c563638786f2108a773d6d63b6c8f1ec"
+    },
+    {
+      "slot_key": "legacy/2026-08-20/ph-digital-payments",
+      "idempotency_key": "legacy/2026-08-20/ph-digital-payments",
+      "day": "2026-08-20",
+      "slot": "legacy",
+      "slug": "ph-digital-payments",
+      "title": "PH Digital Payments Hit 64.7% Milestone",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "718dcb47376aac3785382a1825e31a955b017b7c49f20fb1b8890d7f01dbc20a"
+    },
+    {
+      "slot_key": "legacy/2026-08-20/digital-walker-20th-anniversary-event-glorietta",
+      "idempotency_key": "legacy/2026-08-20/digital-walker-20th-anniversary-event-glorietta",
+      "day": "2026-08-20",
+      "slot": "legacy",
+      "slug": "digital-walker-20th-anniversary-event-glorietta",
+      "title": "Digital Walker Celebrates 20 Years at Glorietta",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "35787f39b4e437d4bb0474d8245d384e8e977efdea04316d402fadfcbf232898"
+    },
+    {
+      "slot_key": "2026-08-20/10:00",
+      "idempotency_key": "2026-08-20/10:00",
+      "day": "2026-08-20",
+      "slot": "10:00",
+      "slug": "bpi-gogolook-partnership-digital-scam-protection",
+      "title": "BPI and Gogolook Partner to Fight Digital Fraud",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "cd8a51216a94b911a97b09104618ea700f544a3a3ee556f4cfcd874f831ce0fc"
+    },
+    {
+      "slot_key": "legacy/2026-08-19/samsung-galaxy-z-fold8-review-philippines",
+      "idempotency_key": "legacy/2026-08-19/samsung-galaxy-z-fold8-review-philippines",
+      "day": "2026-08-19",
+      "slot": "legacy",
+      "slug": "samsung-galaxy-z-fold8-review-philippines",
+      "title": "Samsung Galaxy Z Fold8 Review: The Ultimate Foldable?",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "53c345ffabf5de9f5c8ef51370b01755245119f916df0ebf0da8f8ae86a35edf"
+    },
+    {
+      "slot_key": "legacy/2026-08-19/mass-credential-breach-philippines-2026",
+      "idempotency_key": "legacy/2026-08-19/mass-credential-breach-philippines-2026",
+      "day": "2026-08-19",
+      "slot": "legacy",
+      "slug": "mass-credential-breach-philippines-2026",
+      "title": "Mass Credential Breach Hits 19.2M Filipinos",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "395839441449ca08d3f9d1f4d722a4189a52994ac35c95e60a00914671369ff4"
+    },
+    {
+      "slot_key": "2026-08-19/10:00",
+      "idempotency_key": "2026-08-19/10:00",
+      "day": "2026-08-19",
+      "slot": "10:00",
+      "slug": "dji-store-sm-city-sta-mesa-opening",
+      "title": "DJI Opens New Authorised Store at SM City Sta. Mesa",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "fbecea9ef02960d721dd2f6044120515ef36d6f2610696be849094845a785401"
+    },
+    {
+      "slot_key": "legacy/2026-08-18/realme-16t-philippines-launch-teaser",
+      "idempotency_key": "legacy/2026-08-18/realme-16t-philippines-launch-teaser",
+      "day": "2026-08-18",
+      "slot": "legacy",
+      "slug": "realme-16t-philippines-launch-teaser",
+      "title": "Realme 16T to Launch Soon in the Philippines",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "8b2d3986c3ac70aa7c0424064038bf8667d1e4b2e4f4b1e791cc193da8628685"
+    },
+    {
+      "slot_key": "legacy/2026-08-18/gcash-card-filipino-travelers-benefits",
+      "idempotency_key": "legacy/2026-08-18/gcash-card-filipino-travelers-benefits",
+      "day": "2026-08-18",
+      "slot": "legacy",
+      "slug": "gcash-card-filipino-travelers-benefits",
+      "title": "Why the GCash Card is a Travel Essential for Pinoys",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "566382346d2ce886449a4b781e679835b0df71998771c812d6dbdef78ae29975"
+    },
+    {
+      "slot_key": "2026-08-18/10:00",
+      "idempotency_key": "2026-08-18/10:00",
+      "day": "2026-08-18",
+      "slot": "10:00",
+      "slug": "tcl-c7l-sqd-mini-led-tv-philippines-launch",
+      "title": "TCL Unveils C7L SQD Mini LED TV in PH",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "e2bf2f9448fb580c1b350f85b99f12f4c21a479e5caa352e7e01fcb0e9e1b9b8"
+    },
+    {
+      "slot_key": "legacy/2026-08-17/samsung-activision-call-of-duty-modern-warfare-4",
+      "idempotency_key": "legacy/2026-08-17/samsung-activision-call-of-duty-modern-warfare-4",
+      "day": "2026-08-17",
+      "slot": "legacy",
+      "slug": "samsung-activision-call-of-duty-modern-warfare-4",
+      "title": "Samsung Partners with Activision for Call of Duty MW4",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "93cdd19669d39966a3966f42a173d0d8e0afa23ef0737db28db0c239fa154393"
+    },
+    {
+      "slot_key": "legacy/2026-08-17/concentrix-ai-solutions-philippines-launch",
+      "idempotency_key": "legacy/2026-08-17/concentrix-ai-solutions-philippines-launch",
+      "day": "2026-08-17",
+      "slot": "legacy",
+      "slug": "concentrix-ai-solutions-philippines-launch",
+      "title": "Concentrix Rolls Out AI Solutions in PH",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "8fd52d68747f4f9b8528a8b35ef5d7bd12bff3b03264098920e9ec9048bb50d7"
+    },
+    {
+      "slot_key": "2026-08-17/10:00",
+      "idempotency_key": "2026-08-17/10:00",
+      "day": "2026-08-17",
+      "slot": "10:00",
+      "slug": "abs-cbn-h1-2026-revenue-report",
+      "title": "ABS-CBN Reports P6.88B Revenue for H1 2026",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "42f72e8a408bac1ffe702fdc0df2d0192350b892e721638e123db7bfbb5628bd"
+    },
+    {
+      "slot_key": "legacy/2026-08-16/philippines-pax-silica-ai-hub-frederick-go",
+      "idempotency_key": "legacy/2026-08-16/philippines-pax-silica-ai-hub-frederick-go",
+      "day": "2026-08-16",
+      "slot": "legacy",
+      "slug": "philippines-pax-silica-ai-hub-frederick-go",
+      "title": "Go Denies Pax Silica Fake News; AI Hub Hopes",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "d92216a9d3580f8a546b28e4721647bd77858a7a45d0cc8687de928afe4f4b76"
+    },
+    {
+      "slot_key": "legacy/2026-08-16/huawei-pura-90s-pro-max-smart-preorder-philippines",
+      "idempotency_key": "legacy/2026-08-16/huawei-pura-90s-pro-max-smart-preorder-philippines",
+      "day": "2026-08-16",
+      "slot": "legacy",
+      "slug": "huawei-pura-90s-pro-max-smart-preorder-philippines",
+      "title": "Smart Opens HUAWEI Pura 90s Pro Pre-Orders in PH",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "cb13181bbfc3298918c7e5fff3a8d9853c2aabc22629db82109387cbae4e9362"
+    },
+    {
+      "slot_key": "2026-08-16/10:00",
+      "idempotency_key": "2026-08-16/10:00",
+      "day": "2026-08-16",
+      "slot": "10:00",
+      "slug": "lenovo-legion-go-gen-2-philippines-price",
+      "title": "Lenovo Legion Go Gen 2 Hits PH: Price & Specs",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "064b458c04c9da89ce0da71f9b64f46a74925d3f6832316a11ddccdb79110bd2"
+    },
+    {
+      "slot_key": "2026-08-16/08:00",
+      "idempotency_key": "2026-08-16/08:00",
+      "day": "2026-08-16",
+      "slot": "08:00",
+      "slug": "gcash-wins-apac-tambuli-awards-2026",
+      "title": "GCash Wins Big at APAC Tambuli Awards",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "d34aae59b0d0f3f93afff3db5c487f1f58cb6449221ed1777cf8256974364894"
+    },
+    {
+      "slot_key": "legacy/2026-08-15/gcash-launches-zero-forex-fee-international-withdrawals",
+      "idempotency_key": "legacy/2026-08-15/gcash-launches-zero-forex-fee-international-withdrawals",
+      "day": "2026-08-15",
+      "slot": "legacy",
+      "slug": "gcash-launches-zero-forex-fee-international-withdrawals",
+      "title": "GCash 0% Forex Fee for Visa Withdrawals",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "1726a87ff3f66e383ded6dfafbd4b24686046565769c53d85950bfb4ce85ad23"
+    },
+    {
+      "slot_key": "2026-08-15/08:00",
+      "idempotency_key": "2026-08-15/08:00",
+      "day": "2026-08-15",
+      "slot": "08:00",
+      "slug": "malacanang-dict-officials-terminated-reshuffle",
+      "title": "Malacañang Confirms DICT Officials’ Termination",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "f000cf8e845aea72f2c674005adf3f0af44fc1ef78c21c5de2b680151033a298"
+    },
+    {
+      "slot_key": "legacy/2026-08-14/fintech-alliance-philippines-national-id-verification",
+      "idempotency_key": "legacy/2026-08-14/fintech-alliance-philippines-national-id-verification",
+      "day": "2026-08-14",
+      "slot": "legacy",
+      "slug": "fintech-alliance-philippines-national-id-verification",
+      "title": "FinTech Alliance Backs National ID for Faster KYC",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "605c71c2176efc1f58231e010166f73f81beef6cfdb0a0743c3b61495f62e232"
+    },
+    {
+      "slot_key": "legacy/2026-08-13/philippines-national-cybersecurity-act-house-approval",
+      "idempotency_key": "legacy/2026-08-13/philippines-national-cybersecurity-act-house-approval",
+      "day": "2026-08-13",
+      "slot": "legacy",
+      "slug": "philippines-national-cybersecurity-act-house-approval",
+      "title": "House Approves National Cybersecurity Act",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "507d86c9babb7bb1a2d8653f5a7c40e559a367a264c021f1c6106873cc83a186"
+    },
+    {
+      "slot_key": "legacy/2026-08-13/house-bill-free-wifi-college-students-philippines",
+      "idempotency_key": "legacy/2026-08-13/house-bill-free-wifi-college-students-philippines",
+      "day": "2026-08-13",
+      "slot": "legacy",
+      "slug": "house-bill-free-wifi-college-students-philippines",
+      "title": "House Passes Free Wi-Fi for College Students in PH",
+      "status": "legacy-migrated",
+      "managed": false,
+      "categories": [
+        "Tech News"
+      ],
+      "source_count": 0,
+      "body_image_count": 0,
+      "content_sha256": "2e50df5b2bec62ad7022960057e03a0efc4cea64f5623d5c50f4a4a58c702919"
+    }
+  ],
+  "days": {
+    "2026-10-25": {
+      "2026-10-25/10:00": {
+        "slug": "uk-commits-800-million-ai-security",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-25/08:00": {
+        "slug": "xiaomi-pop-run-redmi-note-17-battery-event",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-25/06:00": {
+        "slug": "deepal-s07-ev-launches-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-24": {
+      "2026-10-24/10:00": {
+        "slug": "ai-finds-more-software-bugs-shrinking-patch-time",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-24/08:00": {
+        "slug": "converge-studios-ai-health-tools",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-24/06:00": {
+        "slug": "philippine-spaceport-plan-rocket-test",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-23": {
+      "2026-10-23/10:00": {
+        "slug": "byd-acmobility-philippine-ev-summit-2026",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-23/08:00": {
+        "slug": "php-flaws-put-government-websites-offline",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-23/06:00": {
+        "slug": "gcash-expands-gcrypto-wallet-transfers",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-22": {
+      "2026-10-22/10:00": {
+        "slug": "eu-eases-2035-car-emissions-target",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-22/08:00": {
+        "slug": "nvidia-openshell-safe-ai-agent-infrastructure",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-22/06:00": {
+        "slug": "ram-shortage-philippine-ai-adoption",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-21": {
+      "2026-10-21/10:00": {
+        "slug": "volkswagen-xpeng-ev-bet-china",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-21/08:00": {
+        "slug": "nvidia-modal-vera-processors",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-21/06:00": {
+        "slug": "philippine-ai-summit-production",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-20": {
+      "2026-10-20/10:00": {
+        "slug": "europe-ev-sales-jump-september-2026",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-20/08:00": {
+        "slug": "nvidia-104-qubit-quantum-simulation",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-20/06:00": {
+        "slug": "philippines-online-notarization-service",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-19": {
+      "2026-10-19/10:00": {
+        "slug": "byd-zero-tariff-ev-policy-2040",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-19/08:00": {
+        "slug": "anthropic-public-benefit-fund-shares",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-19/06:00": {
+        "slug": "pcg-psa-digital-civil-record-checks",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-18": {
+      "2026-10-18/10:00": {
+        "slug": "philippine-ev-summit-2026-october-22-24",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-18/08:00": {
+        "slug": "microsoft-windows-hybrid-intelligence-local-ai",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-18/06:00": {
+        "slug": "converge-p500-prepaid-fiber-pilot",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-17": {
+      "2026-10-17/10:00": {
+        "slug": "global-ev-sales-fall-september-2026",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-17/08:00": {
+        "slug": "iphone-18-pro-philippines-launch",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-17/06:00": {
+        "slug": "philippines-fifth-china-cyber-targeting",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-16": {
+      "2026-10-16/10:00": {
+        "slug": "global-ev-fleet-transition-varies-by-region",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-16/08:00": {
+        "slug": "filipinos-top-viber-ai-users",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-16/06:00": {
+        "slug": "smart-zero-dropped-calls-ntc-tests",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-15": {
+      "2026-10-15/10:00": {
+        "slug": "apple-tv-4k-ph-price-a19-chip",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-15/08:00": {
+        "slug": "readylinks-pitches-lower-disruption-resort-network-upgrades",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-15/06:00": {
+        "slug": "dost-studies-carabao-mango-space-food",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-14": {
+      "2026-10-14/10:00": {
+        "slug": "microsoft-scales-maia-ai-chip-plan",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-14/08:00": {
+        "slug": "microsoft-details-safer-ai-agent-controls",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-14/06:00": {
+        "slug": "aerospace-parts-maker-expands-batangas",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-13": {
+      "2026-10-13/10:00": {
+        "slug": "chinese-hybrids-face-new-eu-trade-limits",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-13/08:00": {
+        "slug": "faster-technology-adoption-philippine-business-edge",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-13/06:00": {
+        "slug": "philippines-nuclear-power-ai-data-centers",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-12": {
+      "2026-10-12/10:00": {
+        "slug": "batang-ligtas-act-platform-safety-rules",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-12/08:00": {
+        "slug": "globe-cybersecurity-chief-leaves-2027",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-12/06:00": {
+        "slug": "acer-predator-league-2027-ph-qualifier",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-11": {
+      "2026-10-11/10:00": {
+        "slug": "europe-outpaces-us-ev-adoption-2026",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-11/08:00": {
+        "slug": "digital-wallets-lead-philippine-scam-payments",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-11/06:00": {
+        "slug": "peza-pipeline-semiconductors-data-centers",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-10": {
+      "2026-10-10/10:00": {
+        "slug": "ai-biology-race-data-bottleneck",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-10/08:00": {
+        "slug": "get-targets-more-electric-buses-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-10/06:00": {
+        "slug": "dti-trustmark-helps-online-buyers",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-09": {
+      "2026-10-09/10:00": {
+        "slug": "oppo-find-x10-global-launch-october-21",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-09/08:00": {
+        "slug": "tonik-adds-load-game-credits",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-09/06:00": {
+        "slug": "globe-network-hits-2026-high-august",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-08": {
+      "2026-10-08/10:00": {
+        "slug": "philippine-schools-structure-ai-use",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-08/08:00": {
+        "slug": "philippines-records-31-ransomware-claims",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-08/06:00": {
+        "slug": "bdo-upgrades-philippine-payments-system",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-07": {
+      "2026-10-07/10:00": {
+        "slug": "byd-opens-first-southeast-asia-ev-plant",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-07/08:00": {
+        "slug": "revolut-eyes-philippine-digital-bank-entry",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-07/06:00": {
+        "slug": "peza-approvals-near-p300b-2026",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-06": {
+      "2026-10-06/10:00": {
+        "slug": "globe-seeks-role-pax-silica-hub",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-06/08:00": {
+        "slug": "philippines-innovation-ranking-slips-52nd-2026",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-06/06:00": {
+        "slug": "gcash-ipo-opens-public-today",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-05": {
+      "2026-10-05/10:00": {
+        "slug": "google-begins-gemini-skills-workspace-rollout",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-05/08:00": {
+        "slug": "sec-seeks-p120m-broker-dealer-capital-floor",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-05/06:00": {
+        "slug": "globe-expands-starlink-roaming-japan-kddi",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-04": {
+      "2026-10-04/10:00": {
+        "slug": "apple-plans-stricter-mac-ai-access-controls",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-04/08:00": {
+        "slug": "converge-tiktok-shop-launch-sellerplus",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-04/06:00": {
+        "slug": "ntc-defends-p100000-daily-telco-fines",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-03": {
+      "2026-10-03/10:00": {
+        "slug": "microsoft-five-windows-11-preview-builds",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-03/08:00": {
+        "slug": "mynt-sets-gcash-ipo-price-p660",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-03/06:00": {
+        "slug": "dict-probes-philippine-submarine-cable-disruption",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-02": {
+      "2026-10-02/10:00": {
+        "slug": "ibm-bob-self-hosted-ai-coding-agent",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-02/08:00": {
+        "slug": "gcash-overnight-payments-maintenance-october-2",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-02/06:00": {
+        "slug": "ntc-draft-refurbished-phone-sellers",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-10-01": {
+      "2026-10-01/10:00": {
+        "slug": "america-gov-ai-us-government-services",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-01/08:00": {
+        "slug": "maybank-ph-drops-dragonpay-option",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-10-01/06:00": {
+        "slug": "filipinos-want-guaranteed-5g-ericsson-study",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-30": {
+      "2026-09-30/10:00": {
+        "slug": "evgo-750kw-fast-charging-system-2027-preview",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-30/08:00": {
+        "slug": "gcash-us-bank-ewallet-international-transfers",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-30/06:00": {
+        "slug": "globe-grab-gfiber-prepaid-wifi-grabmart-expansion",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-29": {
+      "2026-09-29/10:00": {
+        "slug": "nvidia-open-agent-safety-platform",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-29/08:00": {
+        "slug": "amlc-banks-ai-financial-crime-controls",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-29/06:00": {
+        "slug": "ph-data-center-race-power-permits-subsea-links",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-28": {
+      "2026-09-28/10:00": {
+        "slug": "starship-flight-14-first-orbital-test-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-28/08:00": {
+        "slug": "al-amanah-plans-lgu-financing-2027",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-28/06:00": {
+        "slug": "globe-stronger-august-network-performance",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-27": {
+      "2026-09-27/10:00": {
+        "slug": "philsa-trains-2027-rocket-test-cagayan",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-27/08:00": {
+        "slug": "bir-dec-31-e-invoicing-deadline-e-commerce",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-27/06:00": {
+        "slug": "ntc-fines-dito-globe-smart-poor-ncr-data",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-26": {
+      "2026-09-26/10:00": {
+        "slug": "kia-ev3-philippines-launch",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-26/08:00": {
+        "slug": "landbank-india-payment-links",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-26/06:00": {
+        "slug": "dict-probes-possible-dtap-data-exposure",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-25": {
+      "2026-09-25/10:00": {
+        "slug": "xpeng-philippine-launch-x9-l03-september-25",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-25/08:00": {
+        "slug": "gcash-ipo-20-plus-cornerstone-investors",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-25/06:00": {
+        "slug": "pnp-cybersecurity-2026-asean-summit",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-24": {
+      "2026-09-24/10:00": {
+        "slug": "ai-leaders-warn-un-runaway-risks",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-24/08:00": {
+        "slug": "bsp-circular-1240-digital-centric-bank-capital-floor",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-24/06:00": {
+        "slug": "western-visayas-phased-digital-tv-shift",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-23": {
+      "2026-09-23/10:00": {
+        "slug": "cicc-reddit-discord-philippines-ultimatum",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-23/08:00": {
+        "slug": "denr-launches-pinoy-biotech-hub",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-23/06:00": {
+        "slug": "ched-ai-rules-philippine-colleges",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-22": {
+      "2026-09-22/10:00": {
+        "slug": "googlebook-preorders-899-android-gemini",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-22/08:00": {
+        "slug": "ltfrb-less-offline-security-breach",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-22/06:00": {
+        "slug": "egovph-ai-assistant-kuya-a",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-21": {
+      "2026-09-21/10:00": {
+        "slug": "ai-firms-lawsuit-alleged-slowdown-deal",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-21/08:00": {
+        "slug": "cicc-dark-web-explained-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-21/06:00": {
+        "slug": "pax-silica-hub-aeta-land-questions",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-20": {
+      "2026-09-20/10:00": {
+        "slug": "worldskills-shanghai-app-guide",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-20/08:00": {
+        "slug": "green-sm-six-seat-ev-taxi-indonesia",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-20/06:00": {
+        "slug": "dost-philippine-disaster-technology",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-19": {
+      "2026-09-19/10:00": {
+        "slug": "honor-magicos-11-china-launch",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-19/08:00": {
+        "slug": "bsp-ai-readiness-ph-capital-markets",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-19/06:00": {
+        "slug": "asean-shared-ai-digital-trade-rules",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-18": {
+      "2026-09-18/10:00": {
+        "slug": "israel-ph-cybersecurity-ai-cooperation",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-18/08:00": {
+        "slug": "bcremit-billion-remittances-sme-payments",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-18/06:00": {
+        "slug": "taiwan-expo-2026-philippines-tech-firms",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-17": {
+      "2026-09-17/10:00": {
+        "slug": "smart-home-wifi-sim-99-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-17/08:00": {
+        "slug": "redmi-note-17-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-17/06:00": {
+        "slug": "hitpay-virtual-accounts-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-16": {
+      "2026-09-16/10:00": {
+        "slug": "hp-zbook-ultra-g3a-local-ai",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-16/08:00": {
+        "slug": "dost-showcase-tech-solutions-2026-nstw",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-16/06:00": {
+        "slug": "indian-tech-firms-eye-ph-expansion",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-15": {
+      "2026-09-15/10:00": {
+        "slug": "anthropic-ai-misuse-report-september-2026",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-15/08:00": {
+        "slug": "philippines-ai-infrastructure-masterplan-2026",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-15/06:00": {
+        "slug": "us-defense-tech-startup-ph-production",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-14": {
+      "2026-09-14/10:00": {
+        "slug": "lto-ends-stradcom-computer-fees",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-14/08:00": {
+        "slug": "globe-gday-promo-gfiber-500-off",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-14/06:00": {
+        "slug": "indian-firms-expand-ph-digital-infrastructure",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-13": {
+      "2026-09-13/10:00": {
+        "slug": "tp-philippines-expands-ai-training-job-applicants",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-13/08:00": {
+        "slug": "philippines-40000-free-public-internet-sites-2027",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-13/06:00": {
+        "slug": "marcos-india-expertise-ph-railway-space-tech",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-12": {
+      "2026-09-12/10:00": {
+        "slug": "nvidia-skild-ai-physical-ai-robot-tasks-video",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-12/08:00": {
+        "slug": "eu-spain-join-luzon-economic-corridor",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-12/06:00": {
+        "slug": "james-dyson-award-philippines-winner-september-16",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-11": {
+      "2026-09-11/10:00": {
+        "slug": "apple-watch-series-12-health-sensing-system",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-11/08:00": {
+        "slug": "capcut-660-million-users-capcut-world-2026",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-11/06:00": {
+        "slug": "pleased-com-philippine-headquarters-bgc",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-10": {
+      "2026-09-10/10:00": {
+        "slug": "whoscall-anti-scam-business-alliance-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-10/08:00": {
+        "slug": "tm-25th-anniversary-rewards-promos",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-10/06:00": {
+        "slug": "apple-iphone-duo-foldable-smartphone",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-09": {
+      "2026-09-09/10:00": {
+        "slug": "philippines-ai-masterplan-34-4-billion-investment",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-09/08:00": {
+        "slug": "dict-social-media-regulation-bill-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-09/06:00": {
+        "slug": "philippines-broadband-costs-escap-2026",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-08": {
+      "2026-09-08/10:00": {
+        "slug": "lenovo-legion-quiccs-collectible-promo-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-08/08:00": {
+        "slug": "asus-rog-laptops-free-google-ai-plans-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-08/06:00": {
+        "slug": "infinix-xpad-30-pro-philippines-launch",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-07": {
+      "legacy/2026-09-07/gcash-digital-tax-refund-16-countries": {
+        "slug": "gcash-digital-tax-refund-16-countries",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-07/10:00": {
+        "slug": "xiaomi-18-fold-launch-china-september-7",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-07/06:00": {
+        "slug": "honor-magic-v6-sale-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-06": {
+      "2026-09-06/10:00": {
+        "slug": "google-ai-plus-free-philippine-students",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-06/08:00": {
+        "slug": "gcash-gsukli-digital-change-bench-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-06/06:00": {
+        "slug": "smart-5g-max-home-wifi-p2995-promo",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-05": {
+      "2026-09-05/10:00": {
+        "slug": "acer-epaper-monitor-5g-devices-ifa-2026",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-05/08:00": {
+        "slug": "xppen-magic-pro-13-ifa-2026",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-05/06:00": {
+        "slug": "ph-semiconductor-roadmap-investor-facilitation",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-04": {
+      "2026-09-04/10:00": {
+        "slug": "paymongo-skyro-digital-payments-credit-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-04/08:00": {
+        "slug": "dict-asean-big-tech-accountability-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-04/06:00": {
+        "slug": "cmf-clip-pro-philippines-price",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-03": {
+      "2026-09-03/10:00": {
+        "slug": "dlsu-gcash-fintech-engineering-elective",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-03/08:00": {
+        "slug": "samsung-portable-ssd-p7-4000-mbps",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-03/06:00": {
+        "slug": "redmi-note-17-series-philippines-september-15",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-02": {
+      "2026-09-02/10:00": {
+        "slug": "qr-ph-alipay-plus-cross-border-payments",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-02/08:00": {
+        "slug": "tp-link-wifi-8-archer-deco-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-02/06:00": {
+        "slug": "poco-f9-series-launches-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-09-01": {
+      "2026-09-01/10:00": {
+        "slug": "lenovo-legion-y700-ai-tablet-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-01/08:00": {
+        "slug": "meta-roblox-philippines-child-safety-measures",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-09-01/06:00": {
+        "slug": "meta-philippine-office-online-safety",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-08-31": {
+      "2026-08-31/10:00": {
+        "slug": "xiaomi-smart-privacy-display-hyperos",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-31/08:00": {
+        "slug": "deped-microsoft-copilot-one-million-teachers",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-31/06:00": {
+        "slug": "whatsapp-scam-alert-on-device-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-08-29": {
+      "2026-08-29/10:00": {
+        "slug": "gcash-tap-to-pay-iphone-ios-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-29/08:00": {
+        "slug": "apple-ternus-era-iphone-event-september-2026",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-29/06:00": {
+        "slug": "garmin-fenix-9-philippines-september-16",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-08-28": {
+      "2026-08-28/10:00": {
+        "slug": "samsung-galaxy-s26-fe-philippines-price",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-28/08:00": {
+        "slug": "viber-in-app-esim-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-28/06:00": {
+        "slug": "converge-angeles-data-center-green-lane",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-08-27": {
+      "2026-08-27/10:00": {
+        "slug": "samsung-galaxy-event-august-27-2026",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-27/08:00": {
+        "slug": "philippines-agentic-ai-businesses-production",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-27/06:00": {
+        "slug": "pax-silica-philippines-technology-transfer",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-08-26": {
+      "2026-08-26/10:00": {
+        "slug": "grabcoins-philippines-rides-food-payments",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-26/08:00": {
+        "slug": "gcash-ignite-2026-ai-cybersecurity-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-26/06:00": {
+        "slug": "dost-300m-ai-data-centers-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-08-25": {
+      "2026-08-25/10:00": {
+        "slug": "sony-xperia-10-viii-launch-august-25",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-25/08:00": {
+        "slug": "gcash-face-verification-gloan-scam-insurance",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-25/06:00": {
+        "slug": "bsp-rural-banks-cloud-banking-upgrade",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-08-24": {
+      "2026-08-24/10:00": {
+        "slug": "samsung-stretchable-oled-display-20-inch",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-24/08:00": {
+        "slug": "digital-banking-philippines-resilience-trust-credit",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-24/06:00": {
+        "slug": "techlife-pad-mini-philippines-launch",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-08-23": {
+      "2026-08-23/10:00": {
+        "slug": "phlpost-warns-smishing-scam-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-23/08:00": {
+        "slug": "ust-ecloudvalley-enterprise-ai-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-23/06:00": {
+        "slug": "nothing-os-5-0-august-25-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-08-22": {
+      "2026-08-22/10:00": {
+        "slug": "huawei-pura-90s-series-philippines-price-availability-2",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-22/08:00": {
+        "slug": "samsung-galaxy-watch-ultra2-watch9-philippines-price-2",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-22/06:00": {
+        "slug": "honor-magic-v6-philippines-launch-date-2",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-08-21": {
+      "2026-08-21/10:00": {
+        "slug": "philippines-us-ai-semiconductor-partnership-2026",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-21/08:00": {
+        "slug": "samsung-galaxy-early-bird-promo-philippines-2026",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-21/06:00": {
+        "slug": "oppo-reno16-5g-philippines-price-availability",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-08-20": {
+      "legacy/2026-08-20/ph-digital-payments": {
+        "slug": "ph-digital-payments",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "legacy/2026-08-20/digital-walker-20th-anniversary-event-glorietta": {
+        "slug": "digital-walker-20th-anniversary-event-glorietta",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-20/10:00": {
+        "slug": "bpi-gogolook-partnership-digital-scam-protection",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-08-19": {
+      "legacy/2026-08-19/samsung-galaxy-z-fold8-review-philippines": {
+        "slug": "samsung-galaxy-z-fold8-review-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "legacy/2026-08-19/mass-credential-breach-philippines-2026": {
+        "slug": "mass-credential-breach-philippines-2026",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-19/10:00": {
+        "slug": "dji-store-sm-city-sta-mesa-opening",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-08-18": {
+      "legacy/2026-08-18/realme-16t-philippines-launch-teaser": {
+        "slug": "realme-16t-philippines-launch-teaser",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "legacy/2026-08-18/gcash-card-filipino-travelers-benefits": {
+        "slug": "gcash-card-filipino-travelers-benefits",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-18/10:00": {
+        "slug": "tcl-c7l-sqd-mini-led-tv-philippines-launch",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-08-17": {
+      "legacy/2026-08-17/samsung-activision-call-of-duty-modern-warfare-4": {
+        "slug": "samsung-activision-call-of-duty-modern-warfare-4",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "legacy/2026-08-17/concentrix-ai-solutions-philippines-launch": {
+        "slug": "concentrix-ai-solutions-philippines-launch",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-17/10:00": {
+        "slug": "abs-cbn-h1-2026-revenue-report",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-08-16": {
+      "legacy/2026-08-16/philippines-pax-silica-ai-hub-frederick-go": {
+        "slug": "philippines-pax-silica-ai-hub-frederick-go",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "legacy/2026-08-16/huawei-pura-90s-pro-max-smart-preorder-philippines": {
+        "slug": "huawei-pura-90s-pro-max-smart-preorder-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-16/10:00": {
+        "slug": "lenovo-legion-go-gen-2-philippines-price",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-16/08:00": {
+        "slug": "gcash-wins-apac-tambuli-awards-2026",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-08-15": {
+      "legacy/2026-08-15/gcash-launches-zero-forex-fee-international-withdrawals": {
+        "slug": "gcash-launches-zero-forex-fee-international-withdrawals",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "2026-08-15/08:00": {
+        "slug": "malacanang-dict-officials-terminated-reshuffle",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-08-14": {
+      "legacy/2026-08-14/fintech-alliance-philippines-national-id-verification": {
+        "slug": "fintech-alliance-philippines-national-id-verification",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    },
+    "2026-08-13": {
+      "legacy/2026-08-13/philippines-national-cybersecurity-act-house-approval": {
+        "slug": "philippines-national-cybersecurity-act-house-approval",
+        "status": "legacy-migrated",
+        "managed": false
+      },
+      "legacy/2026-08-13/house-bill-free-wifi-college-students-philippines": {
+        "slug": "house-bill-free-wifi-college-students-philippines",
+        "status": "legacy-migrated",
+        "managed": false
+      }
+    }
+  }
+}

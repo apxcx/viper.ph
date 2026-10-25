@@ -21,6 +21,110 @@
       "title": "Partnerships & Collaborations | Viper.ph"
     },
     {
+      "path": "/category/ph-tech/",
+      "title": "PH Tech | Viper.ph"
+    },
+    {
+      "path": "/category/ph-tech/page/2/",
+      "title": "PH Tech — Page 2 | Viper.ph"
+    },
+    {
+      "path": "/category/ph-tech/page/3/",
+      "title": "PH Tech — Page 3 | Viper.ph"
+    },
+    {
+      "path": "/category/ph-tech/page/4/",
+      "title": "PH Tech — Page 4 | Viper.ph"
+    },
+    {
+      "path": "/category/ph-tech/page/5/",
+      "title": "PH Tech — Page 5 | Viper.ph"
+    },
+    {
+      "path": "/category/ph-tech/page/6/",
+      "title": "PH Tech — Page 6 | Viper.ph"
+    },
+    {
+      "path": "/category/ph-tech/page/7/",
+      "title": "PH Tech — Page 7 | Viper.ph"
+    },
+    {
+      "path": "/category/ph-tech/page/8/",
+      "title": "PH Tech — Page 8 | Viper.ph"
+    },
+    {
+      "path": "/category/ph-tech/page/9/",
+      "title": "PH Tech — Page 9 | Viper.ph"
+    },
+    {
+      "path": "/category/ph-tech/page/10/",
+      "title": "PH Tech — Page 10 | Viper.ph"
+    },
+    {
+      "path": "/category/ph-tech/page/11/",
+      "title": "PH Tech — Page 11 | Viper.ph"
+    },
+    {
+      "path": "/category/ph-tech/page/12/",
+      "title": "PH Tech — Page 12 | Viper.ph"
+    },
+    {
+      "path": "/category/ph-tech/page/13/",
+      "title": "PH Tech — Page 13 | Viper.ph"
+    },
+    {
+      "path": "/category/ph-tech/page/14/",
+      "title": "PH Tech — Page 14 | Viper.ph"
+    },
+    {
+      "path": "/category/telcos-and-internet/",
+      "title": "Telcos and Internet | Viper.ph"
+    },
+    {
+      "path": "/category/fintech-banking-tech/",
+      "title": "Fintech and Banking Tech | Viper.ph"
+    },
+    {
+      "path": "/category/gadgets/",
+      "title": "Gadgets | Viper.ph"
+    },
+    {
+      "path": "/category/e-commerce/",
+      "title": "E-commerce | Viper.ph"
+    },
+    {
+      "path": "/category/apps-and-software/",
+      "title": "Apps and Software | Viper.ph"
+    },
+    {
+      "path": "/category/ai/",
+      "title": "AI | Viper.ph"
+    },
+    {
+      "path": "/category/ai/page/2/",
+      "title": "AI — Page 2 | Viper.ph"
+    },
+    {
+      "path": "/category/ai/page/3/",
+      "title": "AI — Page 3 | Viper.ph"
+    },
+    {
+      "path": "/category/international-tech/",
+      "title": "International Tech | Viper.ph"
+    },
+    {
+      "path": "/category/tech-events/",
+      "title": "Tech Events | Viper.ph"
+    },
+    {
+      "path": "/category/electric-vehicles/",
+      "title": "Electric Vehicles | Viper.ph"
+    },
+    {
+      "path": "/category/electric-vehicles/page/2/",
+      "title": "Electric Vehicles — Page 2 | Viper.ph"
+    },
+    {
       "path": "/category/tech-news/",
       "title": "Tech News | Viper.ph"
     },
@@ -77,40 +181,12 @@
       "title": "Tech News — Page 14 | Viper.ph"
     },
     {
-      "path": "/category/ai/",
-      "title": "AI | Viper.ph"
-    },
-    {
-      "path": "/category/ai/page/2/",
-      "title": "AI — Page 2 | Viper.ph"
-    },
-    {
-      "path": "/category/ai/page/3/",
-      "title": "AI — Page 3 | Viper.ph"
-    },
-    {
-      "path": "/category/electric-vehicles/",
-      "title": "Electric Vehicles | Viper.ph"
-    },
-    {
-      "path": "/category/electric-vehicles/page/2/",
-      "title": "Electric Vehicles — Page 2 | Viper.ph"
-    },
-    {
-      "path": "/category/fintech-banking-tech/",
-      "title": "Fintech and Banking Tech | Viper.ph"
-    },
-    {
       "path": "/category/products/",
       "title": "Products | Viper.ph"
     },
     {
-      "path": "/category/e-commerce/",
+      "path": "/category/e-commerce-legacy/",
       "title": "E-Commerce | Viper.ph"
-    },
-    {
-      "path": "/category/telcos-and-internet/",
-      "title": "Telcos and Internet | Viper.ph"
     },
     {
       "path": "/category/auto/",

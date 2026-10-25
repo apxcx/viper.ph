@@ -12,11 +12,17 @@ const { featured = false, compact = false } = Astro.props;
 const article = migratedStory(Astro.props.article);
 const categoryPaths: Record<string, string> = {
   'Tech News': 'tech-news',
+  'PH Tech': 'ph-tech',
   'Electric Vehicles': 'electric-vehicles',
   AI: 'ai',
   'Fintech and Banking Tech': 'fintech-banking-tech',
   Products: 'products',
+  Gadgets: 'gadgets',
   'E-Commerce': 'e-commerce',
+  'E-commerce': 'e-commerce',
+  'Apps and Software': 'apps-and-software',
+  'International Tech': 'international-tech',
+  'Tech Events': 'tech-events',
   'Telcos and Internet': 'telcos-and-internet',
   Auto: 'auto',
 };

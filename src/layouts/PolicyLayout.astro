@@ -8,7 +8,7 @@ interface Props {
     title: string;
     description: string;
     canonical: string;
-    wordpressModified?: string;
+    sourceModified?: string;
   };
 }
 
@@ -16,7 +16,7 @@ const { frontmatter } = Astro.props;
 const title = frontmatter.title as string;
 const description = frontmatter.description as string;
 const canonical = frontmatter.canonical as string;
-const modified = frontmatter.wordpressModified as string | undefined;
+const modified = frontmatter.sourceModified as string | undefined;
 const modifiedLabel = modified
   ? new Intl.DateTimeFormat('en-US', { month: 'long', day: 'numeric', year: 'numeric' }).format(new Date(modified))
   : undefined;

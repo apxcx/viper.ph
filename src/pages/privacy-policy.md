@@ -2,8 +2,8 @@
 title: "Privacy Policy"
 description: "Effective Date: August, 2026"
 canonical: "https://viper.ph/privacy-policy/"
-wordpressId: 3
-wordpressModified: "2026-09-09T14:16:39"
+sourceRecordId: 3
+sourceModified: "2026-09-09T14:16:39"
 sourceUrl: "https://viper.ph/privacy-policy/"
 layout: ../layouts/PolicyLayout.astro
 ---

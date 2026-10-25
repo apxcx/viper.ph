@@ -59,3 +59,11 @@
   - Provide numbered and previous/next navigation, retain the category sidebar on each page, declare every generated category-page route in `public/manus-routes.json`, and use a page-specific canonical URL.
 - [x] Add explicit `sitemap.xml` and `robots.txt` files for Google Search Console, generated from the complete public route manifest and pointing crawlers to `https://viper.ph/sitemap.xml`.
 - [x] Add the supplied Google Analytics `gtag.js` snippet for measurement ID `G-P6SGPQW13P` to the shared document head on every public page.
+- [x] Reconfigure this existing Astro project as the authoritative Viper.ph publisher without changing the existing editorial design, Cloudflare Worker deployment, GitHub remote, or `MEDIA` → `media` R2 binding.
+  - Remove the active WordPress migration secret declarations and keep historical migration content/manifests as provenance only.
+  - Confirm no active WordPress REST, application-password, Rank Math, WordPress media-upload, or WordPress scheduling process is required at runtime; keep daily automation disabled.
+- [x] Add the Astro-native publisher contract for new articles.
+  - Use the existing Markdown content collection with clean slugs, headline under 60 characters, focus keyword, `| Viper` SEO title no longer than 60 characters, 145–155 character SEO description, one of the authoritative Viper categories, Manila publication date and one of the 6:00, 8:00, or 10:00 slots.
+  - Require exactly four 80–110-word paragraphs, each immediately followed by one relevant rights-cleared image, with source links and deterministic R2-backed public URLs.
+- [x] Add deterministic publisher indexing, duplicate/slot checks, idempotent slug/slot writes, R2 image validation, and the Astro check/build/push command documentation.
+  - Preserve the existing 216 migrated articles as legacy provenance and do not force them through the new four-paragraph contract.

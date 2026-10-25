@@ -10,7 +10,7 @@ Use the existing approved logo and each story's matching homepage image. News an
 
 ## Footer content
 
-Use only published homepage data from https://viper.ph/ (retrieved 25 October 2026): Viper's published description, `hi@viper.ph`, SM North / North Avenue / Epifanio de los Santos Ave / Quezon City 1105 Metro Manila, eight category destinations, social profiles, copyright, Events, Partnerships, Privacy Policy, and Terms and Conditions. The social X profile was also visible in the previous homepage browser extraction. No additional page scraping is required.
+Use only published homepage data from https://viper.ph/ (retrieved 25 October 2026): Viper's published description, `hi@viper.ph`, SM North / North Avenue / Epifanio de los Santos Ave / Quezon City 1105 Metro Manila, the ten canonical category destinations, social profiles, copyright, Events, Partnerships, Privacy Policy, and Terms and Conditions. The social X profile was also visible in the previous homepage browser extraction. No additional page scraping is required.
 
 ## Article pages
 
@@ -18,7 +18,7 @@ The Xiaomi POP Run page is the approved example. Extend its `ArticleLayout.astro
 
 Serve each featured image from its existing `featured_image_key` in the Cloudflare R2 `media` bucket using a same-origin `/api/media/...` Worker endpoint backed by the existing `MEDIA` binding. Do not duplicate the image binaries into the repository. Route homepage/category/related-story links to generated local article paths, retain the original source URL in migrated metadata, declare all 216 root article paths in `public/manus-routes.json`, and keep unknown slugs as real 404s.
 
-The archives use the same imported post index, including all eight original categories, so breadcrumb/footer taxonomy links resolve locally. Each category archive keeps its top-three hero and shared sidebar, then paginates the remaining list at exactly 10 rows per page (with a shorter final page when fewer remain). Page 1 uses the category root; later pages use `/category/{slug}/page/{number}/`, with numbered plus previous/next links, page-specific canonical metadata, and complete route-manifest entries. Preview-only middleware reads the verified local image mirrors using a Git-ignored map; production reads only the existing R2 binding. Ten oldest source snapshots captured a Cloudflare challenge instead of SEO metadata; retain those raw frontmatter values for provenance but render the article title and a source-text description fallback rather than challenge-page titles.
+The archives use the same imported post index, exposing the ten canonical categories plus preserved legacy aliases so breadcrumb/footer taxonomy links resolve locally. Each category archive keeps its top-three hero and shared sidebar, then paginates the remaining list at exactly 10 rows per page (with a shorter final page when fewer remain). Page 1 uses the category root; later pages use `/category/{slug}/page/{number}/`, with numbered plus previous/next links, page-specific canonical metadata, and complete route-manifest entries. Preview-only middleware reads the verified local image mirrors using a Git-ignored map; production reads only the existing R2 binding. Ten oldest source snapshots captured a Cloudflare challenge instead of SEO metadata; retain those raw frontmatter values for provenance but render the article title and a source-text description fallback rather than challenge-page titles.
 
 ## Project structure
 
@@ -37,3 +37,9 @@ The archives use the same imported post index, including all eight original cate
 - `src/pages/api/subscribe.ts`, `wrangler.jsonc`: preserve the existing integration and deployment contracts.
 
 The homepage is a snapshot, not an automatically refreshed live feed. Keep the MailerLite production-credential outcome open until configured and verified separately.
+
+## Authoritative Astro publisher
+
+Astro is now the authoritative publishing path. New stories are Markdown files in `src/content/articles/` and use `publisher_status: ready`, a clean slug, Manila `+08:00` timestamp, one of the 06:00/08:00/10:00 slots, the ten-category taxonomy in `src/data/publisher-taxonomy.ts`, source links, and deterministic R2-backed image URLs. `scripts/validate-astro-publisher.py` enforces the headline, SEO, source, four 80–110-word paragraph, image-order, rights-cleared, and approximately 16:9 requirements for new stories. The 216 migrated articles remain `legacy-migrated` provenance and are intentionally exempt from the new authoring contract.
+
+`src/data/publisher-manifest.json` provides deterministic date/slot/idempotency keys without WordPress IDs. `scripts/publish-astro-article.py` refuses slot collisions, rejects slug moves, and treats an exact retry as a no-op; `scripts/build-publisher-index.py` and `scripts/refresh-public-routes.py` regenerate the article index, category pagination declarations, sitemap, and robots file. The active project configuration retains only Cloudflare R2 credentials, keeps the existing GitHub/Worker/R2 setup, and has no active publishing schedule or auto-publish preference.
