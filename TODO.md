@@ -20,3 +20,4 @@
   - Keep `#14171c` as the page background and `#0000ff` as the accent for buttons, highlights, and article title backgrounds, while reducing unrelated blue flourishes.
 - [x] Add a complete Viper.ph footer populated from the live site's published content.
   - Include the published Viper.ph description, `hi@viper.ph`, the Quezon City address, category links, social links, and available utility links such as Events, Partnerships, Privacy Policy, and Terms and Conditions.
+- [x] Match the two-column news articles below the hero to the hero-card title/date scale, using the date and time at the top of a blue title panel as shown in the user reference.
