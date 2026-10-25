@@ -44,3 +44,4 @@
 - [ ] Add `WEB3FORMS_ACCESS_KEY` to the Cloudflare Worker environment so Contact Us and Partnerships submissions are delivered through Web3Forms in production.
 - [x] Balance the homepage hero cards so the two stacked articles on the right together match the height of the large featured article on the left.
 - [x] Match the home-page “Useful context. Less noise.” sidebar width to the stacked right-hand hero cards, and show the same sidebar beside the article list below the hero on every category page.
+- [x] Match category-archive post titles and their date/time typography to the compact hero-card title and metadata scale.
