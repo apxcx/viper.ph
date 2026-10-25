@@ -38,3 +38,7 @@
 - [x] Migrate the published Privacy Policy and Terms and Conditions pages into native Astro routes.
   - Preserve the source page slugs, content, canonical URLs, and available metadata.
   - Update the footer legal links to use `/privacy-policy/` and `/terms-conditions/`.
+- [x] Migrate the published Contact Us and Partnerships pages into native Astro routes.
+  - Preserve their published page content, slugs, available metadata, and form fields.
+  - Replicate the forms with server-side Web3Forms submission handlers and keep the Web3Forms access key in a Cloudflare secret.
+- [ ] Add `WEB3FORMS_ACCESS_KEY` to the Cloudflare Worker environment so Contact Us and Partnerships submissions are delivered through Web3Forms in production.

@@ -1,0 +1,121 @@
+---
+interface Props {
+  kind: 'contact' | 'partnership';
+}
+
+const { kind } = Astro.props;
+const isPartnership = kind === 'partnership';
+---
+
+<form class="inquiry-form" data-inquiry-form data-form-kind={kind} novalidate>
+  <div class="inquiry-form__grid inquiry-form__grid--two">
+    <label>
+      <span>First Name <b aria-hidden="true">*</b></span>
+      <input name="firstName" type="text" autocomplete="given-name" required />
+    </label>
+    <label>
+      <span>Last Name <b aria-hidden="true">*</b></span>
+      <input name="lastName" type="text" autocomplete="family-name" required />
+    </label>
+  </div>
+
+  <div class="inquiry-form__grid inquiry-form__grid--two">
+    <label>
+      <span>Email Address <b aria-hidden="true">*</b></span>
+      <input name="email" type="email" autocomplete="email" required />
+    </label>
+    <label>
+      <span>Phone Number <b aria-hidden="true">*</b></span>
+      <input name="phone" type="tel" autocomplete="tel" required />
+    </label>
+  </div>
+
+  <div class="inquiry-form__grid inquiry-form__grid--two">
+    <label>
+      <span>Company Name <b aria-hidden="true">*</b></span>
+      <input name="companyName" type="text" autocomplete="organization" required />
+    </label>
+    <label>
+      <span>Website URL</span>
+      <input name="companyWebsite" type="url" autocomplete="url" placeholder="https://" />
+    </label>
+  </div>
+
+  {isPartnership && (
+    <fieldset class="inquiry-form__choices">
+      <legend>Type of Collaboration <b aria-hidden="true">*</b></legend>
+      <div class="inquiry-form__choice-grid">
+        {[
+          'Product Review & Feature',
+          'Brand Sponsorship & Sponsored Content',
+          'Exclusive Giveaways / Community Events',
+          'Affiliate / Long-Term Partnership',
+          'Media / Press Release Coverage',
+          'Other',
+        ].map((choice) => (
+          <label class="inquiry-form__choice">
+            <input type="checkbox" name="collaborationTypes" value={choice} />
+            <span>{choice}</span>
+          </label>
+        ))}
+      </div>
+    </fieldset>
+  )}
+
+  <label>
+    <span>Message <b aria-hidden="true">*</b></span>
+    <textarea name="message" rows="7" required></textarea>
+  </label>
+
+  <label class="inquiry-form__trap" aria-hidden="true">
+    <span>Leave this field empty</span>
+    <input name="botcheck" type="text" tabindex="-1" autocomplete="off" />
+  </label>
+
+  <div class="inquiry-form__footer">
+    <button type="submit" class="form-button">Submit <span aria-hidden="true">↗</span></button>
+    <p class="inquiry-form__status" role="status" aria-live="polite"></p>
+  </div>
+</form>
+
+<script>
+  document.querySelectorAll<HTMLFormElement>('[data-inquiry-form]').forEach((form) => {
+    form.addEventListener('submit', async (event) => {
+      event.preventDefault();
+      const button = form.querySelector<HTMLButtonElement>('button[type="submit"]');
+      const status = form.querySelector<HTMLElement>('.inquiry-form__status');
+      if (!button || !status) return;
+      button.disabled = true;
+      status.textContent = 'Sending your message…';
+      status.className = 'inquiry-form__status';
+      const data = new FormData(form);
+      const payload: Record<string, unknown> = { formKind: form.dataset.formKind };
+      data.forEach((value, key) => {
+        if (key === 'collaborationTypes') {
+          const values = (payload[key] as string[] | undefined) ?? [];
+          values.push(String(value));
+          payload[key] = values;
+        } else {
+          payload[key] = String(value);
+        }
+      });
+      try {
+        const response = await fetch('/api/inquiry', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(payload),
+        });
+        const result = await response.json();
+        if (!response.ok || !result.ok) throw new Error(result.message || 'Unable to send your message.');
+        form.reset();
+        status.textContent = result.message;
+        status.classList.add('is-success');
+      } catch (error) {
+        status.textContent = error instanceof Error ? error.message : 'Something went wrong. Please try again.';
+        status.classList.add('is-error');
+      } finally {
+        button.disabled = false;
+      }
+    });
+  });
+</script>

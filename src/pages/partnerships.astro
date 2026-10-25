@@ -1,0 +1,36 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import InquiryForm from '../components/InquiryForm.astro';
+---
+
+<BaseLayout
+  title="Partnerships & Collaborations | Viper.ph"
+  description="Partner with Viper.ph for product reviews, sponsored content, community events, affiliate partnerships, and media coverage."
+  canonical="https://viper.ph/partnerships/"
+>
+  <div class="page-shell" id="top">
+    <Header />
+    <main class="form-page section-frame">
+      <section class="form-page__intro">
+        <span class="eyebrow"><span class="eyebrow__dot" aria-hidden="true"></span>Work with Viper</span>
+        <h1>Partnerships <em>&amp; Collaborations</em></h1>
+        <p>We’re always excited to collaborate with innovative brands and creators. For partnership, sponsorship, and feature inquiries, fill out the quick form below — our team would love to connect with you.</p>
+      </section>
+      <section class="form-page__layout" aria-labelledby="partnership-form-title">
+        <div class="form-page__form-column">
+          <div class="section-kicker"><h2 id="partnership-form-title">Start a conversation</h2><span>01 / Partnerships</span></div>
+          <InquiryForm kind="partnership" />
+        </div>
+        <aside class="form-page__aside">
+          <span class="eyebrow">Ways to collaborate</span>
+          <h2>Bring a sharper story to the people who care.</h2>
+          <p>Tell us what you are building and how you would like to work together. Choose one or more collaboration paths in the form.</p>
+          <a href="mailto:hi@viper.ph" class="form-page__email">hi@viper.ph <span aria-hidden="true">↗</span></a>
+        </aside>
+      </section>
+    </main>
+    <Footer />
+  </div>
+</BaseLayout>

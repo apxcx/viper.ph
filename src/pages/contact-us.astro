@@ -1,0 +1,36 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import InquiryForm from '../components/InquiryForm.astro';
+---
+
+<BaseLayout
+  title="Contact Us | Viper.ph"
+  description="Have a question, story tip, or collaboration in mind? Contact the Viper.ph team."
+  canonical="https://viper.ph/contact-us/"
+>
+  <div class="page-shell" id="top">
+    <Header />
+    <main class="form-page section-frame">
+      <section class="form-page__intro">
+        <span class="eyebrow"><span class="eyebrow__dot" aria-hidden="true"></span>Get in touch</span>
+        <h1>Contact <em>Us</em></h1>
+        <p>Have a question, story tip, or collaboration in mind? We’d love to hear from you. Fill out the quick form below, and our team will get back to you.</p>
+      </section>
+      <section class="form-page__layout" aria-labelledby="contact-form-title">
+        <div class="form-page__form-column">
+          <div class="section-kicker"><h2 id="contact-form-title">Send a message</h2><span>01 / Contact</span></div>
+          <InquiryForm kind="contact" />
+        </div>
+        <aside class="form-page__aside">
+          <span class="eyebrow">Viper.ph</span>
+          <h2>Stories, signals, and the people shaping what comes next.</h2>
+          <p>For editorial tips, questions, or general inquiries, send a note and the Viper team will follow up.</p>
+          <a href="mailto:hi@viper.ph" class="form-page__email">hi@viper.ph <span aria-hidden="true">↗</span></a>
+        </aside>
+      </section>
+    </main>
+    <Footer />
+  </div>
+</BaseLayout>

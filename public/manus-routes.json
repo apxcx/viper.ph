@@ -6,6 +6,8 @@
     { "path": "/category/electric-vehicles/", "title": "Electric Vehicles | Viper.ph" },
     { "path": "/category/fintech-banking-tech/", "title": "Fintech and Banking Tech | Viper.ph" },
     { "path": "/privacy-policy/", "title": "Privacy Policy | Viper.ph" },
-    { "path": "/terms-conditions/", "title": "Terms & Conditions | Viper.ph" }
+    { "path": "/terms-conditions/", "title": "Terms & Conditions | Viper.ph" },
+    { "path": "/contact-us/", "title": "Contact Us | Viper.ph" },
+    { "path": "/partnerships/", "title": "Partnerships & Collaborations | Viper.ph" }
   ]
 }
