@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Header from '../components/Header.astro';
 import ArticleCard from '../components/ArticleCard.astro';
+import Footer from '../components/Footer.astro';
 import { leadStories, latestStories } from '../data/articles';
 ---
 
@@ -27,13 +28,13 @@ import { leadStories, latestStories } from '../data/articles';
     <main>
       <section class="masthead section-frame" aria-labelledby="hero-title">
         <div class="masthead__eyebrow"><span class="eyebrow__dot"></span> Viper.ph / Daily tech intelligence</div>
-        <h1 id="hero-title">The Daily Pulse<br /><em>of Philippine Tech</em></h1>
+        <h1 id="hero-title"><span>The Daily Pulse</span>{' '}<em>of Philippine Tech</em></h1>
         <p class="masthead__intro">The Philippines’ leading tech news and discovery platform. Clear reporting on the products, people, and ideas changing how we live.</p>
       </section>
 
       <section class="top-stories section-frame" id="top-stories" aria-labelledby="top-stories-title">
         <div class="section-kicker">
-          <span class="eyebrow">01 / Top stories</span>
+          <h2 class="eyebrow" id="top-stories-title">01 / Top stories</h2>
           <span class="section-kicker__date">25 October 2026</span>
         </div>
         <div class="top-stories__grid">
@@ -44,9 +45,9 @@ import { leadStories, latestStories } from '../data/articles';
         </div>
       </section>
 
-      <section class="latest section-frame" id="latest" aria-labelledby="latest-title">
+      <section class="latest section-frame" id="latest" aria-labelledby="latest-section-title">
         <div class="section-kicker">
-          <span class="eyebrow">02 / Latest</span>
+          <h2 class="eyebrow" id="latest-section-title">02 / Latest</h2>
           <a class="section-link" href="#categories">Browse categories <span aria-hidden="true">↗</span></a>
         </div>
         <div class="latest__layout">
@@ -58,21 +59,17 @@ import { leadStories, latestStories } from '../data/articles';
             <h2 id="latest-title">Useful context.<br /><em>Less noise.</em></h2>
             <p>We follow the details behind the headline, from the devices on your desk to the systems reshaping the country.</p>
             <div class="category-list" aria-label="Categories">
-              <a id="tech-news" href="#latest">Tech news <span>→</span></a>
-              <a id="electric-vehicles" href="#latest">Electric vehicles <span>→</span></a>
-              <a id="ai" href="#latest">AI <span>→</span></a>
-              <a id="security" href="#latest">Security <span>→</span></a>
+              <a href="https://viper.ph/category/tech-news/">Tech news <span aria-hidden="true">→</span></a>
+              <a href="https://viper.ph/category/electric-vehicles/">Electric vehicles <span aria-hidden="true">→</span></a>
+              <a href="https://viper.ph/category/ai/">AI <span aria-hidden="true">→</span></a>
+              <a href="https://viper.ph/category/telcos-and-internet/">Telcos and Internet <span aria-hidden="true">→</span></a>
             </div>
           </aside>
         </div>
       </section>
     </main>
 
-    <footer class="site-footer section-frame">
-      <a class="footer-wordmark" href="#top"><img src="/media/viper-logo.webp" alt="" /> Viper<span>.</span>ph</a>
-      <span>Philippines / Everywhere</span>
-      <a href="#top">Back to top <span aria-hidden="true">↑</span></a>
-    </footer>
+    <Footer />
   </div>
 </BaseLayout>
 

@@ -8,11 +8,17 @@ interface Props {
 }
 
 const { article, featured = false, compact = false } = Astro.props;
+const categoryPaths: Record<string, string> = {
+  'Tech News': 'tech-news',
+  'Electric Vehicles': 'electric-vehicles',
+  AI: 'ai',
+};
+const categoryHref = `https://viper.ph/category/${categoryPaths[article.category] ?? 'tech-news'}/`;
 ---
 
 <article class:list={['news-card', { 'news-card--featured': featured, 'news-card--compact': compact }]}>
-  <a class="news-card__image-link" href={article.href} aria-label={`Read ${article.title}`}>
-    <img class="news-card__image" src={article.image} alt={article.title} loading={featured ? 'eager' : 'lazy'} />
+  <a class="news-card__image-link" href={article.href} tabindex="-1" aria-hidden="true">
+    <img class="news-card__image" src={article.image} alt="" loading={featured ? 'eager' : 'lazy'} />
     <span class="news-card__arrow" aria-hidden="true">↗</span>
   </a>
   <div class="news-card__body">
@@ -20,6 +26,6 @@ const { article, featured = false, compact = false } = Astro.props;
       <span>{article.date}</span><span>{article.time}</span>
     </div>
     <h2><a href={article.href}>{article.title}</a></h2>
-    <a class="news-card__category" href={`#${article.category.toLowerCase().replaceAll(' ', '-')}`}>{article.category}</a>
+    <a class="news-card__category" href={categoryHref}>{article.category}</a>
   </div>
 </article>

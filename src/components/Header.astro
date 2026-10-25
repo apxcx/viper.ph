@@ -19,9 +19,15 @@
 </header>
 
 <script>
-  const toggle = document.querySelector('[data-menu-toggle]');
+  const toggle = document.querySelector<HTMLButtonElement>('[data-menu-toggle]');
   const menu = document.querySelector('[data-menu]');
   const label = document.querySelector('[data-menu-label]');
+
+  const closeMenu = () => {
+    toggle?.setAttribute('aria-expanded', 'false');
+    menu?.classList.remove('is-open');
+    if (label) label.textContent = 'Menu';
+  };
 
   toggle?.addEventListener('click', () => {
     const isOpen = toggle.getAttribute('aria-expanded') === 'true';
@@ -31,10 +37,19 @@
   });
 
   menu?.querySelectorAll('a').forEach((link) => {
-    link.addEventListener('click', () => {
-      toggle?.setAttribute('aria-expanded', 'false');
-      menu?.classList.remove('is-open');
-      if (label) label.textContent = 'Menu';
-    });
+    link.addEventListener('click', closeMenu);
+  });
+
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && toggle?.getAttribute('aria-expanded') === 'true') {
+      closeMenu();
+      toggle.focus();
+    }
+  });
+
+  document.addEventListener('click', (event) => {
+    if (event.target instanceof Node && !menu?.contains(event.target) && !toggle?.contains(event.target)) {
+      closeMenu();
+    }
   });
 </script>

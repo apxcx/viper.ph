@@ -1,18 +1,22 @@
 # Viper — Journal implementation
 
-- [x] Build a simple dark-mode blog landing page titled “Viper — Journal” using Astro and Tailwind CSS.
-  - The page presents a clear journal header and introductory branding.
+- [x] Build a responsive Astro and Tailwind homepage for Viper.ph with its news logo and clear publication identity.
+  - The page presents the Viper.ph brand and news coverage positioning.
   - The visual treatment is cohesive, dark, editorial, restrained, and responsive.
   - The page is usable on both mobile and desktop screens.
-- [x] Include three dummy article previews with titles, excerpts, categories, dates, reading times, and clear reading actions.
+- [x] Include image-led news previews with titles, categories, dates, and clear story links, with no article excerpts.
 - [x] Provide accessible navigation, a mobile menu toggle, a newsletter callout, and meaningful footer links without claiming a real submission backend.
 - [x] Serve a synchronized `/manus-routes.json` route manifest and include crawler-visible page content and metadata.
 - [x] Verify diagnostics, production build, route manifest, and responsive preview rendering.
 - [x] Push the completed project to the requested `apxcx/viper.ph` GitHub repository through the authenticated GitHub connection.
 - [x] Rework the homepage to mirror the live Viper.ph structure: logo-led header, top-three news hero, and a two-column latest-news section.
-  - The headline tagline is “The pulse of what’s next.”
-  - The palette uses the live Viper navy, cream, and rust accent treatment.
+  - The headline tagline is “The Daily Pulse of Philippine Tech.”
+  - The palette uses a `#14171c` background and `#0000ff` accent.
 - [x] Add a horizontal first-name and email newsletter form directly below the header.
   - Form submissions post to the server-side `/api/subscribe` route without exposing MailerLite credentials in the browser.
 - [ ] Add `MAILERLITE_API_TOKEN` and `MAILERLITE_GROUP_ID` to the Cloudflare Worker environment so production subscriptions are delivered to MailerLite.
 - [x] Set the site background to `#14171c`, use `#0000ff` for buttons and highlights, give every article title an accent-color background, remove article excerpts, and change the H1 to “The Daily Pulse of Philippine Tech”.
+- [x] Refine the page into a more premium editorial news experience while retaining the established colors and balancing them with restrained neutrals and spacious typography.
+  - Keep `#14171c` as the page background and `#0000ff` as the accent for buttons, highlights, and article title backgrounds, while reducing unrelated blue flourishes.
+- [x] Add a complete Viper.ph footer populated from the live site's published content.
+  - Include the published Viper.ph description, `hi@viper.ph`, the Quezon City address, category links, social links, and available utility links such as Events, Partnerships, Privacy Policy, and Terms and Conditions.

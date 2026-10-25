@@ -17,7 +17,7 @@ export const leadStories: Article[] = [
     excerpt:
       'Xiaomi Philippines turned a community run into a closer look at the battery life and everyday performance behind its latest Redmi experience.',
     image: '/media/xiaomi-pop-run.jpg',
-    href: '#story-xiaomi',
+    href: 'https://viper.ph/xiaomi-pop-run-redmi-note-17-battery-event/',
   },
   {
     category: 'Electric Vehicles',
@@ -26,7 +26,7 @@ export const leadStories: Article[] = [
     title: 'Deepal S07 EV Launches in Philippines',
     excerpt: 'The new electric SUV brings a sharper design and a more considered approach to the local EV conversation.',
     image: '/media/deepal-s07.jpg',
-    href: '#story-deepal',
+    href: 'https://viper.ph/deepal-s07-ev-launches-philippines/',
   },
   {
     category: 'AI',
@@ -35,7 +35,7 @@ export const leadStories: Article[] = [
     title: 'AI Finds More Bugs, Shrinking Patch Time',
     excerpt: 'New developer tools are changing how teams find, understand, and fix software problems before they reach users.',
     image: '/media/ai-bugs.webp',
-    href: '#story-ai',
+    href: 'https://viper.ph/ai-finds-more-software-bugs-shrinking-patch-time/',
   },
 ];
 
@@ -46,8 +46,8 @@ export const latestStories: Article[] = [
     time: '8:00 am',
     title: 'Converge Studios Unveils AI Health Tools',
     excerpt: 'A new set of tools puts practical AI closer to the people who need it most.',
-    image: '/media/ai-bugs.webp',
-    href: '#story-converge',
+    image: '/media/converge-health.jpg',
+    href: 'https://viper.ph/converge-studios-ai-health-tools/',
   },
   {
     category: 'Space & Science',
@@ -55,8 +55,8 @@ export const latestStories: Article[] = [
     time: '6:00 am',
     title: 'Philippine Spaceport Plan Gains Rocket Test',
     excerpt: 'The country’s space ambitions move one step closer to a launch-ready future.',
-    image: '/media/deepal-s07.jpg',
-    href: '#story-spaceport',
+    image: '/media/philippine-spaceport.jpg',
+    href: 'https://viper.ph/philippine-spaceport-plan-rocket-test/',
   },
   {
     category: 'Electric Vehicles',
@@ -64,8 +64,8 @@ export const latestStories: Article[] = [
     time: '10:00 am',
     title: 'BYD Brings EV Experience to Philippine Summit',
     excerpt: 'Charging, ownership, and a more accessible electric future take the spotlight in Manila.',
-    image: '/media/xiaomi-pop-run.jpg',
-    href: '#story-byd',
+    image: '/media/byd-ev-summit.webp',
+    href: 'https://viper.ph/byd-acmobility-philippine-ev-summit-2026/',
   },
   {
     category: 'Security',
@@ -73,7 +73,7 @@ export const latestStories: Article[] = [
     time: '8:00 am',
     title: 'PHP Flaws Put Government Websites Offline',
     excerpt: 'The latest outage is another reminder that resilient digital infrastructure is never optional.',
-    image: '/media/ai-bugs.webp',
-    href: '#story-security',
+    image: '/media/php-security.webp',
+    href: 'https://viper.ph/php-flaws-put-government-websites-offline/',
   },
 ];
