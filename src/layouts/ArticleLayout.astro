@@ -1,0 +1,128 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import BriefingSidebar from '../components/BriefingSidebar.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { leadStories, latestStories } from '../data/articles';
+
+interface ArticleFrontmatter {
+  title: string;
+  slug: string;
+  date: string;
+  modified?: string;
+  author?: string;
+  categories?: string[];
+  seo_title?: string;
+  seo_description?: string;
+  seo_robots?: string;
+  og_title?: string;
+  og_description?: string;
+  canonical_url?: string;
+  featured_image_preview: string;
+  featured_image_alt?: string;
+  featured_image_width?: number;
+  featured_image_height?: number;
+}
+
+interface Props {
+  frontmatter: ArticleFrontmatter;
+}
+
+const { frontmatter } = Astro.props;
+const category = frontmatter.categories?.[0] ?? 'Tech News';
+const categorySlugs: Record<string, string> = {
+  'Tech News': 'tech-news',
+  'Electric Vehicles': 'electric-vehicles',
+  AI: 'ai',
+  'Fintech and Banking Tech': 'fintech-banking-tech',
+};
+const categoryHref = `/category/${categorySlugs[category] ?? 'tech-news'}/`;
+const canonical = frontmatter.canonical_url ?? `https://viper.ph/${frontmatter.slug}/`;
+const socialImage = new URL(frontmatter.featured_image_preview, 'https://viper.ph').href;
+const published = new Date(`${frontmatter.date}+08:00`);
+const publishedAt = published.toISOString();
+const modifiedAt = frontmatter.modified ? new Date(`${frontmatter.modified}+08:00`).toISOString() : undefined;
+const displayDate = new Intl.DateTimeFormat('en-PH', {
+  day: 'numeric',
+  month: 'long',
+  year: 'numeric',
+  timeZone: 'Asia/Manila',
+}).format(published);
+const displayTime = new Intl.DateTimeFormat('en-PH', {
+  hour: 'numeric',
+  minute: '2-digit',
+  hour12: true,
+  timeZone: 'Asia/Manila',
+}).format(published);
+const relatedStories = [leadStories[1], latestStories[0], leadStories[2]];
+---
+
+<BaseLayout
+  title={frontmatter.seo_title ?? frontmatter.title}
+  description={frontmatter.seo_description}
+  canonical={canonical}
+  ogType="article"
+  ogTitle={frontmatter.og_title ?? frontmatter.seo_title ?? frontmatter.title}
+  ogDescription={frontmatter.og_description ?? frontmatter.seo_description}
+  ogImage={socialImage}
+  ogImageAlt={frontmatter.featured_image_alt ?? frontmatter.title}
+  author={frontmatter.author}
+  robots={frontmatter.seo_robots}
+  publishedTime={publishedAt}
+  modifiedTime={modifiedAt}
+>
+  <div class="page-shell" id="top">
+    <Header />
+
+    <nav class="article-breadcrumbs section-frame" aria-label="Breadcrumb">
+      <a href={categoryHref}>{category}</a>
+      <span aria-hidden="true">/</span>
+      <span>Article</span>
+    </nav>
+
+    <main class="article-page">
+      <header class="article-header section-frame">
+        <div class="article-header__category"><a href={categoryHref}>{category}</a><span aria-hidden="true"> / FEATURE</span></div>
+        <h1>{frontmatter.title}</h1>
+        {frontmatter.seo_description && <p class="article-header__dek">{frontmatter.seo_description}</p>}
+        <div class="article-header__meta">
+          <span>By {frontmatter.author ?? 'Viper Editorial Team'}</span>
+          <time datetime={publishedAt}>{displayDate}</time>
+          <span>{displayTime}</span>
+        </div>
+      </header>
+
+      <div class="article-layout section-frame">
+        <div class="article-main-column">
+          <figure class="article-cover">
+            <img
+              src={frontmatter.featured_image_preview}
+              alt={frontmatter.featured_image_alt ?? frontmatter.title}
+              width={frontmatter.featured_image_width}
+              height={frontmatter.featured_image_height}
+              loading="eager"
+              fetchpriority="high"
+            />
+          </figure>
+          <article class="article-body">
+            <slot />
+          </article>
+        </div>
+        <BriefingSidebar id="article-categories" />
+      </div>
+
+      <section class="article-related section-frame" aria-labelledby="related-stories-title">
+        <div class="section-kicker">
+          <h2 class="eyebrow" id="related-stories-title">Related stories</h2>
+          <a class="section-link" href={categoryHref}>More in {category} <span aria-hidden="true">↗</span></a>
+        </div>
+        <div class="article-related__grid">
+          {relatedStories.map((story) => <ArticleCard article={story} compact />)}
+        </div>
+      </section>
+    </main>
+
+    <Footer />
+  </div>
+</BaseLayout>

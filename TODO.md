@@ -45,3 +45,6 @@
 - [x] Balance the homepage hero cards so the two stacked articles on the right together match the height of the large featured article on the left.
 - [x] Match the home-page “Useful context. Less noise.” sidebar width to the stacked right-hand hero cards, and show the same sidebar beside the article list below the hero on every category page.
 - [x] Match category-archive post titles and their date/time typography to the compact hero-card title and metadata scale.
+- [x] Draft one dedicated article page as a review example before applying the layout to other posts.
+  - Use the migrated Xiaomi POP Run article at its preserved slug; retain its four original body paragraphs, featured image reference, publication details, category, and SEO metadata.
+  - Include the shared sidebar beside the article and a related-post section below it; route only this example article locally until the page design is approved.

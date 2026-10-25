@@ -19,7 +19,7 @@ export const categoryPages: CategoryPage[] = [
         title: "Xiaomi POP Run Puts Redmi Battery to Test",
         excerpt: "Xiaomi’s 2026 Manila POP Run used the Redmi Note 17 series and its 10,000mAh battery as the centerpiece of a large local tech event in Metro Manila.",
         image: "https://viper.ph/wp-content/uploads/2026/10/images-68.jpg",
-        href: "https://viper.ph/xiaomi-pop-run-redmi-note-17-battery-event/",
+        href: "/xiaomi-pop-run-redmi-note-17-battery-event/",
         migrated: false,
       },
       {

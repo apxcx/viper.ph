@@ -21,7 +21,7 @@ export const leadStories: Article[] = [
     excerpt:
       'Xiaomi Philippines turned a community run into a closer look at the battery life and everyday performance behind its latest Redmi experience.',
     image: '/media/xiaomi-pop-run.jpg',
-    href: 'https://viper.ph/xiaomi-pop-run-redmi-note-17-battery-event/',
+    href: '/xiaomi-pop-run-redmi-note-17-battery-event/',
   },
   {
     category: 'Electric Vehicles',
