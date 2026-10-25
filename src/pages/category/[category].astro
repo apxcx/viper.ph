@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Header from '../../components/Header.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import CategoryArticleRow from '../../components/CategoryArticleRow.astro';
+import BriefingSidebar from '../../components/BriefingSidebar.astro';
 import Footer from '../../components/Footer.astro';
 import { categoryPageMap, categoryPages } from '../../data/category-data';
 
@@ -56,13 +57,18 @@ const description = `The latest ${page.label.toLowerCase()} news from Viper.ph, 
           <h2 class="eyebrow" id="archive-title">02 / More {page.label}</h2>
           <a class="section-link" href="#top-stories">Back to top <span aria-hidden="true">↗</span></a>
         </div>
-        {page.moreStories.length ? (
-          <div class="category-archive__list">
-            {page.moreStories.map((article) => <CategoryArticleRow article={article} />)}
+        <div class="category-archive__layout">
+          <div class="category-archive__posts">
+            {page.moreStories.length ? (
+              <div class="category-archive__list">
+                {page.moreStories.map((article) => <CategoryArticleRow article={article} />)}
+              </div>
+            ) : (
+              <p class="category-archive__empty">The latest three stories are currently the full published archive for this category.</p>
+            )}
           </div>
-        ) : (
-          <p class="category-archive__empty">The latest three stories are currently the full published archive for this category.</p>
-        )}
+          <BriefingSidebar id={`categories-${page.slug}`} />
+        </div>
       </section>
     </main>
 
