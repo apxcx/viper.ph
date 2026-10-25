@@ -10,7 +10,7 @@ tags:
   - "space technology"
   - "rocket debris"
   - "Long March 8A"
-publisher_status: "ready"
+publisher_status: "published"
 focus_keyword: "Long March 8A rocket launch"
 publication_slot: "06:00"
 seo_title: "PhilSA Warns of Long March 8A Debris | Viper"

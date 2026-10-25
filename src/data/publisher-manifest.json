@@ -14,7 +14,7 @@
       "slot": "06:00",
       "slug": "philsa-warns-long-march-8a-debris",
       "title": "PhilSA Warns After Long March 8A Launch",
-      "status": "ready",
+      "status": "published",
       "managed": true,
       "categories": [
         "PH Tech"
@@ -3490,7 +3490,7 @@
     "2026-10-26": {
       "2026-10-26/06:00": {
         "slug": "philsa-warns-long-march-8a-debris",
-        "status": "ready",
+        "status": "published",
         "managed": true
       }
     },
