@@ -4,7 +4,14 @@ import Header from '../components/Header.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import BriefingSidebar from '../components/BriefingSidebar.astro';
 import Footer from '../components/Footer.astro';
-import { leadStories, latestStories } from '../data/articles';
+import { manilaDate, postCard, posts } from '../data/posts';
+
+const homepagePosts = posts
+  .filter((post) => post.publisherStatus !== 'draft')
+  .sort((a, b) => manilaDate(b.date).getTime() - manilaDate(a.date).getTime())
+  .map(postCard);
+const leadStories = homepagePosts.slice(0, 3);
+const latestStories = homepagePosts.slice(3, 7);
 ---
 
 <BaseLayout>
@@ -36,7 +43,7 @@ import { leadStories, latestStories } from '../data/articles';
       <section class="top-stories section-frame" id="top-stories" aria-labelledby="top-stories-title">
         <div class="section-kicker">
           <h2 class="eyebrow" id="top-stories-title">01 / Top stories</h2>
-          <span class="section-kicker__date">26 October 2026</span>
+          <span class="section-kicker__date">{leadStories[0]?.date}</span>
         </div>
         <div class="top-stories__grid">
           <ArticleCard article={leadStories[0]} featured />

@@ -69,3 +69,4 @@
   - Preserve the existing 216 migrated articles as legacy provenance and do not force them through the new four-paragraph contract.
 - [x] Complete the 2026-10-26 06:00 Asia/Manila controlled Astro publisher run with one distinct PH Tech story, deterministic R2 assets, a daily slot manifest entry, local content validation, Astro build, and Cloudflare dry-run.
 - [x] Promote the latest verified 6:00 AM article into the homepage hero lead and update the top-story date.
+- [x] Make homepage hero and below-hero latest cards derive automatically from publication date order: newest as the large lead, the next two in the stacked cards, and subsequent stories in the two-column section.
