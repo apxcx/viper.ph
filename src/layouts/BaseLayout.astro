@@ -7,8 +7,8 @@ interface Props {
 }
 
 const {
-  title = 'Viper — Journal | Notes on considered digital work',
-  description = 'Viper Journal is a field guide to building quieter, sharper digital identities for ambitious brands.',
+  title = 'Viper.ph | Philippine Tech News',
+  description = 'Viper.ph is the Philippines’ leading tech news and discovery platform, covering the stories, products, and ideas shaping what comes next.',
 } = Astro.props;
 const canonical = 'https://viper.ph/';
 ---
@@ -18,15 +18,15 @@ const canonical = 'https://viper.ph/';
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
-    <meta name="theme-color" content="#0b0b0b" />
+    <meta name="theme-color" content="#14171c" />
     <meta name="description" content={description} />
     <meta property="og:type" content="website" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
-    <meta property="og:site_name" content="Viper — Journal" />
-    <meta property="og:image" content={`${canonical}favicon.svg`} />
-    <meta name="twitter:card" content="summary" />
+    <meta property="og:site_name" content="Viper.ph" />
+    <meta property="og:image" content={`${canonical}media/viper-logo.webp`} />
+    <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
     <link rel="canonical" href={canonical} />

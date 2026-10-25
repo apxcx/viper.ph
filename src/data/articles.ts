@@ -1,46 +1,79 @@
 export type Article = {
-  index: string;
   category: string;
   date: string;
-  readTime: string;
+  time: string;
   title: string;
   excerpt: string;
-  accent: string;
-  texture: string;
+  image: string;
+  href: string;
 };
 
-export const articles: Article[] = [
+export const leadStories: Article[] = [
   {
-    index: '01',
-    category: 'Point of view',
-    date: 'October 18, 2026',
-    readTime: '6 min read',
-    title: 'The quiet power of a considered digital presence',
+    category: 'Tech News',
+    date: '25 October 2026',
+    time: '8:00 am',
+    title: 'Xiaomi POP Run Puts Redmi Battery to Test',
     excerpt:
-      'Why the most memorable brands are learning to edit harder, move slower, and leave room for people to look closer.',
-    accent: 'from-[#4c2014] via-[#1e1210] to-[#101010]',
-    texture: 'article-art--one',
+      'Xiaomi Philippines turned a community run into a closer look at the battery life and everyday performance behind its latest Redmi experience.',
+    image: '/media/xiaomi-pop-run.jpg',
+    href: '#story-xiaomi',
   },
   {
-    index: '02',
-    category: 'Field notes',
-    date: 'September 29, 2026',
-    readTime: '4 min read',
-    title: 'Designing for the space between signal and noise',
-    excerpt:
-      'A field note on restraint, rhythm, and building interfaces that feel as assured as the products behind them.',
-    accent: 'from-[#1d2626] via-[#111b1b] to-[#101010]',
-    texture: 'article-art--two',
+    category: 'Electric Vehicles',
+    date: '25 October 2026',
+    time: '6:00 am',
+    title: 'Deepal S07 EV Launches in Philippines',
+    excerpt: 'The new electric SUV brings a sharper design and a more considered approach to the local EV conversation.',
+    image: '/media/deepal-s07.jpg',
+    href: '#story-deepal',
   },
   {
-    index: '03',
-    category: 'Practice',
-    date: 'August 11, 2026',
-    readTime: '8 min read',
-    title: 'A slower route to sharper creative decisions',
-    excerpt:
-      'Inside the rituals that make a small studio useful: fewer meetings, better questions, and a point of view worth protecting.',
-    accent: 'from-[#302515] via-[#171510] to-[#101010]',
-    texture: 'article-art--three',
+    category: 'AI',
+    date: '24 October 2026',
+    time: '10:00 am',
+    title: 'AI Finds More Bugs, Shrinking Patch Time',
+    excerpt: 'New developer tools are changing how teams find, understand, and fix software problems before they reach users.',
+    image: '/media/ai-bugs.webp',
+    href: '#story-ai',
+  },
+];
+
+export const latestStories: Article[] = [
+  {
+    category: 'Tech News',
+    date: '24 October 2026',
+    time: '8:00 am',
+    title: 'Converge Studios Unveils AI Health Tools',
+    excerpt: 'A new set of tools puts practical AI closer to the people who need it most.',
+    image: '/media/ai-bugs.webp',
+    href: '#story-converge',
+  },
+  {
+    category: 'Space & Science',
+    date: '24 October 2026',
+    time: '6:00 am',
+    title: 'Philippine Spaceport Plan Gains Rocket Test',
+    excerpt: 'The country’s space ambitions move one step closer to a launch-ready future.',
+    image: '/media/deepal-s07.jpg',
+    href: '#story-spaceport',
+  },
+  {
+    category: 'Electric Vehicles',
+    date: '23 October 2026',
+    time: '10:00 am',
+    title: 'BYD Brings EV Experience to Philippine Summit',
+    excerpt: 'Charging, ownership, and a more accessible electric future take the spotlight in Manila.',
+    image: '/media/xiaomi-pop-run.jpg',
+    href: '#story-byd',
+  },
+  {
+    category: 'Security',
+    date: '23 October 2026',
+    time: '8:00 am',
+    title: 'PHP Flaws Put Government Websites Offline',
+    excerpt: 'The latest outage is another reminder that resilient digital infrastructure is never optional.',
+    image: '/media/ai-bugs.webp',
+    href: '#story-security',
   },
 ];

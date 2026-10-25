@@ -2,74 +2,106 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Header from '../components/Header.astro';
 import ArticleCard from '../components/ArticleCard.astro';
-import { articles } from '../data/articles';
+import { leadStories, latestStories } from '../data/articles';
 ---
 
 <BaseLayout>
   <div class="page-shell" id="top">
     <Header />
 
+    <section class="subscribe-bar section-frame" id="subscribe" aria-labelledby="subscribe-title">
+      <div>
+        <span class="eyebrow">The Viper briefing</span>
+        <h2 id="subscribe-title">Stay ahead of the signal.</h2>
+      </div>
+      <form class="subscribe-form" data-subscribe-form>
+        <label class="sr-only" for="first-name">First name</label>
+        <input id="first-name" name="firstName" type="text" placeholder="First name" autocomplete="given-name" required />
+        <label class="sr-only" for="email">Email address</label>
+        <input id="email" name="email" type="email" placeholder="Email address" autocomplete="email" required />
+        <button type="submit">Subscribe <span aria-hidden="true">↗</span></button>
+        <p class="form-status" data-form-status aria-live="polite"></p>
+      </form>
+    </section>
+
     <main>
-      <section class="hero section-frame" aria-labelledby="hero-title">
-        <div class="hero__eyebrow eyebrow"><span class="eyebrow__dot"></span> Viper Journal / Vol. 01</div>
-        <div class="hero__grid">
-          <h1 id="hero-title" class="hero__title">For brands<br /><em>with intent.</em></h1>
-          <div class="hero__aside">
-            <p>Notes on the work behind the work — identity, digital craft, and the decisions that make a brand feel inevitable.</p>
-            <a class="text-link" href="#journal">Explore the journal <span aria-hidden="true">↓</span></a>
+      <section class="masthead section-frame" aria-labelledby="hero-title">
+        <div class="masthead__eyebrow"><span class="eyebrow__dot"></span> Viper.ph / Daily tech intelligence</div>
+        <h1 id="hero-title">The pulse of<br /><em>what’s next.</em></h1>
+        <p class="masthead__intro">The Philippines’ leading tech news and discovery platform. Clear reporting on the products, people, and ideas changing how we live.</p>
+      </section>
+
+      <section class="top-stories section-frame" id="top-stories" aria-labelledby="top-stories-title">
+        <div class="section-kicker">
+          <span class="eyebrow">01 / Top stories</span>
+          <span class="section-kicker__date">25 October 2026</span>
+        </div>
+        <div class="top-stories__grid">
+          <ArticleCard article={leadStories[0]} featured />
+          <div class="top-stories__side">
+            {leadStories.slice(1).map((article) => <ArticleCard article={article} compact />)}
           </div>
         </div>
-        <div class="hero__footer">
-          <span>Selected thoughts on making less, mean more.</span>
-          <span class="hero__scroll" aria-hidden="true">Scroll to read <span>↓</span></span>
-        </div>
       </section>
 
-      <section class="journal section-frame" id="journal" aria-labelledby="journal-title">
-        <div class="section-heading reveal">
-          <div>
-            <span class="eyebrow">01 / The journal</span>
-            <h2 id="journal-title">A point of<br /><em>view.</em></h2>
+      <section class="latest section-frame" id="latest" aria-labelledby="latest-title">
+        <div class="section-kicker">
+          <span class="eyebrow">02 / Latest</span>
+          <a class="section-link" href="#categories">Browse categories <span aria-hidden="true">↗</span></a>
+        </div>
+        <div class="latest__layout">
+          <div class="latest__grid">
+            {latestStories.map((article) => <ArticleCard article={article} />)}
           </div>
-          <p>Three short reads on the principles, practices, and quiet details that shape considered digital work.</p>
-        </div>
-
-        <div class="article-grid">
-          {articles.map((article) => <ArticleCard article={article} />)}
-        </div>
-      </section>
-
-      <section class="statement section-frame reveal" id="about" aria-labelledby="statement-title">
-        <div class="statement__label eyebrow">02 / A small belief</div>
-        <div class="statement__copy">
-          <h2 id="statement-title">Good work leaves<br />a <em>trace,</em> not a <span class="text-rust">bruise.</span></h2>
-          <p>Viper is a small independent practice for brands choosing clarity over volume. We make identities and digital experiences with a little more tension, a little less noise, and a lot of care.</p>
-        </div>
-      </section>
-
-      <section class="subscribe section-frame reveal" id="subscribe" aria-labelledby="subscribe-title">
-        <div class="subscribe__top">
-          <span class="eyebrow">03 / Stay in the loop</span>
-          <span class="subscribe__mark" aria-hidden="true">✳</span>
-        </div>
-        <div class="subscribe__grid">
-          <h2 id="subscribe-title">A considered note,<br /><em>occasionally.</em></h2>
-          <form class="subscribe__form" onsubmit="return false">
-            <label for="email">Your email address</label>
-            <div class="subscribe__input-wrap">
-              <input id="email" name="email" type="email" placeholder="name@studio.com" autocomplete="email" required />
-              <button type="submit" aria-label="Join the journal">↗</button>
+          <aside class="briefing" id="categories">
+            <span class="eyebrow">The Viper brief</span>
+            <h2 id="latest-title">Useful context.<br /><em>Less noise.</em></h2>
+            <p>We follow the details behind the headline, from the devices on your desk to the systems reshaping the country.</p>
+            <div class="category-list" aria-label="Categories">
+              <a id="tech-news" href="#latest">Tech news <span>→</span></a>
+              <a id="electric-vehicles" href="#latest">Electric vehicles <span>→</span></a>
+              <a id="ai" href="#latest">AI <span>→</span></a>
+              <a id="security" href="#latest">Security <span>→</span></a>
             </div>
-            <p class="subscribe__fineprint">No noise. Just new writing when there is something worth saying.</p>
-          </form>
+          </aside>
         </div>
       </section>
     </main>
 
     <footer class="site-footer section-frame">
-      <span>© 2026 Viper Journal</span>
-      <span>Manila / Everywhere</span>
+      <a class="footer-wordmark" href="#top"><img src="/media/viper-logo.webp" alt="" /> Viper<span>.</span>ph</a>
+      <span>Philippines / Everywhere</span>
       <a href="#top">Back to top <span aria-hidden="true">↑</span></a>
     </footer>
   </div>
 </BaseLayout>
+
+<script>
+  const form = document.querySelector<HTMLFormElement>('[data-subscribe-form]');
+  const status = document.querySelector<HTMLElement>('[data-form-status]');
+
+  form?.addEventListener('submit', async (event) => {
+    event.preventDefault();
+    const button = form.querySelector<HTMLButtonElement>('button');
+    const formData = new FormData(form);
+    const firstName = String(formData.get('firstName') ?? '');
+    const email = String(formData.get('email') ?? '');
+    if (button) button.disabled = true;
+    if (status) status.textContent = 'Joining…';
+
+    try {
+      const response = await fetch('/api/subscribe', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ firstName, email }),
+      });
+      const result = await response.json();
+      if (status) status.textContent = result.message;
+      if (result.ok) form.reset();
+    } catch {
+      if (status) status.textContent = 'Something went wrong. Please try again.';
+    } finally {
+      if (button) button.disabled = false;
+    }
+  });
+</script>
