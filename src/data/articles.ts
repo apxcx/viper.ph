@@ -9,6 +9,7 @@ export type Article = {
   image: string;
   href: string;
   migrated?: boolean;
+  featuredImageKey?: string;
 };
 
 export const leadStories: Article[] = [
