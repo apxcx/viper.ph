@@ -58,3 +58,4 @@
 - [x] Add static pagination to each category archive so the article list below the unchanged top-three hero shows up to 10 articles per page.
   - Provide numbered and previous/next navigation, retain the category sidebar on each page, declare every generated category-page route in `public/manus-routes.json`, and use a page-specific canonical URL.
 - [x] Add explicit `sitemap.xml` and `robots.txt` files for Google Search Console, generated from the complete public route manifest and pointing crawlers to `https://viper.ph/sitemap.xml`.
+- [x] Add the supplied Google Analytics `gtag.js` snippet for measurement ID `G-P6SGPQW13P` to the shared document head on every public page.

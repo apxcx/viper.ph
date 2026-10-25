@@ -55,9 +55,17 @@ const {
     {publishedTime && <meta property="article:published_time" content={publishedTime} />}
     {modifiedTime && <meta property="article:modified_time" content={modifiedTime} />}
     <link rel="canonical" href={canonical} />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="svg+xml" href="/favicon.svg" />
     <link rel="icon" type="image/png" sizes="64x64" href="/favicon.png" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-P6SGPQW13P"></script>
+    <script is:inline>
+      const dataLayer = Reflect.get(window, 'dataLayer') || [];
+      Reflect.set(window, 'dataLayer', dataLayer);
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-P6SGPQW13P');
+    </script>
     <title>{title}</title>
   </head>
   <body>
