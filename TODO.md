@@ -54,3 +54,4 @@
 - [x] Configure all 216 featured images to be served from the existing Cloudflare R2 `media` bucket using each article's existing `featured_image_key`; do not duplicate image binaries in the site repository.
   - The read-only endpoint and `MEDIA` binding passed isolated behavior checks and Cloudflare dry-run packaging. The additional remote Wrangler download check timed out; live production delivery has not been reverified during this rollout.
 - [x] Point internal homepage, category, and related-story article links to the generated local slug routes; list all 216 article routes in `public/manus-routes.json` and return a real 404 for unknown article slugs.
+- [x] Replace the generic orange-V favicon with the Viper logo mark, and reference the branded favicon formats from the shared document head.
