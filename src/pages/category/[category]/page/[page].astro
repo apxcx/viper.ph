@@ -1,0 +1,21 @@
+---
+import CategoryArchive from '../../../../components/CategoryArchive.astro';
+import { categoryPages, CATEGORY_ARCHIVE_PAGE_SIZE } from '../../../../data/category-data';
+
+export function getStaticPaths() {
+  return categoryPages.flatMap((category) => {
+    const pageCount = Math.ceil(category.moreStories.length / CATEGORY_ARCHIVE_PAGE_SIZE);
+    return Array.from({ length: Math.max(0, pageCount - 1) }, (_, index) => {
+      const currentPage = index + 2;
+      return {
+        params: { category: category.slug, page: String(currentPage) },
+        props: { category, currentPage },
+      };
+    });
+  });
+}
+
+const { category, currentPage } = Astro.props;
+---
+
+<CategoryArchive page={category} currentPage={currentPage} />

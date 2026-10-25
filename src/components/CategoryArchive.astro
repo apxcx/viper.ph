@@ -1,0 +1,99 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from './Header.astro';
+import ArticleCard from './ArticleCard.astro';
+import CategoryArticleRow from './CategoryArticleRow.astro';
+import BriefingSidebar from './BriefingSidebar.astro';
+import Footer from './Footer.astro';
+import { categoryPages, CATEGORY_ARCHIVE_PAGE_SIZE, type CategoryPage } from '../data/category-data';
+
+interface Props {
+  page: CategoryPage;
+  currentPage?: number;
+}
+
+const { page, currentPage = 1 } = Astro.props;
+const pageCount = Math.max(1, Math.ceil(page.moreStories.length / CATEGORY_ARCHIVE_PAGE_SIZE));
+const pageArticles = page.moreStories.slice((currentPage - 1) * CATEGORY_ARCHIVE_PAGE_SIZE, currentPage * CATEGORY_ARCHIVE_PAGE_SIZE);
+const rootPath = `/category/${page.slug}/`;
+const pageHref = (number: number) => number === 1 ? rootPath : `${rootPath}page/${number}/`;
+const canonical = `https://viper.ph${pageHref(currentPage)}`;
+const pageSuffix = currentPage > 1 ? ` — Page ${currentPage}` : '';
+const title = `${page.label}${currentPage > 1 ? ` — Page ${currentPage}` : ''} | Viper.ph`;
+const description = `The latest ${page.label.toLowerCase()} news from Viper.ph, with clear reporting on the products, people, and ideas shaping the Philippines.${currentPage > 1 ? ` Page ${currentPage} of ${pageCount}.` : ''}`;
+---
+
+<BaseLayout title={title} description={description} canonical={canonical}>
+  <div class="page-shell" id="top">
+    <Header />
+
+    <nav class="category-tabs section-frame" aria-label="News categories">
+      <a href="/">See all</a>
+      {categoryPages.map((category) => (
+        <a class:list={{ 'is-active': category.slug === page.slug }} href={`/category/${category.slug}/`} aria-current={category.slug === page.slug ? 'page' : undefined}>
+          {category.label}
+        </a>
+      ))}
+    </nav>
+
+    <section class="category-masthead section-frame" aria-labelledby="category-title">
+      <div class="masthead__eyebrow"><span class="eyebrow__dot"></span> Viper.ph / category archive</div>
+      <h1 id="category-title">Latest <em>{page.label}</em></h1>
+      <p class="masthead__intro">The newest reporting and context from the {page.label.toLowerCase()} beat, selected for readers who want the signal without the noise.</p>
+    </section>
+
+    <main>
+      <section class="top-stories section-frame" id="top-stories" aria-labelledby="top-stories-title">
+        <div class="section-kicker">
+          <h2 class="eyebrow" id="top-stories-title">01 / Top stories</h2>
+          <span class="section-kicker__date">Latest in {page.label}</span>
+        </div>
+        <div class="top-stories__grid">
+          <ArticleCard article={page.topStories[0]} featured />
+          <div class="top-stories__side">
+            {page.topStories.slice(1, 3).map((article) => <ArticleCard article={article} compact />)}
+          </div>
+        </div>
+      </section>
+
+      <section class="category-archive section-frame" id="archive" aria-labelledby="archive-title">
+        <div class="section-kicker">
+          <h2 class="eyebrow" id="archive-title">02 / More {page.label}{pageSuffix}</h2>
+          <a class="section-link" href="#top-stories">Back to top <span aria-hidden="true">↗</span></a>
+        </div>
+        <div class="category-archive__layout">
+          <div class="category-archive__posts">
+            {pageArticles.length ? (
+              <div class="category-archive__list">
+                {pageArticles.map((article) => <CategoryArticleRow article={article} />)}
+              </div>
+            ) : (
+              <p class="category-archive__empty">The latest three stories are currently the full published archive for this category.</p>
+            )}
+            {pageCount > 1 && (
+              <nav class="category-pagination" aria-label={`${page.label} archive pages`}>
+                <span class="category-pagination__summary">Page {currentPage} of {pageCount}</span>
+                <div class="category-pagination__controls">
+                  {currentPage > 1 ? <a class="category-pagination__step" rel="prev" href={pageHref(currentPage - 1)}>← Previous</a> : <span class="category-pagination__step is-disabled" aria-disabled="true">← Previous</span>}
+                  <ol class="category-pagination__numbers">
+                    {Array.from({ length: pageCount }, (_, index) => index + 1).map((number) => (
+                      <li>
+                        {number === currentPage
+                          ? <span class="is-current" aria-current="page">{number}</span>
+                          : <a href={pageHref(number)}>{number}</a>}
+                      </li>
+                    ))}
+                  </ol>
+                  {currentPage < pageCount ? <a class="category-pagination__step" rel="next" href={pageHref(currentPage + 1)}>Next →</a> : <span class="category-pagination__step is-disabled" aria-disabled="true">Next →</span>}
+                </div>
+              </nav>
+            )}
+          </div>
+          <BriefingSidebar id={`categories-${page.slug}`} />
+        </div>
+      </section>
+    </main>
+
+    <Footer />
+  </div>
+</BaseLayout>

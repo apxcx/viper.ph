@@ -8,6 +8,8 @@ export type CategoryPage = {
   moreStories: Article[];
 };
 
+export const CATEGORY_ARCHIVE_PAGE_SIZE = 10;
+
 const categories = [
   { label: 'Tech News', slug: 'tech-news' },
   { label: 'AI', slug: 'ai' },

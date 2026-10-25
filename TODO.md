@@ -55,3 +55,5 @@
   - The read-only endpoint and `MEDIA` binding passed isolated behavior checks and Cloudflare dry-run packaging. The additional remote Wrangler download check timed out; live production delivery has not been reverified during this rollout.
 - [x] Point internal homepage, category, and related-story article links to the generated local slug routes; list all 216 article routes in `public/manus-routes.json` and return a real 404 for unknown article slugs.
 - [x] Replace the generic orange-V favicon with the Viper logo mark, and reference the branded favicon formats from the shared document head.
+- [x] Add static pagination to each category archive so the article list below the unchanged top-three hero shows up to 10 articles per page.
+  - Provide numbered and previous/next navigation, retain the category sidebar on each page, declare every generated category-page route in `public/manus-routes.json`, and use a page-specific canonical URL.

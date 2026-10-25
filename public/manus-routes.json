@@ -5,22 +5,6 @@
       "title": "Viper.ph | Philippine Tech News"
     },
     {
-      "path": "/category/tech-news/",
-      "title": "Tech News | Viper.ph"
-    },
-    {
-      "path": "/category/ai/",
-      "title": "AI | Viper.ph"
-    },
-    {
-      "path": "/category/electric-vehicles/",
-      "title": "Electric Vehicles | Viper.ph"
-    },
-    {
-      "path": "/category/fintech-banking-tech/",
-      "title": "Fintech and Banking Tech | Viper.ph"
-    },
-    {
       "path": "/privacy-policy/",
       "title": "Privacy Policy | Viper.ph"
     },
@@ -35,6 +19,86 @@
     {
       "path": "/partnerships/",
       "title": "Partnerships & Collaborations | Viper.ph"
+    },
+    {
+      "path": "/category/tech-news/",
+      "title": "Tech News | Viper.ph"
+    },
+    {
+      "path": "/category/tech-news/page/2/",
+      "title": "Tech News — Page 2 | Viper.ph"
+    },
+    {
+      "path": "/category/tech-news/page/3/",
+      "title": "Tech News — Page 3 | Viper.ph"
+    },
+    {
+      "path": "/category/tech-news/page/4/",
+      "title": "Tech News — Page 4 | Viper.ph"
+    },
+    {
+      "path": "/category/tech-news/page/5/",
+      "title": "Tech News — Page 5 | Viper.ph"
+    },
+    {
+      "path": "/category/tech-news/page/6/",
+      "title": "Tech News — Page 6 | Viper.ph"
+    },
+    {
+      "path": "/category/tech-news/page/7/",
+      "title": "Tech News — Page 7 | Viper.ph"
+    },
+    {
+      "path": "/category/tech-news/page/8/",
+      "title": "Tech News — Page 8 | Viper.ph"
+    },
+    {
+      "path": "/category/tech-news/page/9/",
+      "title": "Tech News — Page 9 | Viper.ph"
+    },
+    {
+      "path": "/category/tech-news/page/10/",
+      "title": "Tech News — Page 10 | Viper.ph"
+    },
+    {
+      "path": "/category/tech-news/page/11/",
+      "title": "Tech News — Page 11 | Viper.ph"
+    },
+    {
+      "path": "/category/tech-news/page/12/",
+      "title": "Tech News — Page 12 | Viper.ph"
+    },
+    {
+      "path": "/category/tech-news/page/13/",
+      "title": "Tech News — Page 13 | Viper.ph"
+    },
+    {
+      "path": "/category/tech-news/page/14/",
+      "title": "Tech News — Page 14 | Viper.ph"
+    },
+    {
+      "path": "/category/ai/",
+      "title": "AI | Viper.ph"
+    },
+    {
+      "path": "/category/ai/page/2/",
+      "title": "AI — Page 2 | Viper.ph"
+    },
+    {
+      "path": "/category/ai/page/3/",
+      "title": "AI — Page 3 | Viper.ph"
+    },
+    {
+      "path": "/category/electric-vehicles/",
+      "title": "Electric Vehicles | Viper.ph"
+    },
+    {
+      "path": "/category/electric-vehicles/page/2/",
+      "title": "Electric Vehicles — Page 2 | Viper.ph"
+    },
+    {
+      "path": "/category/fintech-banking-tech/",
+      "title": "Fintech and Banking Tech | Viper.ph"
     },
     {
       "path": "/category/products/",

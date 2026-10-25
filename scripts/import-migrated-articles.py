@@ -71,12 +71,22 @@ index.write_text(json.dumps(posts, ensure_ascii=False, indent=2) + '\n', encodin
 (project / '.r2-preview-map.json').write_text(json.dumps(preview_map, indent=2) + '\n', encoding='utf-8')
 manifest_file = project / 'public/manus-routes.json'
 manifest = json.loads(manifest_file.read_text())
-manifest['routes'] = [r for r in manifest['routes'] if r['path'].strip('/') not in seen]
-existing_paths = {r['path'] for r in manifest['routes']}
-for label, slug in [('Tech News', 'tech-news'), ('AI', 'ai'), ('Electric Vehicles', 'electric-vehicles'), ('Fintech and Banking Tech', 'fintech-banking-tech'), ('Products', 'products'), ('E-Commerce', 'e-commerce'), ('Telcos and Internet', 'telcos-and-internet'), ('Auto', 'auto')]:
-    path = f'/category/{slug}/'
-    if path not in existing_paths:
-        manifest['routes'].append({'path': path, 'title': label + ' | Viper.ph'})
+category_definitions = [('Tech News', 'tech-news'), ('AI', 'ai'), ('Electric Vehicles', 'electric-vehicles'), ('Fintech and Banking Tech', 'fintech-banking-tech'), ('Products', 'products'), ('E-Commerce', 'e-commerce'), ('Telcos and Internet', 'telcos-and-internet'), ('Auto', 'auto')]
+category_roots = [f'/category/{slug}/' for _, slug in category_definitions]
+manifest['routes'] = [
+    route for route in manifest['routes']
+    if route['path'].strip('/') not in seen
+    and not any(route['path'] == root or route['path'].startswith(root + 'page/') for root in category_roots)
+]
+for label, slug in category_definitions:
+    root = f'/category/{slug}/'
+    manifest['routes'].append({'path': root, 'title': label + ' | Viper.ph'})
+    count = sum(label in post['categories'] for post in posts)
+    total_pages = max(1, (max(0, count - 3) + 9) // 10)
+    manifest['routes'].extend(
+        {'path': f'{root}page/{number}/', 'title': f'{label} — Page {number} | Viper.ph'}
+        for number in range(2, total_pages + 1)
+    )
 manifest['routes'].extend({'path': '/' + p['slug'] + '/', 'title': p['title'] + ' | Viper.ph'} for p in posts)
 if len(manifest['routes']) > 1000:
     raise ValueError('Route manifest exceeds platform limit')

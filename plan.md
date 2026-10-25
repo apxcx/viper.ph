@@ -18,12 +18,13 @@ The Xiaomi POP Run page is the approved example. Extend its `ArticleLayout.astro
 
 Serve each featured image from its existing `featured_image_key` in the Cloudflare R2 `media` bucket using a same-origin `/api/media/...` Worker endpoint backed by the existing `MEDIA` binding. Do not duplicate the image binaries into the repository. Route homepage/category/related-story links to generated local article paths, retain the original source URL in migrated metadata, declare all 216 root article paths in `public/manus-routes.json`, and keep unknown slugs as real 404s.
 
-The archives use the same imported post index, including all eight original categories, so breadcrumb/footer taxonomy links resolve locally. Preview-only middleware reads the verified local image mirrors using a Git-ignored map; production reads only the existing R2 binding. Ten oldest source snapshots captured a Cloudflare challenge instead of SEO metadata; retain those raw frontmatter values for provenance but render the article title and a source-text description fallback rather than challenge-page titles.
+The archives use the same imported post index, including all eight original categories, so breadcrumb/footer taxonomy links resolve locally. Each category archive keeps its top-three hero and shared sidebar, then paginates the remaining list at exactly 10 rows per page (with a shorter final page when fewer remain). Page 1 uses the category root; later pages use `/category/{slug}/page/{number}/`, with numbered plus previous/next links, page-specific canonical metadata, and complete route-manifest entries. Preview-only middleware reads the verified local image mirrors using a Git-ignored map; production reads only the existing R2 binding. Ten oldest source snapshots captured a Cloudflare challenge instead of SEO metadata; retain those raw frontmatter values for provenance but render the article title and a source-text description fallback rather than challenge-page titles.
 
 ## Project structure
 
 - `src/pages/index.astro`: homepage composition and existing newsletter form.
 - `src/components/Header.astro`: logo, navigation, and responsive controls.
+- `src/components/CategoryArchive.astro`: shared category hero, 10-item page slice, sidebar, and pagination controls.
 - `src/components/ArticleCard.astro`: shared image/title/metadata news card; no excerpts.
 - `src/layouts/ArticleLayout.astro`: reusable article-detail layout with per-article SEO/Open Graph metadata, R2 image, shared sidebar, and related stories.
 - `src/content/articles/*.md` and `src/pages/[slug].astro`: migrated source Markdown and generated static article routes.

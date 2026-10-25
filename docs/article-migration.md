@@ -1,6 +1,6 @@
 # Article migration and rendering
 
-The site renders **216 migrated published articles** at their original root slugs through `src/pages/[slug].astro`, using the approved `ArticleLayout.astro`. The eight original categories share the imported inventory. The route manifest contains 229 pages: 216 posts, 8 archives, the homepage, and 4 utility/legal pages.
+The site renders **216 migrated published articles** at their original root slugs through `src/pages/[slug].astro`, using the approved `ArticleLayout.astro`. The eight original categories share the imported inventory. Each category root has a three-story hero; the remaining list shows up to 10 posts per page. Later pages use `/category/<slug>/page/<number>/`, keep the hero/sidebar, and include numbered plus previous/next links. Each paginated URL has its own canonical link. The route manifest contains 245 pages: 216 posts, 8 category roots, 16 additional category pages, the homepage, and 4 utility/legal pages.
 
 ## Preserved source data
 
@@ -22,7 +22,7 @@ From the project root, pass the paths to the three verified migration folders:
 python3 scripts/import-migrated-articles.py /path/to/batch-01 /path/to/ai-ev-fintech /path/to/final-remaining
 ```
 
-The importer checks unique slugs, writes normalized Markdown, refreshes `src/data/post-index.json`, creates the local Preview image map, and regenerates article/category manifest entries. It does not upload or delete R2 objects.
+The importer checks unique slugs, writes normalized Markdown, refreshes `src/data/post-index.json`, creates the local Preview image map, and regenerates article, category, and page-numbered archive manifest entries. It does not upload or delete R2 objects.
 
 ## Checks
 
