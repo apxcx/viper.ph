@@ -42,3 +42,4 @@
   - Preserve their published page content, slugs, available metadata, and form fields.
   - Replicate the forms with server-side Web3Forms submission handlers and keep the Web3Forms access key in a Cloudflare secret.
 - [ ] Add `WEB3FORMS_ACCESS_KEY` to the Cloudflare Worker environment so Contact Us and Partnerships submissions are delivered through Web3Forms in production.
+- [x] Balance the homepage hero cards so the two stacked articles on the right together match the height of the large featured article on the left.
