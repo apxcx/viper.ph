@@ -32,3 +32,6 @@
 - [x] Import every currently published article in AI, Electric Vehicles, and Fintech and Banking Tech.
   - Preserve original slugs, article content, available SEO metadata, category assignments, and featured-image relationships.
   - Exclude inline content images from this batch and upload each featured image to the media R2 bucket.
+- [x] Migrate every other currently published WordPress article not covered by the completed batches.
+  - Preserve original slugs, article content, available SEO metadata, category assignments, and featured-image relationships.
+  - Exclude inline content images and upload each remaining featured image to the media R2 bucket.
