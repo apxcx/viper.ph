@@ -2,6 +2,8 @@
 
 The site renders **216 migrated published articles** at their original root slugs through `src/pages/[slug].astro`, using the approved `ArticleLayout.astro`. The eight original categories share the imported inventory. Each category root has a three-story hero; the remaining list shows up to 10 posts per page. Later pages use `/category/<slug>/page/<number>/`, keep the hero/sidebar, and include numbered plus previous/next links. Each paginated URL has its own canonical link. The route manifest contains 245 pages: 216 posts, 8 category roots, 16 additional category pages, the homepage, and 4 utility/legal pages.
 
+`public/sitemap.xml` lists all 245 public routes at the canonical `https://viper.ph` origin. `public/robots.txt` allows public crawling, disallows `/api/`, and points crawlers to `https://viper.ph/sitemap.xml`. Submit `https://viper.ph/sitemap.xml` in Google Search Console after this checkpoint is deployed to the `viper.ph` domain.
+
 ## Preserved source data
 
 `src/content/articles/*.md` retains the original migration frontmatter and article text. Only the leading export H1 is moved into the layout's title header to avoid duplicate H1s. The source publication/modified dates, author, category/tag assignments, canonical URLs, and available SEO/Open Graph values remain in frontmatter. Ten oldest exports captured a Cloudflare challenge title rather than SEO data; those raw values are retained, but public pages use a proper title and source-text description fallback.

@@ -91,4 +91,24 @@ manifest['routes'].extend({'path': '/' + p['slug'] + '/', 'title': p['title'] + 
 if len(manifest['routes']) > 1000:
     raise ValueError('Route manifest exceeds platform limit')
 manifest_file.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+sitemap_urls = []
+for route in manifest['routes']:
+    path = route['path']
+    if path.startswith('/api/'):
+        continue
+    sitemap_urls.append(f'  <url><loc>https://viper.ph{path}</loc></url>')
+(project / 'public/sitemap.xml').write_text(
+    '<?xml version="1.0" encoding="UTF-8"?>\n'
+    '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+    + '\n'.join(sitemap_urls)
+    + '\n</urlset>\n',
+    encoding='utf-8',
+)
+(project / 'public/robots.txt').write_text(
+    'User-agent: *\n'
+    'Allow: /\n'
+    'Disallow: /api/\n\n'
+    'Sitemap: https://viper.ph/sitemap.xml\n',
+    encoding='utf-8',
+)
 print(f'Imported {len(posts)} unique Markdown articles; indexed {len(preview_map)} R2 images; declared {len(manifest["routes"])} pages.')
