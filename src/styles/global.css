@@ -78,10 +78,13 @@ img { display: block; max-width: 100%; }
 .news-card__arrow { position: absolute; right: 13px; bottom: 13px; display: grid; place-items: center; width: 32px; height: 32px; border: 1px solid rgba(255,255,255,0.55); border-radius: 50%; color: #fff; background: rgba(20, 23, 28, 0.25); font-size: 16px; transition: background 180ms ease, color 180ms ease; }
 .news-card__image-link:hover .news-card__arrow, .news-card__image-link:focus-visible .news-card__arrow { color: var(--color-viper-navy); background: var(--color-viper-ink); }
 .news-card__body { padding-top: 15px; }
+.news-card--featured .news-card__body { padding: 18px 22px 22px; background: var(--color-viper-accent); }
+.news-card--featured .news-card__meta { color: #d6d6ff; font-size: 10px; }
 .news-card--compact .news-card__body { padding: 15px 18px 18px; background: var(--color-viper-accent); }
 .news-card__meta { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 5px 12px; color: #a6a7b0; font-size: 10px; text-transform: uppercase; letter-spacing: 0.1em; }
 .news-card--compact .news-card__meta { color: #d6d6ff; font-size: 9px; }
 .news-card h2 { margin: 14px 0 11px; padding: 17px 20px; color: #fff; background: var(--color-viper-accent); font-family: var(--font-display); font-size: clamp(25px, 2.65vw, 38px); line-height: 1.15; letter-spacing: -0.05em; font-weight: 500; }
+.news-card--featured h2 { margin: 12px 0 0; padding: 0; font-size: clamp(32px, 3.2vw, 46px); line-height: 1.12; }
 .news-card--compact h2 { margin: 10px 0 0; padding: 0; font-size: clamp(21px, 1.8vw, 26px); line-height: 1.2; }
 .news-card h2 a { transition: color 180ms ease; }
 .news-card h2 a { display: block; }
@@ -165,6 +168,7 @@ img { display: block; max-width: 100%; }
   .top-stories__side, .latest__grid { grid-template-columns: 1fr; }
   .news-card--compact .news-card__image-link { aspect-ratio: 1.85; }
   .news-card h2 { padding: 16px; font-size: 26px; }
+  .news-card--featured h2 { padding: 0; font-size: clamp(26px, 7vw, 34px); }
   .news-card--compact h2 { padding: 0; font-size: 23px; }
   .latest__grid .news-card h2 { padding: 0; font-size: 23px; }
   .latest { padding-bottom: 90px; }

@@ -21,3 +21,4 @@
 - [x] Add a complete Viper.ph footer populated from the live site's published content.
   - Include the published Viper.ph description, `hi@viper.ph`, the Quezon City address, category links, social links, and available utility links such as Events, Partnerships, Privacy Policy, and Terms and Conditions.
 - [x] Match the two-column news articles below the hero to the hero-card title/date scale, using the date and time at the top of a blue title panel as shown in the user reference.
+- [x] Apply the same blue date-and-title panel style to the first, larger featured article in the hero section.
