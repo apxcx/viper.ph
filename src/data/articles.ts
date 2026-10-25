@@ -14,14 +14,14 @@ export type Article = {
 
 export const leadStories: Article[] = [
   {
-    category: 'Tech News',
-    date: '25 October 2026',
-    time: '8:00 am',
-    title: 'Xiaomi POP Run Puts Redmi Battery to Test',
+    category: 'PH Tech',
+    date: '26 October 2026',
+    time: '6:00 am',
+    title: 'PhilSA Warns After Long March 8A Launch',
     excerpt:
-      'Xiaomi Philippines turned a community run into a closer look at the battery life and everyday performance behind its latest Redmi experience.',
-    image: '/media/xiaomi-pop-run.jpg',
-    href: '/xiaomi-pop-run-redmi-note-17-battery-event/',
+      'A Philippine Space Agency advisory identifies debris zones and urges ships, aircraft, and coastal communities to stay alert.',
+    image: '/api/media/articles/2026/10/philsa-warns-long-march-8a-debris/featured.jpg',
+    href: '/philsa-warns-long-march-8a-debris/',
   },
   {
     category: 'Electric Vehicles',
