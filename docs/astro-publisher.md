@@ -4,7 +4,7 @@ The Astro project is the authoritative Viper.ph publisher. It does not call Word
 
 ## Editorial contract
 
-For each daily run, research the top three distinct technology stories from the previous 24 hours. Prefer Philippine mainstream, government, business, and official company sources; include a strong Philippine-focused story when available. Before drafting, compare the proposed title, slug, focus keyword, and source URLs against `src/data/post-index.json` and the current Markdown collection. Do not republish a materially identical story. The quick comparison helper is `python3 scripts/check-astro-duplicates.py --title "Proposed headline" --focus-keyword "keyword"`; review its highest-scoring matches before writing.
+At 5:30 AM Asia/Manila each day, research the top three distinct technology stories from the previous 24 hours and prepare the 06:00, 08:00, and 10:00 slots as one batch. Prefer Philippine mainstream, government, business, and official company sources; include a strong Philippine-focused story when available. Before drafting, compare the proposed title, slug, focus keyword, and source URLs against `src/data/post-index.json` and the current Markdown collection. Do not republish a materially identical story. The quick comparison helper is `python3 scripts/check-astro-duplicates.py --title "Proposed headline" --focus-keyword "keyword"`; review its highest-scoring matches before writing.
 
 New articles belong in `src/content/articles/<slug>.md` and use `publisher_status: ready` before publication. The authoritative categories are:
 
@@ -37,28 +37,26 @@ A ready article must include:
 The public image URLs use the existing Worker endpoint and never expose R2 credentials:
 
 ```text
-https://viper.ph/api/media/articles/YYYY/MM/<slug>/featured.ext
-https://viper.ph/api/media/articles/YYYY/MM/<slug>/image-1.ext
-https://viper.ph/api/media/articles/YYYY/MM/<slug>/image-2.ext
-https://viper.ph/api/media/articles/YYYY/MM/<slug>/image-3.ext
-https://viper.ph/api/media/articles/YYYY/MM/<slug>/image-4.ext
+https://viper.ph/api/media/articles/YYYY/MM/<slug>/featured.webp
+https://viper.ph/api/media/articles/YYYY/MM/<slug>/image-1.webp
+https://viper.ph/api/media/articles/YYYY/MM/<slug>/image-2.webp
+https://viper.ph/api/media/articles/YYYY/MM/<slug>/image-3.webp
+https://viper.ph/api/media/articles/YYYY/MM/<slug>/image-4.webp
 ```
 
 ## Deterministic recovery and idempotency
 
 `src/data/publisher-manifest.json` is generated without timestamps. Each entry has a `slot_key` and `idempotency_key` such as `2026-10-26/06:00`, plus slug, title, status, category, source count, image count, and body hash. The manifest has a `days` lookup for recovery and duplicate checks. `scripts/publish-astro-article.py` refuses a duplicate slot or a slug moved to another slot; retrying the exact same file is a no-op.
 
-For an image folder containing `featured.jpg` and `image-1.jpg` through `image-4.jpg`, upload deterministic objects before installing the Markdown:
+For each of the three daily articles, prepare a `featured.webp` file and `image-1.webp` through `image-4.webp`, then upload the deterministic WebP objects before installing the Markdown:
 
 ```bash
-pnpm exec wrangler r2 object put media/articles/2026/10/<slug>/featured.jpg --file ./images/featured.jpg --remote --content-type image/jpeg
-pnpm exec wrangler r2 object put media/articles/2026/10/<slug>/image-1.jpg --file ./images/image-1.jpg --remote --content-type image/jpeg
-pnpm exec wrangler r2 object put media/articles/2026/10/<slug>/image-2.jpg --file ./images/image-2.jpg --remote --content-type image/jpeg
-pnpm exec wrangler r2 object put media/articles/2026/10/<slug>/image-3.jpg --file ./images/image-3.jpg --remote --content-type image/jpeg
-pnpm exec wrangler r2 object put media/articles/2026/10/<slug>/image-4.jpg --file ./images/image-4.jpg --remote --content-type image/jpeg
+for name in featured image-1 image-2 image-3 image-4; do
+  pnpm exec wrangler r2 object put media/articles/2026/10/<slug>/${name}.webp --file ./images/${name}.webp --remote --content-type image/webp
+done
 ```
 
-The deterministic R2 key is safe to retry: the same key is the same article asset. The public Markdown URL remains the same after a retry.
+The deterministic R2 key is safe to retry: the same key is the same article asset. The public Markdown URL remains the same after a retry. Every article batch uses WebP assets with a verified 16:9 ratio.
 
 ## Commands
 
