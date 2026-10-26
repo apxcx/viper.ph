@@ -8,6 +8,23 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-10-26/08:00",
+      "idempotency_key": "2026-10-26/08:00",
+      "day": "2026-10-26",
+      "slot": "08:00",
+      "slug": "eu-philippines-ai-industry-lab",
+      "title": "EU, Philippines Open AI Industry Lab for MSMEs",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "AI",
+        "PH Tech"
+      ],
+      "source_count": 3,
+      "body_image_count": 4,
+      "content_sha256": "55e9554e150df6a3ec8c0ef493a7c0004337a84aaadcbb3e75bac48abfc43f91"
+    },
+    {
       "slot_key": "2026-10-26/06:00",
       "idempotency_key": "2026-10-26/06:00",
       "day": "2026-10-26",
@@ -3488,6 +3505,11 @@
   ],
   "days": {
     "2026-10-26": {
+      "2026-10-26/08:00": {
+        "slug": "eu-philippines-ai-industry-lab",
+        "status": "published",
+        "managed": true
+      },
       "2026-10-26/06:00": {
         "slug": "philsa-warns-long-march-8a-debris",
         "status": "published",

@@ -1,5 +1,38 @@
 [
   {
+    "slug": "eu-philippines-ai-industry-lab",
+    "title": "EU, Philippines Open AI Industry Lab for MSMEs",
+    "date": "2026-10-26T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "AI",
+      "PH Tech"
+    ],
+    "tags": [
+      "artificial intelligence",
+      "DOST",
+      "EU Philippines",
+      "MSMEs"
+    ],
+    "imageKey": "articles/2026/10/eu-philippines-ai-industry-lab/featured.jpg",
+    "imageKeys": [
+      "articles/2026/10/eu-philippines-ai-industry-lab/image-1.jpg",
+      "articles/2026/10/eu-philippines-ai-industry-lab/image-2.jpg",
+      "articles/2026/10/eu-philippines-ai-industry-lab/image-3.jpg",
+      "articles/2026/10/eu-philippines-ai-industry-lab/image-4.jpg"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/10/eu-philippines-ai-industry-lab/featured.jpg",
+    "imageAlt": "A humanoid robot reaches toward a human hand in an image about artificial intelligence collaboration",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/eu-philippines-ai-industry-lab/",
+    "description": "The EU and Philippines launched an AI Industry Lab under DOST to help MSMEs test, build and scale practical applications with trusted safeguards.",
+    "bodySha256": "55e9554e150df6a3ec8c0ef493a7c0004337a84aaadcbb3e75bac48abfc43f91",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
     "slug": "philsa-warns-long-march-8a-debris",
     "title": "PhilSA Warns After Long March 8A Launch",
     "date": "2026-10-26T06:00:00+08:00",
