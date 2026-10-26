@@ -1,5 +1,104 @@
 [
   {
+    "slug": "revolut-digital-bank-license-philippines",
+    "title": "Revolut Weighs Philippine Digital Bank Entry",
+    "date": "2026-10-27T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "Fintech and Banking Tech",
+      "PH Tech"
+    ],
+    "tags": [
+      "Revolut",
+      "BSP",
+      "digital banking",
+      "fintech"
+    ],
+    "imageKey": "articles/2026/10/revolut-digital-bank-license-philippines/featured.jpg",
+    "imageKeys": [
+      "articles/2026/10/revolut-digital-bank-license-philippines/image-1.jpg",
+      "articles/2026/10/revolut-digital-bank-license-philippines/image-2.jpg",
+      "articles/2026/10/revolut-digital-bank-license-philippines/image-3.jpg",
+      "articles/2026/10/revolut-digital-bank-license-philippines/image-4.jpg"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/10/revolut-digital-bank-license-philippines/featured.jpg",
+    "imageAlt": "Mobile banking payment on a smartphone",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/revolut-digital-bank-license-philippines/",
+    "description": "BSP says Revolut remains in active talks about a Philippine digital-bank license, with approval dependent on regulatory compliance and readiness.",
+    "bodySha256": "8de1b784355384e509b3870ae24b22282ef20ec28fca22e2bed1d12b79b0ceea",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
+    "slug": "vinfast-online-vehicle-sales-philippines",
+    "title": "VinFast Adds Online Vehicle Sales in PH",
+    "date": "2026-10-27T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "Electric Vehicles",
+      "E-commerce"
+    ],
+    "tags": [
+      "VinFast",
+      "electric vehicles",
+      "online car sales",
+      "Philippines"
+    ],
+    "imageKey": "articles/2026/10/vinfast-online-vehicle-sales-philippines/featured.jpg",
+    "imageKeys": [
+      "articles/2026/10/vinfast-online-vehicle-sales-philippines/image-1.jpg",
+      "articles/2026/10/vinfast-online-vehicle-sales-philippines/image-2.jpg",
+      "articles/2026/10/vinfast-online-vehicle-sales-philippines/image-3.jpg",
+      "articles/2026/10/vinfast-online-vehicle-sales-philippines/image-4.jpg"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/10/vinfast-online-vehicle-sales-philippines/featured.jpg",
+    "imageAlt": "Electric vehicle charging outside a showroom",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/vinfast-online-vehicle-sales-philippines/",
+    "description": "VinFast Auto Philippines launched an online-to-offline vehicle platform as it targets more than 8,000 sales this year amid rapid growth in the Philippines.",
+    "bodySha256": "9a61d92a18334a079e66826ea51a8583a97980066e425bb1f52d2690e2e583c8",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
+    "slug": "philippine-tv-analog-switch-off-november-2026",
+    "title": "Philippine TV Starts Analog Switch-Off",
+    "date": "2026-10-27T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "PH Tech",
+      "Telcos and Internet"
+    ],
+    "tags": [
+      "digital TV",
+      "NTC",
+      "broadcasting",
+      "analog switch-off"
+    ],
+    "imageKey": "articles/2026/10/philippine-tv-analog-switch-off-november-2026/featured.jpg",
+    "imageKeys": [
+      "articles/2026/10/philippine-tv-analog-switch-off-november-2026/image-1.jpg",
+      "articles/2026/10/philippine-tv-analog-switch-off-november-2026/image-2.jpg",
+      "articles/2026/10/philippine-tv-analog-switch-off-november-2026/image-3.jpg",
+      "articles/2026/10/philippine-tv-analog-switch-off-november-2026/image-4.jpg"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/10/philippine-tv-analog-switch-off-november-2026/featured.jpg",
+    "imageAlt": "Digital television receiver beside a TV antenna",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/philippine-tv-analog-switch-off-november-2026/",
+    "description": "The Philippines will begin its Mega Manila analog TV switch-off this November, moving viewers toward clearer digital broadcasts and more channels.",
+    "bodySha256": "c003349eabe1395d6abbac13111044d2ebcdfc3b6c047791825e8fe608d0836d",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "unionbank-uniondigital-ubx-integration",
     "title": "UnionBank to Integrate UnionDigital and UBX",
     "date": "2026-10-26T10:00:00+08:00",

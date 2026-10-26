@@ -8,6 +8,57 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-10-27/10:00",
+      "idempotency_key": "2026-10-27/10:00",
+      "day": "2026-10-27",
+      "slot": "10:00",
+      "slug": "revolut-digital-bank-license-philippines",
+      "title": "Revolut Weighs Philippine Digital Bank Entry",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Fintech and Banking Tech",
+        "PH Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "8de1b784355384e509b3870ae24b22282ef20ec28fca22e2bed1d12b79b0ceea"
+    },
+    {
+      "slot_key": "2026-10-27/08:00",
+      "idempotency_key": "2026-10-27/08:00",
+      "day": "2026-10-27",
+      "slot": "08:00",
+      "slug": "vinfast-online-vehicle-sales-philippines",
+      "title": "VinFast Adds Online Vehicle Sales in PH",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Electric Vehicles",
+        "E-commerce"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "9a61d92a18334a079e66826ea51a8583a97980066e425bb1f52d2690e2e583c8"
+    },
+    {
+      "slot_key": "2026-10-27/06:00",
+      "idempotency_key": "2026-10-27/06:00",
+      "day": "2026-10-27",
+      "slot": "06:00",
+      "slug": "philippine-tv-analog-switch-off-november-2026",
+      "title": "Philippine TV Starts Analog Switch-Off",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech",
+        "Telcos and Internet"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "c003349eabe1395d6abbac13111044d2ebcdfc3b6c047791825e8fe608d0836d"
+    },
+    {
       "slot_key": "2026-10-26/10:00",
       "idempotency_key": "2026-10-26/10:00",
       "day": "2026-10-26",
@@ -3521,6 +3572,23 @@
     }
   ],
   "days": {
+    "2026-10-27": {
+      "2026-10-27/10:00": {
+        "slug": "revolut-digital-bank-license-philippines",
+        "status": "published",
+        "managed": true
+      },
+      "2026-10-27/08:00": {
+        "slug": "vinfast-online-vehicle-sales-philippines",
+        "status": "published",
+        "managed": true
+      },
+      "2026-10-27/06:00": {
+        "slug": "philippine-tv-analog-switch-off-november-2026",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-10-26": {
       "2026-10-26/10:00": {
         "slug": "unionbank-uniondigital-ubx-integration",
