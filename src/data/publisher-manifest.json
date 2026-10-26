@@ -8,6 +8,23 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-10-26/10:00",
+      "idempotency_key": "2026-10-26/10:00",
+      "day": "2026-10-26",
+      "slot": "10:00",
+      "slug": "unionbank-uniondigital-ubx-integration",
+      "title": "UnionBank to Integrate UnionDigital and UBX",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Fintech and Banking Tech",
+        "PH Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "2fbf32f86dedfe2abe926a4acffadbb02cc62c19e583ac64526137b82858407e"
+    },
+    {
       "slot_key": "2026-10-26/08:00",
       "idempotency_key": "2026-10-26/08:00",
       "day": "2026-10-26",
@@ -3505,6 +3522,11 @@
   ],
   "days": {
     "2026-10-26": {
+      "2026-10-26/10:00": {
+        "slug": "unionbank-uniondigital-ubx-integration",
+        "status": "published",
+        "managed": true
+      },
       "2026-10-26/08:00": {
         "slug": "eu-philippines-ai-industry-lab",
         "status": "published",

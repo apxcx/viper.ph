@@ -92,7 +92,7 @@ pnpm publisher:publish -- --network /absolute/path/to/article.md
 pnpm publisher:publish -- --replace /absolute/path/to/article.md
 ```
 
-Before a GitHub push, run the full content preparation and application checks:
+Before the GitHub-only publication handoff, run the full content preparation and application checks:
 
 ```bash
 pnpm publisher:prepare
@@ -102,7 +102,8 @@ pnpm exec wrangler deploy --dry-run
 
 git add src/content/articles src/data/post-index.json src/data/publisher-manifest.json public/manus-routes.json public/sitemap.xml public/robots.txt
 git commit -m "Publish Viper Astro articles"
-git fetch origin main && git merge --ff-only origin/main && git push origin HEAD:main
+git fetch origin main && git merge --ff-only origin/main
+git -c credential.helper='!gh auth git-credential' push https://github.com/apxcx/viper.ph.git HEAD:main
 ```
 
-The existing GitHub remote is the Manus canonical remote for `apxcx/viper.ph`; the repository's existing Cloudflare Worker workflow remains unchanged. Daily scheduling is intentionally disabled until this migration is verified.
+The GitHub repository `apxcx/viper.ph` is the publication handoff. Cloudflare is expected to pull the `main` branch through its own connected deployment process; do not invoke WebDev publish, Wrangler production deploy, WordPress, or a ScheduleTask for ordinary article publication. The managed Manus remote remains a checkpoint/backup transport only. Daily scheduling remains disabled.

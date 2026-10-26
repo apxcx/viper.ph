@@ -1,5 +1,38 @@
 [
   {
+    "slug": "unionbank-uniondigital-ubx-integration",
+    "title": "UnionBank to Integrate UnionDigital and UBX",
+    "date": "2026-10-26T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "Fintech and Banking Tech",
+      "PH Tech"
+    ],
+    "tags": [
+      "UnionBank",
+      "UnionDigital",
+      "UBX",
+      "digital banking"
+    ],
+    "imageKey": "articles/2026/10/unionbank-uniondigital-ubx-integration/featured.jpg",
+    "imageKeys": [
+      "articles/2026/10/unionbank-uniondigital-ubx-integration/image-1.jpg",
+      "articles/2026/10/unionbank-uniondigital-ubx-integration/image-2.jpg",
+      "articles/2026/10/unionbank-uniondigital-ubx-integration/image-3.jpg",
+      "articles/2026/10/unionbank-uniondigital-ubx-integration/image-4.jpg"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/10/unionbank-uniondigital-ubx-integration/featured.jpg",
+    "imageAlt": "A row of automated teller machines representing the infrastructure behind digital banking",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/unionbank-uniondigital-ubx-integration/",
+    "description": "UnionBank plans to integrate UnionDigital and UBX into its main operations, subject to regulatory review, as it consolidates digital banking capabilities.",
+    "bodySha256": "2fbf32f86dedfe2abe926a4acffadbb02cc62c19e583ac64526137b82858407e",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
     "slug": "eu-philippines-ai-industry-lab",
     "title": "EU, Philippines Open AI Industry Lab for MSMEs",
     "date": "2026-10-26T08:00:00+08:00",
