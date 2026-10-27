@@ -81,20 +81,20 @@
       "broadcasting",
       "analog switch-off"
     ],
-    "imageKey": "articles/2026/10/philippine-tv-analog-switch-off-november-2026/featured.jpg",
+    "imageKey": "articles/2026/10/philippine-tv-analog-switch-off-november-2026/featured.webp",
     "imageKeys": [
-      "articles/2026/10/philippine-tv-analog-switch-off-november-2026/image-1.jpg",
-      "articles/2026/10/philippine-tv-analog-switch-off-november-2026/image-2.jpg",
-      "articles/2026/10/philippine-tv-analog-switch-off-november-2026/image-3.jpg",
-      "articles/2026/10/philippine-tv-analog-switch-off-november-2026/image-4.jpg"
+      "articles/2026/10/philippine-tv-analog-switch-off-november-2026/image-1.webp",
+      "articles/2026/10/philippine-tv-analog-switch-off-november-2026/image-2.webp",
+      "articles/2026/10/philippine-tv-analog-switch-off-november-2026/image-3.webp",
+      "articles/2026/10/philippine-tv-analog-switch-off-november-2026/image-4.webp"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/10/philippine-tv-analog-switch-off-november-2026/featured.jpg",
-    "imageAlt": "Digital television receiver beside a TV antenna",
-    "imageWidth": 1600,
-    "imageHeight": 900,
+    "image": "https://viper.ph/api/media/articles/2026/10/philippine-tv-analog-switch-off-november-2026/featured.webp",
+    "imageAlt": "Stack of vintage televisions showing static",
+    "imageWidth": 1200,
+    "imageHeight": 675,
     "sourceUrl": "https://viper.ph/philippine-tv-analog-switch-off-november-2026/",
     "description": "The Philippines will begin its Mega Manila analog TV switch-off this November, moving viewers toward clearer digital broadcasts and more channels.",
-    "bodySha256": "c003349eabe1395d6abbac13111044d2ebcdfc3b6c047791825e8fe608d0836d",
+    "bodySha256": "bfeb5efc8c30428ee91c8816f4b20d3f8622ae7030eb811c37bb4fb60ebf2050",
     "publisherStatus": "published",
     "publicationSlot": "06:00"
   },
