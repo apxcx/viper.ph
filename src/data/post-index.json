@@ -48,20 +48,20 @@
       "online car sales",
       "Philippines"
     ],
-    "imageKey": "articles/2026/10/vinfast-online-vehicle-sales-philippines/featured.jpg",
+    "imageKey": "articles/2026/10/vinfast-online-vehicle-sales-philippines/featured.webp",
     "imageKeys": [
-      "articles/2026/10/vinfast-online-vehicle-sales-philippines/image-1.jpg",
-      "articles/2026/10/vinfast-online-vehicle-sales-philippines/image-2.jpg",
-      "articles/2026/10/vinfast-online-vehicle-sales-philippines/image-3.jpg",
-      "articles/2026/10/vinfast-online-vehicle-sales-philippines/image-4.jpg"
+      "articles/2026/10/vinfast-online-vehicle-sales-philippines/image-1.webp",
+      "articles/2026/10/vinfast-online-vehicle-sales-philippines/image-2.webp",
+      "articles/2026/10/vinfast-online-vehicle-sales-philippines/image-3.webp",
+      "articles/2026/10/vinfast-online-vehicle-sales-philippines/image-4.webp"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/10/vinfast-online-vehicle-sales-philippines/featured.jpg",
-    "imageAlt": "Electric vehicle charging outside a showroom",
-    "imageWidth": 1600,
-    "imageHeight": 900,
+    "image": "https://viper.ph/api/media/articles/2026/10/vinfast-online-vehicle-sales-philippines/featured.webp",
+    "imageAlt": "VinFast VF7 electric vehicle at a Philippine showroom",
+    "imageWidth": 650,
+    "imageHeight": 366,
     "sourceUrl": "https://viper.ph/vinfast-online-vehicle-sales-philippines/",
     "description": "VinFast Auto Philippines launched an online-to-offline vehicle platform as it targets more than 8,000 sales this year amid rapid growth in the Philippines.",
-    "bodySha256": "9a61d92a18334a079e66826ea51a8583a97980066e425bb1f52d2690e2e583c8",
+    "bodySha256": "3a287f2118e844b506f07711abe1cafa56e91315cff5886803ec7919c77d5674",
     "publisherStatus": "published",
     "publicationSlot": "08:00"
   },
