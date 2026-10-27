@@ -15,20 +15,20 @@
       "digital banking",
       "fintech"
     ],
-    "imageKey": "articles/2026/10/revolut-digital-bank-license-philippines/featured.jpg",
+    "imageKey": "articles/2026/10/revolut-digital-bank-license-philippines/featured.webp",
     "imageKeys": [
-      "articles/2026/10/revolut-digital-bank-license-philippines/image-1.jpg",
-      "articles/2026/10/revolut-digital-bank-license-philippines/image-2.jpg",
-      "articles/2026/10/revolut-digital-bank-license-philippines/image-3.jpg",
-      "articles/2026/10/revolut-digital-bank-license-philippines/image-4.jpg"
+      "articles/2026/10/revolut-digital-bank-license-philippines/image-1.webp",
+      "articles/2026/10/revolut-digital-bank-license-philippines/image-2.webp",
+      "articles/2026/10/revolut-digital-bank-license-philippines/image-3.webp",
+      "articles/2026/10/revolut-digital-bank-license-philippines/image-4.webp"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/10/revolut-digital-bank-license-philippines/featured.jpg",
-    "imageAlt": "Mobile banking payment on a smartphone",
-    "imageWidth": 1600,
-    "imageHeight": 900,
+    "image": "https://viper.ph/api/media/articles/2026/10/revolut-digital-bank-license-philippines/featured.webp",
+    "imageAlt": "Revolut banking app on a smartphone in Manila",
+    "imageWidth": 739,
+    "imageHeight": 416,
     "sourceUrl": "https://viper.ph/revolut-digital-bank-license-philippines/",
     "description": "BSP says Revolut remains in active talks about a Philippine digital-bank license, with approval dependent on regulatory compliance and readiness.",
-    "bodySha256": "8de1b784355384e509b3870ae24b22282ef20ec28fca22e2bed1d12b79b0ceea",
+    "bodySha256": "f5f00e2eeb104f9f0d012fe5d577e1da28d3ca32e45deff127885bc95753aeaf",
     "publisherStatus": "published",
     "publicationSlot": "10:00"
   },
