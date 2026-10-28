@@ -3,7 +3,11 @@ import posts from '../../../data/post-index.json' with { type: 'json' };
 
 export const prerender = false;
 type IndexedPost = { imageKey: string; imageKeys?: string[] };
-const allowedKeys = new Set((posts as IndexedPost[]).flatMap((post) => [post.imageKey, ...(post.imageKeys ?? [])]));
+const allowedKeys = new Set(
+  (posts as IndexedPost[])
+    .flatMap((post) => [post.imageKey, ...(post.imageKeys ?? [])])
+    .map((key) => key.split('?')[0]),
+);
 
 interface R2Image {
   body: ReadableStream<Uint8Array>;
