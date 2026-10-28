@@ -26,7 +26,7 @@ export const posts = index;
 export const postsBySlug = new Map(posts.map((post) => [post.slug, post]));
 
 function featuredImageUrl(slug: string, image: string): string {
-  return ['cirtek-semiconductor-unit-sale-sancode', 'gcash-ipo-share-price-after-listing'].includes(slug)
+  return ['cirtek-semiconductor-unit-sale-sancode', 'gcash-ipo-share-price-after-listing', 'ai-election-content-philippine-guardrails'].includes(slug)
     ? `${image}?v=20261028`
     : image;
 }
