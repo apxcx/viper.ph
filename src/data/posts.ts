@@ -25,6 +25,10 @@ export type PostSummary = (typeof index)[number];
 export const posts = index;
 export const postsBySlug = new Map(posts.map((post) => [post.slug, post]));
 
+function featuredImageUrl(slug: string, image: string): string {
+  return slug === 'cirtek-semiconductor-unit-sale-sancode' ? `${image}?v=20261028` : image;
+}
+
 export function manilaDate(value: string): Date {
   return new Date(/(?:Z|[+-]\d{2}:\d{2})$/.test(value) ? value : `${value}+08:00`);
 }
@@ -42,7 +46,7 @@ export function postCard(post: PostSummary): Article {
     publishedAt: published.toISOString(),
     title: post.title,
     excerpt: post.description,
-    image: post.image,
+    image: featuredImageUrl(post.slug, post.image),
     href: `/${post.slug}/`,
     migrated: true,
     featuredImageKey: post.imageKey,
