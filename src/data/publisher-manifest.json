@@ -8,6 +8,57 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-10-28/10:00",
+      "idempotency_key": "2026-10-28/10:00",
+      "day": "2026-10-28",
+      "slot": "10:00",
+      "slug": "ai-election-content-philippine-guardrails",
+      "title": "AI Election Content Tests Philippine Guardrails",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "AI",
+        "PH Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "9c177d313ca06413865f4970d6faaaf4c9d5b2f252c6c1589686eb8e8836867e"
+    },
+    {
+      "slot_key": "2026-10-28/08:00",
+      "idempotency_key": "2026-10-28/08:00",
+      "day": "2026-10-28",
+      "slot": "08:00",
+      "slug": "gcash-ipo-share-price-after-listing",
+      "title": "GCash Shares Slip After Record IPO",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Fintech and Banking Tech",
+        "PH Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "6d2d445d601bfc58250fd7ce848250cce0fc60d18a4df8d58b350717516ed627"
+    },
+    {
+      "slot_key": "2026-10-28/06:00",
+      "idempotency_key": "2026-10-28/06:00",
+      "day": "2026-10-28",
+      "slot": "06:00",
+      "slug": "cirtek-semiconductor-unit-sale-sancode",
+      "title": "Cirtek Sells Semiconductor Unit to Sancode",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech",
+        "International Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "391c5ee9056cedcfa737897d982b4f36daeb1a203f273cb6f1e2f45eacb71050"
+    },
+    {
       "slot_key": "2026-10-27/10:00",
       "idempotency_key": "2026-10-27/10:00",
       "day": "2026-10-27",
@@ -3572,6 +3623,23 @@
     }
   ],
   "days": {
+    "2026-10-28": {
+      "2026-10-28/10:00": {
+        "slug": "ai-election-content-philippine-guardrails",
+        "status": "published",
+        "managed": true
+      },
+      "2026-10-28/08:00": {
+        "slug": "gcash-ipo-share-price-after-listing",
+        "status": "published",
+        "managed": true
+      },
+      "2026-10-28/06:00": {
+        "slug": "cirtek-semiconductor-unit-sale-sancode",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-10-27": {
       "2026-10-27/10:00": {
         "slug": "revolut-digital-bank-license-philippines",

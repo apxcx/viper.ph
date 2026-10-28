@@ -1,5 +1,104 @@
 [
   {
+    "slug": "ai-election-content-philippine-guardrails",
+    "title": "AI Election Content Tests Philippine Guardrails",
+    "date": "2026-10-28T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "AI",
+      "PH Tech"
+    ],
+    "tags": [
+      "artificial intelligence",
+      "elections",
+      "deepfakes",
+      "Philippines"
+    ],
+    "imageKey": "articles/2026/10/ai-election-content-philippine-guardrails/featured.webp",
+    "imageKeys": [
+      "articles/2026/10/ai-election-content-philippine-guardrails/image-1.webp",
+      "articles/2026/10/ai-election-content-philippine-guardrails/image-2.webp",
+      "articles/2026/10/ai-election-content-philippine-guardrails/image-3.webp",
+      "articles/2026/10/ai-election-content-philippine-guardrails/image-4.webp"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/10/ai-election-content-philippine-guardrails/featured.webp",
+    "imageAlt": "Artificial intelligence concept on a computer screen",
+    "imageWidth": 3840,
+    "imageHeight": 2160,
+    "sourceUrl": "https://viper.ph/ai-election-content-philippine-guardrails/",
+    "description": "Brazil’s election shows how AI political content can evade disclosure rules, offering a warning for Philippine voters, regulators and social platforms.",
+    "bodySha256": "9c177d313ca06413865f4970d6faaaf4c9d5b2f252c6c1589686eb8e8836867e",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
+    "slug": "gcash-ipo-share-price-after-listing",
+    "title": "GCash Shares Slip After Record IPO",
+    "date": "2026-10-28T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "Fintech and Banking Tech",
+      "PH Tech"
+    ],
+    "tags": [
+      "GCash",
+      "Mynt",
+      "IPO",
+      "fintech"
+    ],
+    "imageKey": "articles/2026/10/gcash-ipo-share-price-after-listing/featured.webp",
+    "imageKeys": [
+      "articles/2026/10/gcash-ipo-share-price-after-listing/image-1.webp",
+      "articles/2026/10/gcash-ipo-share-price-after-listing/image-2.webp",
+      "articles/2026/10/gcash-ipo-share-price-after-listing/image-3.webp",
+      "articles/2026/10/gcash-ipo-share-price-after-listing/image-4.webp"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/10/gcash-ipo-share-price-after-listing/featured.webp",
+    "imageAlt": "Mobile payment terminal used for digital transactions",
+    "imageWidth": 3840,
+    "imageHeight": 2160,
+    "sourceUrl": "https://viper.ph/gcash-ipo-share-price-after-listing/",
+    "description": "GCash parent Mynt closed below its IPO price after listing, prompting debate about valuation, investor demand and the fintech’s long-term growth.",
+    "bodySha256": "6d2d445d601bfc58250fd7ce848250cce0fc60d18a4df8d58b350717516ed627",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
+    "slug": "cirtek-semiconductor-unit-sale-sancode",
+    "title": "Cirtek Sells Semiconductor Unit to Sancode",
+    "date": "2026-10-28T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "PH Tech",
+      "International Tech"
+    ],
+    "tags": [
+      "Cirtek",
+      "semiconductors",
+      "Sancode",
+      "Philippines"
+    ],
+    "imageKey": "articles/2026/10/cirtek-semiconductor-unit-sale-sancode/featured.webp",
+    "imageKeys": [
+      "articles/2026/10/cirtek-semiconductor-unit-sale-sancode/image-1.webp",
+      "articles/2026/10/cirtek-semiconductor-unit-sale-sancode/image-2.webp",
+      "articles/2026/10/cirtek-semiconductor-unit-sale-sancode/image-3.webp",
+      "articles/2026/10/cirtek-semiconductor-unit-sale-sancode/image-4.webp"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/10/cirtek-semiconductor-unit-sale-sancode/featured.webp",
+    "imageAlt": "Silicon wafer used in semiconductor manufacturing",
+    "imageWidth": 1732,
+    "imageHeight": 974,
+    "sourceUrl": "https://viper.ph/cirtek-semiconductor-unit-sale-sancode/",
+    "description": "Cirtek will sell its Philippine semiconductor unit to India’s Sancode for $20.2 million, funding debt reduction, equipment upgrades and future growth.",
+    "bodySha256": "391c5ee9056cedcfa737897d982b4f36daeb1a203f273cb6f1e2f45eacb71050",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "revolut-digital-bank-license-philippines",
     "title": "Revolut Weighs Philippine Digital Bank Entry",
     "date": "2026-10-27T10:00:00+08:00",
