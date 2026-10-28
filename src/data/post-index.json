@@ -17,10 +17,10 @@
     ],
     "imageKey": "articles/2026/10/ai-election-content-philippine-guardrails/featured.webp",
     "imageKeys": [
-      "articles/2026/10/ai-election-content-philippine-guardrails/image-1.webp",
-      "articles/2026/10/ai-election-content-philippine-guardrails/image-2.webp",
-      "articles/2026/10/ai-election-content-philippine-guardrails/image-3.webp",
-      "articles/2026/10/ai-election-content-philippine-guardrails/image-4.webp"
+      "articles/2026/10/ai-election-content-philippine-guardrails/image-1.webp?v=20261028",
+      "articles/2026/10/ai-election-content-philippine-guardrails/image-2.webp?v=20261028",
+      "articles/2026/10/ai-election-content-philippine-guardrails/image-3.webp?v=20261028",
+      "articles/2026/10/ai-election-content-philippine-guardrails/image-4.webp?v=20261028"
     ],
     "image": "https://viper.ph/api/media/articles/2026/10/ai-election-content-philippine-guardrails/featured.webp",
     "imageAlt": "AI and human speakers at a technology event",
@@ -28,7 +28,7 @@
     "imageHeight": 575,
     "sourceUrl": "https://viper.ph/ai-election-content-philippine-guardrails/",
     "description": "Brazil’s election shows how AI political content can evade disclosure rules, offering a warning for Philippine voters, regulators and social platforms.",
-    "bodySha256": "48f81e4a8328399374e8b7a118244a1227eeda4c9cf1aff56f38b3048093907a",
+    "bodySha256": "eae11b7272c2137a9fb9d3faabf0fd3cd4805b6bed65a4e04cdf3ad950c8fba0",
     "publisherStatus": "published",
     "publicationSlot": "10:00"
   },

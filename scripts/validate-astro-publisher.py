@@ -29,9 +29,9 @@ TAXONOMY = {
 }
 SLOTS = {'06:00', '08:00', '10:00'}
 FRONTMATTER = re.compile(r'\A---\r?\n(.*?)\r?\n---\r?\n(.*)\Z', re.S)
-IMAGE_LINE = re.compile(r'^!\[([^\]]+)\]\((https://viper\.ph/api/media/articles/\d{4}/\d{2}/[a-z0-9-]+/image-[1-4]\.(?:jpe?g|png|webp|avif))\)$')
+IMAGE_LINE = re.compile(r'^!\[([^\]]+)\]\((https://viper\.ph/api/media/articles/\d{4}/\d{2}/[a-z0-9-]+/image-[1-4]\.(?:jpe?g|png|webp|avif)(?:\?v=\d+)?)\)$')
 FEATURED_URL = re.compile(r'^https://viper\.ph/api/media/articles/(\d{4})/(\d{2})/([a-z0-9-]+)/featured\.(jpe?g|png|webp|avif)$')
-IMAGE_URL = re.compile(r'^https://viper\.ph/api/media/articles/(\d{4})/(\d{2})/([a-z0-9-]+)/image-([1-4])\.(jpe?g|png|webp|avif)$')
+IMAGE_URL = re.compile(r'^https://viper\.ph/api/media/articles/(\d{4})/(\d{2})/([a-z0-9-]+)/image-([1-4])\.(jpe?g|png|webp|avif)(?:\?v=\d+)?$')
 
 
 def fail(path, message):
