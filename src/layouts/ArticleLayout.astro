@@ -24,7 +24,7 @@ const categorySlugs: Record<string, string> = {
 };
 const categoryHref = `/category/${categorySlugs[category] ?? 'tech-news'}/`;
 const canonical = frontmatter.canonical_url ?? `https://viper.ph/${frontmatter.slug}/`;
-const image = `/api/media/${frontmatter.featured_image_key}${frontmatter.slug === 'cirtek-semiconductor-unit-sale-sancode' ? '?v=20261028' : ''}`;
+const image = `/api/media/${frontmatter.featured_image_key}${['cirtek-semiconductor-unit-sale-sancode', 'gcash-ipo-share-price-after-listing'].includes(frontmatter.slug) ? '?v=20261028' : ''}`;
 const imageAlt = frontmatter.featured_image_alt?.trim() || frontmatter.title;
 const socialImage = new URL(image, 'https://viper.ph').href;
 const importedPost = postsBySlug.get(frontmatter.slug);
