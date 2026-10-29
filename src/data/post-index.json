@@ -17,18 +17,18 @@
     ],
     "imageKey": "articles/2026/10/gbf-class-builder-stem-learning-philippines/featured.webp",
     "imageKeys": [
-      "articles/2026/10/gbf-class-builder-stem-learning-philippines/image-1.webp",
-      "articles/2026/10/gbf-class-builder-stem-learning-philippines/image-2.webp",
-      "articles/2026/10/gbf-class-builder-stem-learning-philippines/image-3.webp",
-      "articles/2026/10/gbf-class-builder-stem-learning-philippines/image-4.webp"
+      "articles/2026/10/gbf-class-builder-stem-learning-philippines/image-1.webp?v=20261029",
+      "articles/2026/10/gbf-class-builder-stem-learning-philippines/image-2.webp?v=20261029",
+      "articles/2026/10/gbf-class-builder-stem-learning-philippines/image-3.webp?v=20261029",
+      "articles/2026/10/gbf-class-builder-stem-learning-philippines/image-4.webp?v=20261029"
     ],
     "image": "https://viper.ph/api/media/articles/2026/10/gbf-class-builder-stem-learning-philippines/featured.webp",
-    "imageAlt": "Students using laptops in a classroom",
-    "imageWidth": 3840,
-    "imageHeight": 2160,
+    "imageAlt": "GBF Class Builder teacher toolkit on a laptop",
+    "imageWidth": 1920,
+    "imageHeight": 1080,
     "sourceUrl": "https://viper.ph/gbf-class-builder-stem-learning-philippines/",
     "description": "GBF Class Builder gives Philippine teachers free instructional resources as the foundation expands its STEM and classroom-support programs for schools.",
-    "bodySha256": "b7c43242bd26a0fc6ec43f434cb48214ca168695c9f34d3269fce6ba6cf987c3",
+    "bodySha256": "cc409425900397b662a3773de5a78bf5d44dec20a6670e4a012cfe3d921c12b4",
     "publisherStatus": "published",
     "publicationSlot": "10:00"
   },
