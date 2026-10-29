@@ -8,6 +8,57 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-10-29/10:00",
+      "idempotency_key": "2026-10-29/10:00",
+      "day": "2026-10-29",
+      "slot": "10:00",
+      "slug": "gbf-class-builder-stem-learning-philippines",
+      "title": "GBF Class Builder Expands STEM Learning",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Apps and Software",
+        "PH Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "b7c43242bd26a0fc6ec43f434cb48214ca168695c9f34d3269fce6ba6cf987c3"
+    },
+    {
+      "slot_key": "2026-10-29/08:00",
+      "idempotency_key": "2026-10-29/08:00",
+      "day": "2026-10-29",
+      "slot": "08:00",
+      "slug": "philippine-ev-summit-15-brands-2026",
+      "title": "Philippine EV Summit Shows 15+ Brands",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Electric Vehicles",
+        "PH Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "f8fb2737ffcb2a90fb03ffc01678056bd143cdba2b5f3f7a8a26115b2dff3f00"
+    },
+    {
+      "slot_key": "2026-10-29/06:00",
+      "idempotency_key": "2026-10-29/06:00",
+      "day": "2026-10-29",
+      "slot": "06:00",
+      "slug": "high-risk-apps-child-safety-philippines",
+      "title": "High-Risk Apps Face New Child Safety Burden",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Apps and Software",
+        "PH Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "b62f5914a475347ba9632aee79eb088cac184d44a28b7f1669bb5f828526a620"
+    },
+    {
       "slot_key": "2026-10-28/10:00",
       "idempotency_key": "2026-10-28/10:00",
       "day": "2026-10-28",
@@ -3623,6 +3674,23 @@
     }
   ],
   "days": {
+    "2026-10-29": {
+      "2026-10-29/10:00": {
+        "slug": "gbf-class-builder-stem-learning-philippines",
+        "status": "published",
+        "managed": true
+      },
+      "2026-10-29/08:00": {
+        "slug": "philippine-ev-summit-15-brands-2026",
+        "status": "published",
+        "managed": true
+      },
+      "2026-10-29/06:00": {
+        "slug": "high-risk-apps-child-safety-philippines",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-10-28": {
       "2026-10-28/10:00": {
         "slug": "ai-election-content-philippine-guardrails",

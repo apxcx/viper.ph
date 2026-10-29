@@ -1,5 +1,104 @@
 [
   {
+    "slug": "gbf-class-builder-stem-learning-philippines",
+    "title": "GBF Class Builder Expands STEM Learning",
+    "date": "2026-10-29T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "Apps and Software",
+      "PH Tech"
+    ],
+    "tags": [
+      "edtech",
+      "STEM education",
+      "teachers",
+      "Philippines"
+    ],
+    "imageKey": "articles/2026/10/gbf-class-builder-stem-learning-philippines/featured.webp",
+    "imageKeys": [
+      "articles/2026/10/gbf-class-builder-stem-learning-philippines/image-1.webp",
+      "articles/2026/10/gbf-class-builder-stem-learning-philippines/image-2.webp",
+      "articles/2026/10/gbf-class-builder-stem-learning-philippines/image-3.webp",
+      "articles/2026/10/gbf-class-builder-stem-learning-philippines/image-4.webp"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/10/gbf-class-builder-stem-learning-philippines/featured.webp",
+    "imageAlt": "Students using laptops in a classroom",
+    "imageWidth": 3840,
+    "imageHeight": 2160,
+    "sourceUrl": "https://viper.ph/gbf-class-builder-stem-learning-philippines/",
+    "description": "GBF Class Builder gives Philippine teachers free instructional resources as the foundation expands its STEM and classroom-support programs for schools.",
+    "bodySha256": "b7c43242bd26a0fc6ec43f434cb48214ca168695c9f34d3269fce6ba6cf987c3",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
+    "slug": "philippine-ev-summit-15-brands-2026",
+    "title": "Philippine EV Summit Shows 15+ Brands",
+    "date": "2026-10-29T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "Electric Vehicles",
+      "PH Tech"
+    ],
+    "tags": [
+      "electric vehicles",
+      "EV charging",
+      "Philippine EV Summit",
+      "mobility"
+    ],
+    "imageKey": "articles/2026/10/philippine-ev-summit-15-brands-2026/featured.webp",
+    "imageKeys": [
+      "articles/2026/10/philippine-ev-summit-15-brands-2026/image-1.webp",
+      "articles/2026/10/philippine-ev-summit-15-brands-2026/image-2.webp",
+      "articles/2026/10/philippine-ev-summit-15-brands-2026/image-3.webp",
+      "articles/2026/10/philippine-ev-summit-15-brands-2026/image-4.webp"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/10/philippine-ev-summit-15-brands-2026/featured.webp",
+    "imageAlt": "Electric car connected to a charging station",
+    "imageWidth": 3840,
+    "imageHeight": 2160,
+    "sourceUrl": "https://viper.ph/philippine-ev-summit-15-brands-2026/",
+    "description": "The Philippine EV Summit highlighted more than 15 brands, rising electrified-vehicle sales and a charging network expanding across the country now.",
+    "bodySha256": "f8fb2737ffcb2a90fb03ffc01678056bd143cdba2b5f3f7a8a26115b2dff3f00",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
+    "slug": "high-risk-apps-child-safety-philippines",
+    "title": "High-Risk Apps Face New Child Safety Burden",
+    "date": "2026-10-29T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "Apps and Software",
+      "PH Tech"
+    ],
+    "tags": [
+      "online safety",
+      "children",
+      "digital services",
+      "Philippines"
+    ],
+    "imageKey": "articles/2026/10/high-risk-apps-child-safety-philippines/featured.webp",
+    "imageKeys": [
+      "articles/2026/10/high-risk-apps-child-safety-philippines/image-1.webp",
+      "articles/2026/10/high-risk-apps-child-safety-philippines/image-2.webp",
+      "articles/2026/10/high-risk-apps-child-safety-philippines/image-3.webp",
+      "articles/2026/10/high-risk-apps-child-safety-philippines/image-4.webp"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/10/high-risk-apps-child-safety-philippines/featured.webp",
+    "imageAlt": "Young girl using a smartphone",
+    "imageWidth": 1200,
+    "imageHeight": 675,
+    "sourceUrl": "https://viper.ph/high-risk-apps-child-safety-philippines/",
+    "description": "Philippine officials want high-risk digital services to prove they protect children as a Senate-backed bill targets platforms linked to grooming.",
+    "bodySha256": "b62f5914a475347ba9632aee79eb088cac184d44a28b7f1669bb5f828526a620",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "ai-election-content-philippine-guardrails",
     "title": "AI Election Content Tests Philippine Guardrails",
     "date": "2026-10-28T10:00:00+08:00",
