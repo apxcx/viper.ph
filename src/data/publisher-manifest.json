@@ -8,6 +8,57 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-10-30/10:00",
+      "idempotency_key": "2026-10-30/10:00",
+      "day": "2026-10-30",
+      "slot": "10:00",
+      "slug": "philippine-offshore-wind-hub",
+      "title": "Philippines Builds Offshore Wind Hub",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Electric Vehicles",
+        "PH Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "8496f09dc237c9a8e82b3711c0d843760364a971565301f206fefaa0e7f2001a"
+    },
+    {
+      "slot_key": "2026-10-30/08:00",
+      "idempotency_key": "2026-10-30/08:00",
+      "day": "2026-10-30",
+      "slot": "08:00",
+      "slug": "pagasa-22-radar-weather-network",
+      "title": "PAGASA Plans 22-Radar Weather Network",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech",
+        "Tech Events"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "5afd1704ea87f65e6d331ef943366a6e9bc6efce482f98ec2ff33e2d42852887"
+    },
+    {
+      "slot_key": "2026-10-30/06:00",
+      "idempotency_key": "2026-10-30/06:00",
+      "day": "2026-10-30",
+      "slot": "06:00",
+      "slug": "philippine-business-ai-adoption-2027",
+      "title": "Philippine Businesses Push AI Adoption",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "AI",
+        "PH Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "65581c903de55251c5354c472a99590a9683bfcdbb80d6f27f54a2f04049afca"
+    },
+    {
       "slot_key": "2026-10-29/10:00",
       "idempotency_key": "2026-10-29/10:00",
       "day": "2026-10-29",
@@ -3674,6 +3725,23 @@
     }
   ],
   "days": {
+    "2026-10-30": {
+      "2026-10-30/10:00": {
+        "slug": "philippine-offshore-wind-hub",
+        "status": "published",
+        "managed": true
+      },
+      "2026-10-30/08:00": {
+        "slug": "pagasa-22-radar-weather-network",
+        "status": "published",
+        "managed": true
+      },
+      "2026-10-30/06:00": {
+        "slug": "philippine-business-ai-adoption-2027",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-10-29": {
       "2026-10-29/10:00": {
         "slug": "gbf-class-builder-stem-learning-philippines",

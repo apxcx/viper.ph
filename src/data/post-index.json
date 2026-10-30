@@ -1,5 +1,104 @@
 [
   {
+    "slug": "philippine-offshore-wind-hub",
+    "title": "Philippines Builds Offshore Wind Hub",
+    "date": "2026-10-30T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "Electric Vehicles",
+      "PH Tech"
+    ],
+    "tags": [
+      "offshore wind",
+      "renewable energy",
+      "energy infrastructure",
+      "Philippines"
+    ],
+    "imageKey": "articles/2026/10/philippine-offshore-wind-hub/featured.webp",
+    "imageKeys": [
+      "articles/2026/10/philippine-offshore-wind-hub/image-1.webp?v=20261030",
+      "articles/2026/10/philippine-offshore-wind-hub/image-2.webp?v=20261030",
+      "articles/2026/10/philippine-offshore-wind-hub/image-3.webp?v=20261030",
+      "articles/2026/10/philippine-offshore-wind-hub/image-4.webp?v=20261030"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/10/philippine-offshore-wind-hub/featured.webp",
+    "imageAlt": "Block Island offshore wind farm at sea",
+    "imageWidth": 4459,
+    "imageHeight": 2508,
+    "sourceUrl": "https://viper.ph/philippine-offshore-wind-hub/",
+    "description": "The Philippines is auctioning 3,300 megawatts of offshore wind capacity while ports, grids, and local manufacturing prepare for a new energy industry.",
+    "bodySha256": "8496f09dc237c9a8e82b3711c0d843760364a971565301f206fefaa0e7f2001a",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
+    "slug": "pagasa-22-radar-weather-network",
+    "title": "PAGASA Plans 22-Radar Weather Network",
+    "date": "2026-10-30T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "PH Tech",
+      "Tech Events"
+    ],
+    "tags": [
+      "PAGASA",
+      "Doppler radar",
+      "weather technology",
+      "disaster resilience"
+    ],
+    "imageKey": "articles/2026/10/pagasa-22-radar-weather-network/featured.webp",
+    "imageKeys": [
+      "articles/2026/10/pagasa-22-radar-weather-network/image-1.webp?v=20261030",
+      "articles/2026/10/pagasa-22-radar-weather-network/image-2.webp?v=20261030",
+      "articles/2026/10/pagasa-22-radar-weather-network/image-3.webp?v=20261030",
+      "articles/2026/10/pagasa-22-radar-weather-network/image-4.webp?v=20261030"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/10/pagasa-22-radar-weather-network/featured.webp",
+    "imageAlt": "Doppler weather radar dome used for storm research",
+    "imageWidth": 1280,
+    "imageHeight": 720,
+    "sourceUrl": "https://viper.ph/pagasa-22-radar-weather-network/",
+    "description": "PAGASA is planning a 22-radar network to improve Philippine forecasts, with a new P250-million Bataan facility feeding data to its national weather app.",
+    "bodySha256": "5afd1704ea87f65e6d331ef943366a6e9bc6efce482f98ec2ff33e2d42852887",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
+    "slug": "philippine-business-ai-adoption-2027",
+    "title": "Philippine Businesses Push AI Adoption",
+    "date": "2026-10-30T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "AI",
+      "PH Tech"
+    ],
+    "tags": [
+      "artificial intelligence",
+      "business technology",
+      "data centers",
+      "Philippines"
+    ],
+    "imageKey": "articles/2026/10/philippine-business-ai-adoption-2027/featured.webp",
+    "imageKeys": [
+      "articles/2026/10/philippine-business-ai-adoption-2027/image-1.webp?v=20261030",
+      "articles/2026/10/philippine-business-ai-adoption-2027/image-2.webp?v=20261030",
+      "articles/2026/10/philippine-business-ai-adoption-2027/image-3.webp?v=20261030",
+      "articles/2026/10/philippine-business-ai-adoption-2027/image-4.webp?v=20261030"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/10/philippine-business-ai-adoption-2027/featured.webp",
+    "imageAlt": "Rack of computers in a data center",
+    "imageWidth": 1024,
+    "imageHeight": 576,
+    "sourceUrl": "https://viper.ph/philippine-business-ai-adoption-2027/",
+    "description": "Philippine technology leaders expect faster AI adoption in 2027 as businesses invest in agents, data centers, governance, and modern IT systems nationwide.",
+    "bodySha256": "65581c903de55251c5354c472a99590a9683bfcdbb80d6f27f54a2f04049afca",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "gbf-class-builder-stem-learning-philippines",
     "title": "GBF Class Builder Expands STEM Learning",
     "date": "2026-10-29T10:00:00+08:00",
