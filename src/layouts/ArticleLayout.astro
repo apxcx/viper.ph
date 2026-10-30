@@ -24,7 +24,7 @@ const categorySlugs: Record<string, string> = {
 };
 const categoryHref = `/category/${categorySlugs[category] ?? 'tech-news'}/`;
 const canonical = frontmatter.canonical_url ?? `https://viper.ph/${frontmatter.slug}/`;
-const image = `/api/media/${frontmatter.featured_image_key}${['cirtek-semiconductor-unit-sale-sancode', 'gcash-ipo-share-price-after-listing', 'ai-election-content-philippine-guardrails', 'philippine-ev-summit-15-brands-2026', 'gbf-class-builder-stem-learning-philippines', 'philippine-business-ai-adoption-2027'].includes(frontmatter.slug) ? '?v=20261031' : ''}`;
+const image = `/api/media/${frontmatter.featured_image_key}${['cirtek-semiconductor-unit-sale-sancode', 'gcash-ipo-share-price-after-listing', 'ai-election-content-philippine-guardrails', 'philippine-ev-summit-15-brands-2026', 'gbf-class-builder-stem-learning-philippines', 'philippine-business-ai-adoption-2027', 'pagasa-22-radar-weather-network'].includes(frontmatter.slug) ? '?v=20261031' : ''}`;
 const imageAlt = frontmatter.featured_image_alt?.trim() || frontmatter.title;
 const socialImage = new URL(image, 'https://viper.ph').href;
 const importedPost = postsBySlug.get(frontmatter.slug);

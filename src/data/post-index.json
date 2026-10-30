@@ -50,18 +50,18 @@
     ],
     "imageKey": "articles/2026/10/pagasa-22-radar-weather-network/featured.webp",
     "imageKeys": [
-      "articles/2026/10/pagasa-22-radar-weather-network/image-1.webp?v=20261030",
-      "articles/2026/10/pagasa-22-radar-weather-network/image-2.webp?v=20261030",
-      "articles/2026/10/pagasa-22-radar-weather-network/image-3.webp?v=20261030",
-      "articles/2026/10/pagasa-22-radar-weather-network/image-4.webp?v=20261030"
+      "articles/2026/10/pagasa-22-radar-weather-network/image-1.webp?v=20261031",
+      "articles/2026/10/pagasa-22-radar-weather-network/image-2.webp?v=20261031",
+      "articles/2026/10/pagasa-22-radar-weather-network/image-3.webp?v=20261031",
+      "articles/2026/10/pagasa-22-radar-weather-network/image-4.webp?v=20261031"
     ],
     "image": "https://viper.ph/api/media/articles/2026/10/pagasa-22-radar-weather-network/featured.webp",
-    "imageAlt": "Doppler weather radar dome used for storm research",
-    "imageWidth": 1280,
-    "imageHeight": 720,
+    "imageAlt": "PAGASA weather radar station and observation facility",
+    "imageWidth": 1600,
+    "imageHeight": 900,
     "sourceUrl": "https://viper.ph/pagasa-22-radar-weather-network/",
     "description": "PAGASA is planning a 22-radar network to improve Philippine forecasts, with a new P250-million Bataan facility feeding data to its national weather app.",
-    "bodySha256": "5afd1704ea87f65e6d331ef943366a6e9bc6efce482f98ec2ff33e2d42852887",
+    "bodySha256": "557c67f7cf18a101c438ffdaea1a7284e204249cc6746674681bf031fce52d19",
     "publisherStatus": "published",
     "publicationSlot": "08:00"
   },
