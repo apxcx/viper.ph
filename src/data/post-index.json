@@ -83,18 +83,18 @@
     ],
     "imageKey": "articles/2026/10/philippine-business-ai-adoption-2027/featured.webp",
     "imageKeys": [
-      "articles/2026/10/philippine-business-ai-adoption-2027/image-1.webp?v=20261030",
-      "articles/2026/10/philippine-business-ai-adoption-2027/image-2.webp?v=20261030",
-      "articles/2026/10/philippine-business-ai-adoption-2027/image-3.webp?v=20261030",
-      "articles/2026/10/philippine-business-ai-adoption-2027/image-4.webp?v=20261030"
+      "articles/2026/10/philippine-business-ai-adoption-2027/image-1.webp?v=20261031",
+      "articles/2026/10/philippine-business-ai-adoption-2027/image-2.webp?v=20261031",
+      "articles/2026/10/philippine-business-ai-adoption-2027/image-3.webp?v=20261031",
+      "articles/2026/10/philippine-business-ai-adoption-2027/image-4.webp?v=20261031"
     ],
     "image": "https://viper.ph/api/media/articles/2026/10/philippine-business-ai-adoption-2027/featured.webp",
-    "imageAlt": "Rack of computers in a data center",
-    "imageWidth": 1024,
-    "imageHeight": 576,
+    "imageAlt": "AWS report graphic on Philippine business AI adoption",
+    "imageWidth": 1600,
+    "imageHeight": 900,
     "sourceUrl": "https://viper.ph/philippine-business-ai-adoption-2027/",
     "description": "Philippine technology leaders expect faster AI adoption in 2027 as businesses invest in agents, data centers, governance, and modern IT systems nationwide.",
-    "bodySha256": "65581c903de55251c5354c472a99590a9683bfcdbb80d6f27f54a2f04049afca",
+    "bodySha256": "579ea1fa4a42dfc438d8f07772df1dbf466e2d0fdc6bc20493e44ad4becfe3aa",
     "publisherStatus": "published",
     "publicationSlot": "06:00"
   },
