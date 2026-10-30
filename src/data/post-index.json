@@ -17,18 +17,18 @@
     ],
     "imageKey": "articles/2026/10/philippine-offshore-wind-hub/featured.webp",
     "imageKeys": [
-      "articles/2026/10/philippine-offshore-wind-hub/image-1.webp?v=20261030",
-      "articles/2026/10/philippine-offshore-wind-hub/image-2.webp?v=20261030",
-      "articles/2026/10/philippine-offshore-wind-hub/image-3.webp?v=20261030",
-      "articles/2026/10/philippine-offshore-wind-hub/image-4.webp?v=20261030"
+      "articles/2026/10/philippine-offshore-wind-hub/image-1.webp?v=20261031",
+      "articles/2026/10/philippine-offshore-wind-hub/image-2.webp?v=20261031",
+      "articles/2026/10/philippine-offshore-wind-hub/image-3.webp?v=20261031",
+      "articles/2026/10/philippine-offshore-wind-hub/image-4.webp?v=20261031"
     ],
     "image": "https://viper.ph/api/media/articles/2026/10/philippine-offshore-wind-hub/featured.webp",
-    "imageAlt": "Block Island offshore wind farm at sea",
-    "imageWidth": 4459,
-    "imageHeight": 2508,
+    "imageAlt": "Offshore wind turbine assembly at a marine construction port",
+    "imageWidth": 1600,
+    "imageHeight": 900,
     "sourceUrl": "https://viper.ph/philippine-offshore-wind-hub/",
     "description": "The Philippines is auctioning 3,300 megawatts of offshore wind capacity while ports, grids, and local manufacturing prepare for a new energy industry.",
-    "bodySha256": "8496f09dc237c9a8e82b3711c0d843760364a971565301f206fefaa0e7f2001a",
+    "bodySha256": "65b5290386d15511ef42a6eca453e17736a6986b2e1c843863df3019a8769eae",
     "publisherStatus": "published",
     "publicationSlot": "10:00"
   },
