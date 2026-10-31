@@ -26,8 +26,8 @@ export const posts = index;
 export const postsBySlug = new Map(posts.map((post) => [post.slug, post]));
 
 function featuredImageUrl(slug: string, image: string): string {
-  return ['cirtek-semiconductor-unit-sale-sancode', 'gcash-ipo-share-price-after-listing', 'ai-election-content-philippine-guardrails', 'philippine-ev-summit-15-brands-2026', 'gbf-class-builder-stem-learning-philippines', 'philippine-business-ai-adoption-2027', 'pagasa-22-radar-weather-network', 'philippine-offshore-wind-hub', 'vivo-v80-philippine-preorders', 'quantum-cybersecurity-philippines'].includes(slug)
-    ? `${image}?v=${slug === 'vivo-v80-philippine-preorders' ? '202610312' : slug === 'quantum-cybersecurity-philippines' ? '202610313' : '20261031'}`
+  return ['cirtek-semiconductor-unit-sale-sancode', 'gcash-ipo-share-price-after-listing', 'ai-election-content-philippine-guardrails', 'philippine-ev-summit-15-brands-2026', 'gbf-class-builder-stem-learning-philippines', 'philippine-business-ai-adoption-2027', 'pagasa-22-radar-weather-network', 'philippine-offshore-wind-hub', 'vivo-v80-philippine-preorders', 'quantum-cybersecurity-philippines', 'dost-el-nino-risk-tool-philippines'].includes(slug)
+    ? `${image}?v=${slug === 'vivo-v80-philippine-preorders' ? '202610312' : slug === 'quantum-cybersecurity-philippines' ? '202610313' : slug === 'dost-el-nino-risk-tool-philippines' ? '202610314' : '20261031'}`
     : image;
 }
 

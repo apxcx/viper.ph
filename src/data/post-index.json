@@ -12,18 +12,18 @@
     "tags": [],
     "imageKey": "articles/2026/10/dost-el-nino-risk-tool-philippines/featured.webp",
     "imageKeys": [
-      "articles/2026/10/dost-el-nino-risk-tool-philippines/image-1.webp?v=20261031",
-      "articles/2026/10/dost-el-nino-risk-tool-philippines/image-2.webp?v=20261031",
-      "articles/2026/10/dost-el-nino-risk-tool-philippines/image-3.webp?v=20261031",
-      "articles/2026/10/dost-el-nino-risk-tool-philippines/image-4.webp?v=20261031"
+      "articles/2026/10/dost-el-nino-risk-tool-philippines/image-1.webp?v=202610314",
+      "articles/2026/10/dost-el-nino-risk-tool-philippines/image-2.webp?v=202610314",
+      "articles/2026/10/dost-el-nino-risk-tool-philippines/image-3.webp?v=202610314",
+      "articles/2026/10/dost-el-nino-risk-tool-philippines/image-4.webp?v=202610314"
     ],
     "image": "https://viper.ph/api/media/articles/2026/10/dost-el-nino-risk-tool-philippines/featured.webp",
-    "imageAlt": "Irrigation sprinkler watering a farm field",
+    "imageAlt": "DOST-PAGASA El Niño advisory and climate guidance graphic",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/dost-el-nino-risk-tool-philippines/",
     "description": "DOST-PAGASA’s EASi tool maps regional El Niño impacts with interactive climate data, helping Philippine agencies plan water and farm responses today.",
-    "bodySha256": "900236cb13c18abb2694571291aa4cb3ed1fd5afaad0518f4fc8ea3fe4edc2cf",
+    "bodySha256": "faf77abd2a051eea2c2a905998b53116f653e57d09128a1573379fcb38c4d371",
     "publisherStatus": "published",
     "publicationSlot": "10:00"
   },
