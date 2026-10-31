@@ -1,5 +1,89 @@
 [
   {
+    "slug": "dost-el-nino-risk-tool-philippines",
+    "title": "DOST Tool Maps El Niño Risks for PH",
+    "date": "2026-10-31T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "PH Tech",
+      "Tech Events"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/10/dost-el-nino-risk-tool-philippines/featured.webp",
+    "imageKeys": [
+      "articles/2026/10/dost-el-nino-risk-tool-philippines/image-1.webp?v=20261031",
+      "articles/2026/10/dost-el-nino-risk-tool-philippines/image-2.webp?v=20261031",
+      "articles/2026/10/dost-el-nino-risk-tool-philippines/image-3.webp?v=20261031",
+      "articles/2026/10/dost-el-nino-risk-tool-philippines/image-4.webp?v=20261031"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/10/dost-el-nino-risk-tool-philippines/featured.webp",
+    "imageAlt": "Irrigation sprinkler watering a farm field",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/dost-el-nino-risk-tool-philippines/",
+    "description": "DOST-PAGASA’s EASi tool maps regional El Niño impacts with interactive climate data, helping Philippine agencies plan water and farm responses today.",
+    "bodySha256": "900236cb13c18abb2694571291aa4cb3ed1fd5afaad0518f4fc8ea3fe4edc2cf",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
+    "slug": "quantum-cybersecurity-philippines",
+    "title": "Quantum Threat Puts Philippine Firms on Notice",
+    "date": "2026-10-31T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "Apps and Software",
+      "PH Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/10/quantum-cybersecurity-philippines/featured.webp",
+    "imageKeys": [
+      "articles/2026/10/quantum-cybersecurity-philippines/image-1.webp?v=20261031",
+      "articles/2026/10/quantum-cybersecurity-philippines/image-2.webp?v=20261031",
+      "articles/2026/10/quantum-cybersecurity-philippines/image-3.webp?v=20261031",
+      "articles/2026/10/quantum-cybersecurity-philippines/image-4.webp?v=20261031"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/10/quantum-cybersecurity-philippines/featured.webp",
+    "imageAlt": "Quantum computer equipment in a laboratory",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/quantum-cybersecurity-philippines/",
+    "description": "AIM experts warn Philippine firms could face quantum-powered attacks by 2030, making cryptographic inventories and post-quantum migration urgent.",
+    "bodySha256": "9937786e1065500121106f4e6e3da3835efb699f143cd2379605a9167e7fdab1",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
+    "slug": "vivo-v80-philippine-preorders",
+    "title": "vivo V80 Opens Philippine Pre-Orders",
+    "date": "2026-10-31T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "Gadgets",
+      "PH Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/10/vivo-v80-philippine-preorders/featured.webp",
+    "imageKeys": [
+      "articles/2026/10/vivo-v80-philippine-preorders/image-1.webp?v=20261031",
+      "articles/2026/10/vivo-v80-philippine-preorders/image-2.webp?v=20261031",
+      "articles/2026/10/vivo-v80-philippine-preorders/image-3.webp?v=20261031",
+      "articles/2026/10/vivo-v80-philippine-preorders/image-4.webp?v=20261031"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/10/vivo-v80-philippine-preorders/featured.webp",
+    "imageAlt": "Android smartphones arranged for a mobile photography story",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/vivo-v80-philippine-preorders/",
+    "description": "vivo opens Philippine pre-orders for the V80 with ZEISS cameras, OriginOS 7, two storage options, discounts, and bundled benefits for buyers locally.",
+    "bodySha256": "239249621b2372814d4df6887ffb011f313da422f8309b0a7c5a4433bf0aaff9",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "philippine-offshore-wind-hub",
     "title": "Philippines Builds Offshore Wind Hub",
     "date": "2026-10-30T10:00:00+08:00",

@@ -8,6 +8,57 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-10-31/10:00",
+      "idempotency_key": "2026-10-31/10:00",
+      "day": "2026-10-31",
+      "slot": "10:00",
+      "slug": "dost-el-nino-risk-tool-philippines",
+      "title": "DOST Tool Maps El Niño Risks for PH",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech",
+        "Tech Events"
+      ],
+      "source_count": 3,
+      "body_image_count": 4,
+      "content_sha256": "900236cb13c18abb2694571291aa4cb3ed1fd5afaad0518f4fc8ea3fe4edc2cf"
+    },
+    {
+      "slot_key": "2026-10-31/08:00",
+      "idempotency_key": "2026-10-31/08:00",
+      "day": "2026-10-31",
+      "slot": "08:00",
+      "slug": "quantum-cybersecurity-philippines",
+      "title": "Quantum Threat Puts Philippine Firms on Notice",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Apps and Software",
+        "PH Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "9937786e1065500121106f4e6e3da3835efb699f143cd2379605a9167e7fdab1"
+    },
+    {
+      "slot_key": "2026-10-31/06:00",
+      "idempotency_key": "2026-10-31/06:00",
+      "day": "2026-10-31",
+      "slot": "06:00",
+      "slug": "vivo-v80-philippine-preorders",
+      "title": "vivo V80 Opens Philippine Pre-Orders",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Gadgets",
+        "PH Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "239249621b2372814d4df6887ffb011f313da422f8309b0a7c5a4433bf0aaff9"
+    },
+    {
       "slot_key": "2026-10-30/10:00",
       "idempotency_key": "2026-10-30/10:00",
       "day": "2026-10-30",
@@ -3725,6 +3776,23 @@
     }
   ],
   "days": {
+    "2026-10-31": {
+      "2026-10-31/10:00": {
+        "slug": "dost-el-nino-risk-tool-philippines",
+        "status": "published",
+        "managed": true
+      },
+      "2026-10-31/08:00": {
+        "slug": "quantum-cybersecurity-philippines",
+        "status": "published",
+        "managed": true
+      },
+      "2026-10-31/06:00": {
+        "slug": "vivo-v80-philippine-preorders",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-10-30": {
       "2026-10-30/10:00": {
         "slug": "philippine-offshore-wind-hub",
