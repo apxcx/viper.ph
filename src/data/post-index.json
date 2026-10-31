@@ -40,18 +40,18 @@
     "tags": [],
     "imageKey": "articles/2026/10/quantum-cybersecurity-philippines/featured.webp",
     "imageKeys": [
-      "articles/2026/10/quantum-cybersecurity-philippines/image-1.webp?v=20261031",
-      "articles/2026/10/quantum-cybersecurity-philippines/image-2.webp?v=20261031",
-      "articles/2026/10/quantum-cybersecurity-philippines/image-3.webp?v=20261031",
-      "articles/2026/10/quantum-cybersecurity-philippines/image-4.webp?v=20261031"
+      "articles/2026/10/quantum-cybersecurity-philippines/image-1.webp?v=202610313",
+      "articles/2026/10/quantum-cybersecurity-philippines/image-2.webp?v=202610313",
+      "articles/2026/10/quantum-cybersecurity-philippines/image-3.webp?v=202610313",
+      "articles/2026/10/quantum-cybersecurity-philippines/image-4.webp?v=202610313"
     ],
     "image": "https://viper.ph/api/media/articles/2026/10/quantum-cybersecurity-philippines/featured.webp",
-    "imageAlt": "Quantum computer equipment in a laboratory",
+    "imageAlt": "Quantum-safe cryptography for cloud services",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/quantum-cybersecurity-philippines/",
     "description": "AIM experts warn Philippine firms could face quantum-powered attacks by 2030, making cryptographic inventories and post-quantum migration urgent.",
-    "bodySha256": "9937786e1065500121106f4e6e3da3835efb699f143cd2379605a9167e7fdab1",
+    "bodySha256": "6b24632ad01db9071dbd808fbe9e0db0b07c2d69b32cfdf54e67749efadd258e",
     "publisherStatus": "published",
     "publicationSlot": "08:00"
   },
