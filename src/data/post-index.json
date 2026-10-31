@@ -68,18 +68,18 @@
     "tags": [],
     "imageKey": "articles/2026/10/vivo-v80-philippine-preorders/featured.webp",
     "imageKeys": [
-      "articles/2026/10/vivo-v80-philippine-preorders/image-1.webp?v=20261031",
-      "articles/2026/10/vivo-v80-philippine-preorders/image-2.webp?v=20261031",
-      "articles/2026/10/vivo-v80-philippine-preorders/image-3.webp?v=20261031",
-      "articles/2026/10/vivo-v80-philippine-preorders/image-4.webp?v=20261031"
+      "articles/2026/10/vivo-v80-philippine-preorders/image-1.webp?v=202610312",
+      "articles/2026/10/vivo-v80-philippine-preorders/image-2.webp?v=202610312",
+      "articles/2026/10/vivo-v80-philippine-preorders/image-3.webp?v=202610312",
+      "articles/2026/10/vivo-v80-philippine-preorders/image-4.webp?v=202610312"
     ],
     "image": "https://viper.ph/api/media/articles/2026/10/vivo-v80-philippine-preorders/featured.webp",
-    "imageAlt": "Android smartphones arranged for a mobile photography story",
+    "imageAlt": "vivo V80 Philippine pre-order offer with ZEISS camera phone",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/vivo-v80-philippine-preorders/",
     "description": "vivo opens Philippine pre-orders for the V80 with ZEISS cameras, OriginOS 7, two storage options, discounts, and bundled benefits for buyers locally.",
-    "bodySha256": "239249621b2372814d4df6887ffb011f313da422f8309b0a7c5a4433bf0aaff9",
+    "bodySha256": "f90d6bfde2c9a063cebb3d90d5f88a6bba33f3df469776341e614a5b159a6420",
     "publisherStatus": "published",
     "publicationSlot": "06:00"
   },
