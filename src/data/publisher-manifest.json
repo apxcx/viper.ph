@@ -8,6 +8,57 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-01/10:00",
+      "idempotency_key": "2026-11-01/10:00",
+      "day": "2026-11-01",
+      "slot": "10:00",
+      "slug": "binance-hack-crypto-security-reset",
+      "title": "Binance Hack Pushes Crypto Security Reset",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Fintech and Banking Tech",
+        "International Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "616d06696a465b4db0d031425c78c24276364c30e5ed611744aafc93ea57c8e5"
+    },
+    {
+      "slot_key": "2026-11-01/08:00",
+      "idempotency_key": "2026-11-01/08:00",
+      "day": "2026-11-01",
+      "slot": "08:00",
+      "slug": "ai-giants-shared-scraping-opt-out",
+      "title": "AI Giants Back Shared Scraping Opt-Out",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "AI",
+        "International Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "60dc93628243ed7a9a622b1609871c99c898b30235abbb97b0d514f5fdde4ed3"
+    },
+    {
+      "slot_key": "2026-11-01/06:00",
+      "idempotency_key": "2026-11-01/06:00",
+      "day": "2026-11-01",
+      "slot": "06:00",
+      "slug": "alon-filipino-indie-game-platform",
+      "title": "Alon Gives Filipino Games a Global Shelf",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Apps and Software",
+        "PH Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "7d517fdd70d7ca9e28267679658fe95878e42ee52e643af4e034f2d62dd1ccd8"
+    },
+    {
       "slot_key": "2026-10-31/10:00",
       "idempotency_key": "2026-10-31/10:00",
       "day": "2026-10-31",
@@ -3776,6 +3827,23 @@
     }
   ],
   "days": {
+    "2026-11-01": {
+      "2026-11-01/10:00": {
+        "slug": "binance-hack-crypto-security-reset",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-01/08:00": {
+        "slug": "ai-giants-shared-scraping-opt-out",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-01/06:00": {
+        "slug": "alon-filipino-indie-game-platform",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-10-31": {
       "2026-10-31/10:00": {
         "slug": "dost-el-nino-risk-tool-philippines",
