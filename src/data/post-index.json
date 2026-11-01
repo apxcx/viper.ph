@@ -12,18 +12,18 @@
     "tags": [],
     "imageKey": "articles/2026/11/binance-hack-crypto-security-reset/featured.webp",
     "imageKeys": [
-      "articles/2026/11/binance-hack-crypto-security-reset/image-1.webp?v=20261101",
-      "articles/2026/11/binance-hack-crypto-security-reset/image-2.webp?v=20261101",
-      "articles/2026/11/binance-hack-crypto-security-reset/image-3.webp?v=20261101",
-      "articles/2026/11/binance-hack-crypto-security-reset/image-4.webp?v=20261101"
+      "articles/2026/11/binance-hack-crypto-security-reset/image-1.webp?v=202611014",
+      "articles/2026/11/binance-hack-crypto-security-reset/image-2.webp?v=202611014",
+      "articles/2026/11/binance-hack-crypto-security-reset/image-3.webp?v=202611014",
+      "articles/2026/11/binance-hack-crypto-security-reset/image-4.webp?v=202611014"
     ],
     "image": "https://viper.ph/api/media/articles/2026/11/binance-hack-crypto-security-reset/featured.webp",
-    "imageAlt": "Bitcoin transaction between a cryptocurrency exchange and a hardware wallet",
+    "imageAlt": "Binance crypto security incident and exchange app response",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/binance-hack-crypto-security-reset/",
     "description": "A record Binance hack is pushing crypto exchanges to review key storage, employee access, money laundering controls and shared alerts with urgency.",
-    "bodySha256": "616d06696a465b4db0d031425c78c24276364c30e5ed611744aafc93ea57c8e5",
+    "bodySha256": "fe9638281b404ba8742fbe7dc44d034543374d2c5cbe9b927bf1313c290e44b5",
     "publisherStatus": "published",
     "publicationSlot": "10:00"
   },

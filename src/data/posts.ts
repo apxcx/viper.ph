@@ -26,8 +26,8 @@ export const posts = index;
 export const postsBySlug = new Map(posts.map((post) => [post.slug, post]));
 
 function featuredImageUrl(slug: string, image: string): string {
-  return ['cirtek-semiconductor-unit-sale-sancode', 'gcash-ipo-share-price-after-listing', 'ai-election-content-philippine-guardrails', 'philippine-ev-summit-15-brands-2026', 'gbf-class-builder-stem-learning-philippines', 'philippine-business-ai-adoption-2027', 'pagasa-22-radar-weather-network', 'philippine-offshore-wind-hub', 'vivo-v80-philippine-preorders', 'quantum-cybersecurity-philippines', 'dost-el-nino-risk-tool-philippines', 'alon-filipino-indie-game-platform', 'ai-giants-shared-scraping-opt-out'].includes(slug)
-    ? `${image}?v=${slug === 'vivo-v80-philippine-preorders' ? '202610312' : slug === 'quantum-cybersecurity-philippines' ? '202610313' : slug === 'dost-el-nino-risk-tool-philippines' ? '202610314' : slug === 'alon-filipino-indie-game-platform' ? '202611012' : slug === 'ai-giants-shared-scraping-opt-out' ? '202611013' : '20261031'}`
+  return ['cirtek-semiconductor-unit-sale-sancode', 'gcash-ipo-share-price-after-listing', 'ai-election-content-philippine-guardrails', 'philippine-ev-summit-15-brands-2026', 'gbf-class-builder-stem-learning-philippines', 'philippine-business-ai-adoption-2027', 'pagasa-22-radar-weather-network', 'philippine-offshore-wind-hub', 'vivo-v80-philippine-preorders', 'quantum-cybersecurity-philippines', 'dost-el-nino-risk-tool-philippines', 'alon-filipino-indie-game-platform', 'ai-giants-shared-scraping-opt-out', 'binance-hack-crypto-security-reset'].includes(slug)
+    ? `${image}?v=${slug === 'vivo-v80-philippine-preorders' ? '202610312' : slug === 'quantum-cybersecurity-philippines' ? '202610313' : slug === 'dost-el-nino-risk-tool-philippines' ? '202610314' : slug === 'alon-filipino-indie-game-platform' ? '202611012' : slug === 'ai-giants-shared-scraping-opt-out' ? '202611013' : slug === 'binance-hack-crypto-security-reset' ? '202611014' : '20261031'}`
     : image;
 }
 
