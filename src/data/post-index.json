@@ -68,18 +68,18 @@
     "tags": [],
     "imageKey": "articles/2026/11/ntc-telcos-undas-mobile-network-readiness/featured.webp",
     "imageKeys": [
-      "articles/2026/11/ntc-telcos-undas-mobile-network-readiness/image-1.webp?v=20261102",
-      "articles/2026/11/ntc-telcos-undas-mobile-network-readiness/image-2.webp?v=20261102",
-      "articles/2026/11/ntc-telcos-undas-mobile-network-readiness/image-3.webp?v=20261102",
-      "articles/2026/11/ntc-telcos-undas-mobile-network-readiness/image-4.webp?v=20261102"
+      "articles/2026/11/ntc-telcos-undas-mobile-network-readiness/image-1.webp?v=202611025",
+      "articles/2026/11/ntc-telcos-undas-mobile-network-readiness/image-2.webp?v=202611025",
+      "articles/2026/11/ntc-telcos-undas-mobile-network-readiness/image-3.webp?v=202611025",
+      "articles/2026/11/ntc-telcos-undas-mobile-network-readiness/image-4.webp?v=202611025"
     ],
     "image": "https://viper.ph/api/media/articles/2026/11/ntc-telcos-undas-mobile-network-readiness/featured.webp",
-    "imageAlt": "Mobile network tower supporting Philippine connectivity",
+    "imageAlt": "National Telecommunications Commission logo over a crowded Philippine street scene",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/ntc-telcos-undas-mobile-network-readiness/",
     "description": "The NTC found Philippine telcos largely ready for the Undas rush, with strong data and SMS results but uneven call-drop performance at terminals.",
-    "bodySha256": "90279ef7e5d8320b4ceb7c321c044cce4a112e07b884887ebbfde856013fd5db",
+    "bodySha256": "249d8c694dd0be305b1597dad2d14f8faf3d5ac96ad4dd501040e86ac1ec040e",
     "publisherStatus": "published",
     "publicationSlot": "06:00"
   },
