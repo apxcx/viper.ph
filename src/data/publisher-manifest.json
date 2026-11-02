@@ -8,6 +8,57 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-02/10:00",
+      "idempotency_key": "2026-11-02/10:00",
+      "day": "2026-11-02",
+      "slot": "10:00",
+      "slug": "ai-data-centers-community-energy-pressure",
+      "title": "AI Data Centers Face Community Pushback",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "AI",
+        "International Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "08b404dcd6aef30d13b0a0345d84600447c77ada212324ee6e8f607902ad3436"
+    },
+    {
+      "slot_key": "2026-11-02/08:00",
+      "idempotency_key": "2026-11-02/08:00",
+      "day": "2026-11-02",
+      "slot": "08:00",
+      "slug": "chrg-japan-backed-solar-ev-charging-philippines",
+      "title": "Japan Backs Philippine EV Charging Startup",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Electric Vehicles",
+        "PH Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "f1ace6734314b8c708649da4cc07e2f6ab8cd8c73d74e577cb59aee51390cb48"
+    },
+    {
+      "slot_key": "2026-11-02/06:00",
+      "idempotency_key": "2026-11-02/06:00",
+      "day": "2026-11-02",
+      "slot": "06:00",
+      "slug": "ntc-telcos-undas-mobile-network-readiness",
+      "title": "NTC Finds Telcos Ready for Undas Rush",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Telcos and Internet",
+        "PH Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "90279ef7e5d8320b4ceb7c321c044cce4a112e07b884887ebbfde856013fd5db"
+    },
+    {
       "slot_key": "2026-11-01/10:00",
       "idempotency_key": "2026-11-01/10:00",
       "day": "2026-11-01",
@@ -3827,6 +3878,23 @@
     }
   ],
   "days": {
+    "2026-11-02": {
+      "2026-11-02/10:00": {
+        "slug": "ai-data-centers-community-energy-pressure",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-02/08:00": {
+        "slug": "chrg-japan-backed-solar-ev-charging-philippines",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-02/06:00": {
+        "slug": "ntc-telcos-undas-mobile-network-readiness",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-01": {
       "2026-11-01/10:00": {
         "slug": "binance-hack-crypto-security-reset",
