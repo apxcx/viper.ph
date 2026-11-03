@@ -8,6 +8,57 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-03/10:00",
+      "idempotency_key": "2026-11-03/10:00",
+      "day": "2026-11-03",
+      "slot": "10:00",
+      "slug": "gartner-ai-strategy-risk-2026",
+      "title": "Gartner Flags AI Strategy Risk for Firms",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "AI",
+        "International Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "c4fbaccdd6e4a44812c2a17b091b2af2920e6b646bee82099082322fd4534cd5"
+    },
+    {
+      "slot_key": "2026-11-03/08:00",
+      "idempotency_key": "2026-11-03/08:00",
+      "day": "2026-11-03",
+      "slot": "08:00",
+      "slug": "makati-drone-ban-asean-summit",
+      "title": "Makati Grounds Drones Ahead of ASEAN Summit",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech",
+        "Tech Events"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "7c7002cc959bf12c1aec32cbf3058f4f920aebaf00cdf0b48dd4444d6524d3a0"
+    },
+    {
+      "slot_key": "2026-11-03/06:00",
+      "idempotency_key": "2026-11-03/06:00",
+      "day": "2026-11-03",
+      "slot": "06:00",
+      "slug": "philippine-child-online-safety-bills",
+      "title": "PH Child Safety Bills Face Digital Rights Test",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech",
+        "Apps and Software"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "36d3f1fd17f60d3133d0d568fbfda56396944e2dbfa391b677759aab96d2c257"
+    },
+    {
       "slot_key": "2026-11-02/10:00",
       "idempotency_key": "2026-11-02/10:00",
       "day": "2026-11-02",
@@ -3878,6 +3929,23 @@
     }
   ],
   "days": {
+    "2026-11-03": {
+      "2026-11-03/10:00": {
+        "slug": "gartner-ai-strategy-risk-2026",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-03/08:00": {
+        "slug": "makati-drone-ban-asean-summit",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-03/06:00": {
+        "slug": "philippine-child-online-safety-bills",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-02": {
       "2026-11-02/10:00": {
         "slug": "ai-data-centers-community-energy-pressure",

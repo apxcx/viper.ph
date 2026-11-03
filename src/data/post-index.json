@@ -1,5 +1,89 @@
 [
   {
+    "slug": "gartner-ai-strategy-risk-2026",
+    "title": "Gartner Flags AI Strategy Risk for Firms",
+    "date": "2026-11-03T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "AI",
+      "International Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/gartner-ai-strategy-risk-2026/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/gartner-ai-strategy-risk-2026/image-1.webp",
+      "articles/2026/11/gartner-ai-strategy-risk-2026/image-2.webp",
+      "articles/2026/11/gartner-ai-strategy-risk-2026/image-3.webp",
+      "articles/2026/11/gartner-ai-strategy-risk-2026/image-4.webp"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/gartner-ai-strategy-risk-2026/featured.webp",
+    "imageAlt": "Artificial intelligence technology and enterprise risk",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/gartner-ai-strategy-risk-2026/",
+    "description": "Gartner’s November 2 report puts AI strategy miscalculation among top enterprise risks and urges firms to link adoption with readiness and value.",
+    "bodySha256": "c4fbaccdd6e4a44812c2a17b091b2af2920e6b646bee82099082322fd4534cd5",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
+    "slug": "makati-drone-ban-asean-summit",
+    "title": "Makati Grounds Drones Ahead of ASEAN Summit",
+    "date": "2026-11-03T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "PH Tech",
+      "Tech Events"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/makati-drone-ban-asean-summit/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/makati-drone-ban-asean-summit/image-1.webp",
+      "articles/2026/11/makati-drone-ban-asean-summit/image-2.webp",
+      "articles/2026/11/makati-drone-ban-asean-summit/image-3.webp",
+      "articles/2026/11/makati-drone-ban-asean-summit/image-4.webp"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/makati-drone-ban-asean-summit/featured.webp",
+    "imageAlt": "Military drone with satellite communications equipment",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/makati-drone-ban-asean-summit/",
+    "description": "Makati has banned drones across the city for November as the Philippines prepares for the ASEAN Summit and tightens urban airspace security for delegates.",
+    "bodySha256": "7c7002cc959bf12c1aec32cbf3058f4f920aebaf00cdf0b48dd4444d6524d3a0",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
+    "slug": "philippine-child-online-safety-bills",
+    "title": "PH Child Safety Bills Face Digital Rights Test",
+    "date": "2026-11-03T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "PH Tech",
+      "Apps and Software"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/philippine-child-online-safety-bills/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/philippine-child-online-safety-bills/image-1.webp",
+      "articles/2026/11/philippine-child-online-safety-bills/image-2.webp",
+      "articles/2026/11/philippine-child-online-safety-bills/image-3.webp",
+      "articles/2026/11/philippine-child-online-safety-bills/image-4.webp"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/philippine-child-online-safety-bills/featured.webp",
+    "imageAlt": "Child using a smartphone as lawmakers debate online safety",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/philippine-child-online-safety-bills/",
+    "description": "The Philippines is reconciling child online-safety bills that could reshape age checks, platform duties, privacy and youth access to digital services.",
+    "bodySha256": "36d3f1fd17f60d3133d0d568fbfda56396944e2dbfa391b677759aab96d2c257",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "ai-data-centers-community-energy-pressure",
     "title": "AI Data Centers Face Community Pushback",
     "date": "2026-11-02T10:00:00+08:00",
