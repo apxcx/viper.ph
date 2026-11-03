@@ -18,26 +18,26 @@ const latestStories = homepagePosts.slice(3, 7);
   <div class="page-shell" id="top">
     <Header />
 
-    <section class="subscribe-bar section-frame" id="subscribe" aria-labelledby="subscribe-title">
-      <div>
-        <span class="eyebrow">The Viper briefing</span>
-        <h2 id="subscribe-title">Stay ahead of the signal.</h2>
-      </div>
-      <form class="subscribe-form" data-subscribe-form>
-        <label class="sr-only" for="first-name">First name</label>
-        <input id="first-name" name="firstName" type="text" placeholder="First name" autocomplete="given-name" required />
-        <label class="sr-only" for="email">Email address</label>
-        <input id="email" name="email" type="email" placeholder="Email address" autocomplete="email" required />
-        <button type="submit">Subscribe <span aria-hidden="true">↗</span></button>
-        <p class="form-status" data-form-status aria-live="polite"></p>
-      </form>
-    </section>
-
     <main>
       <section class="masthead section-frame" aria-labelledby="hero-title">
         <div class="masthead__eyebrow"><span class="eyebrow__dot"></span> Viper.ph / Daily tech intelligence</div>
         <h1 id="hero-title"><span>The Daily Pulse</span>{' '}<em>of Philippine Tech</em></h1>
         <p class="masthead__intro">The Philippines’ leading tech news and discovery platform. Clear reporting on the products, people, and ideas changing how we live.</p>
+      </section>
+
+      <section class="subscribe-bar section-frame" id="subscribe" aria-labelledby="subscribe-title">
+        <div>
+          <span class="eyebrow">The Viper briefing</span>
+          <h2 id="subscribe-title">Stay ahead of the signal.</h2>
+        </div>
+        <form class="subscribe-form" data-subscribe-form>
+          <label class="sr-only" for="first-name">First name</label>
+          <input id="first-name" name="firstName" type="text" placeholder="First name" autocomplete="given-name" required />
+          <label class="sr-only" for="email">Email address</label>
+          <input id="email" name="email" type="email" placeholder="Email address" autocomplete="email" required />
+          <button type="submit">Subscribe <span aria-hidden="true">↗</span></button>
+          <p class="form-status" data-form-status aria-live="polite"></p>
+        </form>
       </section>
 
       <section class="top-stories section-frame" id="top-stories" aria-labelledby="top-stories-title">
