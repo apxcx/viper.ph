@@ -18,12 +18,12 @@
       "articles/2026/11/google-ai-updates-android-scam-defense/image-4.webp"
     ],
     "image": "https://viper.ph/api/media/articles/2026/11/google-ai-updates-android-scam-defense/featured.webp",
-    "imageAlt": "Android phone display",
+    "imageAlt": "Android scam detection warning in Google Messages",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/google-ai-updates-android-scam-defense/",
     "description": "Google’s November AI roundup covers Gemini 4, Genie 4, SynthID verification, Android scam defenses, developer tools and a quantum computing milestone.",
-    "bodySha256": "b3c7d82f541ff7ffe0f0ce7b86f7ed69b411832cb1837c65d559b0de9b65e646",
+    "bodySha256": "564c1e7dcad59983bf364dc48e04c2dd32d9bf614d2d956533f6ca9ddab083d4",
     "publisherStatus": "published",
     "publicationSlot": "10:00"
   },
