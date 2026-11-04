@@ -1,5 +1,89 @@
 [
   {
+    "slug": "lg-ai-appliances-philippines",
+    "title": "LG Brings AI Appliances to Philippine Homes",
+    "date": "2026-11-05T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "Gadgets",
+      "PH Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/lg-ai-appliances-philippines/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/lg-ai-appliances-philippines/image-1.webp",
+      "articles/2026/11/lg-ai-appliances-philippines/image-2.webp",
+      "articles/2026/11/lg-ai-appliances-philippines/image-3.webp",
+      "articles/2026/11/lg-ai-appliances-philippines/image-4.webp"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/lg-ai-appliances-philippines/featured.webp",
+    "imageAlt": "Home appliance lineup reference image",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/lg-ai-appliances-philippines/",
+    "description": "LG Philippines previewed 2027 AI appliances, from WashTower and refrigerators to an oven designed to simplify Filipino home routines and reduce chores.",
+    "bodySha256": "9f9c816e65ae5363cf696b403147ff6e2e0d82779ee5f7b25edbe6d127e12e51",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
+    "slug": "nokia-2360-flip-philippines",
+    "title": "Nokia 2360 Flip Brings SOS Button to PH",
+    "date": "2026-11-05T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "Gadgets",
+      "PH Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/nokia-2360-flip-philippines/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/nokia-2360-flip-philippines/image-1.webp",
+      "articles/2026/11/nokia-2360-flip-philippines/image-2.webp",
+      "articles/2026/11/nokia-2360-flip-philippines/image-3.webp",
+      "articles/2026/11/nokia-2360-flip-philippines/image-4.webp"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/nokia-2360-flip-philippines/featured.webp",
+    "imageAlt": "Nokia flip phone reference image",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/nokia-2360-flip-philippines/",
+    "description": "The PHP2,790 Nokia 2360 Flip brings a dedicated SOS button, Family Assist tools and long standby life to Philippine feature-phone buyers seeking ease.",
+    "bodySha256": "0c8489ac9c67b4b73f00f1c38b73ec68b3856cd5d0829358a6e53ec6271808f0",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
+    "slug": "filipino-engineer-sentinel-earthquake-sensor",
+    "title": "Filipino Engineer Wins Global Sensor Award",
+    "date": "2026-11-05T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "PH Tech",
+      "Apps and Software"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/filipino-engineer-sentinel-earthquake-sensor/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/filipino-engineer-sentinel-earthquake-sensor/image-1.webp",
+      "articles/2026/11/filipino-engineer-sentinel-earthquake-sensor/image-2.webp",
+      "articles/2026/11/filipino-engineer-sentinel-earthquake-sensor/image-3.webp",
+      "articles/2026/11/filipino-engineer-sentinel-earthquake-sensor/image-4.webp"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/filipino-engineer-sentinel-earthquake-sensor/featured.webp",
+    "imageAlt": "Sentinel building damage sensor project cover",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/filipino-engineer-sentinel-earthquake-sensor/",
+    "description": "Aldrei Ong’s Sentinel turns a concrete spacer block into a low-cost sensor that could help Filipino engineers detect hidden earthquake damage sooner.",
+    "bodySha256": "5bfaf5f63f088623de73bc833010ed303d2bb59beef0b08cdd2df44614fd1b64",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "google-ai-updates-android-scam-defense",
     "title": "Google Expands AI Tools and Android Scam Defenses",
     "date": "2026-11-04T10:00:00+08:00",

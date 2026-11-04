@@ -8,6 +8,57 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-05/10:00",
+      "idempotency_key": "2026-11-05/10:00",
+      "day": "2026-11-05",
+      "slot": "10:00",
+      "slug": "lg-ai-appliances-philippines",
+      "title": "LG Brings AI Appliances to Philippine Homes",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Gadgets",
+        "PH Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "9f9c816e65ae5363cf696b403147ff6e2e0d82779ee5f7b25edbe6d127e12e51"
+    },
+    {
+      "slot_key": "2026-11-05/08:00",
+      "idempotency_key": "2026-11-05/08:00",
+      "day": "2026-11-05",
+      "slot": "08:00",
+      "slug": "nokia-2360-flip-philippines",
+      "title": "Nokia 2360 Flip Brings SOS Button to PH",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Gadgets",
+        "PH Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "0c8489ac9c67b4b73f00f1c38b73ec68b3856cd5d0829358a6e53ec6271808f0"
+    },
+    {
+      "slot_key": "2026-11-05/06:00",
+      "idempotency_key": "2026-11-05/06:00",
+      "day": "2026-11-05",
+      "slot": "06:00",
+      "slug": "filipino-engineer-sentinel-earthquake-sensor",
+      "title": "Filipino Engineer Wins Global Sensor Award",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech",
+        "Apps and Software"
+      ],
+      "source_count": 3,
+      "body_image_count": 4,
+      "content_sha256": "5bfaf5f63f088623de73bc833010ed303d2bb59beef0b08cdd2df44614fd1b64"
+    },
+    {
       "slot_key": "2026-11-04/10:00",
       "idempotency_key": "2026-11-04/10:00",
       "day": "2026-11-04",
@@ -3980,6 +4031,23 @@
     }
   ],
   "days": {
+    "2026-11-05": {
+      "2026-11-05/10:00": {
+        "slug": "lg-ai-appliances-philippines",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-05/08:00": {
+        "slug": "nokia-2360-flip-philippines",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-05/06:00": {
+        "slug": "filipino-engineer-sentinel-earthquake-sensor",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-04": {
       "2026-11-04/10:00": {
         "slug": "google-ai-updates-android-scam-defense",
