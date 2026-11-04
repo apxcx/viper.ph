@@ -15,9 +15,9 @@ seo_description: President Marcos and the PSAC reviewed reliable internet, the B
 canonical_url: https://viper.ph/marcos-psac-digital-infrastructure/
 featured_image_key: articles/2026/11/marcos-psac-digital-infrastructure/featured.webp
 featured_image_url: https://viper.ph/api/media/articles/2026/11/marcos-psac-digital-infrastructure/featured.webp
-featured_image_alt: Metro Manila cityscape at twilight
-featured_image_license: CC BY-SA 4.0
-featured_image_credit: Ranieljosecastaneda via Wikimedia Commons
+featured_image_alt: PSAC digital infrastructure meeting at Malacañang
+featured_image_license: Usage authorized by requester
+featured_image_credit: User-provided image
 featured_image_width: 1600
 featured_image_height: 900
 sources:
@@ -29,26 +29,26 @@ sources:
   publisher: Daily Tribune
 images:
 - url: https://viper.ph/api/media/articles/2026/11/marcos-psac-digital-infrastructure/image-1.webp
-  alt: Cellular network tower in the Philippines
-  source_url: https://commons.wikimedia.org/wiki/File:Cellsite.jpg
-  credit: Kguirnela via Wikimedia Commons
-  license: CC BY 3.0
+  alt: President Marcos at a PSAC digital infrastructure meeting
+  source_url: https://viper.ph/marcos-psac-digital-infrastructure/
+  credit: User-provided image
+  license: Usage authorized by requester
   rights_cleared: true
   width: 1600
   height: 900
 - url: https://viper.ph/api/media/articles/2026/11/marcos-psac-digital-infrastructure/image-2.webp
-  alt: Server room in a data center
-  source_url: https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg
-  credit: Fleshas / BalticServers via Wikimedia Commons
-  license: CC BY-SA 3.0
+  alt: PSAC meeting on digital infrastructure
+  source_url: https://viper.ph/marcos-psac-digital-infrastructure/
+  credit: User-provided image
+  license: Usage authorized by requester
   rights_cleared: true
   width: 1600
   height: 900
 - url: https://viper.ph/api/media/articles/2026/11/marcos-psac-digital-infrastructure/image-3.webp
-  alt: Fiber crew installing an underground cable
-  source_url: https://commons.wikimedia.org/wiki/File:Stealth_Fiber_Crew_installing_fiber_cable_underneath_the_streets_of_Manhattan.jpg
-  credit: Stealth Communications via Wikimedia Commons
-  license: CC BY-SA 3.0
+  alt: Digital infrastructure work plans at a PSAC meeting
+  source_url: https://viper.ph/marcos-psac-digital-infrastructure/
+  credit: User-provided image
+  license: Usage authorized by requester
   rights_cleared: true
   width: 1600
   height: 900
@@ -64,17 +64,16 @@ images:
 
 President Ferdinand Marcos Jr. and the Private Sector Advisory Council’s Digital Infrastructure Sector Group put reliable connectivity at the center of a November 3 meeting in Malacañang. The discussion focused on extending internet access to far-flung communities, strengthening online security and making digital services more useful for households and micro, small and medium enterprises. The agenda matters because the country’s digital transition is no longer limited to faster consumer connections. It also depends on whether public services, businesses and vulnerable communities can stay online consistently.
 
-![Cellular network tower in the Philippines](https://viper.ph/api/media/articles/2026/11/marcos-psac-digital-infrastructure/image-1.webp)
+![President Marcos at a PSAC digital infrastructure meeting](https://viper.ph/api/media/articles/2026/11/marcos-psac-digital-infrastructure/image-1.webp)
 
 The meeting included a review of the Bayanihan SIM Project, an initiative intended to help connect more Filipinos through stronger public-private cooperation. The administration said it is exploring ways to accelerate ongoing digital programs while improving access to education, banking, government transactions and online commerce. That framing places connectivity alongside affordability and service design. A signal can reach a community without becoming meaningful access if devices, data costs, digital skills and the government platforms people need are still out of reach.
 
-![Server room in a data center](https://viper.ph/api/media/articles/2026/11/marcos-psac-digital-infrastructure/image-2.webp)
+![PSAC meeting on digital infrastructure](https://viper.ph/api/media/articles/2026/11/marcos-psac-digital-infrastructure/image-2.webp)
 
 Security was another central theme. Marcos told the advisory group that digital systems supporting online transactions, banking and essential services must be protected as adoption grows. The government’s message links internet expansion with stronger safeguards against cyber threats rather than treating security as a later technical upgrade. For telcos and infrastructure providers, that raises expectations around resilient networks, incident response and secure interconnection. For agencies, it reinforces the need to design digital services that remain trustworthy when more citizens depend on them every day.
 
-![Fiber crew installing an underground cable](https://viper.ph/api/media/articles/2026/11/marcos-psac-digital-infrastructure/image-3.webp)
+![Digital infrastructure work plans at a PSAC meeting](https://viper.ph/api/media/articles/2026/11/marcos-psac-digital-infrastructure/image-3.webp)
 
 The next measure of progress will be execution: clearer project milestones, better coverage data and evidence that underserved areas are actually gaining dependable service. Private-sector participation can speed investment and operational expertise, but it also needs public accountability and transparent goals. The PSAC discussion points toward a broader digital-economy strategy in which connectivity supports jobs, education, banking and small-business growth. For the Philippines, the opportunity is large, but reliability, affordability and security must advance together if the policy is to reach beyond already connected urban users.
 
 ![Server room at CERN](https://viper.ph/api/media/articles/2026/11/marcos-psac-digital-infrastructure/image-4.webp)
-
