@@ -14,7 +14,7 @@ seo_description: President Marcos and the PSAC reviewed reliable internet, the B
   a stronger Philippine digital economy today.
 canonical_url: https://viper.ph/marcos-psac-digital-infrastructure/
 featured_image_key: articles/2026/11/marcos-psac-digital-infrastructure/featured.webp
-featured_image_url: https://viper.ph/api/media/articles/2026/11/marcos-psac-digital-infrastructure/featured.webp
+featured_image_url: https://viper.ph/api/media/articles/2026/11/marcos-psac-digital-infrastructure/featured.webp?v=202611040900
 featured_image_alt: PSAC digital infrastructure meeting at Malacañang
 featured_image_license: Usage authorized by requester
 featured_image_credit: User-provided image

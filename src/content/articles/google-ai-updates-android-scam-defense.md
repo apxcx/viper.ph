@@ -14,7 +14,7 @@ seo_description: Google’s November AI roundup covers Gemini 4, Genie 4, SynthI
   tools and a quantum computing milestone.
 canonical_url: https://viper.ph/google-ai-updates-android-scam-defense/
 featured_image_key: articles/2026/11/google-ai-updates-android-scam-defense/featured.webp
-featured_image_url: https://viper.ph/api/media/articles/2026/11/google-ai-updates-android-scam-defense/featured.webp
+featured_image_url: https://viper.ph/api/media/articles/2026/11/google-ai-updates-android-scam-defense/featured.webp?v=202611040900
 featured_image_alt: Android scam detection warning in Google Messages
 featured_image_license: Usage authorized by requester
 featured_image_credit: User-provided image
@@ -77,4 +77,3 @@ Google also described a broader verification layer for synthetic media. SynthID 
 The roundup ends with advances aimed at developers and researchers, including the 740-million-parameter EmbeddingGemma 2 model, an orbital TPU experiment and a quantum-computing result that reduced errors roughly fortyfold through magic-state cultivation. Together, the updates show Google linking AI capability with infrastructure, verification and safety controls. Philippine organizations evaluating new tools should watch the access terms, data handling and regional rollout conditions as closely as the headline performance. The most useful adoption path remains the one that improves a defined workflow without weakening privacy, security or human judgment.
 
 ![Large-scale computing server room](https://viper.ph/api/media/articles/2026/11/google-ai-updates-android-scam-defense/image-4.webp)
-
