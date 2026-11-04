@@ -1,5 +1,89 @@
 [
   {
+    "slug": "google-ai-updates-android-scam-defense",
+    "title": "Google Expands AI Tools and Android Scam Defenses",
+    "date": "2026-11-04T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "AI",
+      "International Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/google-ai-updates-android-scam-defense/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/google-ai-updates-android-scam-defense/image-1.webp",
+      "articles/2026/11/google-ai-updates-android-scam-defense/image-2.webp",
+      "articles/2026/11/google-ai-updates-android-scam-defense/image-3.webp",
+      "articles/2026/11/google-ai-updates-android-scam-defense/image-4.webp"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/google-ai-updates-android-scam-defense/featured.webp",
+    "imageAlt": "Android phone display",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/google-ai-updates-android-scam-defense/",
+    "description": "Google’s November AI roundup covers Gemini 4, Genie 4, SynthID verification, Android scam defenses, developer tools and a quantum computing milestone.",
+    "bodySha256": "b3c7d82f541ff7ffe0f0ce7b86f7ed69b411832cb1837c65d559b0de9b65e646",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
+    "slug": "marcos-psac-digital-infrastructure",
+    "title": "Marcos Pushes Digital Infrastructure Priorities",
+    "date": "2026-11-04T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "Telcos and Internet",
+      "PH Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/marcos-psac-digital-infrastructure/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/marcos-psac-digital-infrastructure/image-1.webp",
+      "articles/2026/11/marcos-psac-digital-infrastructure/image-2.webp",
+      "articles/2026/11/marcos-psac-digital-infrastructure/image-3.webp",
+      "articles/2026/11/marcos-psac-digital-infrastructure/image-4.webp"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/marcos-psac-digital-infrastructure/featured.webp",
+    "imageAlt": "Metro Manila cityscape at twilight",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/marcos-psac-digital-infrastructure/",
+    "description": "President Marcos and the PSAC reviewed reliable internet, the Bayanihan SIM Project, online security and a stronger Philippine digital economy today.",
+    "bodySha256": "2430f274f315165132f0ab0ca4f855e48b690269b8981fd9020b7c27114b3f0c",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
+    "slug": "deped-170000-macbook-neo",
+    "title": "DepEd to Deploy 170,000 MacBook Neo Units",
+    "date": "2026-11-04T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial",
+    "categories": [
+      "Gadgets",
+      "PH Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/deped-170000-macbook-neo/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/deped-170000-macbook-neo/image-1.webp",
+      "articles/2026/11/deped-170000-macbook-neo/image-2.webp",
+      "articles/2026/11/deped-170000-macbook-neo/image-3.webp",
+      "articles/2026/11/deped-170000-macbook-neo/image-4.webp"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/deped-170000-macbook-neo/featured.webp",
+    "imageAlt": "Students using a laptop in a classroom",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/deped-170000-macbook-neo/",
+    "description": "DepEd bought 172,654 MacBook Neo laptops for teachers and staff, with deliveries from November 2026 through March 2027 and five-year coverage nationwide.",
+    "bodySha256": "ad7aeca692e2042b065d1e876540027f149d6466ac43febff5b618a57065a539",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "gartner-ai-strategy-risk-2026",
     "title": "Gartner Flags AI Strategy Risk for Firms",
     "date": "2026-11-03T10:00:00+08:00",

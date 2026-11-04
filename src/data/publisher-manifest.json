@@ -8,6 +8,57 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-04/10:00",
+      "idempotency_key": "2026-11-04/10:00",
+      "day": "2026-11-04",
+      "slot": "10:00",
+      "slug": "google-ai-updates-android-scam-defense",
+      "title": "Google Expands AI Tools and Android Scam Defenses",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "AI",
+        "International Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "b3c7d82f541ff7ffe0f0ce7b86f7ed69b411832cb1837c65d559b0de9b65e646"
+    },
+    {
+      "slot_key": "2026-11-04/08:00",
+      "idempotency_key": "2026-11-04/08:00",
+      "day": "2026-11-04",
+      "slot": "08:00",
+      "slug": "marcos-psac-digital-infrastructure",
+      "title": "Marcos Pushes Digital Infrastructure Priorities",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Telcos and Internet",
+        "PH Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "2430f274f315165132f0ab0ca4f855e48b690269b8981fd9020b7c27114b3f0c"
+    },
+    {
+      "slot_key": "2026-11-04/06:00",
+      "idempotency_key": "2026-11-04/06:00",
+      "day": "2026-11-04",
+      "slot": "06:00",
+      "slug": "deped-170000-macbook-neo",
+      "title": "DepEd to Deploy 170,000 MacBook Neo Units",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Gadgets",
+        "PH Tech"
+      ],
+      "source_count": 3,
+      "body_image_count": 4,
+      "content_sha256": "ad7aeca692e2042b065d1e876540027f149d6466ac43febff5b618a57065a539"
+    },
+    {
       "slot_key": "2026-11-03/10:00",
       "idempotency_key": "2026-11-03/10:00",
       "day": "2026-11-03",
@@ -3929,6 +3980,23 @@
     }
   ],
   "days": {
+    "2026-11-04": {
+      "2026-11-04/10:00": {
+        "slug": "google-ai-updates-android-scam-defense",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-04/08:00": {
+        "slug": "marcos-psac-digital-infrastructure",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-04/06:00": {
+        "slug": "deped-170000-macbook-neo",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-03": {
       "2026-11-03/10:00": {
         "slug": "gartner-ai-strategy-risk-2026",
