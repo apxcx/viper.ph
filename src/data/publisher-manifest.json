@@ -8,6 +8,55 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-07/10:00",
+      "idempotency_key": "2026-11-07/10:00",
+      "day": "2026-11-07",
+      "slot": "10:00",
+      "slug": "us-democrats-ai-regulation-bills",
+      "title": "US Democrats Prepare New AI Bills",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "AI",
+        "International Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "f71440a4ba55835d155ccb8d3919833f8ae65861e9afcd88f315c60c825a3e06"
+    },
+    {
+      "slot_key": "2026-11-07/08:00",
+      "idempotency_key": "2026-11-07/08:00",
+      "day": "2026-11-07",
+      "slot": "08:00",
+      "slug": "honor-pad-x7b-philippines-price",
+      "title": "HONOR Pad X7b Launches Under PHP 9,000",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Gadgets"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "7159734558cb126d75c38d6e3280dd096b43d2f909ba98a860f09938d927fbe6"
+    },
+    {
+      "slot_key": "2026-11-07/06:00",
+      "idempotency_key": "2026-11-07/06:00",
+      "day": "2026-11-07",
+      "slot": "06:00",
+      "slug": "dost-smart-agri-aqua-technologies",
+      "title": "DOST Showcases Smart Agri-Aqua Technologies",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "15c0c17a46ae5d0e83f1b60769324f7367b4151bd6ed1d04b7d9fe39e8f88f09"
+    },
+    {
       "slot_key": "2026-11-06/10:00",
       "idempotency_key": "2026-11-06/10:00",
       "day": "2026-11-06",
@@ -4082,6 +4131,23 @@
     }
   ],
   "days": {
+    "2026-11-07": {
+      "2026-11-07/10:00": {
+        "slug": "us-democrats-ai-regulation-bills",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-07/08:00": {
+        "slug": "honor-pad-x7b-philippines-price",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-07/06:00": {
+        "slug": "dost-smart-agri-aqua-technologies",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-06": {
       "2026-11-06/10:00": {
         "slug": "tecno-philippine-portrait-gallery",

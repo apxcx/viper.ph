@@ -1,5 +1,87 @@
 [
   {
+    "slug": "us-democrats-ai-regulation-bills",
+    "title": "US Democrats Prepare New AI Bills",
+    "date": "2026-11-07T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "AI",
+      "International Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/us-democrats-ai-regulation-bills/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/us-democrats-ai-regulation-bills/image-1.webp?v=202611070710",
+      "articles/2026/11/us-democrats-ai-regulation-bills/image-2.webp?v=202611070710",
+      "articles/2026/11/us-democrats-ai-regulation-bills/image-3.webp?v=202611070710",
+      "articles/2026/11/us-democrats-ai-regulation-bills/image-4.webp?v=202611070710"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/us-democrats-ai-regulation-bills/featured.webp?v=202611070710",
+    "imageAlt": "Artificial intelligence and machine-learning concept",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/us-democrats-ai-regulation-bills/",
+    "description": "US Democrats plan AI bills on data-center power costs, independent model testing, and product liability after taking control of Congress in 2027.",
+    "bodySha256": "f71440a4ba55835d155ccb8d3919833f8ae65861e9afcd88f315c60c825a3e06",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
+    "slug": "honor-pad-x7b-philippines-price",
+    "title": "HONOR Pad X7b Launches Under PHP 9,000",
+    "date": "2026-11-07T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "Gadgets"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/honor-pad-x7b-philippines-price/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/honor-pad-x7b-philippines-price/image-1.webp?v=202611070710",
+      "articles/2026/11/honor-pad-x7b-philippines-price/image-2.webp?v=202611070710",
+      "articles/2026/11/honor-pad-x7b-philippines-price/image-3.webp?v=202611070710",
+      "articles/2026/11/honor-pad-x7b-philippines-price/image-4.webp?v=202611070710"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/honor-pad-x7b-philippines-price/featured.webp?v=202611070710",
+    "imageAlt": "Tablet computer for everyday browsing and entertainment",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/honor-pad-x7b-philippines-price/",
+    "description": "HONOR Pad X7b arrives on TikTok Shop at PHP 8,999 until November 13, with a 9.7-inch 2K display, 8,000mAh battery, durability, and early-bird savings.",
+    "bodySha256": "7159734558cb126d75c38d6e3280dd096b43d2f909ba98a860f09938d927fbe6",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
+    "slug": "dost-smart-agri-aqua-technologies",
+    "title": "DOST Showcases Smart Agri-Aqua Technologies",
+    "date": "2026-11-07T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "PH Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/dost-smart-agri-aqua-technologies/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/dost-smart-agri-aqua-technologies/image-1.webp?v=202611070710",
+      "articles/2026/11/dost-smart-agri-aqua-technologies/image-2.webp?v=202611070710",
+      "articles/2026/11/dost-smart-agri-aqua-technologies/image-3.webp?v=202611070710",
+      "articles/2026/11/dost-smart-agri-aqua-technologies/image-4.webp?v=202611070710"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/dost-smart-agri-aqua-technologies/featured.webp?v=202611070710",
+    "imageAlt": "Solar-powered irrigation technology for Philippine farms",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/dost-smart-agri-aqua-technologies/",
+    "description": "DOST will showcase solar irrigation, IoT aquaculture monitoring, and a sensor-backed farm platform at the 2026 NSTW in General Santos City this month.",
+    "bodySha256": "15c0c17a46ae5d0e83f1b60769324f7367b4151bd6ed1d04b7d9fe39e8f88f09",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "tecno-philippine-portrait-gallery",
     "title": "TECNO Brings PH Stories to Portrait Tech",
     "date": "2026-11-06T10:00:00+08:00",
