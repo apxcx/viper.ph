@@ -40,18 +40,18 @@
     "tags": [],
     "imageKey": "articles/2026/11/poco-x8-series-philippines-launch/featured.webp",
     "imageKeys": [
-      "articles/2026/11/poco-x8-series-philippines-launch/image-1.webp",
-      "articles/2026/11/poco-x8-series-philippines-launch/image-2.webp",
-      "articles/2026/11/poco-x8-series-philippines-launch/image-3.webp",
-      "articles/2026/11/poco-x8-series-philippines-launch/image-4.webp"
+      "articles/2026/11/poco-x8-series-philippines-launch/image-1.webp?v=202611060850",
+      "articles/2026/11/poco-x8-series-philippines-launch/image-2.webp?v=202611060850",
+      "articles/2026/11/poco-x8-series-philippines-launch/image-3.webp?v=202611060850",
+      "articles/2026/11/poco-x8-series-philippines-launch/image-4.webp?v=202611060850"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/poco-x8-series-philippines-launch/featured.webp",
-    "imageAlt": "Smartphone camera in use",
+    "image": "https://viper.ph/api/media/articles/2026/11/poco-x8-series-philippines-launch/featured.webp?v=202611060850",
+    "imageAlt": "POCO X8 Pro smartphones in black and white",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/poco-x8-series-philippines-launch/",
     "description": "POCO launches the X8, X8s and C95 Pro in the Philippines with bright displays, large batteries, fast charging and First Day Sale discounts for buyers.",
-    "bodySha256": "481fe80a61e8c6cb032bcd0ef9fefe090728b72109acf1279300fc8b97b76c54",
+    "bodySha256": "9a3d666b1a88bd6f21e89cedbf5509e324f47e633ccf2101679da569120c19c6",
     "publisherStatus": "published",
     "publicationSlot": "08:00"
   },
