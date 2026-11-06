@@ -68,18 +68,18 @@
     "tags": [],
     "imageKey": "articles/2026/11/philippines-cyber-disruption-playbook/featured.webp",
     "imageKeys": [
-      "articles/2026/11/philippines-cyber-disruption-playbook/image-1.webp",
-      "articles/2026/11/philippines-cyber-disruption-playbook/image-2.webp",
-      "articles/2026/11/philippines-cyber-disruption-playbook/image-3.webp",
-      "articles/2026/11/philippines-cyber-disruption-playbook/image-4.webp"
+      "articles/2026/11/philippines-cyber-disruption-playbook/image-1.webp?v=202611060839",
+      "articles/2026/11/philippines-cyber-disruption-playbook/image-2.webp?v=202611060839",
+      "articles/2026/11/philippines-cyber-disruption-playbook/image-3.webp?v=202611060839",
+      "articles/2026/11/philippines-cyber-disruption-playbook/image-4.webp?v=202611060839"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/philippines-cyber-disruption-playbook/featured.webp",
-    "imageAlt": "CERN server room representing government digital infrastructure",
+    "image": "https://viper.ph/api/media/articles/2026/11/philippines-cyber-disruption-playbook/featured.webp?v=202611060839",
+    "imageAlt": "DICT official speaking at a cybersecurity event",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/philippines-cyber-disruption-playbook/",
     "description": "The Philippines finalized a cyber disruption playbook for government agencies as officials address attacks, cognitive threats and digital trust risks.",
-    "bodySha256": "0898cc392034165c3c9de031fc0d25d377e0df59b3aedcff5f178902f03957a2",
+    "bodySha256": "d0a8212d42f02ce5ece65e89f248c1979e3a32290fd4e46a88b62e0a9593edf7",
     "publisherStatus": "published",
     "publicationSlot": "06:00"
   },
