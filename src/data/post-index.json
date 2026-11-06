@@ -12,18 +12,18 @@
     "tags": [],
     "imageKey": "articles/2026/11/tecno-philippine-portrait-gallery/featured.webp",
     "imageKeys": [
-      "articles/2026/11/tecno-philippine-portrait-gallery/image-1.webp",
-      "articles/2026/11/tecno-philippine-portrait-gallery/image-2.webp",
-      "articles/2026/11/tecno-philippine-portrait-gallery/image-3.webp",
-      "articles/2026/11/tecno-philippine-portrait-gallery/image-4.webp"
+      "articles/2026/11/tecno-philippine-portrait-gallery/image-1.webp?v=202611060902",
+      "articles/2026/11/tecno-philippine-portrait-gallery/image-2.webp?v=202611060902",
+      "articles/2026/11/tecno-philippine-portrait-gallery/image-3.webp?v=202611060902",
+      "articles/2026/11/tecno-philippine-portrait-gallery/image-4.webp?v=202611060902"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/tecno-philippine-portrait-gallery/featured.webp",
-    "imageAlt": "Smartphone portrait photography in practice",
+    "image": "https://viper.ph/api/media/articles/2026/11/tecno-philippine-portrait-gallery/featured.webp?v=202611060902",
+    "imageAlt": "TECNO and Angelica Dass 100 Portraits of Becoming gallery collage",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/tecno-philippine-portrait-gallery/",
     "description": "TECNO and Angelica Dass launched a Philippine portrait gallery featuring 20 Manila stories captured with CAMON Slim 5G and Universal Tone in Manila.",
-    "bodySha256": "8ba24f18919aff889f3ffac5cff9a081df9a5d6756f07ec70cb7619cb9657f67",
+    "bodySha256": "443b126e8a02cc2184c7650cc45dccfc0e1bc52a99e5a7c27f32426967547b0c",
     "publisherStatus": "published",
     "publicationSlot": "10:00"
   },
