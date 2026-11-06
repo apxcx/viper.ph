@@ -8,6 +8,57 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-06/10:00",
+      "idempotency_key": "2026-11-06/10:00",
+      "day": "2026-11-06",
+      "slot": "10:00",
+      "slug": "tecno-philippine-portrait-gallery",
+      "title": "TECNO Brings PH Stories to Portrait Tech",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Tech Events",
+        "Gadgets"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "8ba24f18919aff889f3ffac5cff9a081df9a5d6756f07ec70cb7619cb9657f67"
+    },
+    {
+      "slot_key": "2026-11-06/08:00",
+      "idempotency_key": "2026-11-06/08:00",
+      "day": "2026-11-06",
+      "slot": "08:00",
+      "slug": "poco-x8-series-philippines-launch",
+      "title": "POCO X8 Series Lands in PH",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Gadgets",
+        "PH Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "481fe80a61e8c6cb032bcd0ef9fefe090728b72109acf1279300fc8b97b76c54"
+    },
+    {
+      "slot_key": "2026-11-06/06:00",
+      "idempotency_key": "2026-11-06/06:00",
+      "day": "2026-11-06",
+      "slot": "06:00",
+      "slug": "philippines-cyber-disruption-playbook",
+      "title": "PH Finalizes Cyber Disruption Playbook",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech",
+        "Apps and Software"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "0898cc392034165c3c9de031fc0d25d377e0df59b3aedcff5f178902f03957a2"
+    },
+    {
       "slot_key": "2026-11-05/10:00",
       "idempotency_key": "2026-11-05/10:00",
       "day": "2026-11-05",
@@ -4031,6 +4082,23 @@
     }
   ],
   "days": {
+    "2026-11-06": {
+      "2026-11-06/10:00": {
+        "slug": "tecno-philippine-portrait-gallery",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-06/08:00": {
+        "slug": "poco-x8-series-philippines-launch",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-06/06:00": {
+        "slug": "philippines-cyber-disruption-playbook",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-05": {
       "2026-11-05/10:00": {
         "slug": "lg-ai-appliances-philippines",

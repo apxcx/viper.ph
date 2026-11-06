@@ -1,5 +1,89 @@
 [
   {
+    "slug": "tecno-philippine-portrait-gallery",
+    "title": "TECNO Brings PH Stories to Portrait Tech",
+    "date": "2026-11-06T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "Tech Events",
+      "Gadgets"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/tecno-philippine-portrait-gallery/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/tecno-philippine-portrait-gallery/image-1.webp",
+      "articles/2026/11/tecno-philippine-portrait-gallery/image-2.webp",
+      "articles/2026/11/tecno-philippine-portrait-gallery/image-3.webp",
+      "articles/2026/11/tecno-philippine-portrait-gallery/image-4.webp"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/tecno-philippine-portrait-gallery/featured.webp",
+    "imageAlt": "Smartphone portrait photography in practice",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/tecno-philippine-portrait-gallery/",
+    "description": "TECNO and Angelica Dass launched a Philippine portrait gallery featuring 20 Manila stories captured with CAMON Slim 5G and Universal Tone in Manila.",
+    "bodySha256": "8ba24f18919aff889f3ffac5cff9a081df9a5d6756f07ec70cb7619cb9657f67",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
+    "slug": "poco-x8-series-philippines-launch",
+    "title": "POCO X8 Series Lands in PH",
+    "date": "2026-11-06T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "Gadgets",
+      "PH Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/poco-x8-series-philippines-launch/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/poco-x8-series-philippines-launch/image-1.webp",
+      "articles/2026/11/poco-x8-series-philippines-launch/image-2.webp",
+      "articles/2026/11/poco-x8-series-philippines-launch/image-3.webp",
+      "articles/2026/11/poco-x8-series-philippines-launch/image-4.webp"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/poco-x8-series-philippines-launch/featured.webp",
+    "imageAlt": "Smartphone camera in use",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/poco-x8-series-philippines-launch/",
+    "description": "POCO launches the X8, X8s and C95 Pro in the Philippines with bright displays, large batteries, fast charging and First Day Sale discounts for buyers.",
+    "bodySha256": "481fe80a61e8c6cb032bcd0ef9fefe090728b72109acf1279300fc8b97b76c54",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
+    "slug": "philippines-cyber-disruption-playbook",
+    "title": "PH Finalizes Cyber Disruption Playbook",
+    "date": "2026-11-06T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "PH Tech",
+      "Apps and Software"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/philippines-cyber-disruption-playbook/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/philippines-cyber-disruption-playbook/image-1.webp",
+      "articles/2026/11/philippines-cyber-disruption-playbook/image-2.webp",
+      "articles/2026/11/philippines-cyber-disruption-playbook/image-3.webp",
+      "articles/2026/11/philippines-cyber-disruption-playbook/image-4.webp"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/philippines-cyber-disruption-playbook/featured.webp",
+    "imageAlt": "CERN server room representing government digital infrastructure",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/philippines-cyber-disruption-playbook/",
+    "description": "The Philippines finalized a cyber disruption playbook for government agencies as officials address attacks, cognitive threats and digital trust risks.",
+    "bodySha256": "0898cc392034165c3c9de031fc0d25d377e0df59b3aedcff5f178902f03957a2",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "lg-ai-appliances-philippines",
     "title": "LG Brings AI Appliances to Philippine Homes",
     "date": "2026-11-05T10:00:00+08:00",
