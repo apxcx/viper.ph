@@ -52,14 +52,7 @@ images:
   rights_cleared: true
   width: 1600
   height: 900
-- url: https://viper.ph/api/media/articles/2026/11/us-democrats-ai-regulation-bills/image-4.webp?v=202611070710
-  alt: Quantum-computing research apparatus
-  source_url: https://commons.wikimedia.org/wiki/File:QUANTUM_COMPUTING_ON_A_PHYSICAL_QUANTUM_COMPUTER_(IA_quantumcomputing1094559694).pdf
-  credit: Kasel, Jonathan D.
-  license: Public domain
-  rights_cleared: true
-  width: 1600
-  height: 900
+
 ---
 Democratic lawmakers in the United States are preparing a package of artificial-intelligence bills for 2027, after taking control of Congress, according to Reuters. The proposals would address three pressure points that have become harder to separate: who pays for the electricity used by data centers, how advanced AI systems are tested and when companies can be held responsible for harm caused by their products. The plans signal a possible shift from policies centered mainly on accelerating AI development toward rules that attach public costs and accountability to deployment.
 
@@ -75,5 +68,4 @@ Other lawmakers plan legislation requiring independent experts to evaluate leadi
 
 The political path remains uncertain because the proposals would face opposition from an administration that has emphasized AI growth and because new rules could slow product releases or raise compliance costs. Reuters also reported that technology stocks fell amid concern about regulation and doubts over the returns from massive AI infrastructure spending. That combination makes the story more than a US policy dispute. It reflects a wider question for the technology sector: whether investment, energy demand and social risk can grow faster than the governance systems meant to manage them.
 
-![Quantum-computing research apparatus](https://viper.ph/api/media/articles/2026/11/us-democrats-ai-regulation-bills/image-4.webp?v=202611070710)
 

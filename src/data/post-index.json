@@ -14,8 +14,7 @@
     "imageKeys": [
       "articles/2026/11/us-democrats-ai-regulation-bills/image-1.webp?v=202611070830",
       "articles/2026/11/us-democrats-ai-regulation-bills/image-2.webp?v=202611070830",
-      "articles/2026/11/us-democrats-ai-regulation-bills/image-3.webp?v=202611070830",
-      "articles/2026/11/us-democrats-ai-regulation-bills/image-4.webp?v=202611070710"
+      "articles/2026/11/us-democrats-ai-regulation-bills/image-3.webp?v=202611070830"
     ],
     "image": "https://viper.ph/api/media/articles/2026/11/us-democrats-ai-regulation-bills/featured.webp?v=202611070830",
     "imageAlt": "DCCC leaders discussing artificial intelligence policy",
@@ -23,7 +22,7 @@
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/us-democrats-ai-regulation-bills/",
     "description": "US Democrats plan AI bills on data-center power costs, independent model testing, and product liability after taking control of Congress in 2027.",
-    "bodySha256": "2f1cb9ca68f54481b1e216048b60b9fc994cb708f6e65d1330f14707f778d6a8",
+    "bodySha256": "26cd8f228156568e979ca44c751b831a93ebc76a40821d4a76a5a40824954354",
     "publisherStatus": "published",
     "publicationSlot": "10:00"
   },
@@ -41,8 +40,7 @@
     "imageKeys": [
       "articles/2026/11/honor-pad-x7b-philippines-price/image-1.webp?v=202611070821",
       "articles/2026/11/honor-pad-x7b-philippines-price/image-2.webp?v=202611070821",
-      "articles/2026/11/honor-pad-x7b-philippines-price/image-3.webp?v=202611070821",
-      "articles/2026/11/honor-pad-x7b-philippines-price/image-4.webp?v=202611070710"
+      "articles/2026/11/honor-pad-x7b-philippines-price/image-3.webp?v=202611070821"
     ],
     "image": "https://viper.ph/api/media/articles/2026/11/honor-pad-x7b-philippines-price/featured.webp?v=202611070821",
     "imageAlt": "HONOR Pad X7b tablet in silver finish",
@@ -50,7 +48,7 @@
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/honor-pad-x7b-philippines-price/",
     "description": "HONOR Pad X7b arrives on TikTok Shop at PHP 8,999 until November 13, with a 9.7-inch 2K display, 8,000mAh battery, durability, and early-bird savings.",
-    "bodySha256": "c216d91625ac7d98fd5bd24344b01641b96ab7d1229bf669b1e14fd04a1e38c5",
+    "bodySha256": "301fddb630b3c55fe4f4c7176deeda7d25b5d6bd3efd5ced21d4368ec4c59ac4",
     "publisherStatus": "published",
     "publicationSlot": "08:00"
   },
@@ -68,8 +66,7 @@
     "imageKeys": [
       "articles/2026/11/dost-smart-agri-aqua-technologies/image-1.webp?v=202611070814",
       "articles/2026/11/dost-smart-agri-aqua-technologies/image-2.webp?v=202611070814",
-      "articles/2026/11/dost-smart-agri-aqua-technologies/image-3.webp?v=202611070814",
-      "articles/2026/11/dost-smart-agri-aqua-technologies/image-4.webp?v=202611070710"
+      "articles/2026/11/dost-smart-agri-aqua-technologies/image-3.webp?v=202611070814"
     ],
     "image": "https://viper.ph/api/media/articles/2026/11/dost-smart-agri-aqua-technologies/featured.webp?v=202611070814",
     "imageAlt": "ARKA smart agriculture monitoring system and farm technology",
@@ -77,7 +74,7 @@
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/dost-smart-agri-aqua-technologies/",
     "description": "DOST will showcase solar irrigation, IoT aquaculture monitoring, and a sensor-backed farm platform at the 2026 NSTW in General Santos City this month.",
-    "bodySha256": "9f9132afcd51147f6bc4d910963ade91d9ae9d083da449b34d065f47dca916d2",
+    "bodySha256": "7f3b50e7a75fe4cb4e7d419f73cca394383d6214518d4a9c6e080908187a7199",
     "publisherStatus": "published",
     "publicationSlot": "06:00"
   },

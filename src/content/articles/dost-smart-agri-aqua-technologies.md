@@ -48,14 +48,7 @@ images:
   rights_cleared: true
   width: 1600
   height: 900
-- url: https://viper.ph/api/media/articles/2026/11/dost-smart-agri-aqua-technologies/image-4.webp?v=202611070710
-  alt: Farm sensor technology for soil and microclimate monitoring
-  source_url: https://commons.wikimedia.org/wiki/File:The_impact_of_background_resolution_on_Target_Acquisitions_Weapons_Software_(TAWS)_sensor_performance_(IA_theimpactofbackg109452232).pdf
-  credit: Pearcy, Charles M.
-  license: Public domain
-  rights_cleared: true
-  width: 1600
-  height: 900
+
 ---
 The Department of Science and Technology will bring three locally developed agri-aqua technologies to the 2026 National Science, Technology, and Innovation Week in General Santos City from November 25 to 29. The showcase turns a science event into a practical look at tools designed for farmers and fish growers. DOST-Central Luzon’s Sun Harvest is a mobile solar-powered irrigation unit, while DOST-MIRDC’s Smart Recirculating Aquaculture System uses connected sensors to track water conditions. DOST-Central Visayas will also present ARKA, a platform intended to connect farms with markets.
 
@@ -71,4 +64,3 @@ Smart RAS focuses on aquaculture, where water quality can determine whether tila
 
 ARKA, or the Ark of Agriculture, adds a market and farm-management layer to the exhibit. Developed by DOST-Central Visayas, the platform uses data from Project SARAI sensors to track soil moisture, temperature and microclimate conditions. Those readings can help farmers decide when to use water, fertilizer or crop protection inputs, while a direct connection to markets can improve distribution. The three projects share a useful direction for Philippine technology: build tools around local production problems, use data where it changes decisions and keep the final benefit tied to livelihoods rather than novelty.
 
-![Farm sensor technology for soil and microclimate monitoring](https://viper.ph/api/media/articles/2026/11/dost-smart-agri-aqua-technologies/image-4.webp?v=202611070710)

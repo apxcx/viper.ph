@@ -52,14 +52,7 @@ images:
   rights_cleared: true
   width: 1600
   height: 900
-- url: https://viper.ph/api/media/articles/2026/11/honor-pad-x7b-philippines-price/image-4.webp?v=202611070710
-  alt: Tablet computer hardware and camera view
-  source_url: https://commons.wikimedia.org/wiki/File:Computer_Gaming_World_issue_2.5.pdf
-  credit: Golden Empire Publications
-  license: Public domain
-  rights_cleared: true
-  width: 1600
-  height: 900
+
 ---
 HONOR Philippines has brought the HONOR Pad X7b to local shoppers through TikTok Shop, giving the tablet an early-bird price of PHP8,999 from November 6 to 13. The offer cuts PHP2,000 from its PHP10,999 suggested retail price and arrives during the TikTok 11.11 Big Bang Sale. The tablet is positioned for entertainment, browsing, reading and everyday tasks rather than high-end creative production. Its launch gives budget-conscious Filipino buyers another large-screen option ahead of the device’s broader nationwide availability scheduled for November 28.
 
@@ -75,4 +68,3 @@ Durability is another part of the pitch. The Pad X7b carries SGS 5-star Enhanced
 
 The early-bird offer makes timing central to the launch. Customers who shop between November 6 and 13 can access the discounted PHP8,999 price and livestream promotions from participating creators, while the official launch and nationwide availability follow later in the month. For Philippine consumers, the practical question is whether the Pad X7b’s screen, battery and durability package delivers enough value for school, entertainment or light productivity. The answer will depend on software performance and long-term support as much as the sale headline.
 
-![Tablet computer hardware and camera view](https://viper.ph/api/media/articles/2026/11/honor-pad-x7b-philippines-price/image-4.webp?v=202611070710)

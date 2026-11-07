@@ -100,10 +100,11 @@ for path in targets:
     if not sources or any(not str(source.get('url', '')).startswith('https://') for source in sources):
         fail(path, 'at least one HTTPS source link is required')
     blocks = [block.strip() for block in re.split(r'\n\s*\n', body) if block.strip()]
-    if len(blocks) != 8:
-        fail(path, f'body must contain exactly four paragraphs and four following images, got {len(blocks)} blocks')
+    if len(blocks) not in (7, 8):
+        fail(path, f'body must contain four paragraphs with three or four following images, got {len(blocks)} blocks')
+    body_image_count = 4 if len(blocks) == 8 else 3
     image_urls = []
-    for index in range(4):
+    for index in range(body_image_count):
         paragraph = blocks[index * 2]
         image_block = blocks[index * 2 + 1]
         if paragraph.startswith('![') or not 80 <= len(re.findall(r"\b[\w’'-]+\b", paragraph)) <= 110:
@@ -112,12 +113,19 @@ for path in targets:
         if not image_match:
             fail(path, f'image {index + 1} must immediately follow paragraph {index + 1} and use a public R2 URL')
         image_urls.append(image_match.group(2))
-    if {IMAGE_URL.match(url).group(4) for url in image_urls} != {'1', '2', '3', '4'}:
-        fail(path, 'body images must contain image-1 through image-4 exactly once')
+    if body_image_count == 4:
+        if {IMAGE_URL.match(url).group(4) for url in image_urls} != {'1', '2', '3', '4'}:
+            fail(path, 'body images must contain image-1 through image-4 exactly once')
+    elif {IMAGE_URL.match(url).group(4) for url in image_urls} != {'1', '2', '3'}:
+        fail(path, 'three-image body articles must contain image-1 through image-3 exactly once')
+    if len(blocks) == 7:
+        final_paragraph = blocks[6]
+        if final_paragraph.startswith('![') or not 80 <= len(re.findall(r"\b[\w’'-]+\b", final_paragraph)) <= 110:
+            fail(path, 'paragraph 4 must be 80–110 words')
     images = metadata.get('images') or []
     by_url = {image.get('url'): image for image in images}
-    if len(images) != 4 or set(by_url) != set(image_urls):
-        fail(path, 'images frontmatter must describe the four body image URLs')
+    if len(images) != body_image_count or set(by_url) != set(image_urls):
+        fail(path, f'images frontmatter must describe the {body_image_count} body image URLs')
     for url in image_urls:
         image = by_url[url]
         if image.get('rights_cleared') is not True or not image.get('license') or not image.get('credit') or not str(image.get('source_url', '')).startswith('https://'):
