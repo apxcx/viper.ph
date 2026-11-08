@@ -12,18 +12,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/ai-conservation-data-center-costs/featured.webp",
     "imageKeys": [
-      "articles/2026/11/ai-conservation-data-center-costs/image-1.webp?v=202611080746",
-      "articles/2026/11/ai-conservation-data-center-costs/image-2.webp?v=202611080746",
-      "articles/2026/11/ai-conservation-data-center-costs/image-3.webp?v=202611080746",
-      "articles/2026/11/ai-conservation-data-center-costs/image-4.webp?v=202611080746"
+      "articles/2026/11/ai-conservation-data-center-costs/image-1.webp?v=202611080909",
+      "articles/2026/11/ai-conservation-data-center-costs/image-2.webp?v=202611080909",
+      "articles/2026/11/ai-conservation-data-center-costs/image-3.webp?v=202611080909"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/ai-conservation-data-center-costs/featured.webp?v=202611080746",
-    "imageAlt": "African bush elephant in a protected landscape",
+    "image": "https://viper.ph/api/media/articles/2026/11/ai-conservation-data-center-costs/featured.webp?v=202611080909",
+    "imageAlt": "AI-assisted conservation technology in a natural landscape",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/ai-conservation-data-center-costs/",
     "description": "Environmental groups use AI for wildfire alerts and wildlife surveys while confronting the electricity, water, and emissions costs of data centers.",
-    "bodySha256": "c2833605c5fe352775df79a523db2604f8b43ab9e82dca89f9692f0f3cb6d26b",
+    "bodySha256": "4a1000b47d5d7205dbdd158e034d75e224a9b5b9fab74ac2df76185376b28993",
     "publisherStatus": "published",
     "publicationSlot": "10:00"
   },
