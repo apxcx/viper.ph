@@ -68,18 +68,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/ai-adoption-filipino-msmes-bpos/featured.webp",
     "imageKeys": [
-      "articles/2026/11/ai-adoption-filipino-msmes-bpos/image-1.webp?v=202611080746",
-      "articles/2026/11/ai-adoption-filipino-msmes-bpos/image-2.webp?v=202611080746",
-      "articles/2026/11/ai-adoption-filipino-msmes-bpos/image-3.webp?v=202611080746",
-      "articles/2026/11/ai-adoption-filipino-msmes-bpos/image-4.webp?v=202611080746"
+      "articles/2026/11/ai-adoption-filipino-msmes-bpos/image-1.webp?v=202611080844",
+      "articles/2026/11/ai-adoption-filipino-msmes-bpos/image-2.webp?v=202611080844",
+      "articles/2026/11/ai-adoption-filipino-msmes-bpos/image-3.webp?v=202611080844"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/ai-adoption-filipino-msmes-bpos/featured.webp?v=202611080746",
-    "imageAlt": "Business professional taking notes during a technology meeting",
+    "image": "https://viper.ph/api/media/articles/2026/11/ai-adoption-filipino-msmes-bpos/featured.webp?v=202611080844",
+    "imageAlt": "NAICRI researchers and leaders at an artificial intelligence technology event",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/ai-adoption-filipino-msmes-bpos/",
     "description": "A Manila AI forum puts Filipino MSMEs and BPOs in focus, showing how practical pilots, cloud tools, and privacy checks can shape adoption plans now.",
-    "bodySha256": "d1dc59fe8054db944fa088c7f1345948df9521113616ea4ae3afd5d71f1d4fd6",
+    "bodySha256": "bfc5f345fbcfbde8c60c0944b15c8499b89b393052e45e894bcccd24c197517b",
     "publisherStatus": "published",
     "publicationSlot": "06:00"
   },
