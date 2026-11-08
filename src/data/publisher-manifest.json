@@ -8,6 +8,57 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-08/10:00",
+      "idempotency_key": "2026-11-08/10:00",
+      "day": "2026-11-08",
+      "slot": "10:00",
+      "slug": "ai-conservation-data-center-costs",
+      "title": "AI Helps Conservation, Adds Climate Costs",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "AI",
+        "International Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "c2833605c5fe352775df79a523db2604f8b43ab9e82dca89f9692f0f3cb6d26b"
+    },
+    {
+      "slot_key": "2026-11-08/08:00",
+      "idempotency_key": "2026-11-08/08:00",
+      "day": "2026-11-08",
+      "slot": "08:00",
+      "slug": "smart-purevoice-ai-calls-philippines",
+      "title": "Smart PureVoice Brings AI to Calls",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Telcos and Internet",
+        "AI"
+      ],
+      "source_count": 3,
+      "body_image_count": 4,
+      "content_sha256": "8c1d9922b42ce39783be917f2047f271517c44a40c1960a4e00db255f95bffac"
+    },
+    {
+      "slot_key": "2026-11-08/06:00",
+      "idempotency_key": "2026-11-08/06:00",
+      "day": "2026-11-08",
+      "slot": "06:00",
+      "slug": "ai-adoption-filipino-msmes-bpos",
+      "title": "AI Adoption Tests Filipino MSMEs",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "AI",
+        "Apps and Software"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "d1dc59fe8054db944fa088c7f1345948df9521113616ea4ae3afd5d71f1d4fd6"
+    },
+    {
       "slot_key": "2026-11-07/10:00",
       "idempotency_key": "2026-11-07/10:00",
       "day": "2026-11-07",
@@ -4131,6 +4182,23 @@
     }
   ],
   "days": {
+    "2026-11-08": {
+      "2026-11-08/10:00": {
+        "slug": "ai-conservation-data-center-costs",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-08/08:00": {
+        "slug": "smart-purevoice-ai-calls-philippines",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-08/06:00": {
+        "slug": "ai-adoption-filipino-msmes-bpos",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-07": {
       "2026-11-07/10:00": {
         "slug": "us-democrats-ai-regulation-bills",

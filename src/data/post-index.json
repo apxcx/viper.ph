@@ -1,5 +1,89 @@
 [
   {
+    "slug": "ai-conservation-data-center-costs",
+    "title": "AI Helps Conservation, Adds Climate Costs",
+    "date": "2026-11-08T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "AI",
+      "International Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/ai-conservation-data-center-costs/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/ai-conservation-data-center-costs/image-1.webp?v=202611080746",
+      "articles/2026/11/ai-conservation-data-center-costs/image-2.webp?v=202611080746",
+      "articles/2026/11/ai-conservation-data-center-costs/image-3.webp?v=202611080746",
+      "articles/2026/11/ai-conservation-data-center-costs/image-4.webp?v=202611080746"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/ai-conservation-data-center-costs/featured.webp?v=202611080746",
+    "imageAlt": "African bush elephant in a protected landscape",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/ai-conservation-data-center-costs/",
+    "description": "Environmental groups use AI for wildfire alerts and wildlife surveys while confronting the electricity, water, and emissions costs of data centers.",
+    "bodySha256": "c2833605c5fe352775df79a523db2604f8b43ab9e82dca89f9692f0f3cb6d26b",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
+    "slug": "smart-purevoice-ai-calls-philippines",
+    "title": "Smart PureVoice Brings AI to Calls",
+    "date": "2026-11-08T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "Telcos and Internet",
+      "AI"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/smart-purevoice-ai-calls-philippines/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/smart-purevoice-ai-calls-philippines/image-1.webp?v=202611080746",
+      "articles/2026/11/smart-purevoice-ai-calls-philippines/image-2.webp?v=202611080746",
+      "articles/2026/11/smart-purevoice-ai-calls-philippines/image-3.webp?v=202611080746",
+      "articles/2026/11/smart-purevoice-ai-calls-philippines/image-4.webp?v=202611080746"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/smart-purevoice-ai-calls-philippines/featured.webp?v=202611080746",
+    "imageAlt": "Call-center booth representing clearer voice communications",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/smart-purevoice-ai-calls-philippines/",
+    "description": "Smart Infinity users can now reduce traffic, crowd, and music noise on mobile calls with PureVoice, an AI service that needs no app or extra hardware.",
+    "bodySha256": "8c1d9922b42ce39783be917f2047f271517c44a40c1960a4e00db255f95bffac",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
+    "slug": "ai-adoption-filipino-msmes-bpos",
+    "title": "AI Adoption Tests Filipino MSMEs",
+    "date": "2026-11-08T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "AI",
+      "Apps and Software"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/ai-adoption-filipino-msmes-bpos/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/ai-adoption-filipino-msmes-bpos/image-1.webp?v=202611080746",
+      "articles/2026/11/ai-adoption-filipino-msmes-bpos/image-2.webp?v=202611080746",
+      "articles/2026/11/ai-adoption-filipino-msmes-bpos/image-3.webp?v=202611080746",
+      "articles/2026/11/ai-adoption-filipino-msmes-bpos/image-4.webp?v=202611080746"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/ai-adoption-filipino-msmes-bpos/featured.webp?v=202611080746",
+    "imageAlt": "Business professional taking notes during a technology meeting",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/ai-adoption-filipino-msmes-bpos/",
+    "description": "A Manila AI forum puts Filipino MSMEs and BPOs in focus, showing how practical pilots, cloud tools, and privacy checks can shape adoption plans now.",
+    "bodySha256": "d1dc59fe8054db944fa088c7f1345948df9521113616ea4ae3afd5d71f1d4fd6",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "us-democrats-ai-regulation-bills",
     "title": "US Democrats Prepare New AI Bills",
     "date": "2026-11-07T10:00:00+08:00",
