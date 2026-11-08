@@ -40,18 +40,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/smart-purevoice-ai-calls-philippines/featured.webp",
     "imageKeys": [
-      "articles/2026/11/smart-purevoice-ai-calls-philippines/image-1.webp?v=202611080746",
-      "articles/2026/11/smart-purevoice-ai-calls-philippines/image-2.webp?v=202611080746",
-      "articles/2026/11/smart-purevoice-ai-calls-philippines/image-3.webp?v=202611080746",
-      "articles/2026/11/smart-purevoice-ai-calls-philippines/image-4.webp?v=202611080746"
+      "articles/2026/11/smart-purevoice-ai-calls-philippines/image-1.webp?v=202611080852",
+      "articles/2026/11/smart-purevoice-ai-calls-philippines/image-2.webp?v=202611080852",
+      "articles/2026/11/smart-purevoice-ai-calls-philippines/image-3.webp?v=202611080852"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/smart-purevoice-ai-calls-philippines/featured.webp?v=202611080746",
-    "imageAlt": "Call-center booth representing clearer voice communications",
+    "image": "https://viper.ph/api/media/articles/2026/11/smart-purevoice-ai-calls-philippines/featured.webp?v=202611080852",
+    "imageAlt": "Smart PureVoice AI noise cancellation for mobile calls",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/smart-purevoice-ai-calls-philippines/",
     "description": "Smart Infinity users can now reduce traffic, crowd, and music noise on mobile calls with PureVoice, an AI service that needs no app or extra hardware.",
-    "bodySha256": "8c1d9922b42ce39783be917f2047f271517c44a40c1960a4e00db255f95bffac",
+    "bodySha256": "4c76503132d551a47483fdcadcf341729aec9ad3a220e533678bcf87ed034d70",
     "publisherStatus": "published",
     "publicationSlot": "08:00"
   },
