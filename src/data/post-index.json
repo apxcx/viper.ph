@@ -67,17 +67,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/dost-creative-summit-2026-tech/featured.webp",
     "imageKeys": [
-      "articles/2026/11/dost-creative-summit-2026-tech/image-1.webp?v=202611100700",
-      "articles/2026/11/dost-creative-summit-2026-tech/image-2.webp?v=202611100700",
-      "articles/2026/11/dost-creative-summit-2026-tech/image-3.webp?v=202611100700"
+      "articles/2026/11/dost-creative-summit-2026-tech/image-1.webp?v=202611100735",
+      "articles/2026/11/dost-creative-summit-2026-tech/image-2.webp?v=202611100735",
+      "articles/2026/11/dost-creative-summit-2026-tech/image-3.webp?v=202611100735"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/dost-creative-summit-2026-tech/featured.webp?v=202611100700",
-    "imageAlt": "Philippine weaving at the intersection of creative heritage and technology",
+    "image": "https://viper.ph/api/media/articles/2026/11/dost-creative-summit-2026-tech/featured.webp?v=202611100735",
+    "imageAlt": "DOST Creative Summit 2026 event banner",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/dost-creative-summit-2026-tech/",
     "description": "DOST’s Creative Summit connects Philippine textiles, games, AR/VR and research funding, showing how technology can strengthen the creative economy.",
-    "bodySha256": "5dccbd25dff4a23d09820f18d5b394f0c1cad0a59f57a9235e20fa91f2fe30f4",
+    "bodySha256": "cd5c64c7fecb61d7360e54df91d78c7b6f77831293f9496e2473d9f995a7f146",
     "publisherStatus": "published",
     "publicationSlot": "06:00"
   },
