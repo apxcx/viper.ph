@@ -40,17 +40,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/asus-rog-grand-tech-fair-2026-philippines/featured.webp",
     "imageKeys": [
-      "articles/2026/11/asus-rog-grand-tech-fair-2026-philippines/image-1.webp?v=202611100700",
-      "articles/2026/11/asus-rog-grand-tech-fair-2026-philippines/image-2.webp?v=202611100700",
-      "articles/2026/11/asus-rog-grand-tech-fair-2026-philippines/image-3.webp?v=202611100700"
+      "articles/2026/11/asus-rog-grand-tech-fair-2026-philippines/image-1.webp?v=202611100742",
+      "articles/2026/11/asus-rog-grand-tech-fair-2026-philippines/image-2.webp?v=202611100742",
+      "articles/2026/11/asus-rog-grand-tech-fair-2026-philippines/image-3.webp?v=202611100742"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/asus-rog-grand-tech-fair-2026-philippines/featured.webp?v=202611100700",
-    "imageAlt": "ASUS gaming laptop representing the Grand Tech Fair product lineup",
+    "image": "https://viper.ph/api/media/articles/2026/11/asus-rog-grand-tech-fair-2026-philippines/featured.webp?v=202611100742",
+    "imageAlt": "ASUS and ROG Grand Tech Fair 2026 product promotion",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/asus-rog-grand-tech-fair-2026-philippines/",
     "description": "ASUS and ROG launch a Philippine holiday tech fair with GCash rebates, mall caravans, device bundles, and a PHP180,000-plus nationwide raffle nationwide.",
-    "bodySha256": "dd8481c4ada7fb1ae1158c00fbc8140b21c86978a175c4fc520e61ca95fbf11a",
+    "bodySha256": "adbcffb8f94f08972e7c6b8d9ef6102fb9b20f3b9e4f273c8b6e5508f828242b",
     "publisherStatus": "published",
     "publicationSlot": "08:00"
   },
