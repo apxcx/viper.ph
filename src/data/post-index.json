@@ -1,5 +1,87 @@
 [
   {
+    "slug": "ai-market-nvidia-leadership-risk",
+    "title": "AI Pullback Tests Tech Market and Nvidia’s Grip",
+    "date": "2026-11-10T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "AI",
+      "International Tech",
+      "Fintech and Banking Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/ai-market-nvidia-leadership-risk/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/ai-market-nvidia-leadership-risk/image-1.webp?v=202611100700",
+      "articles/2026/11/ai-market-nvidia-leadership-risk/image-2.webp?v=202611100700",
+      "articles/2026/11/ai-market-nvidia-leadership-risk/image-3.webp?v=202611100700"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/ai-market-nvidia-leadership-risk/featured.webp?v=202611100700",
+    "imageAlt": "data center servers representing the infrastructure behind AI spending",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/ai-market-nvidia-leadership-risk/",
+    "description": "Reuters says an AI-stock pullback is testing tech’s market weight while Nvidia CEO Jensen Huang remains central to chips, spending, and succession risk.",
+    "bodySha256": "26dcd4a8e0461d9819a38014c6b837726e5db687394a56323c14ff13495b8a8d",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
+    "slug": "asus-rog-grand-tech-fair-2026-philippines",
+    "title": "ASUS, ROG Open Nationwide Holiday Tech Fair",
+    "date": "2026-11-10T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "Gadgets",
+      "Tech Events"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/asus-rog-grand-tech-fair-2026-philippines/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/asus-rog-grand-tech-fair-2026-philippines/image-1.webp?v=202611100700",
+      "articles/2026/11/asus-rog-grand-tech-fair-2026-philippines/image-2.webp?v=202611100700",
+      "articles/2026/11/asus-rog-grand-tech-fair-2026-philippines/image-3.webp?v=202611100700"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/asus-rog-grand-tech-fair-2026-philippines/featured.webp?v=202611100700",
+    "imageAlt": "ASUS gaming laptop representing the Grand Tech Fair product lineup",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/asus-rog-grand-tech-fair-2026-philippines/",
+    "description": "ASUS and ROG launch a Philippine holiday tech fair with GCash rebates, mall caravans, device bundles, and a PHP180,000-plus nationwide raffle nationwide.",
+    "bodySha256": "dd8481c4ada7fb1ae1158c00fbc8140b21c86978a175c4fc520e61ca95fbf11a",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
+    "slug": "dost-creative-summit-2026-tech",
+    "title": "DOST Links Filipino Creativity With New Tech",
+    "date": "2026-11-10T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "PH Tech",
+      "Tech Events"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/dost-creative-summit-2026-tech/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/dost-creative-summit-2026-tech/image-1.webp?v=202611100700",
+      "articles/2026/11/dost-creative-summit-2026-tech/image-2.webp?v=202611100700",
+      "articles/2026/11/dost-creative-summit-2026-tech/image-3.webp?v=202611100700"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/dost-creative-summit-2026-tech/featured.webp?v=202611100700",
+    "imageAlt": "Philippine weaving at the intersection of creative heritage and technology",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/dost-creative-summit-2026-tech/",
+    "description": "DOST’s Creative Summit connects Philippine textiles, games, AR/VR and research funding, showing how technology can strengthen the creative economy.",
+    "bodySha256": "5dccbd25dff4a23d09820f18d5b394f0c1cad0a59f57a9235e20fa91f2fe30f4",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "us-ai-safety-center-independence",
     "title": "US AI Safety Center Faces Independence Questions",
     "date": "2026-11-09T10:00:00+08:00",

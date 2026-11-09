@@ -8,6 +8,58 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-10/10:00",
+      "idempotency_key": "2026-11-10/10:00",
+      "day": "2026-11-10",
+      "slot": "10:00",
+      "slug": "ai-market-nvidia-leadership-risk",
+      "title": "AI Pullback Tests Tech Market and Nvidia’s Grip",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "AI",
+        "International Tech",
+        "Fintech and Banking Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 3,
+      "content_sha256": "26dcd4a8e0461d9819a38014c6b837726e5db687394a56323c14ff13495b8a8d"
+    },
+    {
+      "slot_key": "2026-11-10/08:00",
+      "idempotency_key": "2026-11-10/08:00",
+      "day": "2026-11-10",
+      "slot": "08:00",
+      "slug": "asus-rog-grand-tech-fair-2026-philippines",
+      "title": "ASUS, ROG Open Nationwide Holiday Tech Fair",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Gadgets",
+        "Tech Events"
+      ],
+      "source_count": 1,
+      "body_image_count": 3,
+      "content_sha256": "dd8481c4ada7fb1ae1158c00fbc8140b21c86978a175c4fc520e61ca95fbf11a"
+    },
+    {
+      "slot_key": "2026-11-10/06:00",
+      "idempotency_key": "2026-11-10/06:00",
+      "day": "2026-11-10",
+      "slot": "06:00",
+      "slug": "dost-creative-summit-2026-tech",
+      "title": "DOST Links Filipino Creativity With New Tech",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech",
+        "Tech Events"
+      ],
+      "source_count": 1,
+      "body_image_count": 3,
+      "content_sha256": "5dccbd25dff4a23d09820f18d5b394f0c1cad0a59f57a9235e20fa91f2fe30f4"
+    },
+    {
       "slot_key": "2026-11-09/10:00",
       "idempotency_key": "2026-11-09/10:00",
       "day": "2026-11-09",
@@ -4234,6 +4286,23 @@
     }
   ],
   "days": {
+    "2026-11-10": {
+      "2026-11-10/10:00": {
+        "slug": "ai-market-nvidia-leadership-risk",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-10/08:00": {
+        "slug": "asus-rog-grand-tech-fair-2026-philippines",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-10/06:00": {
+        "slug": "dost-creative-summit-2026-tech",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-09": {
       "2026-11-09/10:00": {
         "slug": "us-ai-safety-center-independence",
