@@ -49,14 +49,6 @@ images:
   rights_cleared: true
   width: 1600
   height: 900
-- url: https://viper.ph/api/media/articles/2026/11/nubia-1111-smartphone-deals-philippines/image-4.webp?v=202611090800
-  alt: Mobile phone product launch and shopping campaign
-  source_url: https://commons.wikimedia.org/wiki/File:Mobile_phone_base_station,_DRAT_Ltd._site,_2019_Kisbér.jpg
-  credit: Krisztián Puskás
-  license: CC BY-SA 3.0
-  rights_cleared: true
-  width: 1600
-  height: 900
 ---
 nubia Philippines is taking its NEOverse TAKEOVER campaign into the 11.11 shopping season with smartphone discounts, purchase perks and community events. Manila Standard reported that selected devices will be offered at up to 50% off on Shopee, while some nubia Music 2 units will appear in PHP11 promotions. The campaign is aimed at shoppers comparing gaming, entertainment and everyday phones during one of the Philippines’ busiest online sales periods. Availability, stock and platform mechanics will determine which advertised offers customers can actually claim.
 
@@ -71,5 +63,3 @@ nubia is also taking the campaign beyond online storefronts through the NEOverse
 ![nubia 11.11 product and voucher promotion](https://viper.ph/api/media/articles/2026/11/nubia-1111-smartphone-deals-philippines/image-3.webp?v=202611090910)
 
 The campaign continues after the main sale with nubia Brand Day, NEOverse TAKEOVER: The After Party, scheduled for November 13–15. Online product showcases, live entertainment, deal reveals and TikTok sessions with ONIC Philippines are planned. For Filipino buyers, the campaign creates several decision points: whether to prioritize gaming performance, audio features, price or bundled value. The useful comparison is not simply the largest discount. It is the final cost, warranty, software support and suitability of the device for the work and entertainment the buyer actually needs.
-
-![Smartphones representing the nubia device lineup](https://viper.ph/api/media/articles/2026/11/nubia-1111-smartphone-deals-philippines/image-4.webp?v=202611090800)

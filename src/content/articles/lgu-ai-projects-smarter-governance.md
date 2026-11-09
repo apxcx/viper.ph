@@ -48,14 +48,6 @@ images:
   rights_cleared: true
   width: 1600
   height: 900
-- url: https://viper.ph/api/media/articles/2026/11/lgu-ai-projects-smarter-governance/image-4.webp?v=202611090800
-  alt: Manila cityscape representing Philippine digital governance
-  source_url: https://commons.wikimedia.org/wiki/File:Big_Manila.jpg
-  credit: Judgefloro
-  license: CC BY-SA 4.0
-  rights_cleared: true
-  width: 1600
-  height: 900
 ---
 Four Philippine local government units are preparing to showcase artificial intelligence applications built through PLDT and Smart Communications’ AI-in-a-Box program. Newsbytes reported that Baguio City, Cabanatuan City, Cebu City and Lanao del Sur developed projects aimed at public services and government operations. Their work will be discussed at the AI in Action Forum, where the central question is how promising prototypes can become dependable systems. For local governments, that shift matters because a demonstration is easier than maintaining software, data and accountability after a pilot ends.
 
@@ -70,5 +62,3 @@ Privacy and cybersecurity will be part of the conversation, alongside digital so
 ![PLDT-Smart AI in Action forum speakers](https://viper.ph/api/media/articles/2026/11/lgu-ai-projects-smarter-governance/image-3.webp?v=202611090900)
 
 For Philippine cities and provinces considering similar tools, the practical test will be sustainability. LGUs will need budgets for maintenance, secure data handling, model updates and training after technology partners leave the room. They also need metrics that show whether residents receive faster, clearer or more accessible services. The PLDT-Smart forum positions AI-in-a-Box as a starting point, not a finished digital-transformation strategy. The next phase will reveal whether local pilots can become shared public infrastructure without sacrificing human review or community accountability.
-
-![Mobile network infrastructure supporting connected public services](https://viper.ph/api/media/articles/2026/11/lgu-ai-projects-smarter-governance/image-4.webp?v=202611090800)

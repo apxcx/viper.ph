@@ -48,14 +48,6 @@ images:
   rights_cleared: true
   width: 1600
   height: 900
-- url: https://viper.ph/api/media/articles/2026/11/us-ai-safety-center-independence/image-4.webp?v=202611090800
-  alt: Artificial intelligence and machine learning on a computer
-  source_url: https://commons.wikimedia.org/wiki/File:Artificial_Intelligence_&_AI_&_Machine_Learning_-_30212411048.jpg
-  credit: Mike MacKenzie
-  license: CC BY 2.0
-  rights_cleared: true
-  width: 1600
-  height: 900
 ---
 The U.S. government division responsible for assessing the safety of new artificial intelligence systems is facing questions about its independence. The Associated Press reported that staff at the Center for Advancing Innovation and Standards for Super Intelligence, or CAISSI, were recently asked to informally report to a White House office. The center is part of the Commerce Department, but it lacks a permanent leader and has stopped publishing its research. Critics worry that a body meant to provide technical checks could become more vulnerable to political pressure.
 
@@ -70,5 +62,3 @@ The dispute reflects a wider argument about whether AI companies can be trusted 
 ![U.S. technology leaders meeting outdoors](https://viper.ph/api/media/articles/2026/11/us-ai-safety-center-independence/image-3.webp?v=202611090920)
 
 The issue is relevant beyond Washington because AI models and agents are used across borders, including by Philippine businesses, schools and government offices. A credible safety system needs technical expertise, transparent procedures and protection from retaliation when results are uncomfortable. It also needs to keep pace with agents that perform multi-step tasks rather than only generating a final answer. The CAISSI questions show that AI governance is not only about writing rules. It is also about preserving the independence and public visibility of the people who test whether those rules work.
-
-![Server infrastructure supporting AI testing and research](https://viper.ph/api/media/articles/2026/11/us-ai-safety-center-independence/image-4.webp?v=202611090800)

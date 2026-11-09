@@ -14,8 +14,7 @@
     "imageKeys": [
       "articles/2026/11/us-ai-safety-center-independence/image-1.webp?v=202611090920",
       "articles/2026/11/us-ai-safety-center-independence/image-2.webp?v=202611090920",
-      "articles/2026/11/us-ai-safety-center-independence/image-3.webp?v=202611090920",
-      "articles/2026/11/us-ai-safety-center-independence/image-4.webp?v=202611090800"
+      "articles/2026/11/us-ai-safety-center-independence/image-3.webp?v=202611090920"
     ],
     "image": "https://viper.ph/api/media/articles/2026/11/us-ai-safety-center-independence/featured.webp?v=202611090920",
     "imageAlt": "U.S. AI safety meeting with technology leaders",
@@ -23,7 +22,7 @@
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/us-ai-safety-center-independence/",
     "description": "An AP report raises questions about independence at a US AI safety center after staff were asked to report informally to a White House office now.",
-    "bodySha256": "a68ba87e776a50b3685fe4a47c6503c6655c1c798a5929449bed4961a522b412",
+    "bodySha256": "9e29e4f099239813221fdb7defcd1bb1bbac8261a0f8516e8f452caee440daac",
     "publisherStatus": "published",
     "publicationSlot": "10:00"
   },
@@ -43,8 +42,7 @@
     "imageKeys": [
       "articles/2026/11/nubia-1111-smartphone-deals-philippines/image-1.webp?v=202611090910",
       "articles/2026/11/nubia-1111-smartphone-deals-philippines/image-2.webp?v=202611090910",
-      "articles/2026/11/nubia-1111-smartphone-deals-philippines/image-3.webp?v=202611090910",
-      "articles/2026/11/nubia-1111-smartphone-deals-philippines/image-4.webp?v=202611090800"
+      "articles/2026/11/nubia-1111-smartphone-deals-philippines/image-3.webp?v=202611090910"
     ],
     "image": "https://viper.ph/api/media/articles/2026/11/nubia-1111-smartphone-deals-philippines/featured.webp?v=202611090910",
     "imageAlt": "nubia 11.11 NEOverse smartphone campaign",
@@ -52,7 +50,7 @@
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/nubia-1111-smartphone-deals-philippines/",
     "description": "nubia Philippines brings up to 50% smartphone discounts, PHP11 offers, freebies, and a Cavite gaming roadshow to the 11.11 shopping season this week.",
-    "bodySha256": "80b465e87c65c849f83ccd64e3b10d899b3aaa3cc1323f553c8836f8c1d260e8",
+    "bodySha256": "4c1fe52ad59cf8bc016d2f96517c923fac580ca8922a3c01fb272286661b778e",
     "publisherStatus": "published",
     "publicationSlot": "08:00"
   },
@@ -71,8 +69,7 @@
     "imageKeys": [
       "articles/2026/11/lgu-ai-projects-smarter-governance/image-1.webp?v=202611090900",
       "articles/2026/11/lgu-ai-projects-smarter-governance/image-2.webp?v=202611090900",
-      "articles/2026/11/lgu-ai-projects-smarter-governance/image-3.webp?v=202611090900",
-      "articles/2026/11/lgu-ai-projects-smarter-governance/image-4.webp?v=202611090800"
+      "articles/2026/11/lgu-ai-projects-smarter-governance/image-3.webp?v=202611090900"
     ],
     "image": "https://viper.ph/api/media/articles/2026/11/lgu-ai-projects-smarter-governance/featured.webp?v=202611090900",
     "imageAlt": "PLDT-Smart AI in Action forum group photo",
@@ -80,7 +77,7 @@
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/lgu-ai-projects-smarter-governance/",
     "description": "Four Philippine LGUs will showcase AI pilots for public services, with a PLDT-Smart forum focused on governance, privacy, skills, security, and scale.",
-    "bodySha256": "ab6722ebb21e2bcfbda04eb6bdc5e903ba6b418692a5868511484ebd5a57f897",
+    "bodySha256": "74a454f47543f8655f48b4090d0f5f331ac2b9d61faa041c3eeceac19ee58067",
     "publisherStatus": "published",
     "publicationSlot": "06:00"
   },
