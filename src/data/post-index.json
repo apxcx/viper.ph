@@ -1,5 +1,90 @@
 [
   {
+    "slug": "us-ai-safety-center-independence",
+    "title": "US AI Safety Center Faces Independence Questions",
+    "date": "2026-11-09T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "AI",
+      "International Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/us-ai-safety-center-independence/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/us-ai-safety-center-independence/image-1.webp?v=202611090800",
+      "articles/2026/11/us-ai-safety-center-independence/image-2.webp?v=202611090800",
+      "articles/2026/11/us-ai-safety-center-independence/image-3.webp?v=202611090800",
+      "articles/2026/11/us-ai-safety-center-independence/image-4.webp?v=202611090800"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/us-ai-safety-center-independence/featured.webp?v=202611090800",
+    "imageAlt": "AI safety discussion at a government technology summit",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/us-ai-safety-center-independence/",
+    "description": "An AP report raises questions about independence at a US AI safety center after staff were asked to report informally to a White House office now.",
+    "bodySha256": "0198fae5fce6b6ee5861bdd4013fb8ed42626931454ffc45798a13cad56d8c74",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
+    "slug": "nubia-1111-smartphone-deals-philippines",
+    "title": "nubia Brings 11.11 Deals to Philippine Shoppers",
+    "date": "2026-11-09T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "Gadgets",
+      "E-commerce",
+      "Tech Events"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/nubia-1111-smartphone-deals-philippines/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/nubia-1111-smartphone-deals-philippines/image-1.webp?v=202611090800",
+      "articles/2026/11/nubia-1111-smartphone-deals-philippines/image-2.webp?v=202611090800",
+      "articles/2026/11/nubia-1111-smartphone-deals-philippines/image-3.webp?v=202611090800",
+      "articles/2026/11/nubia-1111-smartphone-deals-philippines/image-4.webp?v=202611090800"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/nubia-1111-smartphone-deals-philippines/featured.webp?v=202611090800",
+    "imageAlt": "Gaming phone experience at a technology event",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/nubia-1111-smartphone-deals-philippines/",
+    "description": "nubia Philippines brings up to 50% smartphone discounts, PHP11 offers, freebies, and a Cavite gaming roadshow to the 11.11 shopping season this week.",
+    "bodySha256": "290033e0612f2f742b507daf129de8b7bc09fd5085552719b5e61c038523dcf8",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
+    "slug": "lgu-ai-projects-smarter-governance",
+    "title": "LGU AI Projects Target Smarter Governance",
+    "date": "2026-11-09T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "PH Tech",
+      "AI"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/lgu-ai-projects-smarter-governance/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/lgu-ai-projects-smarter-governance/image-1.webp?v=202611090800",
+      "articles/2026/11/lgu-ai-projects-smarter-governance/image-2.webp?v=202611090800",
+      "articles/2026/11/lgu-ai-projects-smarter-governance/image-3.webp?v=202611090800",
+      "articles/2026/11/lgu-ai-projects-smarter-governance/image-4.webp?v=202611090800"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/lgu-ai-projects-smarter-governance/featured.webp?v=202611090800",
+    "imageAlt": "City hall representing local government and public service",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/lgu-ai-projects-smarter-governance/",
+    "description": "Four Philippine LGUs will showcase AI pilots for public services, with a PLDT-Smart forum focused on governance, privacy, skills, security, and scale.",
+    "bodySha256": "2613f4b96986fe9c592ed3e490a92885460924e677fb044c63018e0ca4abfcc0",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "ai-conservation-data-center-costs",
     "title": "AI Helps Conservation, Adds Climate Costs",
     "date": "2026-11-08T10:00:00+08:00",

@@ -8,6 +8,58 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-09/10:00",
+      "idempotency_key": "2026-11-09/10:00",
+      "day": "2026-11-09",
+      "slot": "10:00",
+      "slug": "us-ai-safety-center-independence",
+      "title": "US AI Safety Center Faces Independence Questions",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "AI",
+        "International Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "0198fae5fce6b6ee5861bdd4013fb8ed42626931454ffc45798a13cad56d8c74"
+    },
+    {
+      "slot_key": "2026-11-09/08:00",
+      "idempotency_key": "2026-11-09/08:00",
+      "day": "2026-11-09",
+      "slot": "08:00",
+      "slug": "nubia-1111-smartphone-deals-philippines",
+      "title": "nubia Brings 11.11 Deals to Philippine Shoppers",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Gadgets",
+        "E-commerce",
+        "Tech Events"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "290033e0612f2f742b507daf129de8b7bc09fd5085552719b5e61c038523dcf8"
+    },
+    {
+      "slot_key": "2026-11-09/06:00",
+      "idempotency_key": "2026-11-09/06:00",
+      "day": "2026-11-09",
+      "slot": "06:00",
+      "slug": "lgu-ai-projects-smarter-governance",
+      "title": "LGU AI Projects Target Smarter Governance",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech",
+        "AI"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "2613f4b96986fe9c592ed3e490a92885460924e677fb044c63018e0ca4abfcc0"
+    },
+    {
       "slot_key": "2026-11-08/10:00",
       "idempotency_key": "2026-11-08/10:00",
       "day": "2026-11-08",
@@ -4182,6 +4234,23 @@
     }
   ],
   "days": {
+    "2026-11-09": {
+      "2026-11-09/10:00": {
+        "slug": "us-ai-safety-center-independence",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-09/08:00": {
+        "slug": "nubia-1111-smartphone-deals-philippines",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-09/06:00": {
+        "slug": "lgu-ai-projects-smarter-governance",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-08": {
       "2026-11-08/10:00": {
         "slug": "ai-conservation-data-center-costs",
