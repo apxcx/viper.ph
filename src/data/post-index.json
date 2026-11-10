@@ -1,5 +1,86 @@
 [
   {
+    "slug": "google-gemini-4-carbon-launch",
+    "title": "Google Launches Gemini 4 Carbon AI Model",
+    "date": "2026-11-11T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "AI",
+      "International Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/google-gemini-4-carbon-launch/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/google-gemini-4-carbon-launch/image-1.webp?v=202611110745",
+      "articles/2026/11/google-gemini-4-carbon-launch/image-2.webp?v=202611110745",
+      "articles/2026/11/google-gemini-4-carbon-launch/image-3.webp?v=202611110745"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/google-gemini-4-carbon-launch/featured.webp?v=202611110745",
+    "imageAlt": "cybersecurity padlock representing Gemini security work",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/google-gemini-4-carbon-launch/",
+    "description": "Google says Gemini 4 Carbon targets coding, science, cybersecurity, and enterprise work with new access, safety measures, and API pricing for developers.",
+    "bodySha256": "2e8016cba867f8679184807f2ab11abb91ff02cd9b1eb3f80cee14693d0edd51",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
+    "slug": "oceanagold-wireless-blasting-philippines",
+    "title": "OceanaGold Deploys Wireless Blasting Tech",
+    "date": "2026-11-11T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "PH Tech",
+      "International Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/oceanagold-wireless-blasting-philippines/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/oceanagold-wireless-blasting-philippines/image-1.webp?v=202611110745",
+      "articles/2026/11/oceanagold-wireless-blasting-philippines/image-2.webp?v=202611110745",
+      "articles/2026/11/oceanagold-wireless-blasting-philippines/image-3.webp?v=202611110745"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/oceanagold-wireless-blasting-philippines/featured.webp?v=202611110745",
+    "imageAlt": "tunnel excavation equipment representing connected underground mining",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/oceanagold-wireless-blasting-philippines/",
+    "description": "OceanaGold has trialed wireless blasting at Didipio, using connected mining technology to improve safety, timing, and underground operational control.",
+    "bodySha256": "98347b3e1b6df46e31642de8a423cda59dd6a6c4e0a01d0c2cac89c0de73b6b6",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
+    "slug": "nintendo-eshop-online-philippines",
+    "title": "Nintendo Switch Online Arrives in Philippines",
+    "date": "2026-11-11T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "Gadgets",
+      "International Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/nintendo-eshop-online-philippines/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/nintendo-eshop-online-philippines/image-1.webp?v=202611110745",
+      "articles/2026/11/nintendo-eshop-online-philippines/image-2.webp?v=202611110745",
+      "articles/2026/11/nintendo-eshop-online-philippines/image-3.webp?v=202611110745"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/nintendo-eshop-online-philippines/featured.webp?v=202611110745",
+    "imageAlt": "Nintendo Switch console representing the Philippine eShop launch",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/nintendo-eshop-online-philippines/",
+    "description": "Nintendo Switch Online and eShop are now available in the Philippines, with local pricing, online play, classic games, member benefits, and support.",
+    "bodySha256": "54d289db8acc69458dbea7110c5e550f66c12f63203338e44248dc4762796a5f",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "ai-market-nvidia-leadership-risk",
     "title": "AI Pullback Tests Tech Market and Nvidia’s Grip",
     "date": "2026-11-10T10:00:00+08:00",

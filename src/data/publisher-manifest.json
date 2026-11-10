@@ -8,6 +8,57 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-11/10:00",
+      "idempotency_key": "2026-11-11/10:00",
+      "day": "2026-11-11",
+      "slot": "10:00",
+      "slug": "google-gemini-4-carbon-launch",
+      "title": "Google Launches Gemini 4 Carbon AI Model",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "AI",
+        "International Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 3,
+      "content_sha256": "2e8016cba867f8679184807f2ab11abb91ff02cd9b1eb3f80cee14693d0edd51"
+    },
+    {
+      "slot_key": "2026-11-11/08:00",
+      "idempotency_key": "2026-11-11/08:00",
+      "day": "2026-11-11",
+      "slot": "08:00",
+      "slug": "oceanagold-wireless-blasting-philippines",
+      "title": "OceanaGold Deploys Wireless Blasting Tech",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech",
+        "International Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 3,
+      "content_sha256": "98347b3e1b6df46e31642de8a423cda59dd6a6c4e0a01d0c2cac89c0de73b6b6"
+    },
+    {
+      "slot_key": "2026-11-11/06:00",
+      "idempotency_key": "2026-11-11/06:00",
+      "day": "2026-11-11",
+      "slot": "06:00",
+      "slug": "nintendo-eshop-online-philippines",
+      "title": "Nintendo Switch Online Arrives in Philippines",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Gadgets",
+        "International Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 3,
+      "content_sha256": "54d289db8acc69458dbea7110c5e550f66c12f63203338e44248dc4762796a5f"
+    },
+    {
       "slot_key": "2026-11-10/10:00",
       "idempotency_key": "2026-11-10/10:00",
       "day": "2026-11-10",
@@ -4286,6 +4337,23 @@
     }
   ],
   "days": {
+    "2026-11-11": {
+      "2026-11-11/10:00": {
+        "slug": "google-gemini-4-carbon-launch",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-11/08:00": {
+        "slug": "oceanagold-wireless-blasting-philippines",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-11/06:00": {
+        "slug": "nintendo-eshop-online-philippines",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-10": {
       "2026-11-10/10:00": {
         "slug": "ai-market-nvidia-leadership-risk",
