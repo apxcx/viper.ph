@@ -13,17 +13,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/ai-market-nvidia-leadership-risk/featured.webp",
     "imageKeys": [
-      "articles/2026/11/ai-market-nvidia-leadership-risk/image-1.webp?v=202611100700",
-      "articles/2026/11/ai-market-nvidia-leadership-risk/image-2.webp?v=202611100700",
-      "articles/2026/11/ai-market-nvidia-leadership-risk/image-3.webp?v=202611100700"
+      "articles/2026/11/ai-market-nvidia-leadership-risk/image-1.webp?v=202611100759",
+      "articles/2026/11/ai-market-nvidia-leadership-risk/image-2.webp?v=202611100759",
+      "articles/2026/11/ai-market-nvidia-leadership-risk/image-3.webp?v=202611100759"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/ai-market-nvidia-leadership-risk/featured.webp?v=202611100700",
-    "imageAlt": "data center servers representing the infrastructure behind AI spending",
+    "image": "https://viper.ph/api/media/articles/2026/11/ai-market-nvidia-leadership-risk/featured.webp?v=202611100759",
+    "imageAlt": "NVIDIA stock display representing AI market pressure",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/ai-market-nvidia-leadership-risk/",
     "description": "Reuters says an AI-stock pullback is testing tech’s market weight while Nvidia CEO Jensen Huang remains central to chips, spending, and succession risk.",
-    "bodySha256": "26dcd4a8e0461d9819a38014c6b837726e5db687394a56323c14ff13495b8a8d",
+    "bodySha256": "0f25b3f19b68447fdfaeb484e6393e8c5c52e7075dcb27906f4615d73272954b",
     "publisherStatus": "published",
     "publicationSlot": "10:00"
   },
