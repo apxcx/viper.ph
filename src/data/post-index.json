@@ -12,17 +12,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/google-gemini-4-carbon-launch/featured.webp",
     "imageKeys": [
-      "articles/2026/11/google-gemini-4-carbon-launch/image-1.webp?v=202611110745",
-      "articles/2026/11/google-gemini-4-carbon-launch/image-2.webp?v=202611110745",
-      "articles/2026/11/google-gemini-4-carbon-launch/image-3.webp?v=202611110745"
+      "articles/2026/11/google-gemini-4-carbon-launch/image-1.webp?v=202611110848",
+      "articles/2026/11/google-gemini-4-carbon-launch/image-2.webp?v=202611110848",
+      "articles/2026/11/google-gemini-4-carbon-launch/image-3.webp?v=202611110848"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/google-gemini-4-carbon-launch/featured.webp?v=202611110745",
-    "imageAlt": "cybersecurity padlock representing Gemini security work",
+    "image": "https://viper.ph/api/media/articles/2026/11/google-gemini-4-carbon-launch/featured.webp?v=202611110848",
+    "imageAlt": "Gemini 4 Carbon AI model graphic",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/google-gemini-4-carbon-launch/",
     "description": "Google says Gemini 4 Carbon targets coding, science, cybersecurity, and enterprise work with new access, safety measures, and API pricing for developers.",
-    "bodySha256": "2e8016cba867f8679184807f2ab11abb91ff02cd9b1eb3f80cee14693d0edd51",
+    "bodySha256": "27ba2bc786523943cb69134037cb3528455d660eab3f3aa4be511331fec70634",
     "publisherStatus": "published",
     "publicationSlot": "10:00"
   },
@@ -94,17 +94,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/ai-market-nvidia-leadership-risk/featured.webp",
     "imageKeys": [
-      "articles/2026/11/ai-market-nvidia-leadership-risk/image-1.webp?v=202611110833",
-      "articles/2026/11/ai-market-nvidia-leadership-risk/image-2.webp?v=202611110833",
-      "articles/2026/11/ai-market-nvidia-leadership-risk/image-3.webp?v=202611110833"
+      "articles/2026/11/ai-market-nvidia-leadership-risk/image-1.webp?v=202611100759",
+      "articles/2026/11/ai-market-nvidia-leadership-risk/image-2.webp?v=202611100759",
+      "articles/2026/11/ai-market-nvidia-leadership-risk/image-3.webp?v=202611100759"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/ai-market-nvidia-leadership-risk/featured.webp?v=202611110833",
-    "imageAlt": "Gemini 4 Carbon AI model graphic supplied for the article",
+    "image": "https://viper.ph/api/media/articles/2026/11/ai-market-nvidia-leadership-risk/featured.webp?v=202611100759",
+    "imageAlt": "NVIDIA stock display representing AI market pressure",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/ai-market-nvidia-leadership-risk/",
     "description": "Reuters says an AI-stock pullback is testing tech’s market weight while Nvidia CEO Jensen Huang remains central to chips, spending, and succession risk.",
-    "bodySha256": "bcf3678cd98294a44c3380fbec0366d0c60566a1782aed5c3b33d7925c65a296",
+    "bodySha256": "0f25b3f19b68447fdfaeb484e6393e8c5c52e7075dcb27906f4615d73272954b",
     "publisherStatus": "published",
     "publicationSlot": "10:00"
   },
