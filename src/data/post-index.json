@@ -1,5 +1,84 @@
 [
   {
+    "slug": "ai-trade-coreweave-nvidia-market-rebound",
+    "title": "AI Trade Rebound Tests Market Confidence",
+    "date": "2026-11-12T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "AI",
+      "International Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/ai-trade-coreweave-nvidia-market-rebound/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/ai-trade-coreweave-nvidia-market-rebound/image-1.webp?v=202611120700",
+      "articles/2026/11/ai-trade-coreweave-nvidia-market-rebound/image-2.webp?v=202611120700",
+      "articles/2026/11/ai-trade-coreweave-nvidia-market-rebound/image-3.webp?v=202611120700"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/ai-trade-coreweave-nvidia-market-rebound/featured.webp?v=202611120700",
+    "imageAlt": "New York Stock Exchange trading floor representing technology-market sentiment",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/ai-trade-coreweave-nvidia-market-rebound/",
+    "description": "A Reuters market rebound led by CoreWeave and Nvidia is putting AI spending, data-center demand, and technology-stock concentration back in focus.",
+    "bodySha256": "fbabde9e9eeb56f53485a674527eee01ca5330a907e8ed05d312f39536d303d4",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
+    "slug": "vinfast-vf8-philippines-launch",
+    "title": "VinFast Launches New VF 8 in PH",
+    "date": "2026-11-12T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "Electric Vehicles"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/vinfast-vf8-philippines-launch/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/vinfast-vf8-philippines-launch/image-1.webp?v=202611120700",
+      "articles/2026/11/vinfast-vf8-philippines-launch/image-2.webp?v=202611120700",
+      "articles/2026/11/vinfast-vf8-philippines-launch/image-3.webp?v=202611120700"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/vinfast-vf8-philippines-launch/featured.webp?v=202611120700",
+    "imageAlt": "white VinFast VF 8 electric SUV in a showroom",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/vinfast-vf8-philippines-launch/",
+    "description": "VinFast launches the all-new VF 8 in the Philippines at PHP1.548 million with battery subscription, with first deliveries expected in November 2026.",
+    "bodySha256": "c0601b969c338656a87e54bec39da4da35276d046260fa884bc8d1c3a5b79705",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
+    "slug": "timora-juantax-digital-business-support",
+    "title": "Timora, JuanTax Link Business Workflows",
+    "date": "2026-11-12T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "Apps and Software"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/timora-juantax-digital-business-support/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/timora-juantax-digital-business-support/image-1.webp?v=202611120700",
+      "articles/2026/11/timora-juantax-digital-business-support/image-2.webp?v=202611120700",
+      "articles/2026/11/timora-juantax-digital-business-support/image-3.webp?v=202611120700"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/timora-juantax-digital-business-support/featured.webp?v=202611120700",
+    "imageAlt": "laptop coding workspace representing digital business software",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/timora-juantax-digital-business-support/",
+    "description": "Timora HRIS and JuanTax are linking payroll, accounting, and tax workflows to help Philippine businesses reduce manual administrative work and errors.",
+    "bodySha256": "2bf74d14f34a0f924c603e6a0a25433f77167b0b140bc7f370adf9b360bf514b",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "google-gemini-4-carbon-launch",
     "title": "Google Launches Gemini 4 Carbon AI Model",
     "date": "2026-11-11T10:00:00+08:00",

@@ -8,6 +8,55 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-12/10:00",
+      "idempotency_key": "2026-11-12/10:00",
+      "day": "2026-11-12",
+      "slot": "10:00",
+      "slug": "ai-trade-coreweave-nvidia-market-rebound",
+      "title": "AI Trade Rebound Tests Market Confidence",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "AI",
+        "International Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 3,
+      "content_sha256": "fbabde9e9eeb56f53485a674527eee01ca5330a907e8ed05d312f39536d303d4"
+    },
+    {
+      "slot_key": "2026-11-12/08:00",
+      "idempotency_key": "2026-11-12/08:00",
+      "day": "2026-11-12",
+      "slot": "08:00",
+      "slug": "vinfast-vf8-philippines-launch",
+      "title": "VinFast Launches New VF 8 in PH",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Electric Vehicles"
+      ],
+      "source_count": 1,
+      "body_image_count": 3,
+      "content_sha256": "c0601b969c338656a87e54bec39da4da35276d046260fa884bc8d1c3a5b79705"
+    },
+    {
+      "slot_key": "2026-11-12/06:00",
+      "idempotency_key": "2026-11-12/06:00",
+      "day": "2026-11-12",
+      "slot": "06:00",
+      "slug": "timora-juantax-digital-business-support",
+      "title": "Timora, JuanTax Link Business Workflows",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Apps and Software"
+      ],
+      "source_count": 1,
+      "body_image_count": 3,
+      "content_sha256": "2bf74d14f34a0f924c603e6a0a25433f77167b0b140bc7f370adf9b360bf514b"
+    },
+    {
       "slot_key": "2026-11-11/10:00",
       "idempotency_key": "2026-11-11/10:00",
       "day": "2026-11-11",
@@ -4337,6 +4386,23 @@
     }
   ],
   "days": {
+    "2026-11-12": {
+      "2026-11-12/10:00": {
+        "slug": "ai-trade-coreweave-nvidia-market-rebound",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-12/08:00": {
+        "slug": "vinfast-vf8-philippines-launch",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-12/06:00": {
+        "slug": "timora-juantax-digital-business-support",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-11": {
       "2026-11-11/10:00": {
         "slug": "google-gemini-4-carbon-launch",
