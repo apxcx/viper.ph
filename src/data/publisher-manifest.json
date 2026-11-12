@@ -22,7 +22,7 @@
       ],
       "source_count": 1,
       "body_image_count": 3,
-      "content_sha256": "fbabde9e9eeb56f53485a674527eee01ca5330a907e8ed05d312f39536d303d4"
+      "content_sha256": "41bb6e976e151e372f7e6244b4cfc772286cd98262a0ffee79bb0866a57c5778"
     },
     {
       "slot_key": "2026-11-12/08:00",
@@ -38,7 +38,7 @@
       ],
       "source_count": 1,
       "body_image_count": 3,
-      "content_sha256": "c0601b969c338656a87e54bec39da4da35276d046260fa884bc8d1c3a5b79705"
+      "content_sha256": "7407dde81aa3d253b52d17c3a9cc8c618e9f1899d70da10d5b5215501b1daf74"
     },
     {
       "slot_key": "2026-11-12/06:00",
@@ -54,7 +54,7 @@
       ],
       "source_count": 1,
       "body_image_count": 3,
-      "content_sha256": "2bf74d14f34a0f924c603e6a0a25433f77167b0b140bc7f370adf9b360bf514b"
+      "content_sha256": "038d8be740f8e2044bea54688da5cdaa979ee404a4e2ea1e19270e9212ec96f2"
     },
     {
       "slot_key": "2026-11-11/10:00",
