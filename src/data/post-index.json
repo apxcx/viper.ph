@@ -38,17 +38,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/vinfast-vf8-philippines-launch/featured.webp",
     "imageKeys": [
-      "articles/2026/11/vinfast-vf8-philippines-launch/image-1.webp?v=202611120700",
-      "articles/2026/11/vinfast-vf8-philippines-launch/image-2.webp?v=202611120700",
-      "articles/2026/11/vinfast-vf8-philippines-launch/image-3.webp?v=202611120700"
+      "articles/2026/11/vinfast-vf8-philippines-launch/image-1.webp?v=202611120951",
+      "articles/2026/11/vinfast-vf8-philippines-launch/image-2.webp?v=202611120951",
+      "articles/2026/11/vinfast-vf8-philippines-launch/image-3.webp?v=202611120951"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/vinfast-vf8-philippines-launch/featured.webp?v=202611120700",
-    "imageAlt": "white VinFast VF 8 electric SUV in a showroom",
+    "image": "https://viper.ph/api/media/articles/2026/11/vinfast-vf8-philippines-launch/featured.webp?v=202611120951",
+    "imageAlt": "VinFast VF 8 on display at a Philippine launch event",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/vinfast-vf8-philippines-launch/",
     "description": "VinFast launches the all-new VF 8 in the Philippines at PHP1.548 million with battery subscription, with first deliveries expected in November 2026.",
-    "bodySha256": "7407dde81aa3d253b52d17c3a9cc8c618e9f1899d70da10d5b5215501b1daf74",
+    "bodySha256": "20dc87c2dc753aec366c0037437ab10eb7e2f3520fe19f50e8f10f1f99e1a76e",
     "publisherStatus": "published",
     "publicationSlot": "08:00"
   },
