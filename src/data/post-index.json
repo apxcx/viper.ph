@@ -64,17 +64,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/timora-juantax-digital-business-support/featured.webp",
     "imageKeys": [
-      "articles/2026/11/timora-juantax-digital-business-support/image-1.webp?v=202611120700",
-      "articles/2026/11/timora-juantax-digital-business-support/image-2.webp?v=202611120700",
-      "articles/2026/11/timora-juantax-digital-business-support/image-3.webp?v=202611120700"
+      "articles/2026/11/timora-juantax-digital-business-support/image-1.webp?v=202611120944",
+      "articles/2026/11/timora-juantax-digital-business-support/image-2.webp?v=202611120944",
+      "articles/2026/11/timora-juantax-digital-business-support/image-3.webp?v=202611120944"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/timora-juantax-digital-business-support/featured.webp?v=202611120700",
-    "imageAlt": "laptop coding workspace representing digital business software",
+    "image": "https://viper.ph/api/media/articles/2026/11/timora-juantax-digital-business-support/featured.webp?v=202611120944",
+    "imageAlt": "Timora and JuanTax representatives signing a partnership agreement",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/timora-juantax-digital-business-support/",
     "description": "Timora HRIS and JuanTax are linking payroll, accounting, and tax workflows to help Philippine businesses reduce manual administrative work and errors.",
-    "bodySha256": "038d8be740f8e2044bea54688da5cdaa979ee404a4e2ea1e19270e9212ec96f2",
+    "bodySha256": "cf4323739d89a0d44983dc9e86359a8aa2963d8fba440ce5b0d83bb75c1a0f85",
     "publisherStatus": "published",
     "publicationSlot": "06:00"
   },
