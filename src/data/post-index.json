@@ -65,18 +65,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/philippines-firms-ai-maturity-study/featured.webp",
     "imageKeys": [
-      "articles/2026/11/philippines-firms-ai-maturity-study/image-1.webp?v=202611130800",
-      "articles/2026/11/philippines-firms-ai-maturity-study/image-2.webp?v=202611130800",
-      "articles/2026/11/philippines-firms-ai-maturity-study/image-3.webp?v=202611130800",
-      "articles/2026/11/philippines-firms-ai-maturity-study/image-4.webp?v=202611130800"
+      "articles/2026/11/philippines-firms-ai-maturity-study/image-1.webp?v=202611130828",
+      "articles/2026/11/philippines-firms-ai-maturity-study/image-2.webp?v=202611130828",
+      "articles/2026/11/philippines-firms-ai-maturity-study/image-3.webp?v=202611130828"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/philippines-firms-ai-maturity-study/featured.webp?v=202611130800",
-    "imageAlt": "Modern office workspace representing Philippine companies adopting artificial intelligence",
+    "image": "https://viper.ph/api/media/articles/2026/11/philippines-firms-ai-maturity-study/featured.webp?v=202611130828",
+    "imageAlt": "Business professional using a tablet to review digital technology information",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/philippines-firms-ai-maturity-study/",
     "description": "A BCG and Makati Business Club study places Philippine firms two years behind the global AI curve, with data, talent, and cost as key barriers today.",
-    "bodySha256": "bee4e4ecf4c9f5c02b78a5987ae9c5691c74c4de4d63dea85220e3abb4d44de1",
+    "bodySha256": "6f3b5bf63027ac242d3561b9755035098034f596160c941642ff1dd727cdc519",
     "publisherStatus": "published",
     "publicationSlot": "06:00"
   },
