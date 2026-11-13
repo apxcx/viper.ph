@@ -11,18 +11,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/kia-electrified-lineup-auto-focus/featured.webp",
     "imageKeys": [
-      "articles/2026/11/kia-electrified-lineup-auto-focus/image-1.webp?v=202611130800",
-      "articles/2026/11/kia-electrified-lineup-auto-focus/image-2.webp?v=202611130800",
-      "articles/2026/11/kia-electrified-lineup-auto-focus/image-3.webp?v=202611130800",
-      "articles/2026/11/kia-electrified-lineup-auto-focus/image-4.webp?v=202611130800"
+      "articles/2026/11/kia-electrified-lineup-auto-focus/image-1.webp?v=202611130840",
+      "articles/2026/11/kia-electrified-lineup-auto-focus/image-2.webp?v=202611130840",
+      "articles/2026/11/kia-electrified-lineup-auto-focus/image-3.webp?v=202611130840"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/kia-electrified-lineup-auto-focus/featured.webp?v=202611130800",
-    "imageAlt": "Kia EV5 electric vehicle displayed at an auto show",
+    "image": "https://viper.ph/api/media/articles/2026/11/kia-electrified-lineup-auto-focus/featured.webp?v=202611130840",
+    "imageAlt": "Kia electrified vehicle lineup displayed on a blue event court",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/kia-electrified-lineup-auto-focus/",
     "description": "Kia Philippines brings hybrid and battery-electric models to Auto Focus in Pasay, with test drives, financing offers, and an EV-focused raffle today.",
-    "bodySha256": "c4e2777a52cb9bff96c6a700b3a4f27cef2e9c1129c42e93ea214c9b7dac8fc1",
+    "bodySha256": "7a896a9eb2be19d381362830f19535c08f5390ade1e74d269d027e258d2bd931",
     "publisherStatus": "published",
     "publicationSlot": "10:00"
   },
