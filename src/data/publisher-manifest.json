@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-14/06:00",
+      "idempotency_key": "2026-11-14/06:00",
+      "day": "2026-11-14",
+      "slot": "06:00",
+      "slug": "dost-campus-startups-commercialization",
+      "title": "DOST Pushes Campus Startups Toward Market",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "0be8eafbcbf289f4ea52ec92d0548126b6de2ef00b79242639c614244c2812e5"
+    },
+    {
       "slot_key": "2026-11-13/10:00",
       "idempotency_key": "2026-11-13/10:00",
       "day": "2026-11-13",
@@ -4434,6 +4450,13 @@
     }
   ],
   "days": {
+    "2026-11-14": {
+      "2026-11-14/06:00": {
+        "slug": "dost-campus-startups-commercialization",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-13": {
       "2026-11-13/10:00": {
         "slug": "kia-electrified-lineup-auto-focus",
