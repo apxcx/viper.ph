@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-15/06:00",
+      "idempotency_key": "2026-11-15/06:00",
+      "day": "2026-11-15",
+      "slot": "06:00",
+      "slug": "microsoft-deped-ai-literacy",
+      "title": "Microsoft, DepEd Train 2,000 Teachers",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "7cd557190c520923829bb66faae4ffad14e661bf6e859675e8b934c2c0eae97a"
+    },
+    {
       "slot_key": "2026-11-14/10:00",
       "idempotency_key": "2026-11-14/10:00",
       "day": "2026-11-14",
@@ -4482,6 +4498,13 @@
     }
   ],
   "days": {
+    "2026-11-15": {
+      "2026-11-15/06:00": {
+        "slug": "microsoft-deped-ai-literacy",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-14": {
       "2026-11-14/10:00": {
         "slug": "eu-ai-summit-dublin",

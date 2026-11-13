@@ -1,5 +1,32 @@
 [
   {
+    "slug": "microsoft-deped-ai-literacy",
+    "title": "Microsoft, DepEd Train 2,000 Teachers",
+    "date": "2026-11-15T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "PH Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/microsoft-deped-ai-literacy/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/microsoft-deped-ai-literacy/image-1.webp?v=20261114074000",
+      "articles/2026/11/microsoft-deped-ai-literacy/image-2.webp?v=20261114074000",
+      "articles/2026/11/microsoft-deped-ai-literacy/image-3.webp?v=20261114074000",
+      "articles/2026/11/microsoft-deped-ai-literacy/image-4.webp?v=20261114074000"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/microsoft-deped-ai-literacy/featured.webp?v=20261114074000",
+    "imageAlt": "Teacher using a computer during an AI literacy lesson",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/microsoft-deped-ai-literacy/",
+    "description": "Microsoft and DepEd launched an AI literacy program for 2,000 teachers, pairing classroom skills with responsible technology use and oversight today.",
+    "bodySha256": "7cd557190c520923829bb66faae4ffad14e661bf6e859675e8b934c2c0eae97a",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "eu-ai-summit-dublin",
     "title": "EU Leaders Open First AI Summit",
     "date": "2026-11-14T10:00:00+08:00",
