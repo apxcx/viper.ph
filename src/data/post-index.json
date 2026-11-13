@@ -11,18 +11,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/eu-ai-summit-dublin/featured.webp",
     "imageKeys": [
-      "articles/2026/11/eu-ai-summit-dublin/image-1.webp?v=20261114061000",
-      "articles/2026/11/eu-ai-summit-dublin/image-2.webp?v=20261114061000",
-      "articles/2026/11/eu-ai-summit-dublin/image-3.webp?v=20261114061000",
-      "articles/2026/11/eu-ai-summit-dublin/image-4.webp?v=20261114061000"
+      "articles/2026/11/eu-ai-summit-dublin/image-1.webp?v=20261114073500",
+      "articles/2026/11/eu-ai-summit-dublin/image-2.webp?v=20261114073500",
+      "articles/2026/11/eu-ai-summit-dublin/image-3.webp?v=20261114073500"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/eu-ai-summit-dublin/featured.webp?v=20261114061000",
-    "imageAlt": "Speaker Bowen Zhou at the AAAI 2026 conference",
+    "image": "https://viper.ph/api/media/articles/2026/11/eu-ai-summit-dublin/featured.webp?v=20261114073500",
+    "imageAlt": "European leaders at the Éire 2026 European Political Community meeting",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/eu-ai-summit-dublin/",
     "description": "EU leaders meet in Dublin for the bloc’s first AI summit, weighing competitiveness, funding, safety guardrails, and the future of AI infrastructure.",
-    "bodySha256": "e524a70d05de01213f53282f8f158d873fdcd614fef28974a0703a876d82fa7b",
+    "bodySha256": "10933d28476f6b581ba92c635fe4947eb1c0ff58f87077df1955bc6a7cdacab0",
     "publisherStatus": "published",
     "publicationSlot": "10:00"
   },
