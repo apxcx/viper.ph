@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-14/08:00",
+      "idempotency_key": "2026-11-14/08:00",
+      "day": "2026-11-14",
+      "slot": "08:00",
+      "slug": "deped-133-ict-units-metro-schools",
+      "title": "DepEd Schools Get 133 ICT Units",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "4ae761016b472fd8d27228e0e847761b90818ed175035a701ff8b4e11a3eefd0"
+    },
+    {
       "slot_key": "2026-11-14/06:00",
       "idempotency_key": "2026-11-14/06:00",
       "day": "2026-11-14",
@@ -4451,6 +4467,11 @@
   ],
   "days": {
     "2026-11-14": {
+      "2026-11-14/08:00": {
+        "slug": "deped-133-ict-units-metro-schools",
+        "status": "published",
+        "managed": true
+      },
       "2026-11-14/06:00": {
         "slug": "dost-campus-startups-commercialization",
         "status": "published",

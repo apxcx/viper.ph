@@ -25,10 +25,6 @@
       "title": "EU Leaders Open First AI Summit | Viper.ph"
     },
     {
-      "path": "/deped-133-ict-units-metro-schools/",
-      "title": "DepEd Schools Get 133 ICT Units | Viper.ph"
-    },
-    {
       "path": "/category/ph-tech/",
       "title": "PH Tech | Viper.ph"
     },
@@ -95,6 +91,10 @@
     {
       "path": "/category/ph-tech/page/17/",
       "title": "PH Tech — Page 17 | Viper.ph"
+    },
+    {
+      "path": "/category/ph-tech/page/18/",
+      "title": "PH Tech — Page 18 | Viper.ph"
     },
     {
       "path": "/category/telcos-and-internet/",
@@ -231,6 +231,10 @@
     {
       "path": "/category/auto/",
       "title": "Auto | Viper.ph"
+    },
+    {
+      "path": "/deped-133-ict-units-metro-schools/",
+      "title": "DepEd Schools Get 133 ICT Units | Viper.ph"
     },
     {
       "path": "/dost-campus-startups-commercialization/",
