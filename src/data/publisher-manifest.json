@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-14/10:00",
+      "idempotency_key": "2026-11-14/10:00",
+      "day": "2026-11-14",
+      "slot": "10:00",
+      "slug": "eu-ai-summit-dublin",
+      "title": "EU Leaders Open First AI Summit",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "e524a70d05de01213f53282f8f158d873fdcd614fef28974a0703a876d82fa7b"
+    },
+    {
       "slot_key": "2026-11-14/08:00",
       "idempotency_key": "2026-11-14/08:00",
       "day": "2026-11-14",
@@ -4467,6 +4483,11 @@
   ],
   "days": {
     "2026-11-14": {
+      "2026-11-14/10:00": {
+        "slug": "eu-ai-summit-dublin",
+        "status": "published",
+        "managed": true
+      },
       "2026-11-14/08:00": {
         "slug": "deped-133-ict-units-metro-schools",
         "status": "published",

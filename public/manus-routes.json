@@ -21,10 +21,6 @@
       "title": "Partnerships & Collaborations | Viper.ph"
     },
     {
-      "path": "/eu-ai-summit-dublin/",
-      "title": "EU Leaders Open First AI Summit | Viper.ph"
-    },
-    {
       "path": "/category/ph-tech/",
       "title": "PH Tech | Viper.ph"
     },
@@ -231,6 +227,10 @@
     {
       "path": "/category/auto/",
       "title": "Auto | Viper.ph"
+    },
+    {
+      "path": "/eu-ai-summit-dublin/",
+      "title": "EU Leaders Open First AI Summit | Viper.ph"
     },
     {
       "path": "/deped-133-ict-units-metro-schools/",
