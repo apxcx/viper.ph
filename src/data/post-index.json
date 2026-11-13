@@ -38,18 +38,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/psa-national-id-fintech-authentication/featured.webp",
     "imageKeys": [
-      "articles/2026/11/psa-national-id-fintech-authentication/image-1.webp?v=202611130800",
-      "articles/2026/11/psa-national-id-fintech-authentication/image-2.webp?v=202611130800",
-      "articles/2026/11/psa-national-id-fintech-authentication/image-3.webp?v=202611130800",
-      "articles/2026/11/psa-national-id-fintech-authentication/image-4.webp?v=202611130800"
+      "articles/2026/11/psa-national-id-fintech-authentication/image-1.webp?v=202611130834",
+      "articles/2026/11/psa-national-id-fintech-authentication/image-2.webp?v=202611130834",
+      "articles/2026/11/psa-national-id-fintech-authentication/image-3.webp?v=202611130834"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/psa-national-id-fintech-authentication/featured.webp?v=202611130800",
-    "imageAlt": "QR code representing secure digital identity authentication for fintech services",
+    "image": "https://viper.ph/api/media/articles/2026/11/psa-national-id-fintech-authentication/featured.webp?v=202611130834",
+    "imageAlt": "Philippine Statistics Authority and technology partners signing National ID authentication agreements",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/psa-national-id-fintech-authentication/",
     "description": "The PSA adds Salmon Bank, ARX, and Island Credit Solution to National ID authentication use cases for faster onboarding, KYC, and secure access now.",
-    "bodySha256": "c84fafe0f57f0d4af9e0a991bb0dc5366dd3e502472b58fde423ffd330a9d46a",
+    "bodySha256": "e458018ba38bc84008c6d8767fdc668c16ff6e5590d17601d9f76e23ca9834e7",
     "publisherStatus": "published",
     "publicationSlot": "08:00"
   },
