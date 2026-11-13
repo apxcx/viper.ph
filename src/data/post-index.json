@@ -65,18 +65,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/dost-campus-startups-commercialization/featured.webp",
     "imageKeys": [
-      "articles/2026/11/dost-campus-startups-commercialization/image-1.webp?v=20261114060600",
-      "articles/2026/11/dost-campus-startups-commercialization/image-2.webp?v=20261114060600",
-      "articles/2026/11/dost-campus-startups-commercialization/image-3.webp?v=20261114060600",
-      "articles/2026/11/dost-campus-startups-commercialization/image-4.webp?v=20261114060600"
+      "articles/2026/11/dost-campus-startups-commercialization/image-1.webp?v=20261114072100",
+      "articles/2026/11/dost-campus-startups-commercialization/image-2.webp?v=20261114072100",
+      "articles/2026/11/dost-campus-startups-commercialization/image-3.webp?v=20261114072100"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/dost-campus-startups-commercialization/featured.webp?v=20261114060600",
-    "imageAlt": "Technology business incubator at Chandigarh University",
+    "image": "https://viper.ph/api/media/articles/2026/11/dost-campus-startups-commercialization/featured.webp?v=20261114072100",
+    "imageAlt": "Technology Business Incubation and Development program poster",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/dost-campus-startups-commercialization/",
     "description": "DOST is shifting Philippine university incubators toward commercial scale, sustainable operations, and stronger support for provincial technology startups.",
-    "bodySha256": "0be8eafbcbf289f4ea52ec92d0548126b6de2ef00b79242639c614244c2812e5",
+    "bodySha256": "6998c2e194d977b2a52e0868baa16ef3a6a5bed59932f756988fe0d1696394a2",
     "publisherStatus": "published",
     "publicationSlot": "06:00"
   },
