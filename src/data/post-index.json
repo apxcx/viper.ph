@@ -1,5 +1,86 @@
 [
   {
+    "slug": "kia-electrified-lineup-auto-focus",
+    "title": "Kia Shows Electrified Lineup at Auto Focus",
+    "date": "2026-11-13T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "Electric Vehicles"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/kia-electrified-lineup-auto-focus/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/kia-electrified-lineup-auto-focus/image-1.webp?v=202611130800",
+      "articles/2026/11/kia-electrified-lineup-auto-focus/image-2.webp?v=202611130800",
+      "articles/2026/11/kia-electrified-lineup-auto-focus/image-3.webp?v=202611130800",
+      "articles/2026/11/kia-electrified-lineup-auto-focus/image-4.webp?v=202611130800"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/kia-electrified-lineup-auto-focus/featured.webp?v=202611130800",
+    "imageAlt": "Kia EV5 electric vehicle displayed at an auto show",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/kia-electrified-lineup-auto-focus/",
+    "description": "Kia Philippines brings hybrid and battery-electric models to Auto Focus in Pasay, with test drives, financing offers, and an EV-focused raffle today.",
+    "bodySha256": "c4e2777a52cb9bff96c6a700b3a4f27cef2e9c1129c42e93ea214c9b7dac8fc1",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
+    "slug": "psa-national-id-fintech-authentication",
+    "title": "PSA Expands National ID Fintech Authentication",
+    "date": "2026-11-13T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "Fintech and Banking Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/psa-national-id-fintech-authentication/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/psa-national-id-fintech-authentication/image-1.webp?v=202611130800",
+      "articles/2026/11/psa-national-id-fintech-authentication/image-2.webp?v=202611130800",
+      "articles/2026/11/psa-national-id-fintech-authentication/image-3.webp?v=202611130800",
+      "articles/2026/11/psa-national-id-fintech-authentication/image-4.webp?v=202611130800"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/psa-national-id-fintech-authentication/featured.webp?v=202611130800",
+    "imageAlt": "QR code representing secure digital identity authentication for fintech services",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/psa-national-id-fintech-authentication/",
+    "description": "The PSA adds Salmon Bank, ARX, and Island Credit Solution to National ID authentication use cases for faster onboarding, KYC, and secure access now.",
+    "bodySha256": "c84fafe0f57f0d4af9e0a991bb0dc5366dd3e502472b58fde423ffd330a9d46a",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
+    "slug": "philippines-firms-ai-maturity-study",
+    "title": "PH Firms Trail Global AI Curve by Two Years",
+    "date": "2026-11-13T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "AI"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/philippines-firms-ai-maturity-study/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/philippines-firms-ai-maturity-study/image-1.webp?v=202611130800",
+      "articles/2026/11/philippines-firms-ai-maturity-study/image-2.webp?v=202611130800",
+      "articles/2026/11/philippines-firms-ai-maturity-study/image-3.webp?v=202611130800",
+      "articles/2026/11/philippines-firms-ai-maturity-study/image-4.webp?v=202611130800"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/philippines-firms-ai-maturity-study/featured.webp?v=202611130800",
+    "imageAlt": "Modern office workspace representing Philippine companies adopting artificial intelligence",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/philippines-firms-ai-maturity-study/",
+    "description": "A BCG and Makati Business Club study places Philippine firms two years behind the global AI curve, with data, talent, and cost as key barriers today.",
+    "bodySha256": "bee4e4ecf4c9f5c02b78a5987ae9c5691c74c4de4d63dea85220e3abb4d44de1",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "ai-trade-coreweave-nvidia-market-rebound",
     "title": "AI Trade Rebound Tests Market Confidence",
     "date": "2026-11-12T10:00:00+08:00",

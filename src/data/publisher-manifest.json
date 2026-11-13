@@ -8,6 +8,54 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-13/10:00",
+      "idempotency_key": "2026-11-13/10:00",
+      "day": "2026-11-13",
+      "slot": "10:00",
+      "slug": "kia-electrified-lineup-auto-focus",
+      "title": "Kia Shows Electrified Lineup at Auto Focus",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Electric Vehicles"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "c4e2777a52cb9bff96c6a700b3a4f27cef2e9c1129c42e93ea214c9b7dac8fc1"
+    },
+    {
+      "slot_key": "2026-11-13/08:00",
+      "idempotency_key": "2026-11-13/08:00",
+      "day": "2026-11-13",
+      "slot": "08:00",
+      "slug": "psa-national-id-fintech-authentication",
+      "title": "PSA Expands National ID Fintech Authentication",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Fintech and Banking Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "c84fafe0f57f0d4af9e0a991bb0dc5366dd3e502472b58fde423ffd330a9d46a"
+    },
+    {
+      "slot_key": "2026-11-13/06:00",
+      "idempotency_key": "2026-11-13/06:00",
+      "day": "2026-11-13",
+      "slot": "06:00",
+      "slug": "philippines-firms-ai-maturity-study",
+      "title": "PH Firms Trail Global AI Curve by Two Years",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "bee4e4ecf4c9f5c02b78a5987ae9c5691c74c4de4d63dea85220e3abb4d44de1"
+    },
+    {
       "slot_key": "2026-11-12/10:00",
       "idempotency_key": "2026-11-12/10:00",
       "day": "2026-11-12",
@@ -4386,6 +4434,23 @@
     }
   ],
   "days": {
+    "2026-11-13": {
+      "2026-11-13/10:00": {
+        "slug": "kia-electrified-lineup-auto-focus",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-13/08:00": {
+        "slug": "psa-national-id-fintech-authentication",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-13/06:00": {
+        "slug": "philippines-firms-ai-maturity-study",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-12": {
       "2026-11-12/10:00": {
         "slug": "ai-trade-coreweave-nvidia-market-rebound",
