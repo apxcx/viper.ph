@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-15/08:00",
+      "idempotency_key": "2026-11-15/08:00",
+      "day": "2026-11-15",
+      "slot": "08:00",
+      "slug": "singapore-ai-server-case",
+      "title": "Singapore Probes AI Server Export Case",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "International Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "1d5f778730bae3083bb74a04fe0c5a6f52b8b53a0987eecabf0198590c00a7c2"
+    },
+    {
       "slot_key": "2026-11-15/06:00",
       "idempotency_key": "2026-11-15/06:00",
       "day": "2026-11-15",
@@ -4499,6 +4515,11 @@
   ],
   "days": {
     "2026-11-15": {
+      "2026-11-15/08:00": {
+        "slug": "singapore-ai-server-case",
+        "status": "published",
+        "managed": true
+      },
       "2026-11-15/06:00": {
         "slug": "microsoft-deped-ai-literacy",
         "status": "published",
