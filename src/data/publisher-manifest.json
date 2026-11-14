@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-15/10:00",
+      "idempotency_key": "2026-11-15/10:00",
+      "day": "2026-11-15",
+      "slot": "10:00",
+      "slug": "nvidia-ceo-ai-chip-market",
+      "title": "Nvidia CEO Exit Tests AI Chip Market",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "a52438eef139f63b4bba7249d4f23e13c24695d4e93bd5c5636b454e08d4fa43"
+    },
+    {
       "slot_key": "2026-11-15/08:00",
       "idempotency_key": "2026-11-15/08:00",
       "day": "2026-11-15",
@@ -4515,6 +4531,11 @@
   ],
   "days": {
     "2026-11-15": {
+      "2026-11-15/10:00": {
+        "slug": "nvidia-ceo-ai-chip-market",
+        "status": "published",
+        "managed": true
+      },
       "2026-11-15/08:00": {
         "slug": "singapore-ai-server-case",
         "status": "published",
