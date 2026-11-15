@@ -38,18 +38,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/singapore-ai-server-case/featured.webp",
     "imageKeys": [
-      "articles/2026/11/singapore-ai-server-case/image-1.webp?v=20261114074000",
-      "articles/2026/11/singapore-ai-server-case/image-2.webp?v=20261114074000",
-      "articles/2026/11/singapore-ai-server-case/image-3.webp?v=20261114074000",
-      "articles/2026/11/singapore-ai-server-case/image-4.webp?v=20261114074000"
+      "articles/2026/11/singapore-ai-server-case/image-1.webp?v=20261115081500",
+      "articles/2026/11/singapore-ai-server-case/image-2.webp?v=20261115081500",
+      "articles/2026/11/singapore-ai-server-case/image-3.webp?v=20261115081500"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/singapore-ai-server-case/featured.webp?v=20261114074000",
-    "imageAlt": "Server racks in a data center room",
+    "image": "https://viper.ph/api/media/articles/2026/11/singapore-ai-server-case/featured.webp?v=20261115081500",
+    "imageAlt": "Jensen Huang arriving at an AI industry event",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/singapore-ai-server-case/",
     "description": "Singapore charged a fifth person in an alleged AI-server end-user misrepresentation case, highlighting export controls and supply-chain scrutiny.",
-    "bodySha256": "1d5f778730bae3083bb74a04fe0c5a6f52b8b53a0987eecabf0198590c00a7c2",
+    "bodySha256": "fd2d51a98da643965541bfc36d17ea6d084300f239f4ddfe20d8e5fdb42701b6",
     "publisherStatus": "published",
     "publicationSlot": "08:00"
   },
