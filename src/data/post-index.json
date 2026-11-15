@@ -65,18 +65,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/microsoft-deped-ai-literacy/featured.webp",
     "imageKeys": [
-      "articles/2026/11/microsoft-deped-ai-literacy/image-1.webp?v=20261114074000",
-      "articles/2026/11/microsoft-deped-ai-literacy/image-2.webp?v=20261114074000",
-      "articles/2026/11/microsoft-deped-ai-literacy/image-3.webp?v=20261114074000",
-      "articles/2026/11/microsoft-deped-ai-literacy/image-4.webp?v=20261114074000"
+      "articles/2026/11/microsoft-deped-ai-literacy/image-1.webp?v=20261115080800",
+      "articles/2026/11/microsoft-deped-ai-literacy/image-2.webp?v=20261115080800",
+      "articles/2026/11/microsoft-deped-ai-literacy/image-3.webp?v=20261115080800"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/microsoft-deped-ai-literacy/featured.webp?v=20261114074000",
-    "imageAlt": "Teacher using a computer during an AI literacy lesson",
+    "image": "https://viper.ph/api/media/articles/2026/11/microsoft-deped-ai-literacy/featured.webp?v=20261115080800",
+    "imageAlt": "Microsoft and DepEd educators at the AI literacy launch",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/microsoft-deped-ai-literacy/",
     "description": "Microsoft and DepEd launched an AI literacy program for 2,000 teachers, pairing classroom skills with responsible technology use and oversight today.",
-    "bodySha256": "7cd557190c520923829bb66faae4ffad14e661bf6e859675e8b934c2c0eae97a",
+    "bodySha256": "964b830c39678cc8250380d4c497a8db0d78f11769311ea73b8a9a9475c2c7f1",
     "publisherStatus": "published",
     "publicationSlot": "06:00"
   },
