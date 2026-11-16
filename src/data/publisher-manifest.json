@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-16/08:00",
+      "idempotency_key": "2026-11-16/08:00",
+      "day": "2026-11-16",
+      "slot": "08:00",
+      "slug": "canada-philippine-data-centers",
+      "title": "Canada Offers to Build PH Data Centers",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "International Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "2aa9e103fa0c95f70dc7534ac2200cf31643766dd3b1853dbff12df7987bd1b1"
+    },
+    {
       "slot_key": "2026-11-16/06:00",
       "idempotency_key": "2026-11-16/06:00",
       "day": "2026-11-16",
@@ -4547,6 +4563,11 @@
   ],
   "days": {
     "2026-11-16": {
+      "2026-11-16/08:00": {
+        "slug": "canada-philippine-data-centers",
+        "status": "published",
+        "managed": true
+      },
       "2026-11-16/06:00": {
         "slug": "marcos-national-ai-council",
         "status": "published",
