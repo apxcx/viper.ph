@@ -1,5 +1,32 @@
 [
   {
+    "slug": "marcos-national-ai-council",
+    "title": "Marcos Creates National AI Council",
+    "date": "2026-11-16T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "PH Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/marcos-national-ai-council/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/marcos-national-ai-council/image-1.webp?v=20261116081200",
+      "articles/2026/11/marcos-national-ai-council/image-2.webp?v=20261116081200",
+      "articles/2026/11/marcos-national-ai-council/image-3.webp?v=20261116081200",
+      "articles/2026/11/marcos-national-ai-council/image-4.webp?v=20261116081200"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/marcos-national-ai-council/featured.webp?v=20261116081200",
+    "imageAlt": "AI conference speaker presenting technology policy ideas",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/marcos-national-ai-council/",
+    "description": "Marcos creates a National AI Council to coordinate AI policy, standards, skills, safeguards, and responsible adoption across the Philippines nationally.",
+    "bodySha256": "a04d01f088eb26267df87e1b33f2edc25aca26c0a83f1f55539dcbf3379c7895",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "nvidia-ceo-ai-chip-market",
     "title": "Nvidia CEO Exit Tests AI Chip Market",
     "date": "2026-11-15T10:00:00+08:00",

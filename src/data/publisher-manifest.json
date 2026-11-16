@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-16/06:00",
+      "idempotency_key": "2026-11-16/06:00",
+      "day": "2026-11-16",
+      "slot": "06:00",
+      "slug": "marcos-national-ai-council",
+      "title": "Marcos Creates National AI Council",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "a04d01f088eb26267df87e1b33f2edc25aca26c0a83f1f55539dcbf3379c7895"
+    },
+    {
       "slot_key": "2026-11-15/10:00",
       "idempotency_key": "2026-11-15/10:00",
       "day": "2026-11-15",
@@ -4530,6 +4546,13 @@
     }
   ],
   "days": {
+    "2026-11-16": {
+      "2026-11-16/06:00": {
+        "slug": "marcos-national-ai-council",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-15": {
       "2026-11-15/10:00": {
         "slug": "nvidia-ceo-ai-chip-market",
