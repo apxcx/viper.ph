@@ -38,18 +38,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/canada-philippine-data-centers/featured.webp",
     "imageKeys": [
-      "articles/2026/11/canada-philippine-data-centers/image-1.webp?v=20261116081200",
-      "articles/2026/11/canada-philippine-data-centers/image-2.webp?v=20261116081200",
-      "articles/2026/11/canada-philippine-data-centers/image-3.webp?v=20261116081200",
-      "articles/2026/11/canada-philippine-data-centers/image-4.webp?v=20261116081200"
+      "articles/2026/11/canada-philippine-data-centers/image-1.webp?v=20261116083600",
+      "articles/2026/11/canada-philippine-data-centers/image-2.webp?v=20261116083600",
+      "articles/2026/11/canada-philippine-data-centers/image-3.webp?v=20261116083600"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/canada-philippine-data-centers/featured.webp?v=20261116081200",
-    "imageAlt": "Rows of servers inside a modern data center",
+    "image": "https://viper.ph/api/media/articles/2026/11/canada-philippine-data-centers/featured.webp?v=20261116083600",
+    "imageAlt": "Canadian delegation arrival linked to Philippine investment discussions",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/canada-philippine-data-centers/",
     "description": "Canada offers to build and operate Philippine data centers, linking AI infrastructure, power, critical minerals, and the Luzon Economic Corridor.",
-    "bodySha256": "2aa9e103fa0c95f70dc7534ac2200cf31643766dd3b1853dbff12df7987bd1b1",
+    "bodySha256": "b0eadb41404e8eeba7af9e1d2720bfd0f088ba08a22283e6a4dfcdcb7694bed9",
     "publisherStatus": "published",
     "publicationSlot": "08:00"
   },
