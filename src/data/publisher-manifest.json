@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-16/10:00",
+      "idempotency_key": "2026-11-16/10:00",
+      "day": "2026-11-16",
+      "slot": "10:00",
+      "slug": "anthropic-claude-fable-52",
+      "title": "Anthropic Debuts Claude Fable 5.2",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "3ec13dbe2ad7582d73b5d5692299432259ee495a378f2b8e6bb3aaf7415164c1"
+    },
+    {
       "slot_key": "2026-11-16/08:00",
       "idempotency_key": "2026-11-16/08:00",
       "day": "2026-11-16",
@@ -4563,6 +4579,11 @@
   ],
   "days": {
     "2026-11-16": {
+      "2026-11-16/10:00": {
+        "slug": "anthropic-claude-fable-52",
+        "status": "published",
+        "managed": true
+      },
       "2026-11-16/08:00": {
         "slug": "canada-philippine-data-centers",
         "status": "published",
