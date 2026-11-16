@@ -65,18 +65,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/marcos-national-ai-council/featured.webp",
     "imageKeys": [
-      "articles/2026/11/marcos-national-ai-council/image-1.webp?v=20261116081200",
-      "articles/2026/11/marcos-national-ai-council/image-2.webp?v=20261116081200",
-      "articles/2026/11/marcos-national-ai-council/image-3.webp?v=20261116081200",
-      "articles/2026/11/marcos-national-ai-council/image-4.webp?v=20261116081200"
+      "articles/2026/11/marcos-national-ai-council/image-1.webp?v=20261116082600",
+      "articles/2026/11/marcos-national-ai-council/image-2.webp?v=20261116082600",
+      "articles/2026/11/marcos-national-ai-council/image-3.webp?v=20261116082600"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/marcos-national-ai-council/featured.webp?v=20261116081200",
-    "imageAlt": "AI conference speaker presenting technology policy ideas",
+    "image": "https://viper.ph/api/media/articles/2026/11/marcos-national-ai-council/featured.webp?v=20261116082600",
+    "imageAlt": "President Ferdinand Marcos Jr. signing the National AI Governance Framework and Council order",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/marcos-national-ai-council/",
     "description": "Marcos creates a National AI Council to coordinate AI policy, standards, skills, safeguards, and responsible adoption across the Philippines nationally.",
-    "bodySha256": "a04d01f088eb26267df87e1b33f2edc25aca26c0a83f1f55539dcbf3379c7895",
+    "bodySha256": "c82ae60a6482791becf7b76653c0959f079825cb3f59ec60b6ed6d177408d9e4",
     "publisherStatus": "published",
     "publicationSlot": "06:00"
   },
