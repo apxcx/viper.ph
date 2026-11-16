@@ -11,18 +11,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/anthropic-claude-fable-52/featured.webp",
     "imageKeys": [
-      "articles/2026/11/anthropic-claude-fable-52/image-1.webp?v=20261116081200",
-      "articles/2026/11/anthropic-claude-fable-52/image-2.webp?v=20261116081200",
-      "articles/2026/11/anthropic-claude-fable-52/image-3.webp?v=20261116081200",
-      "articles/2026/11/anthropic-claude-fable-52/image-4.webp?v=20261116081200"
+      "articles/2026/11/anthropic-claude-fable-52/image-1.webp?v=20261116084400",
+      "articles/2026/11/anthropic-claude-fable-52/image-2.webp?v=20261116084400",
+      "articles/2026/11/anthropic-claude-fable-52/image-3.webp?v=20261116084400"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/anthropic-claude-fable-52/featured.webp?v=20261116081200",
-    "imageAlt": "Artificial intelligence concept image on a computer screen",
+    "image": "https://viper.ph/api/media/articles/2026/11/anthropic-claude-fable-52/featured.webp?v=20261116084400",
+    "imageAlt": "Claude Fable 5.2 by Anthropic promotional graphic",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/anthropic-claude-fable-52/",
     "description": "Anthropic introduces Claude Fable 5.2 and Claude Mythos 5.2 for coding, finance, and science, targeting technical work across industries worldwide.",
-    "bodySha256": "3ec13dbe2ad7582d73b5d5692299432259ee495a378f2b8e6bb3aaf7415164c1",
+    "bodySha256": "52b2933d985f816dd80bfae0034a8578515a4320cbf8a25e855cdc3d883902de",
     "publisherStatus": "published",
     "publicationSlot": "10:00"
   },
