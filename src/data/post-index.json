@@ -65,18 +65,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/asean-digital-talent-pathways/featured.webp",
     "imageKeys": [
-      "articles/2026/11/asean-digital-talent-pathways/image-1.webp?v=20261117080200",
-      "articles/2026/11/asean-digital-talent-pathways/image-2.webp?v=20261117080200",
-      "articles/2026/11/asean-digital-talent-pathways/image-3.webp?v=20261117080200",
-      "articles/2026/11/asean-digital-talent-pathways/image-4.webp?v=20261117080200"
+      "articles/2026/11/asean-digital-talent-pathways/image-1.webp?v=20261117090200",
+      "articles/2026/11/asean-digital-talent-pathways/image-2.webp?v=20261117090200",
+      "articles/2026/11/asean-digital-talent-pathways/image-3.webp?v=20261117090200"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/asean-digital-talent-pathways/featured.webp?v=20261117080200",
+    "image": "https://viper.ph/api/media/articles/2026/11/asean-digital-talent-pathways/featured.webp?v=20261117090200",
     "imageAlt": "ASEAN Opens Digital Talent Pathways",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/asean-digital-talent-pathways/",
     "description": "ASEAN leaders adopted a digital-talent declaration in Manila, opening a possible path for Filipino tech workers as regional skills systems align.",
-    "bodySha256": "a1e0e61438a5a44f7390b2d667678caa8a198a70c471e9dd18168e4679c61413",
+    "bodySha256": "15849a2e0dfd23d453bb9940c3a73cd5e9db444c8d437c50d9f8da1aae756f9c",
     "publisherStatus": "published",
     "publicationSlot": "06:00"
   },
