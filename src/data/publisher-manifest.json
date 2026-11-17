@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-17/06:00",
+      "idempotency_key": "2026-11-17/06:00",
+      "day": "2026-11-17",
+      "slot": "06:00",
+      "slug": "asean-digital-talent-pathways",
+      "title": "ASEAN Opens Digital Talent Pathways",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "a1e0e61438a5a44f7390b2d667678caa8a198a70c471e9dd18168e4679c61413"
+    },
+    {
       "slot_key": "2026-11-16/10:00",
       "idempotency_key": "2026-11-16/10:00",
       "day": "2026-11-16",
@@ -4578,6 +4594,13 @@
     }
   ],
   "days": {
+    "2026-11-17": {
+      "2026-11-17/06:00": {
+        "slug": "asean-digital-talent-pathways",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-16": {
       "2026-11-16/10:00": {
         "slug": "anthropic-claude-fable-52",
