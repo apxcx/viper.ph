@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-17/08:00",
+      "idempotency_key": "2026-11-17/08:00",
+      "day": "2026-11-17",
+      "slot": "08:00",
+      "slug": "national-id-fintech-links",
+      "title": "PSA Expands National ID Fintech Links",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Fintech and Banking Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "59944d47de17ae2d939354186e444d4fb722935620bceb2d7e50c3d157ba9de3"
+    },
+    {
       "slot_key": "2026-11-17/06:00",
       "idempotency_key": "2026-11-17/06:00",
       "day": "2026-11-17",
@@ -4595,6 +4611,11 @@
   ],
   "days": {
     "2026-11-17": {
+      "2026-11-17/08:00": {
+        "slug": "national-id-fintech-links",
+        "status": "published",
+        "managed": true
+      },
       "2026-11-17/06:00": {
         "slug": "asean-digital-talent-pathways",
         "status": "published",

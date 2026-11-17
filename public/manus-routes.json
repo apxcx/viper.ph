@@ -25,10 +25,6 @@
       "title": "Allies Coordinate AI Supply Chain Security | Viper.ph"
     },
     {
-      "path": "/national-id-fintech-links/",
-      "title": "PSA Expands National ID Fintech Links | Viper.ph"
-    },
-    {
       "path": "/category/ph-tech/",
       "title": "PH Tech | Viper.ph"
     },
@@ -239,6 +235,10 @@
     {
       "path": "/category/auto/",
       "title": "Auto | Viper.ph"
+    },
+    {
+      "path": "/national-id-fintech-links/",
+      "title": "PSA Expands National ID Fintech Links | Viper.ph"
     },
     {
       "path": "/asean-digital-talent-pathways/",
