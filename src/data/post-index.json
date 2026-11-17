@@ -11,18 +11,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/ai-supply-chain-security-allies/featured.webp",
     "imageKeys": [
-      "articles/2026/11/ai-supply-chain-security-allies/image-1.webp?v=20261117080200",
-      "articles/2026/11/ai-supply-chain-security-allies/image-2.webp?v=20261117080200",
-      "articles/2026/11/ai-supply-chain-security-allies/image-3.webp?v=20261117080200",
-      "articles/2026/11/ai-supply-chain-security-allies/image-4.webp?v=20261117080200"
+      "articles/2026/11/ai-supply-chain-security-allies/image-1.webp?v=20261117091800",
+      "articles/2026/11/ai-supply-chain-security-allies/image-2.webp?v=20261117091800",
+      "articles/2026/11/ai-supply-chain-security-allies/image-3.webp?v=20261117091800"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/ai-supply-chain-security-allies/featured.webp?v=20261117080200",
+    "image": "https://viper.ph/api/media/articles/2026/11/ai-supply-chain-security-allies/featured.webp?v=20261117091800",
     "imageAlt": "Allies Coordinate AI Supply Chain Security",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/ai-supply-chain-security-allies/",
     "description": "The United States and nine allies agreed to protect AI technologies and critical infrastructure as competition over chips and computing intensifies.",
-    "bodySha256": "eac358a108345ef40ff81c42281a5a897ab2bcdcd6f77173c1abdbf6ede93d17",
+    "bodySha256": "c8cb320cdf24d5ee9c17da0924584d4e88f489b5c8fc9f3f3060d8029ac1b6ba",
     "publisherStatus": "published",
     "publicationSlot": "10:00"
   },
