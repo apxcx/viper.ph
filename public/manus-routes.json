@@ -21,10 +21,6 @@
       "title": "Partnerships & Collaborations | Viper.ph"
     },
     {
-      "path": "/ai-supply-chain-security-allies/",
-      "title": "Allies Coordinate AI Supply Chain Security | Viper.ph"
-    },
-    {
       "path": "/category/ph-tech/",
       "title": "PH Tech | Viper.ph"
     },
@@ -235,6 +231,10 @@
     {
       "path": "/category/auto/",
       "title": "Auto | Viper.ph"
+    },
+    {
+      "path": "/ai-supply-chain-security-allies/",
+      "title": "Allies Coordinate AI Supply Chain Security | Viper.ph"
     },
     {
       "path": "/national-id-fintech-links/",

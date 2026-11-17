@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-17/10:00",
+      "idempotency_key": "2026-11-17/10:00",
+      "day": "2026-11-17",
+      "slot": "10:00",
+      "slug": "ai-supply-chain-security-allies",
+      "title": "Allies Coordinate AI Supply Chain Security",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "International Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "eac358a108345ef40ff81c42281a5a897ab2bcdcd6f77173c1abdbf6ede93d17"
+    },
+    {
       "slot_key": "2026-11-17/08:00",
       "idempotency_key": "2026-11-17/08:00",
       "day": "2026-11-17",
@@ -4611,6 +4627,11 @@
   ],
   "days": {
     "2026-11-17": {
+      "2026-11-17/10:00": {
+        "slug": "ai-supply-chain-security-allies",
+        "status": "published",
+        "managed": true
+      },
       "2026-11-17/08:00": {
         "slug": "national-id-fintech-links",
         "status": "published",
