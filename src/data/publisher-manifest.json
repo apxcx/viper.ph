@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-18/06:00",
+      "idempotency_key": "2026-11-18/06:00",
+      "day": "2026-11-18",
+      "slot": "06:00",
+      "slug": "child-online-safety-philippines",
+      "title": "PH Pushes Stronger Child Online Safety",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "c8c3ea2cbd698b345f5a24f3e96c9adea85d3292911a15fc61ad5b468fd95505"
+    },
+    {
       "slot_key": "2026-11-17/10:00",
       "idempotency_key": "2026-11-17/10:00",
       "day": "2026-11-17",
@@ -4626,6 +4642,13 @@
     }
   ],
   "days": {
+    "2026-11-18": {
+      "2026-11-18/06:00": {
+        "slug": "child-online-safety-philippines",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-17": {
       "2026-11-17/10:00": {
         "slug": "ai-supply-chain-security-allies",
