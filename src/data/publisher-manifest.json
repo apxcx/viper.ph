@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-18/08:00",
+      "idempotency_key": "2026-11-18/08:00",
+      "day": "2026-11-18",
+      "slot": "08:00",
+      "slug": "mastercard-accept-maya-philippines",
+      "title": "Mastercard Accept Targets Small Sellers",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Fintech and Banking Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "3b88786b1f880d8aafe940b39e539c0ce71a9d5ce935e74d5cb8997a013648d5"
+    },
+    {
       "slot_key": "2026-11-18/06:00",
       "idempotency_key": "2026-11-18/06:00",
       "day": "2026-11-18",
@@ -4643,6 +4659,11 @@
   ],
   "days": {
     "2026-11-18": {
+      "2026-11-18/08:00": {
+        "slug": "mastercard-accept-maya-philippines",
+        "status": "published",
+        "managed": true
+      },
       "2026-11-18/06:00": {
         "slug": "child-online-safety-philippines",
         "status": "published",
