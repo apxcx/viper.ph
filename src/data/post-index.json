@@ -11,18 +11,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/antalya-ai-pledge-sustainable-ai/featured.webp",
     "imageKeys": [
-      "articles/2026/11/antalya-ai-pledge-sustainable-ai/image-1.webp?v=20261118080000",
-      "articles/2026/11/antalya-ai-pledge-sustainable-ai/image-2.webp?v=20261118080000",
-      "articles/2026/11/antalya-ai-pledge-sustainable-ai/image-3.webp?v=20261118080000",
-      "articles/2026/11/antalya-ai-pledge-sustainable-ai/image-4.webp?v=20261118080000"
+      "articles/2026/11/antalya-ai-pledge-sustainable-ai/image-1.webp?v=20261118085000",
+      "articles/2026/11/antalya-ai-pledge-sustainable-ai/image-2.webp?v=20261118085000",
+      "articles/2026/11/antalya-ai-pledge-sustainable-ai/image-3.webp?v=20261118085000"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/antalya-ai-pledge-sustainable-ai/featured.webp?v=20261118080000",
-    "imageAlt": "Antalya AI Pledge Targets Greener Computing",
+    "image": "https://viper.ph/api/media/articles/2026/11/antalya-ai-pledge-sustainable-ai/featured.webp?v=20261118085000",
+    "imageAlt": "COP31 Antalya AI Pledge sign and sustainable AI event branding",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/antalya-ai-pledge-sustainable-ai/",
     "description": "The Antalya AI Pledge asks governments and companies to build cleaner, measurable AI systems as data-center energy and resource demands rise worldwide.",
-    "bodySha256": "b7741e76005b7924d51f2f94a1d32770e49d8e4ce636f86c16116d124010f440",
+    "bodySha256": "dbccfca763009d7dd69027dbcfc74220864cf0ce535953304940f4d14d87122f",
     "publisherStatus": "published",
     "publicationSlot": "10:00"
   },
