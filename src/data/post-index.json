@@ -65,18 +65,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/child-online-safety-philippines/featured.webp",
     "imageKeys": [
-      "articles/2026/11/child-online-safety-philippines/image-1.webp?v=20261118080000",
-      "articles/2026/11/child-online-safety-philippines/image-2.webp?v=20261118080000",
-      "articles/2026/11/child-online-safety-philippines/image-3.webp?v=20261118080000",
-      "articles/2026/11/child-online-safety-philippines/image-4.webp?v=20261118080000"
+      "articles/2026/11/child-online-safety-philippines/image-1.webp?v=20261118083700",
+      "articles/2026/11/child-online-safety-philippines/image-2.webp?v=20261118083700",
+      "articles/2026/11/child-online-safety-philippines/image-3.webp?v=20261118083700"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/child-online-safety-philippines/featured.webp?v=20261118080000",
-    "imageAlt": "PH Pushes Stronger Child Online Safety",
+    "image": "https://viper.ph/api/media/articles/2026/11/child-online-safety-philippines/featured.webp?v=20261118083700",
+    "imageAlt": "Children using connected devices with online safety protections",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/child-online-safety-philippines/",
     "description": "The Philippines is urging safer online safeguards for children as leaders link digital literacy, AI education, and safe technology use across communities.",
-    "bodySha256": "c8c3ea2cbd698b345f5a24f3e96c9adea85d3292911a15fc61ad5b468fd95505",
+    "bodySha256": "c8d91404097b50d3f5461d18a609ad0be01d6d3dc4366ef8c39929246a4d1ffd",
     "publisherStatus": "published",
     "publicationSlot": "06:00"
   },
