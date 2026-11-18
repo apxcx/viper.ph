@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-18/10:00",
+      "idempotency_key": "2026-11-18/10:00",
+      "day": "2026-11-18",
+      "slot": "10:00",
+      "slug": "antalya-ai-pledge-sustainable-ai",
+      "title": "Antalya AI Pledge Targets Greener Computing",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "International Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "b7741e76005b7924d51f2f94a1d32770e49d8e4ce636f86c16116d124010f440"
+    },
+    {
       "slot_key": "2026-11-18/08:00",
       "idempotency_key": "2026-11-18/08:00",
       "day": "2026-11-18",
@@ -4659,6 +4675,11 @@
   ],
   "days": {
     "2026-11-18": {
+      "2026-11-18/10:00": {
+        "slug": "antalya-ai-pledge-sustainable-ai",
+        "status": "published",
+        "managed": true
+      },
       "2026-11-18/08:00": {
         "slug": "mastercard-accept-maya-philippines",
         "status": "published",
