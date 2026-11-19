@@ -38,18 +38,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/asean-space-cooperation-declaration/featured.webp",
     "imageKeys": [
-      "articles/2026/11/asean-space-cooperation-declaration/image-1.webp?v=2026111900800",
-      "articles/2026/11/asean-space-cooperation-declaration/image-2.webp?v=2026111900800",
-      "articles/2026/11/asean-space-cooperation-declaration/image-3.webp?v=2026111900800",
-      "articles/2026/11/asean-space-cooperation-declaration/image-4.webp?v=2026111900800"
+      "articles/2026/11/asean-space-cooperation-declaration/image-1.webp?v=2026111908270",
+      "articles/2026/11/asean-space-cooperation-declaration/image-2.webp?v=2026111908270",
+      "articles/2026/11/asean-space-cooperation-declaration/image-3.webp?v=2026111908270"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/asean-space-cooperation-declaration/featured.webp?v=2026111900800",
-    "imageAlt": "NASA visualization of a satellite constellation around Earth",
+    "image": "https://viper.ph/api/media/articles/2026/11/asean-space-cooperation-declaration/featured.webp?v=2026111908270",
+    "imageAlt": "ASEAN leaders link arms at the ASEAN Summit",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/asean-space-cooperation-declaration/",
     "description": "The Philippines-led ASEAN space declaration sets shared priorities for safety, workforce development, data sharing, and a regional space economy.",
-    "bodySha256": "edfacdbbc015ce6d56a9fc5c6edb2a776c358aeec2f862cb3540e235c68a5d40",
+    "bodySha256": "b1b8ffdbd42d1cefb8677a4e1ef40a7a206206ca7341d067042b351035ddbcde",
     "publisherStatus": "published",
     "publicationSlot": "08:00"
   },
