@@ -25,10 +25,6 @@
       "title": "US Firms May Disclose Chinese AI Use | Viper.ph"
     },
     {
-      "path": "/asean-space-cooperation-declaration/",
-      "title": "ASEAN Adopts Space Cooperation Plan | Viper.ph"
-    },
-    {
       "path": "/category/ph-tech/",
       "title": "PH Tech | Viper.ph"
     },
@@ -239,6 +235,10 @@
     {
       "path": "/category/auto/",
       "title": "Auto | Viper.ph"
+    },
+    {
+      "path": "/asean-space-cooperation-declaration/",
+      "title": "ASEAN Adopts Space Cooperation Plan | Viper.ph"
     },
     {
       "path": "/nbi-digital-forensics-online-child-protection/",

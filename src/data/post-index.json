@@ -1,5 +1,32 @@
 [
   {
+    "slug": "asean-space-cooperation-declaration",
+    "title": "ASEAN Adopts Space Cooperation Plan",
+    "date": "2026-11-19T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "Tech Events"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/asean-space-cooperation-declaration/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/asean-space-cooperation-declaration/image-1.webp?v=2026111900800",
+      "articles/2026/11/asean-space-cooperation-declaration/image-2.webp?v=2026111900800",
+      "articles/2026/11/asean-space-cooperation-declaration/image-3.webp?v=2026111900800",
+      "articles/2026/11/asean-space-cooperation-declaration/image-4.webp?v=2026111900800"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/asean-space-cooperation-declaration/featured.webp?v=2026111900800",
+    "imageAlt": "NASA visualization of a satellite constellation around Earth",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/asean-space-cooperation-declaration/",
+    "description": "The Philippines-led ASEAN space declaration sets shared priorities for safety, workforce development, data sharing, and a regional space economy.",
+    "bodySha256": "edfacdbbc015ce6d56a9fc5c6edb2a776c358aeec2f862cb3540e235c68a5d40",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
     "slug": "nbi-digital-forensics-online-child-protection",
     "title": "NBI Adds Digital Forensic Tools",
     "date": "2026-11-19T06:00:00+08:00",
