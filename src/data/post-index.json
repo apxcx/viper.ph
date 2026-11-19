@@ -65,18 +65,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/nbi-digital-forensics-online-child-protection/featured.webp",
     "imageKeys": [
-      "articles/2026/11/nbi-digital-forensics-online-child-protection/image-1.webp?v=2026111900600",
-      "articles/2026/11/nbi-digital-forensics-online-child-protection/image-2.webp?v=2026111900600",
-      "articles/2026/11/nbi-digital-forensics-online-child-protection/image-3.webp?v=2026111900600",
-      "articles/2026/11/nbi-digital-forensics-online-child-protection/image-4.webp?v=2026111900600"
+      "articles/2026/11/nbi-digital-forensics-online-child-protection/image-1.webp?v=2026111908200",
+      "articles/2026/11/nbi-digital-forensics-online-child-protection/image-2.webp?v=2026111908200",
+      "articles/2026/11/nbi-digital-forensics-online-child-protection/image-3.webp?v=2026111908200"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/nbi-digital-forensics-online-child-protection/featured.webp?v=2026111900600",
-    "imageAlt": "Digital forensic examiner reviewing a seized mobile device",
+    "image": "https://viper.ph/api/media/articles/2026/11/nbi-digital-forensics-online-child-protection/featured.webp?v=2026111908200",
+    "imageAlt": "NBI emblem over a laptop used for digital investigation",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/nbi-digital-forensics-online-child-protection/",
     "description": "The NBI is expanding digital-forensics capacity with tools and training to speed evidence analysis in online child-exploitation cases in the Philippines.",
-    "bodySha256": "64af3f555f8123e77504d7bd8283892dad6ef6eb6b15546963de0f77428dcdb0",
+    "bodySha256": "e464f37e39df22529020b5a465291052d8fbb8906011b23d5208e5ad69118cab",
     "publisherStatus": "published",
     "publicationSlot": "06:00"
   },
