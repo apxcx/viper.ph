@@ -11,18 +11,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/us-firms-disclose-chinese-ai-use/featured.webp",
     "imageKeys": [
-      "articles/2026/11/us-firms-disclose-chinese-ai-use/image-1.webp?v=2026111901000",
-      "articles/2026/11/us-firms-disclose-chinese-ai-use/image-2.webp?v=2026111901000",
-      "articles/2026/11/us-firms-disclose-chinese-ai-use/image-3.webp?v=2026111901000",
-      "articles/2026/11/us-firms-disclose-chinese-ai-use/image-4.webp?v=2026111901000"
+      "articles/2026/11/us-firms-disclose-chinese-ai-use/image-1.webp?v=2026111908350",
+      "articles/2026/11/us-firms-disclose-chinese-ai-use/image-2.webp?v=2026111908350",
+      "articles/2026/11/us-firms-disclose-chinese-ai-use/image-3.webp?v=2026111908350"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/us-firms-disclose-chinese-ai-use/featured.webp?v=2026111901000",
-    "imageAlt": "CERN server infrastructure used to illustrate AI computing capacity",
+    "image": "https://viper.ph/api/media/articles/2026/11/us-firms-disclose-chinese-ai-use/featured.webp?v=2026111908350",
+    "imageAlt": "DeepSeek AI technology display",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/us-firms-disclose-chinese-ai-use/",
     "description": "The US is weighing public disclosure of Chinese AI use by companies, a move that could make model provenance part of enterprise technology risk reviews.",
-    "bodySha256": "82ce3d349d993dace8c7837dc76462dc64458cad746c19b3c23c5af0729a878f",
+    "bodySha256": "e9e0f94ba75628e27f59a5b4fd17bfaaef03bd619e41cf593fd79065b6604f2d",
     "publisherStatus": "published",
     "publicationSlot": "10:00"
   },
