@@ -1,5 +1,32 @@
 [
   {
+    "slug": "us-firms-disclose-chinese-ai-use",
+    "title": "US Firms May Disclose Chinese AI Use",
+    "date": "2026-11-19T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "AI"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/us-firms-disclose-chinese-ai-use/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/us-firms-disclose-chinese-ai-use/image-1.webp?v=2026111901000",
+      "articles/2026/11/us-firms-disclose-chinese-ai-use/image-2.webp?v=2026111901000",
+      "articles/2026/11/us-firms-disclose-chinese-ai-use/image-3.webp?v=2026111901000",
+      "articles/2026/11/us-firms-disclose-chinese-ai-use/image-4.webp?v=2026111901000"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/us-firms-disclose-chinese-ai-use/featured.webp?v=2026111901000",
+    "imageAlt": "CERN server infrastructure used to illustrate AI computing capacity",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/us-firms-disclose-chinese-ai-use/",
+    "description": "The US is weighing public disclosure of Chinese AI use by companies, a move that could make model provenance part of enterprise technology risk reviews.",
+    "bodySha256": "82ce3d349d993dace8c7837dc76462dc64458cad746c19b3c23c5af0729a878f",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
     "slug": "asean-space-cooperation-declaration",
     "title": "ASEAN Adopts Space Cooperation Plan",
     "date": "2026-11-19T08:00:00+08:00",
