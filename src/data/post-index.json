@@ -1,5 +1,32 @@
 [
   {
+    "slug": "nbi-digital-forensics-online-child-protection",
+    "title": "NBI Adds Digital Forensic Tools",
+    "date": "2026-11-19T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "PH Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/nbi-digital-forensics-online-child-protection/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/nbi-digital-forensics-online-child-protection/image-1.webp?v=2026111900600",
+      "articles/2026/11/nbi-digital-forensics-online-child-protection/image-2.webp?v=2026111900600",
+      "articles/2026/11/nbi-digital-forensics-online-child-protection/image-3.webp?v=2026111900600",
+      "articles/2026/11/nbi-digital-forensics-online-child-protection/image-4.webp?v=2026111900600"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/nbi-digital-forensics-online-child-protection/featured.webp?v=2026111900600",
+    "imageAlt": "Digital forensic examiner reviewing a seized mobile device",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/nbi-digital-forensics-online-child-protection/",
+    "description": "The NBI is expanding digital-forensics capacity with tools and training to speed evidence analysis in online child-exploitation cases in the Philippines.",
+    "bodySha256": "64af3f555f8123e77504d7bd8283892dad6ef6eb6b15546963de0f77428dcdb0",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "antalya-ai-pledge-sustainable-ai",
     "title": "Antalya AI Pledge Targets Greener Computing",
     "date": "2026-11-18T10:00:00+08:00",
