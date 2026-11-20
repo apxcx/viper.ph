@@ -38,18 +38,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/philippine-ev-registrations-2025/featured.webp",
     "imageKeys": [
-      "articles/2026/11/philippine-ev-registrations-2025/image-1.webp?v=2026112008000",
-      "articles/2026/11/philippine-ev-registrations-2025/image-2.webp?v=2026112008000",
-      "articles/2026/11/philippine-ev-registrations-2025/image-3.webp?v=2026112008000",
-      "articles/2026/11/philippine-ev-registrations-2025/image-4.webp?v=2026112008000"
+      "articles/2026/11/philippine-ev-registrations-2025/image-1.webp?v=2026112009000",
+      "articles/2026/11/philippine-ev-registrations-2025/image-2.webp?v=2026112009000",
+      "articles/2026/11/philippine-ev-registrations-2025/image-3.webp?v=2026112009000"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/philippine-ev-registrations-2025/featured.webp?v=2026112008000",
-    "imageAlt": "Electric vehicle charging station",
+    "image": "https://viper.ph/api/media/articles/2026/11/philippine-ev-registrations-2025/featured.webp?v=2026112009000",
+    "imageAlt": "Electric vehicles charging at a station",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/philippine-ev-registrations-2025/",
     "description": "Philippine electric-vehicle registrations nearly quintupled in 2025, giving automakers, charging providers and policymakers a clearer market signal.",
-    "bodySha256": "4e2da0e6dccc0ff9694b30d864f7e28a6e619b98512580286c5463e926fc13b8",
+    "bodySha256": "750734e1a0846166012998d250a83c1cbc328be8447be2b73c513dabe9cf661a",
     "publisherStatus": "published",
     "publicationSlot": "08:00"
   },
