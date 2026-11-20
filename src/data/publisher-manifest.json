@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-20/10:00",
+      "idempotency_key": "2026-11-20/10:00",
+      "day": "2026-11-20",
+      "slot": "10:00",
+      "slug": "anthropic-ipo-ai-market-test",
+      "title": "Anthropic IPO Tests AI Investor Appetite",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "International Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "fd1bfba9c00218d4c9b64d400cae79b39045e61da26cb7386e8c17382ff3374c"
+    },
+    {
       "slot_key": "2026-11-20/08:00",
       "idempotency_key": "2026-11-20/08:00",
       "day": "2026-11-20",
@@ -4755,6 +4771,11 @@
   ],
   "days": {
     "2026-11-20": {
+      "2026-11-20/10:00": {
+        "slug": "anthropic-ipo-ai-market-test",
+        "status": "published",
+        "managed": true
+      },
       "2026-11-20/08:00": {
         "slug": "philippine-ev-registrations-2025",
         "status": "published",

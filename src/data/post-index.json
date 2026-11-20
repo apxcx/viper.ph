@@ -1,5 +1,32 @@
 [
   {
+    "slug": "anthropic-ipo-ai-market-test",
+    "title": "Anthropic IPO Tests AI Investor Appetite",
+    "date": "2026-11-20T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "International Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/anthropic-ipo-ai-market-test/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/anthropic-ipo-ai-market-test/image-1.webp?v=2026112008000",
+      "articles/2026/11/anthropic-ipo-ai-market-test/image-2.webp?v=2026112008000",
+      "articles/2026/11/anthropic-ipo-ai-market-test/image-3.webp?v=2026112008000",
+      "articles/2026/11/anthropic-ipo-ai-market-test/image-4.webp?v=2026112008000"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/anthropic-ipo-ai-market-test/featured.webp?v=2026112008000",
+    "imageAlt": "Artificial intelligence conference",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/anthropic-ipo-ai-market-test/",
+    "description": "Anthropic’s record IPO made it the first publicly traded frontier AI company, while its volatile debut exposed questions about AI costs, growth and risk.",
+    "bodySha256": "fd1bfba9c00218d4c9b64d400cae79b39045e61da26cb7386e8c17382ff3374c",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
     "slug": "philippine-ev-registrations-2025",
     "title": "PH EV Registrations Near 28,000 in 2025",
     "date": "2026-11-20T08:00:00+08:00",
