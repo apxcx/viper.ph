@@ -1,5 +1,32 @@
 [
   {
+    "slug": "philippine-ev-registrations-2025",
+    "title": "PH EV Registrations Near 28,000 in 2025",
+    "date": "2026-11-20T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "Electric Vehicles"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/philippine-ev-registrations-2025/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/philippine-ev-registrations-2025/image-1.webp?v=2026112008000",
+      "articles/2026/11/philippine-ev-registrations-2025/image-2.webp?v=2026112008000",
+      "articles/2026/11/philippine-ev-registrations-2025/image-3.webp?v=2026112008000",
+      "articles/2026/11/philippine-ev-registrations-2025/image-4.webp?v=2026112008000"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/philippine-ev-registrations-2025/featured.webp?v=2026112008000",
+    "imageAlt": "Electric vehicle charging station",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/philippine-ev-registrations-2025/",
+    "description": "Philippine electric-vehicle registrations nearly quintupled in 2025, giving automakers, charging providers and policymakers a clearer market signal.",
+    "bodySha256": "4e2da0e6dccc0ff9694b30d864f7e28a6e619b98512580286c5463e926fc13b8",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
     "slug": "defa-digital-trade-philippines",
     "title": "ASEAN Digital Deal Opens New Markets",
     "date": "2026-11-20T06:00:00+08:00",

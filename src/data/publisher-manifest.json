@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-20/08:00",
+      "idempotency_key": "2026-11-20/08:00",
+      "day": "2026-11-20",
+      "slot": "08:00",
+      "slug": "philippine-ev-registrations-2025",
+      "title": "PH EV Registrations Near 28,000 in 2025",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Electric Vehicles"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "4e2da0e6dccc0ff9694b30d864f7e28a6e619b98512580286c5463e926fc13b8"
+    },
+    {
       "slot_key": "2026-11-20/06:00",
       "idempotency_key": "2026-11-20/06:00",
       "day": "2026-11-20",
@@ -4739,6 +4755,11 @@
   ],
   "days": {
     "2026-11-20": {
+      "2026-11-20/08:00": {
+        "slug": "philippine-ev-registrations-2025",
+        "status": "published",
+        "managed": true
+      },
       "2026-11-20/06:00": {
         "slug": "defa-digital-trade-philippines",
         "status": "published",
