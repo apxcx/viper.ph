@@ -21,10 +21,6 @@
       "title": "Partnerships & Collaborations | Viper.ph"
     },
     {
-      "path": "/ai-riemann-hypothesis-proof-claim/",
-      "title": "AI Helps Produce Riemann Proof Claim | Viper.ph"
-    },
-    {
       "path": "/category/ph-tech/",
       "title": "PH Tech | Viper.ph"
     },
@@ -235,6 +231,10 @@
     {
       "path": "/category/auto/",
       "title": "Auto | Viper.ph"
+    },
+    {
+      "path": "/ai-riemann-hypothesis-proof-claim/",
+      "title": "AI Helps Produce Riemann Proof Claim | Viper.ph"
     },
     {
       "path": "/vst-ecs-seagate-storage-philippines/",

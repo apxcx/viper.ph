@@ -12,10 +12,10 @@ seo_title: "AI Riemann Proof Claim | Viper"
 seo_description: "A mathematician releases a Lean-compilable Riemann Hypothesis proof claim made with Claude, but experts still need to verify and explain the result."
 canonical_url: https://viper.ph/ai-riemann-hypothesis-proof-claim/
 featured_image_key: articles/2026/11/ai-riemann-hypothesis-proof-claim/featured.webp
-featured_image_url: "https://viper.ph/api/media/articles/2026/11/ai-riemann-hypothesis-proof-claim/featured.webp?v=2026112106000"
-featured_image_alt: "Bernhard Riemann portrait for an AI mathematics report"
-featured_image_license: "Public-domain historical image plus openly documented project media"
-featured_image_credit: "Wikimedia Commons / Lean FRO"
+featured_image_url: "https://viper.ph/api/media/articles/2026/11/ai-riemann-hypothesis-proof-claim/featured.webp?v=2026112107410"
+featured_image_alt: "Riemann equations and Bernhard Riemann portrait"
+featured_image_license: "User-supplied image with permission for publication"
+featured_image_credit: "User-supplied image"
 featured_image_width: 1600
 featured_image_height: 900
 sources:
