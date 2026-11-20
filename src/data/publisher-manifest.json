@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-20/06:00",
+      "idempotency_key": "2026-11-20/06:00",
+      "day": "2026-11-20",
+      "slot": "06:00",
+      "slug": "defa-digital-trade-philippines",
+      "title": "ASEAN Digital Deal Opens New Markets",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "4bf9ca6518b4eb172707bef9da056b90197331ecca83de07e3c0c4affb335ccf"
+    },
+    {
       "slot_key": "2026-11-19/10:00",
       "idempotency_key": "2026-11-19/10:00",
       "day": "2026-11-19",
@@ -4722,6 +4738,13 @@
     }
   ],
   "days": {
+    "2026-11-20": {
+      "2026-11-20/06:00": {
+        "slug": "defa-digital-trade-philippines",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-19": {
       "2026-11-19/10:00": {
         "slug": "us-firms-disclose-chinese-ai-use",

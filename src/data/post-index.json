@@ -1,5 +1,32 @@
 [
   {
+    "slug": "defa-digital-trade-philippines",
+    "title": "ASEAN Digital Deal Opens New Markets",
+    "date": "2026-11-20T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "PH Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/defa-digital-trade-philippines/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/defa-digital-trade-philippines/image-1.webp?v=2026112008000",
+      "articles/2026/11/defa-digital-trade-philippines/image-2.webp?v=2026112008000",
+      "articles/2026/11/defa-digital-trade-philippines/image-3.webp?v=2026112008000",
+      "articles/2026/11/defa-digital-trade-philippines/image-4.webp?v=2026112008000"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/defa-digital-trade-philippines/featured.webp?v=2026112008000",
+    "imageAlt": "ASEAN digital economy conference",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/defa-digital-trade-philippines/",
+    "description": "The Philippines is taking ASEAN’s digital trade agreement to APEC, opening a regional framework for e-commerce, data flows and Filipino businesses.",
+    "bodySha256": "4bf9ca6518b4eb172707bef9da056b90197331ecca83de07e3c0c4affb335ccf",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "us-firms-disclose-chinese-ai-use",
     "title": "US Firms May Disclose Chinese AI Use",
     "date": "2026-11-19T10:00:00+08:00",
