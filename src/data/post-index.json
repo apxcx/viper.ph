@@ -11,18 +11,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/anthropic-ipo-ai-market-test/featured.webp",
     "imageKeys": [
-      "articles/2026/11/anthropic-ipo-ai-market-test/image-1.webp?v=2026112008000",
-      "articles/2026/11/anthropic-ipo-ai-market-test/image-2.webp?v=2026112008000",
-      "articles/2026/11/anthropic-ipo-ai-market-test/image-3.webp?v=2026112008000",
-      "articles/2026/11/anthropic-ipo-ai-market-test/image-4.webp?v=2026112008000"
+      "articles/2026/11/anthropic-ipo-ai-market-test/image-1.webp?v=2026112009000",
+      "articles/2026/11/anthropic-ipo-ai-market-test/image-2.webp?v=2026112009000",
+      "articles/2026/11/anthropic-ipo-ai-market-test/image-3.webp?v=2026112009000"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/anthropic-ipo-ai-market-test/featured.webp?v=2026112008000",
-    "imageAlt": "Artificial intelligence conference",
+    "image": "https://viper.ph/api/media/articles/2026/11/anthropic-ipo-ai-market-test/featured.webp?v=2026112009000",
+    "imageAlt": "Anthropic executives at Nasdaq",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/anthropic-ipo-ai-market-test/",
     "description": "Anthropic’s record IPO made it the first publicly traded frontier AI company, while its volatile debut exposed questions about AI costs, growth and risk.",
-    "bodySha256": "fd1bfba9c00218d4c9b64d400cae79b39045e61da26cb7386e8c17382ff3374c",
+    "bodySha256": "5110648c96e807ab69e303be98998ab4c02b493d003789d344f38eca5d7d0b8b",
     "publisherStatus": "published",
     "publicationSlot": "10:00"
   },
