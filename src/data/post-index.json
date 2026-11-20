@@ -1,5 +1,32 @@
 [
   {
+    "slug": "ai-riemann-hypothesis-proof-claim",
+    "title": "AI Helps Produce Riemann Proof Claim",
+    "date": "2026-11-21T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "International Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/ai-riemann-hypothesis-proof-claim/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/ai-riemann-hypothesis-proof-claim/image-1.webp?v=2026112106000",
+      "articles/2026/11/ai-riemann-hypothesis-proof-claim/image-2.webp?v=2026112106000",
+      "articles/2026/11/ai-riemann-hypothesis-proof-claim/image-3.webp?v=2026112106000",
+      "articles/2026/11/ai-riemann-hypothesis-proof-claim/image-4.webp?v=2026112106000"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/ai-riemann-hypothesis-proof-claim/featured.webp?v=2026112106000",
+    "imageAlt": "Bernhard Riemann portrait for an AI mathematics report",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/ai-riemann-hypothesis-proof-claim/",
+    "description": "A mathematician releases a Lean-compilable Riemann Hypothesis proof claim made with Claude, but experts still need to verify and explain the result.",
+    "bodySha256": "f7eee0489f6e2e636710db4b993f9738bad52b2358910098c918bbd9074b4426",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
     "slug": "vst-ecs-seagate-storage-philippines",
     "title": "VST ECS Adds Seagate Storage Lines",
     "date": "2026-11-21T08:00:00+08:00",
