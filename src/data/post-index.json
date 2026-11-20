@@ -63,18 +63,17 @@
     "tags": [],
     "imageKey": "articles/2026/11/defa-digital-trade-philippines/featured.webp",
     "imageKeys": [
-      "articles/2026/11/defa-digital-trade-philippines/image-1.webp?v=2026112008000",
-      "articles/2026/11/defa-digital-trade-philippines/image-2.webp?v=2026112008000",
-      "articles/2026/11/defa-digital-trade-philippines/image-3.webp?v=2026112008000",
-      "articles/2026/11/defa-digital-trade-philippines/image-4.webp?v=2026112008000"
+      "articles/2026/11/defa-digital-trade-philippines/image-1.webp?v=2026112009000",
+      "articles/2026/11/defa-digital-trade-philippines/image-2.webp?v=2026112009000",
+      "articles/2026/11/defa-digital-trade-philippines/image-3.webp?v=2026112009000"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/defa-digital-trade-philippines/featured.webp?v=2026112008000",
-    "imageAlt": "ASEAN digital economy conference",
+    "image": "https://viper.ph/api/media/articles/2026/11/defa-digital-trade-philippines/featured.webp?v=2026112009000",
+    "imageAlt": "ASEAN DEFA signing ceremony in Manila",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/defa-digital-trade-philippines/",
     "description": "The Philippines is taking ASEAN’s digital trade agreement to APEC, opening a regional framework for e-commerce, data flows and Filipino businesses.",
-    "bodySha256": "4bf9ca6518b4eb172707bef9da056b90197331ecca83de07e3c0c4affb335ccf",
+    "bodySha256": "e5e9d790b38e65235f94be43250210952ac5fbb7cd5e7f89e796dd561c1e0f92",
     "publisherStatus": "published",
     "publicationSlot": "06:00"
   },
