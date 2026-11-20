@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-21/08:00",
+      "idempotency_key": "2026-11-21/08:00",
+      "day": "2026-11-21",
+      "slot": "08:00",
+      "slug": "vst-ecs-seagate-storage-philippines",
+      "title": "VST ECS Adds Seagate Storage Lines",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Apps and Software"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "79ab8516f7ece273c01a69843ea2f0d082ea47a1dbaf95e17ab316906f7c1f9b"
+    },
+    {
       "slot_key": "2026-11-21/06:00",
       "idempotency_key": "2026-11-21/06:00",
       "day": "2026-11-21",
@@ -4787,6 +4803,11 @@
   ],
   "days": {
     "2026-11-21": {
+      "2026-11-21/08:00": {
+        "slug": "vst-ecs-seagate-storage-philippines",
+        "status": "published",
+        "managed": true
+      },
       "2026-11-21/06:00": {
         "slug": "samsung-solve-for-tomorrow-finalists-2026",
         "status": "published",
