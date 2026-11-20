@@ -12,10 +12,10 @@ seo_title: "VST ECS Adds Seagate Storage | Viper"
 seo_description: "VST ECS adds Seagate SkyHawk AI and IronWolf Pro drives in the Philippines, targeting video analytics, NAS and enterprise storage needs for local firms."
 canonical_url: https://viper.ph/vst-ecs-seagate-storage-philippines/
 featured_image_key: articles/2026/11/vst-ecs-seagate-storage-philippines/featured.webp
-featured_image_url: "https://viper.ph/api/media/articles/2026/11/vst-ecs-seagate-storage-philippines/featured.webp?v=2026112106000"
-featured_image_alt: "Seagate storage drives added to VST ECS Philippine portfolio"
-featured_image_license: "Source-publisher editorial image supplied for the report and official product materials"
-featured_image_credit: "Inquirer Technology / VST ECS"
+featured_image_url: "https://viper.ph/api/media/articles/2026/11/vst-ecs-seagate-storage-philippines/featured.webp?v=2026112107410"
+featured_image_alt: "32TB Seagate Exos, SkyHawk AI and IronWolf Pro drives"
+featured_image_license: "User-supplied image with permission for publication"
+featured_image_credit: "User-supplied image"
 featured_image_width: 1600
 featured_image_height: 900
 sources:

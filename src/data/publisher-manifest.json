@@ -8,22 +8,6 @@
   ],
   "entries": [
     {
-      "slot_key": "2026-11-21/10:00",
-      "idempotency_key": "2026-11-21/10:00",
-      "day": "2026-11-21",
-      "slot": "10:00",
-      "slug": "ai-riemann-hypothesis-proof-claim",
-      "title": "AI Helps Produce Riemann Proof Claim",
-      "status": "published",
-      "managed": true,
-      "categories": [
-        "International Tech"
-      ],
-      "source_count": 2,
-      "body_image_count": 4,
-      "content_sha256": "f7eee0489f6e2e636710db4b993f9738bad52b2358910098c918bbd9074b4426"
-    },
-    {
       "slot_key": "2026-11-21/08:00",
       "idempotency_key": "2026-11-21/08:00",
       "day": "2026-11-21",
@@ -4819,11 +4803,6 @@
   ],
   "days": {
     "2026-11-21": {
-      "2026-11-21/10:00": {
-        "slug": "ai-riemann-hypothesis-proof-claim",
-        "status": "published",
-        "managed": true
-      },
       "2026-11-21/08:00": {
         "slug": "vst-ecs-seagate-storage-philippines",
         "status": "published",
