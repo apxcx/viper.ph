@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-21/06:00",
+      "idempotency_key": "2026-11-21/06:00",
+      "day": "2026-11-21",
+      "slot": "06:00",
+      "slug": "samsung-solve-for-tomorrow-finalists-2026",
+      "title": "Samsung Names 10 Filipino Tech Changemakers",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Apps and Software"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "e19e584021b019e9c6eb6c93a75126fcabf65e451d28df896e7ed438c8efadd5"
+    },
+    {
       "slot_key": "2026-11-20/10:00",
       "idempotency_key": "2026-11-20/10:00",
       "day": "2026-11-20",
@@ -4770,6 +4786,13 @@
     }
   ],
   "days": {
+    "2026-11-21": {
+      "2026-11-21/06:00": {
+        "slug": "samsung-solve-for-tomorrow-finalists-2026",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-20": {
       "2026-11-20/10:00": {
         "slug": "anthropic-ipo-ai-market-test",
