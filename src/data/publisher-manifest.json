@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-22/10:00",
+      "idempotency_key": "2026-11-22/10:00",
+      "day": "2026-11-22",
+      "slot": "10:00",
+      "slug": "ai-agents-text-message-assistants",
+      "title": "AI Agents Move Into Text Messages",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "8f7b203f93b33de569286f19595b9b2880d67735305de1d284a4d7dfbd1775d8"
+    },
+    {
       "slot_key": "2026-11-22/08:00",
       "idempotency_key": "2026-11-22/08:00",
       "day": "2026-11-22",
@@ -4851,6 +4867,11 @@
   ],
   "days": {
     "2026-11-22": {
+      "2026-11-22/10:00": {
+        "slug": "ai-agents-text-message-assistants",
+        "status": "published",
+        "managed": true
+      },
       "2026-11-22/08:00": {
         "slug": "icaur-v23-v27-philippine-launch",
         "status": "published",

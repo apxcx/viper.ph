@@ -1,5 +1,32 @@
 [
   {
+    "slug": "ai-agents-text-message-assistants",
+    "title": "AI Agents Move Into Text Messages",
+    "date": "2026-11-22T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "AI"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/ai-agents-text-message-assistants/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/ai-agents-text-message-assistants/image-1.webp?v=2026112210000",
+      "articles/2026/11/ai-agents-text-message-assistants/image-2.webp?v=2026112210000",
+      "articles/2026/11/ai-agents-text-message-assistants/image-3.webp?v=2026112210000",
+      "articles/2026/11/ai-agents-text-message-assistants/image-4.webp?v=2026112210000"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/ai-agents-text-message-assistants/featured.webp?v=2026112210000",
+    "imageAlt": "Smartphone text-message screen representing AI assistants in messaging apps",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/ai-agents-text-message-assistants/",
+    "description": "AI agents are moving into SMS, iMessage, WhatsApp and Telegram, helping users manage tasks while raising new questions about permission and privacy.",
+    "bodySha256": "8f7b203f93b33de569286f19595b9b2880d67735305de1d284a4d7dfbd1775d8",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
     "slug": "icaur-v23-v27-philippine-launch",
     "title": "iCAUR Sets Philippine EV Price Reveal",
     "date": "2026-11-22T08:00:00+08:00",
