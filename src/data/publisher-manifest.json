@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-22/06:00",
+      "idempotency_key": "2026-11-22/06:00",
+      "day": "2026-11-22",
+      "slot": "06:00",
+      "slug": "deped-macbook-neo-antipolo-teachers",
+      "title": "DepEd Gives 1,441 Teachers MacBooks",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "cfc6acc34103017a62a761608a1c5d811d315ba981aa61d3af2ed76aca084603"
+    },
+    {
       "slot_key": "2026-11-21/10:00",
       "idempotency_key": "2026-11-21/10:00",
       "day": "2026-11-21",
@@ -4818,6 +4834,13 @@
     }
   ],
   "days": {
+    "2026-11-22": {
+      "2026-11-22/06:00": {
+        "slug": "deped-macbook-neo-antipolo-teachers",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-21": {
       "2026-11-21/10:00": {
         "slug": "ai-riemann-hypothesis-proof-claim",

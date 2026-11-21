@@ -1,5 +1,32 @@
 [
   {
+    "slug": "deped-macbook-neo-antipolo-teachers",
+    "title": "DepEd Gives 1,441 Teachers MacBooks",
+    "date": "2026-11-22T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "PH Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/deped-macbook-neo-antipolo-teachers/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/deped-macbook-neo-antipolo-teachers/image-1.webp?v=2026112206000",
+      "articles/2026/11/deped-macbook-neo-antipolo-teachers/image-2.webp?v=2026112206000",
+      "articles/2026/11/deped-macbook-neo-antipolo-teachers/image-3.webp?v=2026112206000",
+      "articles/2026/11/deped-macbook-neo-antipolo-teachers/image-4.webp?v=2026112206000"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/deped-macbook-neo-antipolo-teachers/featured.webp?v=2026112206000",
+    "imageAlt": "MacBook laptop used as a visual for DepEd's teacher device rollout",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/deped-macbook-neo-antipolo-teachers/",
+    "description": "DepEd gave 1,441 Antipolo teachers MacBook Neo laptops, expanding a nationwide program with training, connectivity checks and support for classrooms.",
+    "bodySha256": "cfc6acc34103017a62a761608a1c5d811d315ba981aa61d3af2ed76aca084603",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "ai-riemann-hypothesis-proof-claim",
     "title": "AI Helps Produce Riemann Proof Claim",
     "date": "2026-11-21T10:00:00+08:00",
