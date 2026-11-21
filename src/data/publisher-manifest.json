@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-22/08:00",
+      "idempotency_key": "2026-11-22/08:00",
+      "day": "2026-11-22",
+      "slot": "08:00",
+      "slug": "icaur-v23-v27-philippine-launch",
+      "title": "iCAUR Sets Philippine EV Price Reveal",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Electric Vehicles"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "5e59a9308579460f12b0ea261534d729a8c2854a7a318e4223759aa6dc5b869f"
+    },
+    {
       "slot_key": "2026-11-22/06:00",
       "idempotency_key": "2026-11-22/06:00",
       "day": "2026-11-22",
@@ -4835,6 +4851,11 @@
   ],
   "days": {
     "2026-11-22": {
+      "2026-11-22/08:00": {
+        "slug": "icaur-v23-v27-philippine-launch",
+        "status": "published",
+        "managed": true
+      },
       "2026-11-22/06:00": {
         "slug": "deped-macbook-neo-antipolo-teachers",
         "status": "published",

@@ -1,5 +1,32 @@
 [
   {
+    "slug": "icaur-v23-v27-philippine-launch",
+    "title": "iCAUR Sets Philippine EV Price Reveal",
+    "date": "2026-11-22T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "Electric Vehicles"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/icaur-v23-v27-philippine-launch/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/icaur-v23-v27-philippine-launch/image-1.webp?v=2026112208000",
+      "articles/2026/11/icaur-v23-v27-philippine-launch/image-2.webp?v=2026112208000",
+      "articles/2026/11/icaur-v23-v27-philippine-launch/image-3.webp?v=2026112208000",
+      "articles/2026/11/icaur-v23-v27-philippine-launch/image-4.webp?v=2026112208000"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/icaur-v23-v27-philippine-launch/featured.webp?v=2026112208000",
+    "imageAlt": "iCAUR V23 electric SUV shown in official Philippine product media",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/icaur-v23-v27-philippine-launch/",
+    "description": "iCAUR will reveal Philippine prices for its V23 BEV and V27 Golden REEV on November 24, ahead of Pioneer Edition customer deliveries and wider expansion.",
+    "bodySha256": "5e59a9308579460f12b0ea261534d729a8c2854a7a318e4223759aa6dc5b869f",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
     "slug": "deped-macbook-neo-antipolo-teachers",
     "title": "DepEd Gives 1,441 Teachers MacBooks",
     "date": "2026-11-22T06:00:00+08:00",
