@@ -11,18 +11,18 @@
     "tags": [],
     "imageKey": "articles/2026/11/ai-agents-text-message-assistants/featured.webp",
     "imageKeys": [
-      "articles/2026/11/ai-agents-text-message-assistants/image-1.webp?v=2026112210000",
-      "articles/2026/11/ai-agents-text-message-assistants/image-2.webp?v=2026112210000",
-      "articles/2026/11/ai-agents-text-message-assistants/image-3.webp?v=2026112210000",
-      "articles/2026/11/ai-agents-text-message-assistants/image-4.webp?v=2026112210000"
+      "articles/2026/11/ai-agents-text-message-assistants/image-1.webp?v=20261122083908",
+      "articles/2026/11/ai-agents-text-message-assistants/image-2.webp?v=20261122083908",
+      "articles/2026/11/ai-agents-text-message-assistants/image-3.webp?v=20261122083908",
+      "articles/2026/11/ai-agents-text-message-assistants/image-4.webp?v=20261122083908"
     ],
-    "image": "https://viper.ph/api/media/articles/2026/11/ai-agents-text-message-assistants/featured.webp?v=2026112210000",
-    "imageAlt": "Smartphone text-message screen representing AI assistants in messaging apps",
+    "image": "https://viper.ph/api/media/articles/2026/11/ai-agents-text-message-assistants/featured.webp?v=20261122083908",
+    "imageAlt": "AI assistants entering text messages, represented by a conversational messaging graphic",
     "imageWidth": 1600,
     "imageHeight": 900,
     "sourceUrl": "https://viper.ph/ai-agents-text-message-assistants/",
     "description": "AI agents are moving into SMS, iMessage, WhatsApp and Telegram, helping users manage tasks while raising new questions about permission and privacy.",
-    "bodySha256": "8f7b203f93b33de569286f19595b9b2880d67735305de1d284a4d7dfbd1775d8",
+    "bodySha256": "7c71d7e73261a660b4e273e04fbd40e7ababf961291be332022369fdcbe17df1",
     "publisherStatus": "published",
     "publicationSlot": "10:00"
   },
