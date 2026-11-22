@@ -12,8 +12,8 @@ seo_title: "AI Agents Move Into Text Messages | Viper"
 seo_description: "AI agents are moving into SMS, iMessage, WhatsApp and Telegram, helping users manage tasks while raising new questions about permission and privacy."
 canonical_url: https://viper.ph/ai-agents-text-message-assistants/
 featured_image_key: articles/2026/11/ai-agents-text-message-assistants/featured.webp
-featured_image_url: "https://viper.ph/api/media/articles/2026/11/ai-agents-text-message-assistants/featured.webp?v=20261122083908"
-featured_image_alt: "AI assistants entering text messages, represented by a conversational messaging graphic"
+featured_image_url: "https://viper.ph/api/media/articles/2026/11/ai-agents-text-message-assistants/featured.webp?v=20261122084550"
+featured_image_alt: "AI help moving into text messages, shown in a conversational messaging graphic"
 featured_image_license: "User-supplied image with permission for publication"
 featured_image_credit: "User-supplied image"
 featured_image_width: 1600
