@@ -253,15 +253,15 @@ img { display: block; max-width: 100%; }
 .newsletter-page__embed-shell .ml-embedded .ml-form-formContent { display: contents !important; }
 .newsletter-page__embed-shell .ml-embedded .ml-form-fieldRow, .newsletter-page__embed-shell .ml-embedded .ml-form-embedSubmit { flex: 1 1 190px !important; width: auto !important; margin: 0 !important; }
 .newsletter-page__embed-shell .ml-embedded .ml-form-embedSubmit { flex: 0 0 auto !important; display: flex !important; align-items: stretch !important; }
-.newsletter-page__embed-shell .ml-embedded input { width: 100% !important; min-height: 48px !important; box-sizing: border-box !important; padding: 13px 15px !important; border: 1px solid #c9cbd2 !important; border-radius: 4px !important; outline: 0 !important; color: #14171c !important; background: #fff !important; box-shadow: none !important; }
-.newsletter-page__embed-shell .ml-embedded input::placeholder { color: #6f7480 !important; opacity: 1 !important; }
+.newsletter-page__embed-shell .ml-embedded input { width: 100% !important; min-height: 48px !important; box-sizing: border-box !important; padding: 13px 15px !important; border: 1px solid #c9cbd2 !important; border-radius: 4px !important; outline: 0 !important; color: #111827 !important; background: #fff !important; box-shadow: none !important; opacity: 1 !important; }
+.newsletter-page__embed-shell .ml-embedded input::placeholder { color: #1f2937 !important; opacity: 1 !important; }
 .newsletter-page__embed-shell .ml-embedded input:focus { border-color: var(--color-viper-accent) !important; box-shadow: 0 0 0 2px rgba(0,0,255,.13) !important; }
 .newsletter-page__embed-shell .ml-embedded button, .newsletter-page__embed-shell .ml-embedded [type='submit'] { min-height: 48px !important; padding: 0 20px !important; border: 0 !important; border-radius: 4px !important; color: #fff !important; background: var(--color-viper-accent) !important; font-family: var(--font-sans) !important; font-weight: 700 !important; text-transform: uppercase !important; letter-spacing: .08em !important; white-space: nowrap !important; }
 .newsletter-page__embed-shell .ml-embedded button:hover, .newsletter-page__embed-shell .ml-embedded [type='submit']:hover { filter: brightness(1.14); }
-.newsletter-page__embed-shell .ml-embedded label, .newsletter-page__embed-shell .ml-embedded p { color: #c3c3cb !important; font-family: var(--font-sans) !important; }
+.newsletter-page__embed-shell .ml-embedded label, .newsletter-page__embed-shell .ml-embedded p { color: #374151 !important; font-family: var(--font-sans) !important; }
 .newsletter-page__embed-shell .ml-embedded .ml-form-formContent + .ml-form-embedSubmit { margin-top: 0 !important; }
-.newsletter-page__embed-shell .ml-embedded .ml-form-embedBody > p, .newsletter-page__embed-shell .ml-embedded .ml-form-embedBody .ml-form-embedPermissions { flex: 0 0 100% !important; width: 100% !important; margin: 2px 0 0 !important; color: #aeb0bb !important; font-size: 11px !important; line-height: 1.5 !important; }
-.newsletter-page__embed-shell .ml-embedded .ml-form-embedBody a { color: #c8c9ff !important; text-decoration: underline !important; text-underline-offset: 2px !important; }
+.newsletter-page__embed-shell .ml-embedded .ml-form-embedBody > p, .newsletter-page__embed-shell .ml-embedded .ml-form-embedBody .ml-form-embedPermissions { flex: 0 0 100% !important; width: 100% !important; margin: 2px 0 0 !important; color: #374151 !important; font-size: 11px !important; line-height: 1.5 !important; }
+.newsletter-page__embed-shell .ml-embedded .ml-form-embedBody a { color: #1e3a8a !important; text-decoration: underline !important; text-decoration-thickness: 1px !important; text-underline-offset: 2px !important; }
 .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
 :focus-visible { outline: 2px solid var(--color-viper-accent); outline-offset: 4px; }
 .news-card h2 a:focus-visible, .subscribe-form button:focus-visible, .nav-cta:focus-visible { outline-color: #fff; }
