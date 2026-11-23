@@ -1,5 +1,32 @@
 [
   {
+    "slug": "dost-technology-el-nino-philippines",
+    "title": "Tech Tools Help PH Farmers Face El Niño",
+    "date": "2026-11-23T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "PH Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/dost-technology-el-nino-philippines/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/dost-technology-el-nino-philippines/image-1.webp?v=202611230800",
+      "articles/2026/11/dost-technology-el-nino-philippines/image-2.webp?v=202611230800",
+      "articles/2026/11/dost-technology-el-nino-philippines/image-3.webp?v=202611230800",
+      "articles/2026/11/dost-technology-el-nino-philippines/image-4.webp?v=202611230800"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/dost-technology-el-nino-philippines/featured.webp?v=202611230800",
+    "imageAlt": "Solar-powered irrigation supporting crops during drought conditions",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/dost-technology-el-nino-philippines/",
+    "description": "DOST promotes solar irrigation, water treatment, desalination, and data tools as the Philippines prepares for severe El Niño conditions across farms.",
+    "bodySha256": "5af6714253ad2e938210f471fb9fa53db93a029ee59f2ee4521b92708304f072",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
     "slug": "defa-financial-cybersecurity-philippines",
     "title": "DEFA Could Strengthen PH Cybersecurity",
     "date": "2026-11-23T06:00:00+08:00",
