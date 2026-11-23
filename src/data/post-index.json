@@ -1,5 +1,32 @@
 [
   {
+    "slug": "defa-financial-cybersecurity-philippines",
+    "title": "DEFA Could Strengthen PH Cybersecurity",
+    "date": "2026-11-23T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "Fintech and Banking Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/defa-financial-cybersecurity-philippines/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/defa-financial-cybersecurity-philippines/image-1.webp?v=202611230600",
+      "articles/2026/11/defa-financial-cybersecurity-philippines/image-2.webp?v=202611230600",
+      "articles/2026/11/defa-financial-cybersecurity-philippines/image-3.webp?v=202611230600",
+      "articles/2026/11/defa-financial-cybersecurity-philippines/image-4.webp?v=202611230600"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/defa-financial-cybersecurity-philippines/featured.webp?v=202611230600",
+    "imageAlt": "Secure digital payment network representing ASEAN financial connectivity",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/defa-financial-cybersecurity-philippines/",
+    "description": "ASEAN’s DEFA could strengthen Philippine financial cybersecurity by aligning cross-border data, payments, fraud rules, and fund recovery cooperation.",
+    "bodySha256": "32721a6f5262bd8eaf3372768c2730dada2a6e02dc3428114b25b0bea67ebc85",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "ai-agents-text-message-assistants",
     "title": "AI Agents Move Into Text Messages",
     "date": "2026-11-22T10:00:00+08:00",

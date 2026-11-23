@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-23/06:00",
+      "idempotency_key": "2026-11-23/06:00",
+      "day": "2026-11-23",
+      "slot": "06:00",
+      "slug": "defa-financial-cybersecurity-philippines",
+      "title": "DEFA Could Strengthen PH Cybersecurity",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Fintech and Banking Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "32721a6f5262bd8eaf3372768c2730dada2a6e02dc3428114b25b0bea67ebc85"
+    },
+    {
       "slot_key": "2026-11-22/10:00",
       "idempotency_key": "2026-11-22/10:00",
       "day": "2026-11-22",
@@ -4866,6 +4882,13 @@
     }
   ],
   "days": {
+    "2026-11-23": {
+      "2026-11-23/06:00": {
+        "slug": "defa-financial-cybersecurity-philippines",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-22": {
       "2026-11-22/10:00": {
         "slug": "ai-agents-text-message-assistants",
