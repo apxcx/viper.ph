@@ -12,10 +12,10 @@ seo_title: 'Pax Silica Philippines: Issues Before Deal | Viper'
 seo_description: The US wants the Philippines to address Pax Silica concerns before an agreement, leaving the semiconductor and AI hub proposal unresolved for now.
 canonical_url: https://viper.ph/pax-silica-philippines-issues-before-agreement/
 featured_image_key: articles/2026/11/pax-silica-philippines-issues-before-agreement/featured.webp
-featured_image_url: https://viper.ph/api/media/articles/2026/11/pax-silica-philippines-issues-before-agreement/featured.webp?v=202611231000
-featured_image_alt: Proposed Philippine technology hub linked to semiconductor and AI supply chains
-featured_image_license: Editorial source image with documented reuse basis
-featured_image_credit: ASTIG / source article image
+featured_image_url: https://viper.ph/api/media/articles/2026/11/pax-silica-philippines-issues-before-agreement/featured.webp?v=202611231156
+featured_image_alt: Pax Silica delegates gathered beneath an international semiconductor supply-chain backdrop
+featured_image_license: User-supplied, rights cleared
+featured_image_credit: Provided by Viper editorial
 featured_image_width: 1600
 featured_image_height: 900
 sources:
@@ -26,27 +26,27 @@ sources:
   url: https://newsinfo.inquirer.net/2274123/pax-silica-brings-promise-but-at-what-cost
   publisher: Inquirer
 images:
-- url: https://viper.ph/api/media/articles/2026/11/pax-silica-philippines-issues-before-agreement/image-1.webp?v=202611231000
-  alt: Semiconductor manufacturing equipment representing advanced chip production
-  source_url: https://unsplash.com/s/photos/semiconductor-factory
-  credit: Unsplash editorial image
-  license: Unsplash License
+- url: https://viper.ph/api/media/articles/2026/11/pax-silica-philippines-issues-before-agreement/image-1.webp?v=202611231156
+  alt: Officials displaying signed Pax Silica cooperation documents beside national flags
+  source_url: https://viper.ph/pax-silica-philippines-issues-before-agreement/
+  credit: Provided by Viper editorial
+  license: User-supplied, rights cleared
   rights_cleared: true
   width: 1600
   height: 900
-- url: https://viper.ph/api/media/articles/2026/11/pax-silica-philippines-issues-before-agreement/image-2.webp?v=202611231000
-  alt: Data center racks representing AI infrastructure requirements
-  source_url: https://unsplash.com/s/photos/data-center
-  credit: Unsplash editorial image
-  license: Unsplash License
+- url: https://viper.ph/api/media/articles/2026/11/pax-silica-philippines-issues-before-agreement/image-2.webp?v=202611231156
+  alt: Pax Silica branding displayed at a strategic technology event
+  source_url: https://viper.ph/pax-silica-philippines-issues-before-agreement/
+  credit: Provided by Viper editorial
+  license: User-supplied, rights cleared
   rights_cleared: true
   width: 1600
   height: 900
-- url: https://viper.ph/api/media/articles/2026/11/pax-silica-philippines-issues-before-agreement/image-3.webp?v=202611231000
-  alt: Network hardware supporting digital infrastructure and supply chains
-  source_url: https://unsplash.com/s/photos/data-center
-  credit: Unsplash editorial image
-  license: Unsplash License
+- url: https://viper.ph/api/media/articles/2026/11/pax-silica-philippines-issues-before-agreement/image-3.webp?v=202611231156
+  alt: US Department of State fact sheet explaining the Pax Silica Initiative
+  source_url: https://viper.ph/pax-silica-philippines-issues-before-agreement/
+  credit: Provided by Viper editorial
+  license: User-supplied, rights cleared
   rights_cleared: true
   width: 1600
   height: 900
@@ -62,15 +62,15 @@ images:
 
 The Philippines is not yet moving to a Pax Silica agreement after the United States urged the government to resolve outstanding concerns first. Senate President Sherwin Gatchalian said US Secretary of State Marco Rubio told him that the country should have time to address issues surrounding the initiative. The message matters because Pax Silica is tied to an ambitious technology and supply-chain agenda, but it is not a completed investment contract. The latest development keeps the proposal in the policy stage while Philippine officials and affected groups continue debating its terms and consequences.
 
-![Semiconductor manufacturing equipment representing advanced chip production](https://viper.ph/api/media/articles/2026/11/pax-silica-philippines-issues-before-agreement/image-1.webp?v=202611231000)
+![Officials displaying signed Pax Silica cooperation documents beside national flags](https://viper.ph/api/media/articles/2026/11/pax-silica-philippines-issues-before-agreement/image-1.webp?v=202611231156)
 
 There was no signing during US President Donald Trump’s visit to Manila, according to statements cited by Inquirer. President Ferdinand Marcos Jr. and US Ambassador Lee Lipton both said the initiative was not part of the trip, while Trump referred questions to the ambassador. That distinction is important for readers following announcements about a proposed high-tech manufacturing and semiconductor hub in New Clark City. The Philippines remains involved in the wider initiative, but the diplomatic and domestic conditions needed for a formal agreement have not been completed.
 
-![Data center racks representing AI infrastructure requirements](https://viper.ph/api/media/articles/2026/11/pax-silica-philippines-issues-before-agreement/image-2.webp?v=202611231000)
+![Pax Silica branding displayed at a strategic technology event](https://viper.ph/api/media/articles/2026/11/pax-silica-philippines-issues-before-agreement/image-2.webp?v=202611231156)
 
 Pax Silica aims to strengthen supply chains for semiconductors, artificial intelligence infrastructure, critical minerals and other strategic technologies while reducing dependence on China. For the Philippines, the potential upside includes investment, technical work and a larger role in high-value manufacturing. The proposal also raises questions about electricity, land, logistics, environmental safeguards, labor and how benefits would reach local communities. Those questions are not side issues for a technology hub. They determine whether infrastructure can operate reliably and whether the country can capture lasting value instead of only hosting facilities.
 
-![Network hardware supporting digital infrastructure and supply chains](https://viper.ph/api/media/articles/2026/11/pax-silica-philippines-issues-before-agreement/image-3.webp?v=202611231000)
+![US Department of State fact sheet explaining the Pax Silica Initiative](https://viper.ph/api/media/articles/2026/11/pax-silica-philippines-issues-before-agreement/image-3.webp?v=202611231156)
 
 Inquirer reported that farmers, Indigenous communities, environmental groups and other sectors have criticized parts of the proposal, including its connection to the planned high-tech hub in Tarlac. Gatchalian said concerns involving Pax Silica and the Luzon Economic Corridor should be addressed before the Philippines moves forward. The practical next step is therefore clarification rather than construction: officials must explain the agreement, consult affected communities and set enforceable protections. Until that work is done, headlines should describe Pax Silica as a developing policy initiative, not a signed deal or confirmed data-center build.
 
