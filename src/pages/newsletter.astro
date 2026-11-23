@@ -1,0 +1,63 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+const title = 'The Viper Briefing | Viper.ph';
+const description = 'Clear reporting on the products, people, and ideas changing how we live—delivered straight to your inbox. Subscribe to daily Philippine tech updates and analysis without the noise.';
+const canonical = 'https://viper.ph/newsletter/';
+---
+
+<BaseLayout title={title} description={description} canonical={canonical} ogTitle={title} ogDescription={description}>
+  <div class="page-shell" id="top">
+    <Header />
+
+    <main class="newsletter-page">
+      <section class="form-page__intro section-frame" aria-labelledby="newsletter-title">
+        <div class="masthead__eyebrow"><span class="eyebrow__dot"></span> Viper.ph / Daily tech intelligence</div>
+        <h1 id="newsletter-title">The Viper <em>Briefing</em></h1>
+        <p>Clear reporting on the products, people, and ideas changing how we live—delivered straight to your inbox. Subscribe to get daily Philippine tech updates, industry insights, and analysis without the noise.</p>
+      </section>
+
+      <section class="newsletter-page__layout section-frame" aria-labelledby="newsletter-signup-title">
+        <div class="newsletter-page__signup">
+          <div class="section-kicker">
+            <h2 class="eyebrow" id="newsletter-signup-title">01 / Subscribe</h2>
+            <span>Daily delivery</span>
+          </div>
+          <div class="newsletter-page__embed-shell">
+            <div class="ml-embedded" data-form="2XfD94"></div>
+          </div>
+        </div>
+
+        <aside class="form-page__aside">
+          <span class="eyebrow">The signal, delivered</span>
+          <h2>Stay ahead of the signal.</h2>
+          <p>Start your day with the Philippine tech stories worth your attention—from companies and creators to the infrastructure shaping what comes next.</p>
+          <a class="form-page__email" href="mailto:hi@viper.ph">Questions? Contact us <span aria-hidden="true">↗</span></a>
+        </aside>
+      </section>
+    </main>
+
+    <Footer />
+  </div>
+</BaseLayout>
+
+<script>
+  const universalSrc = 'https://assets.mailerlite.com/js/universal.js';
+  const mlWindow = window as typeof window & { ml?: (command: string, ...args: unknown[]) => void };
+
+  const initializeMailerLite = () => {
+    mlWindow.ml?.('account', '2573123');
+  };
+
+  if (mlWindow.ml) {
+    initializeMailerLite();
+  } else {
+    const script = document.querySelector<HTMLScriptElement>(`script[src="${universalSrc}"]`);
+    script?.addEventListener('load', initializeMailerLite, { once: true });
+  }
+
+  window.setTimeout(initializeMailerLite, 500);
+  window.setTimeout(initializeMailerLite, 1500);
+</script>

@@ -67,6 +67,24 @@ const {
       gtag('config', 'G-P6SGPQW13P');
     </script>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1265884457462954" crossorigin="anonymous"></script>
+    <!-- MailerLite Universal -->
+    <script is:inline>
+      const existingMailerLite = Reflect.get(window, 'ml');
+      Reflect.set(window, 'ml', existingMailerLite || function () {
+        const queue = Reflect.get(window, 'ml');
+        const args = Array.from(arguments);
+        queue.q = queue.q || [];
+        queue.q.push(args);
+      });
+      const mailerliteScript = document.createElement('script');
+      mailerliteScript.async = true;
+      mailerliteScript.src = 'https://assets.mailerlite.com/js/universal.js';
+      const firstScript = document.getElementsByTagName('script')[0];
+      firstScript?.parentNode?.insertBefore(mailerliteScript, firstScript);
+      const mailerlite = Reflect.get(window, 'ml');
+      if (typeof mailerlite === 'function') mailerlite('account', '2573123');
+    </script>
+    <!-- End MailerLite Universal -->
     <title>{title}</title>
   </head>
   <body>

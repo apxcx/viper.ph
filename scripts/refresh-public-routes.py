@@ -34,6 +34,8 @@ for route in manifest['routes']:
     if path.strip('/') in slugs:
         continue
     base_routes.append(route)
+if not any(route['path'] == '/newsletter/' for route in base_routes):
+    base_routes.append({'path': '/newsletter/', 'title': 'The Viper Briefing | Viper.ph'})
 manifest['routes'] = base_routes
 for label, slug, matches in category_definitions:
     root = f'/category/{slug}/'
