@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-23/10:00",
+      "idempotency_key": "2026-11-23/10:00",
+      "day": "2026-11-23",
+      "slot": "10:00",
+      "slug": "pax-silica-philippines-issues-before-agreement",
+      "title": "US Seeks Pax Silica Fixes Before Deal",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "2b6258ba4de294b898dadeedac7ab49fdb66399a1edbc3ddcf99ef1aebe74a3d"
+    },
+    {
       "slot_key": "2026-11-23/08:00",
       "idempotency_key": "2026-11-23/08:00",
       "day": "2026-11-23",
@@ -4899,6 +4915,11 @@
   ],
   "days": {
     "2026-11-23": {
+      "2026-11-23/10:00": {
+        "slug": "pax-silica-philippines-issues-before-agreement",
+        "status": "published",
+        "managed": true
+      },
       "2026-11-23/08:00": {
         "slug": "dost-technology-el-nino-philippines",
         "status": "published",
