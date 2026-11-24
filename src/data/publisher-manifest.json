@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-24/10:00",
+      "idempotency_key": "2026-11-24/10:00",
+      "day": "2026-11-24",
+      "slot": "10:00",
+      "slug": "amazon-decart-ai",
+      "title": "Amazon to Buy Decart AI Optimization Tech",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "International Tech"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "c8b1f470ec8f29d213789240386b4f7a5d37c0c096503f6723b92a6f08db1ddf"
+    },
+    {
       "slot_key": "2026-11-24/08:00",
       "idempotency_key": "2026-11-24/08:00",
       "day": "2026-11-24",
@@ -4947,6 +4963,11 @@
   ],
   "days": {
     "2026-11-24": {
+      "2026-11-24/10:00": {
+        "slug": "amazon-decart-ai",
+        "status": "published",
+        "managed": true
+      },
       "2026-11-24/08:00": {
         "slug": "shirudo-linux-security",
         "status": "published",

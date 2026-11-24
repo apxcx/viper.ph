@@ -1,5 +1,32 @@
 [
   {
+    "slug": "amazon-decart-ai",
+    "title": "Amazon to Buy Decart AI Optimization Tech",
+    "date": "2026-11-24T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "International Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/amazon-decart-ai/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/amazon-decart-ai/image-1.webp?v=202611241000",
+      "articles/2026/11/amazon-decart-ai/image-2.webp?v=202611241000",
+      "articles/2026/11/amazon-decart-ai/image-3.webp?v=202611241000",
+      "articles/2026/11/amazon-decart-ai/image-4.webp?v=202611241000"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/amazon-decart-ai/featured.webp?v=202611241000",
+    "imageAlt": "Amazon data center visual representing the company’s investment in AI infrastructure and custom silicon",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/amazon-decart-ai/",
+    "description": "Amazon agreed to buy Decart’s AI optimization technology and hire its team, targeting faster, more efficient inference on custom silicon as demand grows.",
+    "bodySha256": "c8b1f470ec8f29d213789240386b4f7a5d37c0c096503f6723b92a6f08db1ddf",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
     "slug": "shirudo-linux-security",
     "title": "OpenAI, Cisco Debut Shirudo for Linux",
     "date": "2026-11-24T08:00:00+08:00",
