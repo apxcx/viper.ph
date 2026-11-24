@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-24/06:00",
+      "idempotency_key": "2026-11-24/06:00",
+      "day": "2026-11-24",
+      "slot": "06:00",
+      "slug": "globe-network-theft",
+      "title": "Globe Reports 96% Rise in Network Theft",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Telcos and Internet"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "3c9d9882671976725e07bccb8ebed75dcfcdc5e33a68cef7f6ce129e4db428b0"
+    },
+    {
       "slot_key": "2026-11-23/10:00",
       "idempotency_key": "2026-11-23/10:00",
       "day": "2026-11-23",
@@ -4914,6 +4930,13 @@
     }
   ],
   "days": {
+    "2026-11-24": {
+      "2026-11-24/06:00": {
+        "slug": "globe-network-theft",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-23": {
       "2026-11-23/10:00": {
         "slug": "pax-silica-philippines-issues-before-agreement",

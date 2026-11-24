@@ -1,5 +1,32 @@
 [
   {
+    "slug": "globe-network-theft",
+    "title": "Globe Reports 96% Rise in Network Theft",
+    "date": "2026-11-24T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "Telcos and Internet"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/globe-network-theft/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/globe-network-theft/image-1.webp?v=202611240600",
+      "articles/2026/11/globe-network-theft/image-2.webp?v=202611240600",
+      "articles/2026/11/globe-network-theft/image-3.webp?v=202611240600",
+      "articles/2026/11/globe-network-theft/image-4.webp?v=202611240600"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/globe-network-theft/featured.webp?v=202611240600",
+    "imageAlt": "Philippines connectivity map illustrating the network infrastructure affected by rising equipment theft",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/globe-network-theft/",
+    "description": "Globe says network-equipment theft in the Philippines rose 96% through October, putting service reliability and connectivity investments under pressure.",
+    "bodySha256": "3c9d9882671976725e07bccb8ebed75dcfcdc5e33a68cef7f6ce129e4db428b0",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "pax-silica-philippines-issues-before-agreement",
     "title": "US Seeks Pax Silica Fixes Before Deal",
     "date": "2026-11-23T10:00:00+08:00",
