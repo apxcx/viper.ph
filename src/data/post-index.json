@@ -1,5 +1,32 @@
 [
   {
+    "slug": "shirudo-linux-security",
+    "title": "OpenAI, Cisco Debut Shirudo for Linux",
+    "date": "2026-11-24T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "AI"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/shirudo-linux-security/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/shirudo-linux-security/image-1.webp?v=202611240800",
+      "articles/2026/11/shirudo-linux-security/image-2.webp?v=202611240800",
+      "articles/2026/11/shirudo-linux-security/image-3.webp?v=202611240800",
+      "articles/2026/11/shirudo-linux-security/image-4.webp?v=202611240800"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/shirudo-linux-security/featured.webp?v=202611240800",
+    "imageAlt": "OpenAI and Cisco Shirudo logos representing an open-source runtime for live Linux protection",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "sourceUrl": "https://viper.ph/shirudo-linux-security/",
+    "description": "OpenAI and Cisco launched Shirudo, an open-source Linux runtime that uses eBPF shields to protect live systems while permanent patches are prepared.",
+    "bodySha256": "91f1b5302415465dd7545f936ea8ed58cf12f2482c2cc1ea3cbe821cd4323932",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
     "slug": "globe-network-theft",
     "title": "Globe Reports 96% Rise in Network Theft",
     "date": "2026-11-24T06:00:00+08:00",

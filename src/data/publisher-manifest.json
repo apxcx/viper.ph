@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-24/08:00",
+      "idempotency_key": "2026-11-24/08:00",
+      "day": "2026-11-24",
+      "slot": "08:00",
+      "slug": "shirudo-linux-security",
+      "title": "OpenAI, Cisco Debut Shirudo for Linux",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "AI"
+      ],
+      "source_count": 2,
+      "body_image_count": 4,
+      "content_sha256": "91f1b5302415465dd7545f936ea8ed58cf12f2482c2cc1ea3cbe821cd4323932"
+    },
+    {
       "slot_key": "2026-11-24/06:00",
       "idempotency_key": "2026-11-24/06:00",
       "day": "2026-11-24",
@@ -4931,6 +4947,11 @@
   ],
   "days": {
     "2026-11-24": {
+      "2026-11-24/08:00": {
+        "slug": "shirudo-linux-security",
+        "status": "published",
+        "managed": true
+      },
       "2026-11-24/06:00": {
         "slug": "globe-network-theft",
         "status": "published",
