@@ -1,5 +1,86 @@
 [
   {
+    "slug": "ming-yang-wind-energy-hub-philippines",
+    "title": "Ming Yang Eyes Philippine Wind Service Hub",
+    "date": "2026-11-25T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "International Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/ming-yang-wind-energy-hub-philippines/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/ming-yang-wind-energy-hub-philippines/image-1.webp?v=202611250802",
+      "articles/2026/11/ming-yang-wind-energy-hub-philippines/image-2.webp?v=202611250802",
+      "articles/2026/11/ming-yang-wind-energy-hub-philippines/image-3.webp?v=202611250802",
+      "articles/2026/11/ming-yang-wind-energy-hub-philippines/image-4.webp?v=202611250802"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/ming-yang-wind-energy-hub-philippines/featured.webp?v=202611250802",
+    "imageAlt": "Offshore wind farm representing Ming Yang’s proposed Philippine service and maintenance hub",
+    "imageWidth": 1280,
+    "imageHeight": 720,
+    "sourceUrl": "https://viper.ph/ming-yang-wind-energy-hub-philippines/",
+    "description": "Ming Yang is discussing a Philippine wind service center to train local workers, support offshore projects, and strengthen renewable energy supply chains.",
+    "bodySha256": "7c7babf9abc470e6416b15c4dd233195a38c1750ceba30b6930ebfd90205f323",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
+    "slug": "smart-satellite-connectivity-philippines",
+    "title": "Smart Tests Satellite-to-Phone Sea Link",
+    "date": "2026-11-25T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "Telcos and Internet"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/smart-satellite-connectivity-philippines/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/smart-satellite-connectivity-philippines/image-1.webp?v=202611250802",
+      "articles/2026/11/smart-satellite-connectivity-philippines/image-2.webp?v=202611250802",
+      "articles/2026/11/smart-satellite-connectivity-philippines/image-3.webp?v=202611250802",
+      "articles/2026/11/smart-satellite-connectivity-philippines/image-4.webp?v=202611250802"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/smart-satellite-connectivity-philippines/featured.webp?v=202611250802",
+    "imageAlt": "Satellite communication dish representing Smart and Elveo Mobile’s direct-to-device sea trial",
+    "imageWidth": 800,
+    "imageHeight": 450,
+    "sourceUrl": "https://viper.ph/smart-satellite-connectivity-philippines/",
+    "description": "Smart and Elveo Mobile tested direct-to-device satellite connectivity between Batangas and Calapan using LTE phones for texts, alerts, and websites.",
+    "bodySha256": "44c8b7e084c212980bc05790dae12ad1089097bb36965134b2b8df957db41a0a",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
+    "slug": "ai-workforce-philippines",
+    "title": "DOLE Puts Workers at Center of AI Shift",
+    "date": "2026-11-25T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "PH Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/ai-workforce-philippines/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/ai-workforce-philippines/image-1.webp?v=202611250802",
+      "articles/2026/11/ai-workforce-philippines/image-2.webp?v=202611250802",
+      "articles/2026/11/ai-workforce-philippines/image-3.webp?v=202611250802",
+      "articles/2026/11/ai-workforce-philippines/image-4.webp?v=202611250802"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/ai-workforce-philippines/featured.webp?v=202611250802",
+    "imageAlt": "Philippine workers and AI robot representing DOLE’s future-ready workforce guidance",
+    "imageWidth": 1024,
+    "imageHeight": 576,
+    "sourceUrl": "https://viper.ph/ai-workforce-philippines/",
+    "description": "DOLE urges Philippine employers to prepare workers for AI through reskilling and workforce planning that protects dignity, rights, and job quality.",
+    "bodySha256": "bb6aeb529b515b999c08773b6c4f17c6fbee2ef897cc0e1656584b24903509b3",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "amazon-decart-ai",
     "title": "Amazon to Buy Decart AI Optimization Tech",
     "date": "2026-11-24T10:00:00+08:00",

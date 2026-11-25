@@ -8,6 +8,54 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-25/10:00",
+      "idempotency_key": "2026-11-25/10:00",
+      "day": "2026-11-25",
+      "slot": "10:00",
+      "slug": "ming-yang-wind-energy-hub-philippines",
+      "title": "Ming Yang Eyes Philippine Wind Service Hub",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "International Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "7c7babf9abc470e6416b15c4dd233195a38c1750ceba30b6930ebfd90205f323"
+    },
+    {
+      "slot_key": "2026-11-25/08:00",
+      "idempotency_key": "2026-11-25/08:00",
+      "day": "2026-11-25",
+      "slot": "08:00",
+      "slug": "smart-satellite-connectivity-philippines",
+      "title": "Smart Tests Satellite-to-Phone Sea Link",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Telcos and Internet"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "44c8b7e084c212980bc05790dae12ad1089097bb36965134b2b8df957db41a0a"
+    },
+    {
+      "slot_key": "2026-11-25/06:00",
+      "idempotency_key": "2026-11-25/06:00",
+      "day": "2026-11-25",
+      "slot": "06:00",
+      "slug": "ai-workforce-philippines",
+      "title": "DOLE Puts Workers at Center of AI Shift",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "bb6aeb529b515b999c08773b6c4f17c6fbee2ef897cc0e1656584b24903509b3"
+    },
+    {
       "slot_key": "2026-11-24/10:00",
       "idempotency_key": "2026-11-24/10:00",
       "day": "2026-11-24",
@@ -4962,6 +5010,23 @@
     }
   ],
   "days": {
+    "2026-11-25": {
+      "2026-11-25/10:00": {
+        "slug": "ming-yang-wind-energy-hub-philippines",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-25/08:00": {
+        "slug": "smart-satellite-connectivity-philippines",
+        "status": "published",
+        "managed": true
+      },
+      "2026-11-25/06:00": {
+        "slug": "ai-workforce-philippines",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-24": {
       "2026-11-24/10:00": {
         "slug": "amazon-decart-ai",
