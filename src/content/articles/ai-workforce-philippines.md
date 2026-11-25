@@ -12,14 +12,14 @@ seo_title: 'AI Workforce Philippines: DOLE Guidance | Viper'
 seo_description: 'DOLE urges Philippine employers to prepare workers for AI through reskilling and workforce planning that protects dignity, rights, and job quality.'
 canonical_url: https://viper.ph/ai-workforce-philippines/
 featured_image_key: articles/2026/11/ai-workforce-philippines/featured.webp
-featured_image_url: https://viper.ph/api/media/articles/2026/11/ai-workforce-philippines/featured.webp?v=202611250802
-featured_image_alt: Philippine workers and AI robot representing DOLE’s future-ready workforce guidance
-featured_image_license: Public domain
-featured_image_credit: Polimorph
-featured_image_source_url: https://commons.wikimedia.org/wiki/File:Humanoid_robot_and_woman_retrieve_infomation_-_includes_a_visible_typical_error_of_recent_AI_generated_pictures.png
+featured_image_url: https://viper.ph/api/media/articles/2026/11/ai-workforce-philippines/featured.webp?v=202611250843
+featured_image_alt: DOLE Secretary Francis N. Tolentino speaking about a future-ready Philippine workforce
+featured_image_license: User-provided permission
+featured_image_credit: User-supplied image
+featured_image_source_url: https://dole.gov.ph/news/tolentino-to-employers-put-workers-at-the-center-as-ai-reshapes-jobs/
 featured_image_rights_cleared: true
-featured_image_width: 1024
-featured_image_height: 576
+featured_image_width: 653
+featured_image_height: 367
 sources:
 - title: 'Tolentino to employers: Put workers at the center as AI reshapes jobs'
   url: https://dole.gov.ph/news/tolentino-to-employers-put-workers-at-the-center-as-ai-reshapes-jobs/
