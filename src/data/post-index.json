@@ -1,5 +1,32 @@
 [
   {
+    "slug": "philippines-telecom-ai-infrastructure",
+    "title": "PH Telecoms Need AI-Ready Infrastructure",
+    "date": "2026-11-26T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "PH Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/philippines-telecom-ai-infrastructure/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/philippines-telecom-ai-infrastructure/image-1.webp?v=202611260800",
+      "articles/2026/11/philippines-telecom-ai-infrastructure/image-2.webp?v=202611260800",
+      "articles/2026/11/philippines-telecom-ai-infrastructure/image-3.webp?v=202611260800",
+      "articles/2026/11/philippines-telecom-ai-infrastructure/image-4.webp?v=202611260800"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/philippines-telecom-ai-infrastructure/featured.webp?v=202611260800",
+    "imageAlt": "PH Telecoms Need AI-Ready Infrastructure",
+    "imageWidth": 1280,
+    "imageHeight": 720,
+    "sourceUrl": "https://viper.ph/philippines-telecom-ai-infrastructure/",
+    "description": "A new call for shared towers, fiber corridors, and public investment puts telecom infrastructure at the center of the Philippines AI growth plan.",
+    "bodySha256": "e358d8ed9cf78ea6fe9c46cd5fa8b430c190fd7aae9b3a6415752c17154c5118",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "ming-yang-wind-energy-hub-philippines",
     "title": "Ming Yang Eyes Philippine Wind Service Hub",
     "date": "2026-11-25T10:00:00+08:00",

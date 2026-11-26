@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-26/06:00",
+      "idempotency_key": "2026-11-26/06:00",
+      "day": "2026-11-26",
+      "slot": "06:00",
+      "slug": "philippines-telecom-ai-infrastructure",
+      "title": "PH Telecoms Need AI-Ready Infrastructure",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "e358d8ed9cf78ea6fe9c46cd5fa8b430c190fd7aae9b3a6415752c17154c5118"
+    },
+    {
       "slot_key": "2026-11-25/10:00",
       "idempotency_key": "2026-11-25/10:00",
       "day": "2026-11-25",
@@ -5010,6 +5026,13 @@
     }
   ],
   "days": {
+    "2026-11-26": {
+      "2026-11-26/06:00": {
+        "slug": "philippines-telecom-ai-infrastructure",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-25": {
       "2026-11-25/10:00": {
         "slug": "ming-yang-wind-energy-hub-philippines",
