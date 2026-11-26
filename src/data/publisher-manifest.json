@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-26/10:00",
+      "idempotency_key": "2026-11-26/10:00",
+      "day": "2026-11-26",
+      "slot": "10:00",
+      "slug": "gcash-gtourist-foreign-visitors-qr-payments",
+      "title": "GCash Opens Temporary Wallets for Tourists",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Fintech and Banking Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "102d965137c238556e0c842360477551ad8413d503ff79cd454e78882569b6d4"
+    },
+    {
       "slot_key": "2026-11-26/08:00",
       "idempotency_key": "2026-11-26/08:00",
       "day": "2026-11-26",
@@ -5043,6 +5059,11 @@
   ],
   "days": {
     "2026-11-26": {
+      "2026-11-26/10:00": {
+        "slug": "gcash-gtourist-foreign-visitors-qr-payments",
+        "status": "published",
+        "managed": true
+      },
       "2026-11-26/08:00": {
         "slug": "globe-ncs-enterprise-technology-venture",
         "status": "published",

@@ -1,5 +1,32 @@
 [
   {
+    "slug": "gcash-gtourist-foreign-visitors-qr-payments",
+    "title": "GCash Opens Temporary Wallets for Tourists",
+    "date": "2026-11-26T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "Fintech and Banking Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/gcash-gtourist-foreign-visitors-qr-payments/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/gcash-gtourist-foreign-visitors-qr-payments/image-1.webp?v=202611260800",
+      "articles/2026/11/gcash-gtourist-foreign-visitors-qr-payments/image-2.webp?v=202611260800",
+      "articles/2026/11/gcash-gtourist-foreign-visitors-qr-payments/image-3.webp?v=202611260800",
+      "articles/2026/11/gcash-gtourist-foreign-visitors-qr-payments/image-4.webp?v=202611260800"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/gcash-gtourist-foreign-visitors-qr-payments/featured.webp?v=202611260800",
+    "imageAlt": "GCash Opens Temporary Wallets for Tourists",
+    "imageWidth": 1280,
+    "imageHeight": 720,
+    "sourceUrl": "https://viper.ph/gcash-gtourist-foreign-visitors-qr-payments/",
+    "description": "GCash GTourist lets eligible foreign visitors open a temporary wallet, scan QR codes, and pay Philippine merchants for up to 30 days during trips.",
+    "bodySha256": "102d965137c238556e0c842360477551ad8413d503ff79cd454e78882569b6d4",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
     "slug": "globe-ncs-enterprise-technology-venture",
     "title": "Globe Expands Enterprise Tech With NCS",
     "date": "2026-11-26T08:00:00+08:00",
