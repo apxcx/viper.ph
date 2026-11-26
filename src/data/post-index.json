@@ -1,5 +1,32 @@
 [
   {
+    "slug": "globe-ncs-enterprise-technology-venture",
+    "title": "Globe Expands Enterprise Tech With NCS",
+    "date": "2026-11-26T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "Apps and Software"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/globe-ncs-enterprise-technology-venture/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/globe-ncs-enterprise-technology-venture/image-1.webp?v=202611260800",
+      "articles/2026/11/globe-ncs-enterprise-technology-venture/image-2.webp?v=202611260800",
+      "articles/2026/11/globe-ncs-enterprise-technology-venture/image-3.webp?v=202611260800",
+      "articles/2026/11/globe-ncs-enterprise-technology-venture/image-4.webp?v=202611260800"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/globe-ncs-enterprise-technology-venture/featured.webp?v=202611260800",
+    "imageAlt": "Globe Expands Enterprise Tech With NCS",
+    "imageWidth": 1280,
+    "imageHeight": 720,
+    "sourceUrl": "https://viper.ph/globe-ncs-enterprise-technology-venture/",
+    "description": "Globe’s NCS Philippines venture combines local market reach with enterprise cloud, AI, cybersecurity, and digital transformation services for enterprises.",
+    "bodySha256": "7b7627e43f654b61b1f2a036fcbec175e1823690e691cde8fa3b21c6b859d8c9",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
     "slug": "philippines-telecom-ai-infrastructure",
     "title": "PH Telecoms Need AI-Ready Infrastructure",
     "date": "2026-11-26T06:00:00+08:00",

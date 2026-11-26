@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-26/08:00",
+      "idempotency_key": "2026-11-26/08:00",
+      "day": "2026-11-26",
+      "slot": "08:00",
+      "slug": "globe-ncs-enterprise-technology-venture",
+      "title": "Globe Expands Enterprise Tech With NCS",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Apps and Software"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "7b7627e43f654b61b1f2a036fcbec175e1823690e691cde8fa3b21c6b859d8c9"
+    },
+    {
       "slot_key": "2026-11-26/06:00",
       "idempotency_key": "2026-11-26/06:00",
       "day": "2026-11-26",
@@ -5027,6 +5043,11 @@
   ],
   "days": {
     "2026-11-26": {
+      "2026-11-26/08:00": {
+        "slug": "globe-ncs-enterprise-technology-venture",
+        "status": "published",
+        "managed": true
+      },
       "2026-11-26/06:00": {
         "slug": "philippines-telecom-ai-infrastructure",
         "status": "published",
