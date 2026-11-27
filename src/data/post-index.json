@@ -1,5 +1,32 @@
 [
   {
+    "slug": "bizmoto-flashpay-qr-ph-payments",
+    "title": "Bizmoto, FlashPay Link QR Ph Payments",
+    "date": "2026-11-27T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "Fintech and Banking Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/bizmoto-flashpay-qr-ph-payments/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/bizmoto-flashpay-qr-ph-payments/image-1.webp?v=202611270805",
+      "articles/2026/11/bizmoto-flashpay-qr-ph-payments/image-2.webp?v=202611270805",
+      "articles/2026/11/bizmoto-flashpay-qr-ph-payments/image-3.webp?v=202611270805",
+      "articles/2026/11/bizmoto-flashpay-qr-ph-payments/image-4.webp?v=202611270805"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/bizmoto-flashpay-qr-ph-payments/featured.webp?v=202611270805",
+    "imageAlt": "Mobile wallets and QR codes for payments",
+    "imageWidth": 1280,
+    "imageHeight": 720,
+    "sourceUrl": "https://viper.ph/bizmoto-flashpay-qr-ph-payments/",
+    "description": "Peppermint Bizmoto and FlashPay are integrating QR Ph payments into logistics workflows to reduce cash-on-delivery friction for Philippine merchants.",
+    "bodySha256": "3149ba10b75f525d87c28b1f41df2b7a46ba0476d3f5231fbab87f3990508d1c",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
     "slug": "pldt-ai-in-30-hours-student-challenge",
     "title": "PLDT Runs 30-Hour AI Student Challenge",
     "date": "2026-11-27T08:00:00+08:00",

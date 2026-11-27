@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-27/10:00",
+      "idempotency_key": "2026-11-27/10:00",
+      "day": "2026-11-27",
+      "slot": "10:00",
+      "slug": "bizmoto-flashpay-qr-ph-payments",
+      "title": "Bizmoto, FlashPay Link QR Ph Payments",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Fintech and Banking Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "3149ba10b75f525d87c28b1f41df2b7a46ba0476d3f5231fbab87f3990508d1c"
+    },
+    {
       "slot_key": "2026-11-27/08:00",
       "idempotency_key": "2026-11-27/08:00",
       "day": "2026-11-27",
@@ -5091,6 +5107,11 @@
   ],
   "days": {
     "2026-11-27": {
+      "2026-11-27/10:00": {
+        "slug": "bizmoto-flashpay-qr-ph-payments",
+        "status": "published",
+        "managed": true
+      },
       "2026-11-27/08:00": {
         "slug": "pldt-ai-in-30-hours-student-challenge",
         "status": "published",
