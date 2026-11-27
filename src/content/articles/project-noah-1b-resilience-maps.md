@@ -12,11 +12,11 @@ seo_title: 'Project NOAH Resilience Maps | Viper'
 seo_description: 'The House says ₱1 billion for Project NOAH will support science-based hazard maps and disaster resilience work for Philippine communities nationwide.'
 canonical_url: https://viper.ph/project-noah-1b-resilience-maps/
 featured_image_key: articles/2026/11/project-noah-1b-resilience-maps/featured.webp
-featured_image_url: https://viper.ph/api/media/articles/2026/11/project-noah-1b-resilience-maps/featured.webp?v=202611270805
-featured_image_alt: DOST Project NOAH resilience workshop
-featured_image_license: CC BY-SA 4.0
-featured_image_credit: Ervin Malicdem
-featured_image_source_url: https://commons.wikimedia.org/wiki/File:DOST_NOAH_ISAIAH_Workshops.jpg
+featured_image_url: https://viper.ph/api/media/articles/2026/11/project-noah-1b-resilience-maps/featured.webp?v=202611270834
+featured_image_alt: Project NOAH hazard map interface over the Philippines
+featured_image_license: User-provided image; permission granted by requester
+featured_image_credit: Provided by Viper.ph editorial workflow
+featured_image_source_url: https://viper.ph/project-noah-1b-resilience-maps/
 featured_image_rights_cleared: true
 featured_image_width: 1280
 featured_image_height: 720
