@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-28/06:00",
+      "idempotency_key": "2026-11-28/06:00",
+      "day": "2026-11-28",
+      "slot": "06:00",
+      "slug": "smart-national-id-speeds-sim-registration",
+      "title": "Smart National ID Speeds SIM Registration",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Telcos and Internet"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "5c0522c156714cb5f458dfb13b4548f88b1c126fb5f98ecd088193c97d74e1af"
+    },
+    {
       "slot_key": "2026-11-27/10:00",
       "idempotency_key": "2026-11-27/10:00",
       "day": "2026-11-27",
@@ -5106,6 +5122,13 @@
     }
   ],
   "days": {
+    "2026-11-28": {
+      "2026-11-28/06:00": {
+        "slug": "smart-national-id-speeds-sim-registration",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-27": {
       "2026-11-27/10:00": {
         "slug": "bizmoto-flashpay-qr-ph-payments",

@@ -1,5 +1,32 @@
 [
   {
+    "slug": "smart-national-id-speeds-sim-registration",
+    "title": "Smart National ID Speeds SIM Registration",
+    "date": "2026-11-28T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "Telcos and Internet"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/smart-national-id-speeds-sim-registration/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/smart-national-id-speeds-sim-registration/image-1.webp?v=202611280705",
+      "articles/2026/11/smart-national-id-speeds-sim-registration/image-2.webp?v=202611280705",
+      "articles/2026/11/smart-national-id-speeds-sim-registration/image-3.webp?v=202611280705",
+      "articles/2026/11/smart-national-id-speeds-sim-registration/image-4.webp?v=202611280705"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/smart-national-id-speeds-sim-registration/featured.webp?v=202611280705",
+    "imageAlt": "Sample Philippine National ID card used for identity verification",
+    "imageWidth": 1280,
+    "imageHeight": 720,
+    "sourceUrl": "https://viper.ph/smart-national-id-speeds-sim-registration/",
+    "description": "Smart is the first Philippine telco to connect PSA National ID eVerify to SIM registration, cutting Smart Prepaid and TNT onboarding to under one minute.",
+    "bodySha256": "5c0522c156714cb5f458dfb13b4548f88b1c126fb5f98ecd088193c97d74e1af",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "bizmoto-flashpay-qr-ph-payments",
     "title": "Bizmoto, FlashPay Link QR Ph Payments",
     "date": "2026-11-27T10:00:00+08:00",
