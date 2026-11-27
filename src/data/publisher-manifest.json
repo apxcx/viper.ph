@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-27/06:00",
+      "idempotency_key": "2026-11-27/06:00",
+      "day": "2026-11-27",
+      "slot": "06:00",
+      "slug": "project-noah-1b-resilience-maps",
+      "title": "House Backs ₱1B Project NOAH Maps",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 5,
+      "content_sha256": "7164a12d9e5185f8e70783895b79f0c24658b40f3bfc018c6b2a3828b1eb4bdd"
+    },
+    {
       "slot_key": "2026-11-26/10:00",
       "idempotency_key": "2026-11-26/10:00",
       "day": "2026-11-26",
@@ -5058,6 +5074,13 @@
     }
   ],
   "days": {
+    "2026-11-27": {
+      "2026-11-27/06:00": {
+        "slug": "project-noah-1b-resilience-maps",
+        "status": "published",
+        "managed": true
+      }
+    },
     "2026-11-26": {
       "2026-11-26/10:00": {
         "slug": "gcash-gtourist-foreign-visitors-qr-payments",

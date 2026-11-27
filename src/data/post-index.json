@@ -1,5 +1,33 @@
 [
   {
+    "slug": "project-noah-1b-resilience-maps",
+    "title": "House Backs ₱1B Project NOAH Maps",
+    "date": "2026-11-27T06:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "PH Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/project-noah-1b-resilience-maps/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/project-noah-1b-resilience-maps/image-1.webp?v=202611270805",
+      "articles/2026/11/project-noah-1b-resilience-maps/image-2.webp?v=202611270805",
+      "articles/2026/11/project-noah-1b-resilience-maps/image-3.webp?v=202611270805",
+      "articles/2026/11/project-noah-1b-resilience-maps/image-4.webp?v=202611270805",
+      "articles/2026/11/project-noah-1b-resilience-maps/image-5.webp?v=202611270805"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/project-noah-1b-resilience-maps/featured.webp?v=202611270805",
+    "imageAlt": "DOST Project NOAH resilience workshop",
+    "imageWidth": 1280,
+    "imageHeight": 720,
+    "sourceUrl": "https://viper.ph/project-noah-1b-resilience-maps/",
+    "description": "The House says ₱1 billion for Project NOAH will support science-based hazard maps and disaster resilience work for Philippine communities.",
+    "bodySha256": "7164a12d9e5185f8e70783895b79f0c24658b40f3bfc018c6b2a3828b1eb4bdd",
+    "publisherStatus": "published",
+    "publicationSlot": "06:00"
+  },
+  {
     "slug": "gcash-gtourist-foreign-visitors-qr-payments",
     "title": "GCash Opens Temporary Wallets for Tourists",
     "date": "2026-11-26T10:00:00+08:00",
