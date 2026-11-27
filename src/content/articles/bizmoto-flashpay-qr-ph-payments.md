@@ -12,11 +12,11 @@ seo_title: 'Bizmoto FlashPay QR Ph | Viper'
 seo_description: 'Peppermint Bizmoto and FlashPay are integrating QR Ph payments into logistics workflows to reduce cash-on-delivery friction for Philippine merchants.'
 canonical_url: https://viper.ph/bizmoto-flashpay-qr-ph-payments/
 featured_image_key: articles/2026/11/bizmoto-flashpay-qr-ph-payments/featured.webp
-featured_image_url: https://viper.ph/api/media/articles/2026/11/bizmoto-flashpay-qr-ph-payments/featured.webp?v=202611270805
-featured_image_alt: Mobile wallets and QR codes for payments
-featured_image_license: CC BY-SA 2.0
-featured_image_credit: Harald Groven
-featured_image_source_url: https://commons.wikimedia.org/wiki/File:QR_codes_for_mobile_pay_in_China.jpg
+featured_image_url: https://viper.ph/api/media/articles/2026/11/bizmoto-flashpay-qr-ph-payments/featured.webp?v=202611270830
+featured_image_alt: Bizmoto FlashPay QR Ph partnership signing
+featured_image_license: User-provided image; permission granted by requester
+featured_image_credit: Provided by Viper.ph editorial workflow
+featured_image_source_url: https://viper.ph/bizmoto-flashpay-qr-ph-payments/
 featured_image_rights_cleared: true
 featured_image_width: 1280
 featured_image_height: 720
@@ -25,27 +25,27 @@ sources:
   url: https://business.inquirer.net/622957/peppermint-bizmoto-flashpay-sign-deal-for-interoperable-qr
   publisher: Inquirer.net
 images:
-- url: https://viper.ph/api/media/articles/2026/11/bizmoto-flashpay-qr-ph-payments/image-1.webp?v=202611270805
-  alt: Mobile wallets and QR codes for payments
-  source_url: https://commons.wikimedia.org/wiki/File:QR_codes_for_mobile_pay_in_China.jpg
-  credit: Harald Groven
-  license: CC BY-SA 2.0
+- url: https://viper.ph/api/media/articles/2026/11/bizmoto-flashpay-qr-ph-payments/image-1.webp?v=202611270830
+  alt: QR Ph national code standard for digital payments
+  source_url: https://viper.ph/bizmoto-flashpay-qr-ph-payments/
+  credit: Provided by Viper.ph editorial workflow
+  license: User-provided image; permission granted by requester
   rights_cleared: true
   width: 1280
   height: 720
-- url: https://viper.ph/api/media/articles/2026/11/bizmoto-flashpay-qr-ph-payments/image-2.webp?v=202611270805
-  alt: QR payment display at a retail store
-  source_url: https://commons.wikimedia.org/wiki/File:E-CNY_Payment_QR_Code_at_C-Store_Fangzhong_Street.jpg
-  credit: Shwangtianyuan
-  license: CC BY-SA 4.0
+- url: https://viper.ph/api/media/articles/2026/11/bizmoto-flashpay-qr-ph-payments/image-2.webp?v=202611270830
+  alt: QR Ph interoperable payment and merchant standard
+  source_url: https://viper.ph/bizmoto-flashpay-qr-ph-payments/
+  credit: Provided by Viper.ph editorial workflow
+  license: User-provided image; permission granted by requester
   rights_cleared: true
   width: 1280
   height: 720
-- url: https://viper.ph/api/media/articles/2026/11/bizmoto-flashpay-qr-ph-payments/image-3.webp?v=202611270805
-  alt: An agent supporting cashless mobile payments
-  source_url: https://commons.wikimedia.org/wiki/File:M-Pesa_Agent_in_Tanzania_-_from_Flickr_3490240213.jpg
-  credit: Emil Sjöblom
-  license: CC BY-SA 2.0
+- url: https://viper.ph/api/media/articles/2026/11/bizmoto-flashpay-qr-ph-payments/image-3.webp?v=202611270830
+  alt: Bizmoto FlashPay partnership signing ceremony
+  source_url: https://viper.ph/bizmoto-flashpay-qr-ph-payments/
+  credit: Provided by Viper.ph editorial workflow
+  license: User-provided image; permission granted by requester
   rights_cleared: true
   width: 1280
   height: 720
@@ -61,15 +61,15 @@ images:
 
 Peppermint Bizmoto and FlashPay have signed an agreement to connect QR Ph-compliant person-to-merchant settlement with FlashPay’s payment-collection platform. The arrangement targets a practical problem in logistics: how customers pay delivery invoices and how operators track those payments without relying on cash alone. Peppermint Bizmoto operates as a Bangko Sentral ng Pilipinas-licensed electronic money issuer, while FlashPay is the financial-technology arm of Flash Group. Their integration places a regulated payment rail inside an existing business workflow and gives delivery-related transactions a clearer digital trail from collection to settlement.
 
-![Mobile wallets and QR codes for payments](https://viper.ph/api/media/articles/2026/11/bizmoto-flashpay-qr-ph-payments/image-1.webp?v=202611270805)
+![QR Ph national code standard for digital payments](https://viper.ph/api/media/articles/2026/11/bizmoto-flashpay-qr-ph-payments/image-1.webp?v=202611270830)
 
 The planned model is intended for participating businesses within the Flash Group, including delivery operations associated with Flash Express. A customer could settle an invoice by scanning a standardized QR Ph code rather than handing over cash at the point of delivery. That does not eliminate every operational or fraud risk. It can, however, reduce the amount of cash couriers handle and create a more consistent digital record for merchants, customers, and the companies responsible for reconciliation. The user experience will depend on clear payment confirmation and dependable connectivity.
 
-![QR payment display at a retail store](https://viper.ph/api/media/articles/2026/11/bizmoto-flashpay-qr-ph-payments/image-2.webp?v=202611270805)
+![QR Ph interoperable payment and merchant standard](https://viper.ph/api/media/articles/2026/11/bizmoto-flashpay-qr-ph-payments/image-2.webp?v=202611270830)
 
 The agreement fits the BSP’s broader push for interoperable digital payments. QR Ph gives participating institutions a common framework for account-to-merchant transactions, while the underlying payment providers remain responsible for compliance, security, settlement, and customer support. For a logistics platform, the value is not simply that a QR code replaces a cash handoff. The more important change is that payment collection can become part of a connected system linking delivery data, merchant records, transaction status, and accounting workflows. That connection can make exceptions easier to identify and resolve.
 
-![An agent supporting cashless mobile payments](https://viper.ph/api/media/articles/2026/11/bizmoto-flashpay-qr-ph-payments/image-3.webp?v=202611270805)
+![Bizmoto FlashPay partnership signing ceremony](https://viper.ph/api/media/articles/2026/11/bizmoto-flashpay-qr-ph-payments/image-3.webp?v=202611270830)
 
 The rollout will determine whether the partnership produces a visible improvement for users. Customers need clear instructions and reliable confirmation that a payment has been credited to the right delivery. Merchants need transparent settlement and dispute processes. FlashPay and Bizmoto will also need to manage adoption across varied businesses and locations. If those pieces work, QR Ph could help move more Philippine logistics transactions away from cash-on-delivery while giving smaller merchants access to a payment method that can interoperate across participating wallets and banks. That would make digital collection more useful beyond major retail chains.
 
