@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-28/08:00",
+      "idempotency_key": "2026-11-28/08:00",
+      "day": "2026-11-28",
+      "slot": "08:00",
+      "slug": "deped-laptops-reach-iloilo-teachers",
+      "title": "DepEd Laptops Reach Iloilo Teachers",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "PH Tech"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "23c42b94c94859285a409ae582bfe0dfd203d0ea5b038dfc1c48d1c0bbb13652"
+    },
+    {
       "slot_key": "2026-11-28/06:00",
       "idempotency_key": "2026-11-28/06:00",
       "day": "2026-11-28",
@@ -5123,6 +5139,11 @@
   ],
   "days": {
     "2026-11-28": {
+      "2026-11-28/08:00": {
+        "slug": "deped-laptops-reach-iloilo-teachers",
+        "status": "published",
+        "managed": true
+      },
       "2026-11-28/06:00": {
         "slug": "smart-national-id-speeds-sim-registration",
         "status": "published",

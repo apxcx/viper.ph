@@ -1,5 +1,32 @@
 [
   {
+    "slug": "deped-laptops-reach-iloilo-teachers",
+    "title": "DepEd Laptops Reach Iloilo Teachers",
+    "date": "2026-11-28T08:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "PH Tech"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/deped-laptops-reach-iloilo-teachers/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/deped-laptops-reach-iloilo-teachers/image-1.webp?v=202611281034",
+      "articles/2026/11/deped-laptops-reach-iloilo-teachers/image-2.webp?v=202611281034",
+      "articles/2026/11/deped-laptops-reach-iloilo-teachers/image-3.webp?v=202611281034",
+      "articles/2026/11/deped-laptops-reach-iloilo-teachers/image-4.webp?v=202611281034"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/deped-laptops-reach-iloilo-teachers/featured.webp?v=202611281034",
+    "imageAlt": "Students using a laptop in a classroom setting",
+    "imageWidth": 1280,
+    "imageHeight": 720,
+    "sourceUrl": "https://viper.ph/deped-laptops-reach-iloilo-teachers/",
+    "description": "DepEd has started turning over MacBook Neo laptops to Philippine public-school educators, with 231,725 teacher units procured and GuroXL training included.",
+    "bodySha256": "23c42b94c94859285a409ae582bfe0dfd203d0ea5b038dfc1c48d1c0bbb13652",
+    "publisherStatus": "published",
+    "publicationSlot": "08:00"
+  },
+  {
     "slug": "smart-national-id-speeds-sim-registration",
     "title": "Smart National ID Speeds SIM Registration",
     "date": "2026-11-28T06:00:00+08:00",
