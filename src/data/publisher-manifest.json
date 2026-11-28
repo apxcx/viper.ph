@@ -8,6 +8,22 @@
   ],
   "entries": [
     {
+      "slot_key": "2026-11-28/10:00",
+      "idempotency_key": "2026-11-28/10:00",
+      "day": "2026-11-28",
+      "slot": "10:00",
+      "slug": "dost-smart-response-electric-road-train",
+      "title": "DOST Links Smart Response, Electric Road Train",
+      "status": "published",
+      "managed": true,
+      "categories": [
+        "Electric Vehicles"
+      ],
+      "source_count": 1,
+      "body_image_count": 4,
+      "content_sha256": "197574a8ad6ea439e29355665e48fd82f58dcb1e366430b23c52c825c575e3ce"
+    },
+    {
       "slot_key": "2026-11-28/08:00",
       "idempotency_key": "2026-11-28/08:00",
       "day": "2026-11-28",
@@ -5139,6 +5155,11 @@
   ],
   "days": {
     "2026-11-28": {
+      "2026-11-28/10:00": {
+        "slug": "dost-smart-response-electric-road-train",
+        "status": "published",
+        "managed": true
+      },
       "2026-11-28/08:00": {
         "slug": "deped-laptops-reach-iloilo-teachers",
         "status": "published",

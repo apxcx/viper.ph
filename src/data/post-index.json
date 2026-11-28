@@ -1,5 +1,32 @@
 [
   {
+    "slug": "dost-smart-response-electric-road-train",
+    "title": "DOST Links Smart Response, Electric Road Train",
+    "date": "2026-11-28T10:00:00+08:00",
+    "modified": null,
+    "author": "Viper Editorial Team",
+    "categories": [
+      "Electric Vehicles"
+    ],
+    "tags": [],
+    "imageKey": "articles/2026/11/dost-smart-response-electric-road-train/featured.webp",
+    "imageKeys": [
+      "articles/2026/11/dost-smart-response-electric-road-train/image-1.webp?v=202611281036",
+      "articles/2026/11/dost-smart-response-electric-road-train/image-2.webp?v=202611281036",
+      "articles/2026/11/dost-smart-response-electric-road-train/image-3.webp?v=202611281036",
+      "articles/2026/11/dost-smart-response-electric-road-train/image-4.webp?v=202611281036"
+    ],
+    "image": "https://viper.ph/api/media/articles/2026/11/dost-smart-response-electric-road-train/featured.webp?v=202611281036",
+    "imageAlt": "DOST Hybrid Electric Road Train in the Philippines",
+    "imageWidth": 1280,
+    "imageHeight": 720,
+    "sourceUrl": "https://viper.ph/dost-smart-response-electric-road-train/",
+    "description": "DOST launched SMART-ER Cotabato and an upgraded Hybrid Electric Road Train, linking emergency response technology with cleaner mobility in Mindanao.",
+    "bodySha256": "197574a8ad6ea439e29355665e48fd82f58dcb1e366430b23c52c825c575e3ce",
+    "publisherStatus": "published",
+    "publicationSlot": "10:00"
+  },
+  {
     "slug": "deped-laptops-reach-iloilo-teachers",
     "title": "DepEd Laptops Reach Iloilo Teachers",
     "date": "2026-11-28T08:00:00+08:00",
