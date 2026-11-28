@@ -25,27 +25,27 @@ sources:
   url: https://pcieerd.dost.gov.ph/st-updates/dost-rolls-out-smart-emergency-platform-upgraded-electric-road-train-to-soccsksargen-during-the-2026-nstw/
   publisher: DOST-PCIEERD
 images:
-- url: https://viper.ph/api/media/articles/2026/11/dost-smart-response-electric-road-train/image-1.webp?v=202611281036
-  alt: DOST Project NOAH resilience mapping workshop
-  source_url: https://commons.wikimedia.org/wiki/File:DOST_NOAH_ISAIAH_Workshops.jpg
-  credit: Ervin Malicdem
-  license: CC BY-SA 4.0
+- url: https://viper.ph/api/media/articles/2026/11/dost-smart-response-electric-road-train/image-1.webp?v=202611281127
+  alt: Hybrid Electric Road Train traveling on a tree-lined road
+  source_url: https://pcieerd.dost.gov.ph/st-updates/dost-rolls-out-smart-emergency-platform-upgraded-electric-road-train-to-soccsksargen-during-the-2026-nstw/
+  credit: Supplied by Viper.ph editorial workflow
+  license: User-provided image; permission granted by requester
   rights_cleared: true
   width: 1280
   height: 720
-- url: https://viper.ph/api/media/articles/2026/11/dost-smart-response-electric-road-train/image-2.webp?v=202611281036
-  alt: Philippine disaster risk reduction workshop
-  source_url: https://commons.wikimedia.org/wiki/File:Disaster_Risk_Reduction,_Philippines_(10692761675).jpg
-  credit: Department of Foreign Affairs and Trade / Horacio Marcos C. Mordeno
-  license: CC BY 2.0
+- url: https://viper.ph/api/media/articles/2026/11/dost-smart-response-electric-road-train/image-2.webp?v=202611281127
+  alt: Hybrid Electric Road Train displayed at a DOST facility
+  source_url: https://pcieerd.dost.gov.ph/st-updates/dost-rolls-out-smart-emergency-platform-upgraded-electric-road-train-to-soccsksargen-during-the-2026-nstw/
+  credit: Supplied by Viper.ph editorial workflow
+  license: User-provided image; permission granted by requester
   rights_cleared: true
   width: 1280
   height: 720
-- url: https://viper.ph/api/media/articles/2026/11/dost-smart-response-electric-road-train/image-3.webp?v=202611281036
-  alt: DOST Project NOAH identity mark
-  source_url: https://commons.wikimedia.org/wiki/File:Logo_of_DOST_Project_NOAH.png
-  credit: Philippine government work
-  license: Public domain
+- url: https://viper.ph/api/media/articles/2026/11/dost-smart-response-electric-road-train/image-3.webp?v=202611281127
+  alt: Hybrid Electric Road Train on a city road
+  source_url: https://pcieerd.dost.gov.ph/st-updates/dost-rolls-out-smart-emergency-platform-upgraded-electric-road-train-to-soccsksargen-during-the-2026-nstw/
+  credit: Supplied by Viper.ph editorial workflow
+  license: User-provided image; permission granted by requester
   rights_cleared: true
   width: 1280
   height: 720
@@ -61,15 +61,15 @@ images:
 
 The Department of Science and Technology has launched SMART-ER Cotabato and turned over an upgraded Hybrid Electric Road Train in Kidapawan City, bringing two technology projects to SOCCSKSARGEN during the 2026 National Science, Technology, and Innovation Week. SMART-ER is designed to give communities a digital channel for emergency reporting, SOS requests, alerts, incident updates, and maps of critical facilities. The road train, meanwhile, is a locally developed transport platform receiving a battery and control-system upgrade. Together, the projects show how public technology spending can link civic resilience with cleaner mobility.
 
-![DOST Project NOAH resilience mapping workshop](https://viper.ph/api/media/articles/2026/11/dost-smart-response-electric-road-train/image-1.webp?v=202611281036)
+![Hybrid Electric Road Train traveling on a tree-lined road](https://viper.ph/api/media/articles/2026/11/dost-smart-response-electric-road-train/image-1.webp?v=202611281127)
 
 SMART-ER Cotabato is the provincial rollout of the wider SMART-ER SOCCSKSARGEN project led by DOST Region XII. It uses the LUNGSOD smart-city platform developed by the University of the Philippines Technology and Center for Advanced Government, or UP TCAGP. The platform is intended to help citizens report incidents, access emergency channels, receive alerts, and locate important services. DOST says the Cotabato implementation is supported by P16 million in Grants-in-Aid funding with DOST-PCIEERD backing. Its value will depend on agencies keeping information current and responding when reports arrive.
 
-![Philippine disaster risk reduction workshop](https://viper.ph/api/media/articles/2026/11/dost-smart-response-electric-road-train/image-2.webp?v=202611281036)
+![Hybrid Electric Road Train displayed at a DOST facility](https://viper.ph/api/media/articles/2026/11/dost-smart-response-electric-road-train/image-2.webp?v=202611281127)
 
 DOST also described the next phase of the Hybrid Electric Road Train, or HERT, which replaces its earlier lead-acid battery setup with lithium-ion batteries and a new battery-management system. The upgrade is supported by P15 million and involves DOST-MIRDC, DOST Region XII, Cotabato, CHRG Electric Vehicle Technologies, and Kidapawan City. Lithium-ion storage and improved monitoring can support more predictable operation, but a public transport prototype still needs dependable charging, maintenance, route planning, and safety procedures before its benefits can be measured in daily service.
 
-![DOST Project NOAH identity mark](https://viper.ph/api/media/articles/2026/11/dost-smart-response-electric-road-train/image-3.webp?v=202611281036)
+![Hybrid Electric Road Train on a city road](https://viper.ph/api/media/articles/2026/11/dost-smart-response-electric-road-train/image-3.webp?v=202611281127)
 
 The two handovers share a practical test: whether technology remains useful after a launch event. An emergency platform needs trained responders, accurate maps, accessible reporting channels, and clear escalation procedures. An electric road train needs operators, technicians, charging plans, and a service model that matches local demand. DOST’s regional approach places those questions close to the communities that will use the systems. For Cotabato and neighboring areas, the projects will matter most if they turn public research and engineering into tools that work reliably during emergencies and ordinary travel alike.
 
